@@ -1,0 +1,19 @@
+{
+  "slug": "celiac-disease",
+  "title": "Celiac Disease",
+  "shortTitle": "Celiac",
+  "subtitle": "Understanding celiac disease and the gluten-free diet",
+  "icon": "\ud83c\udf3e",
+  "color": "amber",
+  "description": "Clear, evidence-based information about celiac disease \u2014 the gluten-free diet, hidden sources of gluten, nutritional monitoring, and family screening. Created by a Canadian gastroenterologist.",
+  "category": "lower-gi",
+  "prevalence": "Common",
+  "lastReviewed": "2026-03-29",
+  "guidelines": [
+    { "society": "CAG", "title": "Canadian Association of Gastroenterology Celiac Disease Position Statement", "year": 2023 },
+    { "society": "ACG", "title": "American College of Gastroenterology Celiac Disease Guideline", "year": 2023 },
+    { "society": "CCA", "title": "Canadian Celiac Association \u2014 Patient Resources", "year": 2024 },
+    { "society": "Health Canada", "title": "Health Canada Gluten-Free Labelling Regulations", "year": 2023 }
+  ],
+  "enabled": true
+}

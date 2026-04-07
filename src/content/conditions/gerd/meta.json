@@ -1,0 +1,18 @@
+{
+  "slug": "gerd",
+  "title": "GERD / Acid Reflux",
+  "shortTitle": "GERD",
+  "subtitle": "Understanding and managing gastroesophageal reflux disease",
+  "icon": "\ud83d\udd25",
+  "color": "orange",
+  "description": "Clear, evidence-based information about GERD (acid reflux) \u2014 symptoms, lifestyle changes, medications, and when to seek further testing. Created by a Canadian gastroenterologist.",
+  "category": "upper-gi",
+  "prevalence": "Very Common",
+  "lastReviewed": "2026-03-29",
+  "guidelines": [
+    { "society": "CAG", "title": "Canadian Association of Gastroenterology GERD Consensus", "year": 2024 },
+    { "society": "ACG", "title": "American College of Gastroenterology GERD Guideline", "year": 2022 },
+    { "society": "AGA", "title": "AGA Clinical Practice Update on PPI De-prescribing", "year": 2024 }
+  ],
+  "enabled": true
+}

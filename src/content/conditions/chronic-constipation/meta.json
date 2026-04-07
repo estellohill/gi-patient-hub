@@ -1,0 +1,18 @@
+{
+  "slug": "chronic-constipation",
+  "title": "Chronic Constipation",
+  "shortTitle": "Constipation",
+  "subtitle": "Understanding and managing chronic constipation",
+  "icon": "🧱",
+  "color": "amber",
+  "description": "Clear, evidence-based information about chronic constipation — causes, lifestyle changes, medications, and when to seek further testing. Created by a Canadian gastroenterologist.",
+  "category": "lower-gi",
+  "prevalence": "Very Common",
+  "lastReviewed": "2026-03-29",
+  "guidelines": [
+    { "society": "ACG/CGA", "title": "ACG/CGA Clinical Guideline: Management of Chronic Constipation", "year": 2021 },
+    { "society": "AGA", "title": "AGA Technical Review on Constipation", "year": 2013 },
+    { "society": "Rome Foundation", "title": "Rome IV Diagnostic Criteria for Functional Constipation", "year": 2016 }
+  ],
+  "enabled": true
+}

@@ -1,26 +1,83 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@theme {
+  /* Brand: Primary — Deep Trust Blue (CRC awareness blue) */
+  --color-brand-50: #eff6ff;
+  --color-brand-100: #dbeafe;
+  --color-brand-200: #bfdbfe;
+  --color-brand-300: #93c5fd;
+  --color-brand-400: #63b3ed;
+  --color-brand-500: #3b82f6;
+  --color-brand-600: #2b6cb0;
+  --color-brand-700: #1e4e8c;
+  --color-brand-800: #1a3a6e;
+  --color-brand-900: #1e3a5f;
+
+  /* Secondary — Calming Teal */
+  --color-teal-50: #f0fdfa;
+  --color-teal-100: #ccfbf1;
+  --color-teal-200: #99f6e4;
+  --color-teal-300: #5eead4;
+  --color-teal-400: #2dd4bf;
+  --color-teal-500: #38b2ac;
+  --color-teal-600: #2c9f99;
+  --color-teal-700: #0f766e;
+  --color-teal-800: #115e59;
+  --color-teal-900: #134e4a;
+
+  /* Functional — Success (allowed/confirmed) */
+  --color-success-50: #f0fff4;
+  --color-success-100: #c6f6d5;
+  --color-success-200: #9ae6b4;
+  --color-success-400: #68d391;
+  --color-success-500: #48bb78;
+  --color-success-600: #38a169;
+  --color-success-700: #2f855a;
+
+  /* Functional — Warning (attention/amber) */
+  --color-warning-50: #fffbeb;
+  --color-warning-100: #fef3c7;
+  --color-warning-200: #fde68a;
+  --color-warning-400: #f6ad55;
+  --color-warning-500: #ed8936;
+  --color-warning-600: #dd6b20;
+  --color-warning-700: #c05621;
+
+  /* Functional — Restriction (avoid/red) */
+  --color-restrict-50: #fff5f5;
+  --color-restrict-100: #fed7d7;
+  --color-restrict-200: #feb2b2;
+  --color-restrict-400: #fc8181;
+  --color-restrict-500: #e53e3e;
+  --color-restrict-600: #c53030;
+
+  /* Neutral — Soft Charcoal (not harsh black) */
+  --color-neutral-50: #f7fafc;
+  --color-neutral-100: #edf2f7;
+  --color-neutral-200: #e2e8f0;
+  --color-neutral-300: #cbd5e0;
+  --color-neutral-400: #a0aec0;
+  --color-neutral-500: #718096;
+  --color-neutral-600: #4a5568;
+  --color-neutral-700: #2d3748;
+  --color-neutral-800: #1a202c;
+  --color-neutral-900: #171923;
+
+  /* Typography */
+  --font-heading: "Poppins", system-ui, sans-serif;
+  --font-body: "Open Sans", system-ui, sans-serif;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-body);
+  color: var(--color-neutral-700);
+  background-color: var(--color-neutral-50);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
 }

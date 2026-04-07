@@ -1,0 +1,482 @@
+{
+  "hero": {
+    "title": "Liver Biopsy",
+    "subtitle": "A procedure to examine a tiny sample of your liver",
+    "description": "A liver biopsy uses a thin needle to take a very small piece of your liver. A doctor looks at this piece under a microscope to check for problems. It is the best way to find out exactly what is going on inside your liver.",
+    "reassurance": "Liver biopsies are very common and safe. Most people go home the same day and feel fine within a day or two."
+  },
+  "sections": [
+    {
+      "id": "what-is",
+      "title": "What Is a Liver Biopsy?",
+      "subtitle": "Understanding the basics of this procedure",
+      "icon": "🔬",
+      "color": "blue",
+      "summary": "A liver biopsy takes a tiny sample of your liver tissue so a doctor can look at it under a microscope.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "A liver biopsy is a procedure where a doctor uses a thin needle to remove a very small piece of your liver — about the size of a grain of rice. This sample is sent to a lab where a specialist looks at it under a microscope. It helps your doctor understand what is happening inside your liver in a way that blood tests and scans cannot always show."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            {
+              "heading": "Tiny tissue sample",
+              "text": "The needle removes a piece of liver about 1–2 cm long and 1 mm wide — roughly the size of a grain of rice."
+            },
+            {
+              "heading": "Ultrasound-guided needle",
+              "text": "Your doctor uses an ultrasound (sound wave pictures) to see your liver on a screen and guide the needle to the right spot safely."
+            },
+            {
+              "heading": "Gold standard for liver diagnosis",
+              "text": "A biopsy is considered the best way to diagnose many liver conditions because it shows the actual cells and tissue."
+            },
+            {
+              "heading": "Outpatient procedure",
+              "text": "Most liver biopsies are done as an outpatient procedure, meaning you go home the same day."
+            },
+            {
+              "heading": "Takes just minutes",
+              "text": "The needle part of the procedure takes only a few seconds. The entire visit, including preparation and recovery monitoring, usually takes 4 to 6 hours."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Why a biopsy matters",
+          "text": "A liver biopsy provides information that no other test can. It shows exactly how much scarring (fibrosis) is present, what type of inflammation exists, and can reveal conditions that blood tests and imaging may miss."
+        }
+      ]
+    },
+    {
+      "id": "why-needed",
+      "title": "Why You Might Need One",
+      "subtitle": "Common reasons your doctor may recommend a liver biopsy",
+      "icon": "🩺",
+      "color": "indigo",
+      "summary": "Doctors order a liver biopsy when they need a closer look at the liver to make a diagnosis or guide treatment.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Your doctor may recommend a liver biopsy for several reasons. In most cases, it is because other tests — like blood work or scans — have raised questions that only a direct look at your liver tissue can answer."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            {
+              "heading": "Unexplained liver enzyme elevation",
+              "text": "If your blood tests show high liver enzymes and the cause is not clear, a biopsy can help find the reason."
+            },
+            {
+              "heading": "Grade and stage liver disease",
+              "text": "A biopsy tells your doctor how much inflammation (grade) and scarring (stage) is in your liver, which helps plan your treatment."
+            },
+            {
+              "heading": "Evaluate transplant donor or recipient",
+              "text": "Before a liver transplant, a biopsy may be done to check the health of the donor liver or to monitor a transplanted liver."
+            },
+            {
+              "heading": "Diagnose autoimmune or infiltrative disease",
+              "text": "Some conditions, like autoimmune hepatitis or sarcoidosis, are best diagnosed by looking at the liver tissue directly."
+            },
+            {
+              "heading": "When non-invasive tests are inconclusive",
+              "text": "If tests like FibroScan or blood-based fibrosis scores give unclear results, a biopsy provides a definitive answer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "preparation",
+      "title": "Preparation",
+      "subtitle": "How to get ready for your liver biopsy",
+      "icon": "📋",
+      "color": "amber",
+      "summary": "Preparing properly helps the procedure go smoothly and safely.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Good preparation makes a big difference. Your medical team will give you specific instructions, but here is a general guide to help you get ready."
+        },
+        {
+          "type": "checklist",
+          "heading": "Preparation checklist",
+          "storageKey": "liver-biopsy-prep",
+          "items": [
+            "Arrange a ride home (you cannot drive yourself)",
+            "Arrange for someone to stay with you for the first night",
+            "Get blood work done as directed (INR, CBC, platelets)",
+            "Stop blood thinners and NSAIDs as instructed by your doctor",
+            "Tell your doctor about all medications and supplements you take",
+            "Do not eat or drink for 6–8 hours before the procedure (or as directed)",
+            "Wear comfortable, loose-fitting clothing",
+            "Ask your doctor any remaining questions before the day"
+          ]
+        },
+        {
+          "type": "medication-table",
+          "heading": "Medications to discuss with your doctor",
+          "items": [
+            { "med": "Warfarin (Coumadin)", "note": "Usually stopped 5 days before; your doctor will check your INR" },
+            { "med": "Direct oral anticoagulants (e.g., Eliquis, Xarelto)", "note": "Usually stopped 2–3 days before; follow your doctor's instructions" },
+            { "med": "Clopidogrel (Plavix)", "note": "Usually stopped 5–7 days before" },
+            { "med": "ASA / Aspirin", "note": "May need to stop 5–7 days before; ask your doctor" },
+            { "med": "Ibuprofen, naproxen, and other NSAIDs", "note": "Stop at least 5 days before the procedure" },
+            { "med": "Herbal supplements (e.g., fish oil, ginkgo, garlic)", "note": "Stop at least 7 days before as they may thin the blood" }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Important: you need a ride and a companion",
+          "text": "You must arrange for someone to drive you home after the procedure. You should also have someone stay with you overnight. You may receive sedation and will need to rest, so it is not safe to be alone right away."
+        }
+      ]
+    },
+    {
+      "id": "what-to-expect",
+      "title": "What to Expect",
+      "subtitle": "A step-by-step look at the procedure day",
+      "icon": "🏥",
+      "color": "teal",
+      "summary": "Knowing what will happen at each stage can help you feel calm and prepared.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "On the day of your liver biopsy, you will spend most of your time resting and being monitored. The actual needle portion takes only a few seconds. Here is what the full experience looks like."
+        },
+        {
+          "type": "phases",
+          "phases": [
+            {
+              "phase": "Before the procedure",
+              "icon": "📝",
+              "items": [
+                "You will check in and change into a hospital gown",
+                "A nurse will check your vital signs (blood pressure, heart rate)",
+                "Your doctor will review your blood work results (INR, platelets)",
+                "You will sign a consent form after your doctor explains the procedure and answers your questions",
+                "An IV line may be placed in your arm in case medication is needed"
+              ]
+            },
+            {
+              "phase": "During the procedure",
+              "icon": "🔬",
+              "items": [
+                "You will lie on your back with your right arm raised above your head",
+                "Your doctor will use ultrasound to find the best spot on your right side",
+                "The skin is cleaned and a local anesthetic (freezing) is injected to numb the area",
+                "A thin biopsy needle is inserted between your ribs — you may feel pressure but should not feel sharp pain",
+                "You will be asked to hold your breath for about 5 seconds while the sample is taken",
+                "The needle is in and out in 1–2 seconds",
+                "A small bandage is placed over the site"
+              ]
+            },
+            {
+              "phase": "After the procedure",
+              "icon": "🛌",
+              "items": [
+                "You will lie on your right side for about 2 hours to apply pressure to the biopsy site",
+                "Nurses will check your blood pressure, pulse, and pain level regularly",
+                "You will be monitored for a total of 2–4 hours",
+                "You may feel mild soreness at the site or in your right shoulder — this is normal",
+                "Once cleared, your companion can drive you home"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "The procedure itself — quick summary",
+          "steps": [
+            "Ultrasound is used to locate the best biopsy site on your right side.",
+            "The area is cleaned and numbed with local anesthetic.",
+            "You take a breath in and hold it for about 5 seconds.",
+            "A thin needle is inserted quickly to collect a tiny tissue sample.",
+            "The needle is removed and a bandage is applied.",
+            "You roll onto your right side and rest while being monitored."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "risks",
+      "title": "Risks",
+      "subtitle": "Understanding the possible complications",
+      "icon": "⚠️",
+      "color": "red",
+      "summary": "Serious complications are rare. Most people experience only mild soreness.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Like any procedure, a liver biopsy carries some risks. Your doctor has decided that the benefit of getting important information about your liver outweighs these risks. Serious problems are uncommon."
+        },
+        {
+          "type": "risk-table",
+          "heading": "Possible risks and how common they are",
+          "items": [
+            {
+              "name": "Pain at the biopsy site",
+              "risk": "20–30%",
+              "description": "Mild to moderate soreness at the site or in the right shoulder. Usually improves within a few hours with simple pain relief."
+            },
+            {
+              "name": "Bleeding requiring intervention",
+              "risk": "1–2%",
+              "description": "Some bleeding is normal, but rarely it is significant enough to need further treatment such as a blood transfusion or a procedure to stop bleeding."
+            },
+            {
+              "name": "Pneumothorax (air leak near lung)",
+              "risk": "Less than 1%",
+              "description": "A small amount of air can leak near the lung if the needle passes close to it. This is rare and usually resolves on its own."
+            },
+            {
+              "name": "Infection",
+              "risk": "Less than 0.1%",
+              "description": "Infection at the biopsy site is extremely rare because the procedure is done with sterile technique."
+            },
+            {
+              "name": "Injury to nearby organ",
+              "risk": "Rare",
+              "description": "Very rarely, the needle may touch a nearby structure such as the gallbladder, kidney, or bowel. Ultrasound guidance greatly reduces this risk."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Most common side effect",
+          "text": "The most common side effect is mild discomfort or soreness at the biopsy site. This usually goes away within a day and can be managed with acetaminophen (Tylenol). Avoid ibuprofen or aspirin for pain relief after the procedure."
+        }
+      ]
+    },
+    {
+      "id": "recovery",
+      "title": "Recovery",
+      "subtitle": "What to expect in the days after your biopsy",
+      "icon": "💚",
+      "color": "green",
+      "summary": "Most people feel back to normal within a day or two. Take it easy for the first week.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Recovery from a liver biopsy is usually quick. Most people feel much better within 24 hours and can return to normal activities within a few days."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            {
+              "heading": "Rest for 24 hours",
+              "text": "Take it easy for the rest of the day and the following day. Avoid strenuous activity."
+            },
+            {
+              "heading": "No heavy lifting for 1 week",
+              "text": "Avoid lifting anything heavier than 10 pounds (about 4.5 kg) for at least one week after the biopsy."
+            },
+            {
+              "heading": "Mild soreness is normal",
+              "text": "It is normal to feel some tenderness at the biopsy site or in your right shoulder for a day or two. Acetaminophen (Tylenol) can help."
+            },
+            {
+              "heading": "Results in 1–2 weeks",
+              "text": "The tissue sample is sent to a pathologist. Your doctor will usually discuss the results with you at a follow-up visit in 1–2 weeks."
+            }
+          ]
+        },
+        {
+          "type": "phases",
+          "phases": [
+            {
+              "phase": "First 24 hours",
+              "icon": "🛌",
+              "items": [
+                "Rest at home — no driving, heavy lifting, or vigorous activity",
+                "Someone should stay with you overnight",
+                "Use acetaminophen (Tylenol) for soreness — avoid aspirin and ibuprofen",
+                "Keep the bandage on for 24 hours and keep the area dry",
+                "Eat light meals as tolerated",
+                "Drink plenty of water"
+              ]
+            },
+            {
+              "phase": "First week",
+              "icon": "🚶",
+              "items": [
+                "Gradually return to normal activities over 2–3 days",
+                "Avoid heavy lifting (more than 10 lbs) for the full week",
+                "Avoid contact sports or intense exercise",
+                "You can usually return to desk work within 1–2 days",
+                "Shower normally after the first 24 hours; the needle site heals quickly"
+              ]
+            },
+            {
+              "phase": "Follow-up",
+              "icon": "📅",
+              "items": [
+                "Attend your follow-up appointment (usually 1–2 weeks after the biopsy)",
+                "Your doctor will review the pathology results with you",
+                "A treatment plan will be discussed based on findings",
+                "Call your doctor sooner if you have any concerns before your follow-up"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Warning signs that need medical attention",
+      "icon": "🚨",
+      "color": "red",
+      "summary": "Most recoveries are smooth, but contact your doctor or go to the emergency room if you notice these signs.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "Increasing or severe pain at the biopsy site or in your abdomen that does not improve with acetaminophen",
+            "Dizziness, lightheadedness, or feeling faint",
+            "Pain in your right shoulder tip that is getting worse (this can signal internal bleeding)",
+            "Fever or chills (temperature above 38°C / 100.4°F)",
+            "Bleeding or oozing from the biopsy site that does not stop with gentle pressure",
+            "Difficulty breathing or shortness of breath"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common questions about liver biopsy",
+      "icon": "❓",
+      "color": "purple",
+      "summary": "Quick answers to the questions patients ask most often.",
+      "content": [
+        {
+          "type": "faq",
+          "questions": [
+            {
+              "q": "Is a liver biopsy painful?",
+              "a": "Most people feel a brief sting from the freezing needle and some pressure during the biopsy. The actual needle insertion lasts only 1–2 seconds. After the procedure, mild soreness is common but is usually well managed with Tylenol."
+            },
+            {
+              "q": "How long is the recovery?",
+              "a": "Most people feel back to normal within 1–2 days. You should rest for 24 hours and avoid heavy lifting for one week. Desk work can usually be resumed within a day or two."
+            },
+            {
+              "q": "Can a FibroScan replace a liver biopsy?",
+              "a": "FibroScan is a useful non-invasive test that measures liver stiffness (scarring). However, it cannot diagnose the specific type of liver disease or show the full picture the way a biopsy can. In some cases, a biopsy is still needed for a definitive diagnosis."
+            },
+            {
+              "q": "How often do people need a liver biopsy?",
+              "a": "Most people only need one liver biopsy. In some cases, a repeat biopsy may be recommended years later to check how a condition is progressing or responding to treatment."
+            },
+            {
+              "q": "Will I be sedated?",
+              "a": "Most liver biopsies are done with local anesthetic (freezing) only. Some centres offer mild sedation (a relaxing medication through an IV) if you are anxious. Talk to your doctor about what is available."
+            },
+            {
+              "q": "Will there be a scar?",
+              "a": "The needle is very thin and creates only a tiny puncture mark. Most people have no visible scar, or just a very small dot that fades over time."
+            },
+            {
+              "q": "Can I eat after the procedure?",
+              "a": "Yes. Once you are alert and feel comfortable, you can start with light foods and drinks. Most people eat a normal meal later that evening."
+            },
+            {
+              "q": "What is the risk of serious complications?",
+              "a": "Serious complications like significant bleeding or organ injury occur in about 1–2% of cases. The risk of life-threatening complications is extremely low (less than 0.01%). Your doctor weighs these risks against the value of the information the biopsy provides."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "knowledge-check",
+      "title": "Knowledge Check",
+      "subtitle": "Test your understanding",
+      "icon": "🧠",
+      "color": "blue",
+      "summary": "A quick quiz to make sure you feel confident about what to expect.",
+      "content": [
+        {
+          "type": "knowledge-check",
+          "items": [
+            {
+              "question": "How long does the actual needle part of a liver biopsy take?",
+              "options": [
+                "About 30 minutes",
+                "About 5 minutes",
+                "Only 1–2 seconds",
+                "About 10 minutes"
+              ],
+              "correct": 2,
+              "explanation": "The needle is in and out in just 1–2 seconds. The rest of your visit time is spent on preparation and recovery monitoring."
+            },
+            {
+              "question": "What should you do during the first 24 hours after a liver biopsy?",
+              "options": [
+                "Resume all normal activities including exercise",
+                "Rest at home and have someone stay with you",
+                "Take ibuprofen for any soreness",
+                "Remove the bandage immediately"
+              ],
+              "correct": 1,
+              "explanation": "You should rest at home for 24 hours and have someone with you. Avoid ibuprofen — use acetaminophen (Tylenol) instead. Keep the bandage on for 24 hours."
+            },
+            {
+              "question": "Which of these is a reason to seek medical attention after a liver biopsy?",
+              "options": [
+                "Mild soreness at the biopsy site",
+                "Feeling a bit tired the next day",
+                "Increasing pain, dizziness, or fever",
+                "A small bandage mark on the skin"
+              ],
+              "correct": 2,
+              "explanation": "Increasing pain, dizziness, or fever can be signs of a complication such as bleeding or infection and should be evaluated right away. Mild soreness and tiredness are normal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Sources and further reading",
+      "icon": "📚",
+      "color": "gray",
+      "summary": "Evidence-based sources used to create this guide.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            {
+              "text": "Rockey DC et al. AASLD Position Paper: Liver Biopsy. Hepatology. 2009;49(3):1017-1044.",
+              "url": "https://doi.org/10.1002/hep.22742"
+            },
+            {
+              "text": "Neuberger J et al. Guidelines on the use of liver biopsy in clinical practice from the British Society of Gastroenterology and the Royal College of Pathologists. Gut. 2020;69(8):1382-1403.",
+              "url": "https://doi.org/10.1136/gutjnl-2020-321299"
+            },
+            {
+              "text": "ACR Practice Guideline for Imaging-Guided Percutaneous Liver Biopsy. American College of Radiology. 2022.",
+              "url": "https://www.acr.org/Clinical-Resources/Practice-Parameters-and-Technical-Standards"
+            },
+            {
+              "text": "Boyum JH et al. US-guided liver biopsy: a survey of techniques and complications. Abdom Radiol. 2016;41(4):602-610.",
+              "url": "https://doi.org/10.1007/s00261-016-0680-6"
+            },
+            {
+              "text": "Takyar V et al. Complications of percutaneous liver biopsy with Klatskin needles: a 36-year single-centre experience. Aliment Pharmacol Ther. 2017;45(5):744-753.",
+              "url": "https://doi.org/10.1111/apt.13925"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

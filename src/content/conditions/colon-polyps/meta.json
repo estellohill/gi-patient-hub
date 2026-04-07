@@ -1,0 +1,18 @@
+{
+  "slug": "colon-polyps",
+  "title": "Colon Polyps (Post-Polypectomy Surveillance)",
+  "shortTitle": "Colon Polyps",
+  "subtitle": "Understanding your polyps and when you need your next colonoscopy",
+  "icon": "🔬",
+  "color": "teal",
+  "description": "Clear, evidence-based information about colon polyps — what they are, what your pathology report means, your surveillance schedule, and how to reduce your risk. Created by a Canadian gastroenterologist.",
+  "category": "lower-gi",
+  "prevalence": "Very Common",
+  "lastReviewed": "2026-03-29",
+  "guidelines": [
+    { "society": "USMSTF", "title": "Recommendations for Post-Polypectomy Colonoscopy Surveillance", "year": 2020 },
+    { "society": "CAG", "title": "Canadian Association of Gastroenterology Colorectal Cancer Screening Guideline", "year": 2024 },
+    { "society": "AGA", "title": "AGA Clinical Practice Guideline on Post-Polypectomy and Post-Cancer Resection Surveillance", "year": 2024 }
+  ],
+  "enabled": true
+}

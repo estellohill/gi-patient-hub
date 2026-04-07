@@ -1,0 +1,18 @@
+{
+  "slug": "liver-biopsy",
+  "title": "Liver Biopsy",
+  "shortTitle": "Liver Biopsy",
+  "subtitle": "A procedure to examine a tiny sample of your liver",
+  "icon": "🏥",
+  "color": "blue",
+  "description": "Clear, evidence-based information about liver biopsy — why it is done, how to prepare, what to expect, and recovery. Created by a Canadian gastroenterologist.",
+  "category": "procedure",
+  "prevalence": "Common",
+  "lastReviewed": "2026-03-30",
+  "guidelines": [
+    { "society": "AASLD", "title": "AASLD Position Paper on Liver Biopsy", "year": 2009 },
+    { "society": "BSG", "title": "BSG Guidelines on Liver Biopsy", "year": 2020 },
+    { "society": "ACR", "title": "ACR Practice Guideline: Imaging-Guided Percutaneous Liver Biopsy", "year": 2022 }
+  ],
+  "enabled": true
+}

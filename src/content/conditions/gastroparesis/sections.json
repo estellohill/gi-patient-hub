@@ -1,0 +1,411 @@
+{
+  "hero": {
+    "title": "Gastroparesis",
+    "subtitle": "Understanding and managing delayed stomach emptying",
+    "description": "Everything you need to know about gastroparesis — what causes it, how to adjust your diet, which medications can help, and when to consider advanced treatments. Clear, trustworthy information to help you take control of your symptoms.",
+    "reassurance": "Gastroparesis can be frustrating, but with dietary adjustments and medication, most people find significant improvement in their symptoms."
+  },
+  "sections": [
+    {
+      "id": "what-is-gastroparesis",
+      "title": "What Is Gastroparesis?",
+      "subtitle": "Understanding delayed stomach emptying and why it happens",
+      "icon": "🐢",
+      "color": "orange",
+      "summary": "Gastroparesis means your stomach takes too long to empty food into your small intestine. It can have several causes, and understanding the condition is the first step toward feeling better.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Gastroparesis means \"stomach paralysis.\" Normally, after you eat, your stomach muscles contract to push food into your small intestine for digestion. With gastroparesis, these muscles do not work as well as they should, so food stays in your stomach longer than normal. This delayed emptying causes symptoms like nausea, bloating, and feeling full after just a few bites."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            {
+              "heading": "Delayed emptying",
+              "text": "In gastroparesis, the stomach empties too slowly. Food that should move into the small intestine within a few hours can sit in the stomach much longer, causing discomfort."
+            },
+            {
+              "heading": "Diabetes is a common cause",
+              "text": "Long-standing diabetes (both type 1 and type 2) can damage the nerves that control stomach muscles. This is called diabetic gastroparesis and is one of the most common causes."
+            },
+            {
+              "heading": "Post-surgical gastroparesis",
+              "text": "Some people develop gastroparesis after surgery on the stomach or nearby organs. Surgeries on the esophagus, stomach, or vagus nerve can sometimes affect how the stomach empties."
+            },
+            {
+              "heading": "Idiopathic — no clear cause",
+              "text": "In many cases, doctors cannot find a specific cause. This is called idiopathic gastroparesis. It sometimes starts after a viral illness. Even without a known cause, treatment can still help."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "How is gastroparesis diagnosed?",
+          "text": "The most common test is a gastric emptying study. You eat a small meal (usually eggs or oatmeal) that contains a tiny amount of a safe, traceable substance. A scanner then tracks how quickly the food leaves your stomach over 4 hours. If more than 10% of the meal is still in your stomach after 4 hours, this confirms gastroparesis. Your doctor may also do blood tests, an upper endoscopy, or other imaging to rule out blockages."
+        }
+      ]
+    },
+    {
+      "id": "symptoms",
+      "title": "Symptoms",
+      "subtitle": "How gastroparesis can feel day to day",
+      "icon": "⚠️",
+      "color": "amber",
+      "summary": "Gastroparesis symptoms can range from mild to severe and often come and go. Knowing what to watch for helps you work with your doctor to find the right treatment.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Gastroparesis symptoms happen because food stays in the stomach too long. Symptoms can vary from person to person and may come in flares — some days are better than others. Here are the most common symptoms to watch for."
+        },
+        {
+          "type": "key-points",
+          "heading": "Common gastroparesis symptoms",
+          "points": [
+            {
+              "heading": "Nausea",
+              "text": "This is often the most bothersome symptom. It can happen after eating or even on an empty stomach. For some people, nausea is present most of the day."
+            },
+            {
+              "heading": "Vomiting",
+              "text": "Some people vomit undigested food hours after eating. In severe cases, vomiting can happen daily and lead to dehydration and weight loss."
+            },
+            {
+              "heading": "Early satiety",
+              "text": "Feeling full after eating only a small amount of food. This happens because the stomach is not emptying properly, so there is less room for new food."
+            },
+            {
+              "heading": "Bloating",
+              "text": "A feeling of fullness or swelling in the upper belly. This is caused by food and gas building up in the stomach."
+            },
+            {
+              "heading": "Upper abdominal pain",
+              "text": "Pain or discomfort in the upper belly area is common and can range from a dull ache to cramping. It often gets worse after meals."
+            },
+            {
+              "heading": "Blood sugar swings",
+              "text": "If you have diabetes, gastroparesis can make blood sugar harder to control. Food is absorbed unpredictably, which can cause unexpected highs and lows."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Symptoms come in flares",
+          "text": "Many people with gastroparesis notice that their symptoms are worse on some days and better on others. Stress, certain foods, illness, and hormonal changes can all trigger flares. Keeping a symptom diary can help you and your doctor identify your personal patterns."
+        }
+      ]
+    },
+    {
+      "id": "diet",
+      "title": "Diet and Eating Strategies",
+      "subtitle": "How to eat in a way that works with your stomach",
+      "icon": "🥣",
+      "color": "emerald",
+      "summary": "Diet is one of the most powerful tools for managing gastroparesis. Small changes in what and how you eat can make a big difference in how you feel.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "When your stomach empties slowly, the types and amounts of food you eat matter a lot. Large meals, high-fat foods, and high-fiber foods are harder for the stomach to break down and can make symptoms worse. The goal is to eat in a way that makes your stomach's job as easy as possible."
+        },
+        {
+          "type": "checklist",
+          "heading": "Gastroparesis Eating Action Plan",
+          "storageKey": "gastroparesis-diet-checklist",
+          "items": [
+            "Eat 4 to 6 small meals a day instead of 3 large ones",
+            "Chew food thoroughly — aim for 20 to 30 chews per bite",
+            "Choose low-fat foods (fat slows stomach emptying)",
+            "Limit high-fiber foods like raw vegetables, beans, and whole grains (fiber is hard to break down)",
+            "Try blended, pureed, or soft foods when symptoms are worse",
+            "Drink fluids between meals, not during meals, to avoid overfilling your stomach",
+            "Stay upright for 1 to 2 hours after eating — a gentle walk can help",
+            "Avoid carbonated drinks, which can increase bloating",
+            "Avoid alcohol, which can slow stomach emptying further"
+          ]
+        },
+        {
+          "type": "allowed-avoid",
+          "heading": "Gastroparesis-Friendly Foods",
+          "allowed": [
+            "Well-cooked, peeled vegetables (carrots, potatoes, squash)",
+            "Ripe bananas, canned fruit, applesauce",
+            "White bread, white rice, pasta",
+            "Lean proteins (chicken, fish, eggs, tofu)",
+            "Smooth soups and broths",
+            "Nut butters (smooth, in small amounts)",
+            "Low-fat yogurt",
+            "Meal replacement shakes or smoothies"
+          ],
+          "avoid": [
+            "Raw vegetables and salads",
+            "Tough, fibrous meats (steak, pork chops)",
+            "High-fat foods (fried food, cream sauces, butter)",
+            "Whole grains, bran, seeds",
+            "Beans and lentils",
+            "Nuts and dried fruit",
+            "Carbonated drinks",
+            "Large portions of any food"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "When eating solid food is too hard",
+          "text": "On bad days, liquid nutrition may be easier to tolerate. Smoothies, meal replacement drinks, and pureed soups can provide the calories and nutrients you need while giving your stomach a break. Liquids empty from the stomach faster than solids. Talk to your doctor or a dietitian about a plan that keeps you well nourished."
+        }
+      ]
+    },
+    {
+      "id": "medications",
+      "title": "Medications",
+      "subtitle": "Treatments that can help your stomach empty better or ease symptoms",
+      "icon": "💊",
+      "color": "blue",
+      "summary": "Several medications can help improve stomach emptying or reduce nausea and vomiting. Your doctor will choose the best option based on your symptoms and medical history.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Medications for gastroparesis work in two main ways: prokinetics help the stomach muscles contract and move food through faster, while anti-emetics help control nausea and vomiting. Many people benefit from a combination of both."
+        },
+        {
+          "type": "medication-table",
+          "heading": "Prokinetic Medications (Help the Stomach Empty)",
+          "items": [
+            {
+              "med": "Domperidone",
+              "note": "Available in Canada (not in the US). Helps the stomach contract and move food through. Also reduces nausea. Taken before meals. Your doctor will check an ECG before starting and may monitor periodically."
+            },
+            {
+              "med": "Metoclopramide (Maxeran)",
+              "note": "Helps speed up stomach emptying and reduces nausea. Effective but usually limited to short-term use (up to 12 weeks) because of a risk of movement side effects (tremor, stiffness) with long-term use."
+            },
+            {
+              "med": "Erythromycin",
+              "note": "An antibiotic that also stimulates stomach contractions at low doses. Often used for short periods during severe flares. Its effect can decrease over time as the body gets used to it."
+            },
+            {
+              "med": "Prucalopride (Resotran)",
+              "note": "Primarily used for constipation but may help some patients with gastroparesis. Available in Canada. Your doctor may consider it if other options have not worked."
+            }
+          ]
+        },
+        {
+          "type": "medication-table",
+          "heading": "Anti-Emetic Medications (Control Nausea and Vomiting)",
+          "items": [
+            {
+              "med": "Ondansetron (Zofran)",
+              "note": "Blocks nausea signals in the brain. Works well for many people. Available as a tablet or a dissolving tablet you place under the tongue."
+            },
+            {
+              "med": "Dimenhydrinate (Gravol)",
+              "note": "An over-the-counter option for mild nausea. Can cause drowsiness. Available without a prescription in Canada."
+            },
+            {
+              "med": "Nabilone",
+              "note": "A synthetic cannabinoid available by prescription in Canada. Sometimes used when other anti-nausea medications have not been enough."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Domperidone and heart rhythm",
+          "text": "Domperidone is a helpful medication available in Canada, but it can rarely affect heart rhythm. Your doctor will do an ECG (heart tracing) before you start and may check it again over time. Let your doctor know if you feel heart palpitations, dizziness, or fainting."
+        },
+        {
+          "type": "text",
+          "heading": "Managing blood sugar with diabetic gastroparesis",
+          "text": "If you have diabetes, controlling your blood sugar is an important part of treating gastroparesis. High blood sugar itself slows stomach emptying, creating a vicious cycle. Work closely with your diabetes team to adjust insulin timing and doses. Some people benefit from switching to insulin that works more slowly or using a continuous glucose monitor to track patterns."
+        }
+      ]
+    },
+    {
+      "id": "advanced-options",
+      "title": "Advanced Treatment Options",
+      "subtitle": "When diet and medications are not enough",
+      "icon": "🔧",
+      "color": "indigo",
+      "summary": "For people with severe gastroparesis that does not respond to diet and medications, there are advanced treatments that can help. These are offered at specialized centres.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Most people with gastroparesis improve with diet changes and medications. But if symptoms remain severe despite these treatments, your gastroenterologist may discuss advanced options. These are available at specialized centres in Canada and are considered on a case-by-case basis."
+        },
+        {
+          "type": "key-points",
+          "heading": "Advanced treatment options",
+          "points": [
+            {
+              "heading": "Gastric electrical stimulation (GES)",
+              "text": "A small device (similar to a pacemaker) is surgically placed under the skin and sends mild electrical pulses to the stomach muscles. It does not speed up emptying significantly but can help reduce nausea and vomiting in some patients, especially those with diabetic gastroparesis."
+            },
+            {
+              "heading": "G-POEM (Gastric Per-Oral Endoscopic Myotomy)",
+              "text": "A newer procedure done through an endoscope (no external incisions). The doctor cuts the pylorus muscle — the valve between the stomach and small intestine — to allow food to pass through more easily. Early results are promising, and it is becoming more widely available."
+            },
+            {
+              "heading": "Jejunostomy tube (J-tube)",
+              "text": "A feeding tube placed directly into the small intestine, bypassing the stomach entirely. This is used when someone cannot maintain their weight or nutrition by mouth. It allows liquid nutrition to be delivered where the body can absorb it. This is typically a temporary measure while other treatments are being tried."
+            },
+            {
+              "heading": "Pyloric botox injection",
+              "text": "Botulinum toxin is injected into the pylorus muscle during an endoscopy to relax it and help food pass through. The effect is temporary (usually 3 to 6 months) and results are mixed, but some patients find it helpful."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Ask about clinical trials",
+          "text": "Research into gastroparesis treatments is ongoing. If your symptoms are difficult to control, ask your gastroenterologist whether there are clinical trials you might be eligible for. New medications and procedures are being studied that may offer additional options in the future."
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Signs that you should contact your doctor or go to the emergency department",
+      "icon": "🚨",
+      "color": "rose",
+      "summary": "Most gastroparesis symptoms can be managed at home, but certain warning signs mean you should get medical attention right away.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "Vomiting that lasts more than 24 hours or prevents you from keeping any liquids down",
+            "Signs of dehydration — dizziness, dark urine, dry mouth, feeling faint",
+            "Severe abdominal pain that is new or different from your usual symptoms",
+            "Vomiting blood or material that looks like coffee grounds",
+            "Black, tarry stools",
+            "Unintentional weight loss of more than 5 pounds",
+            "Blood sugar that you cannot control despite your usual insulin or medication",
+            "Feeling unable to eat or drink anything for more than a day"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common questions about gastroparesis",
+      "icon": "❓",
+      "color": "amber",
+      "summary": "Got questions about gastroparesis? Here are clear answers to the things patients ask most often.",
+      "content": [
+        {
+          "type": "knowledge-check",
+          "heading": "Test Your Understanding",
+          "items": [
+            {
+              "question": "What is the most important dietary change for gastroparesis?",
+              "options": [
+                "Eating three large meals a day",
+                "Eating small, frequent, low-fat meals",
+                "Eating more fibre",
+                "Skipping meals to let the stomach rest"
+              ],
+              "correct": 1,
+              "explanation": "Small, frequent, low-fat meals are the foundation of gastroparesis management. Fat and fibre slow stomach emptying, and large meals overwhelm a stomach that already empties slowly."
+            },
+            {
+              "question": "Which medication for gastroparesis is available in Canada but not in the United States?",
+              "options": [
+                "Metoclopramide",
+                "Ondansetron",
+                "Domperidone",
+                "Erythromycin"
+              ],
+              "correct": 2,
+              "explanation": "Domperidone is a prokinetic medication that is available in Canada but not approved in the United States. It helps the stomach contract and also reduces nausea."
+            },
+            {
+              "question": "What does a gastric emptying study measure?",
+              "options": [
+                "The amount of acid in your stomach",
+                "How quickly food moves from your stomach to your small intestine",
+                "The size of your stomach",
+                "How much food you can eat in one sitting"
+              ],
+              "correct": 1,
+              "explanation": "A gastric emptying study tracks a small, safe tracer in your food to measure how quickly your stomach empties over 4 hours. It is the main test used to diagnose gastroparesis."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "questions": [
+            {
+              "q": "Is gastroparesis curable?",
+              "a": "Gastroparesis is usually a chronic condition, but it is very manageable. Some people with post-viral or idiopathic gastroparesis do improve over time. For others, the right combination of diet, medication, and lifestyle changes can keep symptoms well controlled and allow a good quality of life."
+            },
+            {
+              "q": "Can gastroparesis go away on its own?",
+              "a": "In some cases, yes. Post-viral gastroparesis (which starts after a stomach bug or other viral illness) sometimes improves on its own over months to a couple of years. Diabetic gastroparesis tends to be more persistent but can still be managed well with treatment."
+            },
+            {
+              "q": "Will I lose weight with gastroparesis?",
+              "a": "Some people do lose weight because they eat less due to nausea and feeling full quickly. If you are losing weight, talk to your doctor. A dietitian can help you find ways to get enough calories and nutrients, such as using smoothies, meal replacement drinks, or soft foods."
+            },
+            {
+              "q": "Can I still eat out at restaurants?",
+              "a": "Yes. Look for dishes that are low in fat and fibre. Grilled chicken, fish, mashed potatoes, white rice, and smooth soups are good choices. Eat slowly, have a smaller portion, and consider taking leftovers home. Many people find it helpful to eat a small snack before going so they do not arrive overly hungry."
+            },
+            {
+              "q": "Is gastroparesis related to my diabetes?",
+              "a": "It can be. Long-standing diabetes (especially if blood sugar has been hard to control) can damage the vagus nerve, which controls stomach movement. If you have diabetes and gastroparesis, tight blood sugar control is one of the most important parts of your treatment plan."
+            },
+            {
+              "q": "Why does my doctor want to check my heart before starting domperidone?",
+              "a": "Domperidone can rarely affect heart rhythm. Your doctor will do an ECG (a simple heart tracing) before you start the medication and may repeat it occasionally. This is a routine safety check. Domperidone is widely used in Canada and is safe for most people."
+            },
+            {
+              "q": "Can stress make gastroparesis worse?",
+              "a": "Yes. Stress and anxiety can slow digestion further and make you more aware of your symptoms. Relaxation techniques, counselling, and regular physical activity can all help. Some people find that managing stress is one of the most helpful parts of their treatment plan."
+            },
+            {
+              "q": "What is G-POEM and is it available in Canada?",
+              "a": "G-POEM stands for Gastric Per-Oral Endoscopic Myotomy. It is a procedure done through an endoscope where the doctor cuts the pylorus muscle to help food leave the stomach more easily. It is becoming more available at specialized centres in Canada. Ask your gastroenterologist if it might be an option for you."
+            },
+            {
+              "q": "Should I take a multivitamin?",
+              "a": "If you are eating less than usual or avoiding certain food groups, a daily multivitamin is a good idea. Some people with gastroparesis become low in iron, vitamin B12, or vitamin D. Your doctor can check your levels with a simple blood test and recommend supplements if needed."
+            },
+            {
+              "q": "Can cannabis help with nausea from gastroparesis?",
+              "a": "Some patients report that cannabis helps their nausea, and nabilone (a prescription synthetic cannabinoid) is available in Canada for nausea. However, heavy cannabis use can actually cause a condition called cannabinoid hyperemesis syndrome, which worsens nausea and vomiting. Talk to your doctor before using cannabis for symptom management."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Guidelines and resources used in this guide",
+      "icon": "📚",
+      "color": "orange",
+      "summary": "This guide is based on current gastroenterology guidelines and evidence-based resources.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            {
+              "text": "American College of Gastroenterology — Clinical Guideline: Management of Gastroparesis (2013)"
+            },
+            {
+              "text": "American Gastroenterological Association — Clinical Practice Guideline on Gastroparesis (2022)"
+            },
+            {
+              "text": "Canadian Digestive Health Foundation — Gastroparesis Patient Information"
+            },
+            {
+              "text": "Camilleri M, Chedid V, Ford AC, et al. Gastroparesis. Nature Reviews Disease Primers. 2018;4(1):41."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

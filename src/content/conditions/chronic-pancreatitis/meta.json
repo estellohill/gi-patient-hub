@@ -1,0 +1,18 @@
+{
+  "slug": "chronic-pancreatitis",
+  "title": "Chronic Pancreatitis",
+  "shortTitle": "Chronic Pancreatitis",
+  "subtitle": "Understanding and managing chronic inflammation of the pancreas",
+  "icon": "🟠",
+  "color": "orange",
+  "description": "Clear, evidence-based information about chronic pancreatitis — causes, pain management, enzyme replacement, nutrition, and when to seek further help. Created by a Canadian gastroenterologist.",
+  "category": "pancreas",
+  "prevalence": "Less Common",
+  "lastReviewed": "2026-03-29",
+  "guidelines": [
+    { "society": "ACG", "title": "American College of Gastroenterology Guideline on Chronic Pancreatitis", "year": 2020 },
+    { "society": "AGA", "title": "AGA Clinical Practice Update on Chronic Pancreatitis", "year": 2024 },
+    { "society": "ESGE", "title": "European Society of Gastrointestinal Endoscopy Guideline on Chronic Pancreatitis", "year": 2022 }
+  ],
+  "enabled": true
+}

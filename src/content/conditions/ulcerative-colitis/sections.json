@@ -1,0 +1,235 @@
+{
+  "hero": {
+    "title": "Ulcerative Colitis",
+    "subtitle": "Understanding and managing ulcerative colitis",
+    "description": "Everything you need to know about ulcerative colitis \u2014 what it is, how it is treated, tips for living well, and when to contact your doctor. Clear, trustworthy information to help you feel confident about your care.",
+    "reassurance": "Ulcerative colitis is a chronic condition, but with today's treatments, the majority of patients achieve lasting remission and live normal, active lives."
+  },
+  "sections": [
+    {
+      "id": "what-is-uc",
+      "title": "What Is UC?",
+      "subtitle": "Understanding ulcerative colitis and how it affects your colon",
+      "icon": "\ud83e\udec1",
+      "color": "rose",
+      "summary": "Ulcerative colitis is a type of inflammatory bowel disease that causes inflammation and sores in the lining of your large intestine. It is treatable, and most people do well with the right care.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Ulcerative colitis (UC) is a type of inflammatory bowel disease (IBD). In UC, your immune system mistakenly attacks the lining of your large intestine (colon) and rectum, causing inflammation and tiny sores called ulcers. Unlike Crohn's disease, which can affect any part of the digestive tract, UC only affects the colon and rectum. The inflammation always starts in the rectum and can spread upward to involve part or all of the colon. Canada has one of the highest rates of IBD in the world, with over 300,000 Canadians living with Crohn's disease or ulcerative colitis."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            { "heading": "Common in Canada", "text": "Canada has among the highest rates of ulcerative colitis in the world. About 1 in 150 Canadians lives with IBD. You are not alone, and there is excellent IBD care available across the country." },
+            { "heading": "Immune system condition", "text": "UC is not caused by anything you did. Your immune system mistakenly targets the lining of your colon, leading to inflammation. It is not contagious." },
+            { "heading": "Flares and remission", "text": "UC goes through periods of active symptoms (flares) and periods with few or no symptoms (remission). The goal of treatment is to get you into remission and keep you there." },
+            { "heading": "Highly treatable", "text": "With modern medications, most people with UC can achieve remission and lead full, active lives. Treatment options have improved greatly in the past decade." }
+          ]
+        },
+        {
+          "type": "risk-table",
+          "heading": "Disease Extent \u2014 Where UC Can Affect Your Colon",
+          "intro": "Your doctor may describe your UC based on how much of your colon is involved. This helps guide treatment decisions.",
+          "items": [
+            { "name": "Proctitis", "risk": "Rectum only", "description": "Inflammation is limited to the rectum. This is the mildest form. Symptoms often include rectal bleeding and urgency. Rectal treatments (suppositories and enemas) work very well for this type." },
+            { "name": "Left-sided colitis", "risk": "Rectum to splenic flexure", "description": "Inflammation extends from the rectum up the left side of the colon. Symptoms may include bloody diarrhea, cramping on the left side, and urgency. A combination of oral and rectal medications is often used." },
+            { "name": "Pancolitis (extensive)", "risk": "Entire colon", "description": "Inflammation involves most or all of the colon. Symptoms can be more severe and may include frequent bloody diarrhea, abdominal pain, fatigue, and weight loss. This type often requires stronger medications." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "symptoms",
+      "title": "Symptoms",
+      "subtitle": "What UC feels like during a flare and in remission",
+      "icon": "\u26a0\ufe0f",
+      "color": "amber",
+      "summary": "UC symptoms depend on how much of your colon is affected and how active the inflammation is. Recognizing your symptoms helps you and your doctor manage the disease.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "The symptoms of ulcerative colitis can range from mild to severe. They tend to come and go \u2014 you may feel well for weeks or months, then have a flare where symptoms return. Learning to recognize the difference between a flare and remission is an important part of managing your UC."
+        },
+        {
+          "type": "key-points",
+          "heading": "Common UC symptoms during a flare",
+          "points": [
+            { "heading": "Bloody diarrhea", "text": "The most common symptom of UC. You may notice blood or mucus mixed with your stool. The amount of blood can vary from a small streak to more noticeable amounts." },
+            { "heading": "Urgency", "text": "A sudden, strong need to have a bowel movement that can be hard to control. This can be one of the most disruptive symptoms of UC." },
+            { "heading": "Abdominal cramping", "text": "Pain or cramping in your belly, often on the left side or throughout the abdomen, especially before a bowel movement." },
+            { "heading": "Frequent bowel movements", "text": "During a flare, you may need to go to the bathroom many times a day, sometimes waking up at night." },
+            { "heading": "Fatigue", "text": "Feeling tired or drained is very common with active UC. Inflammation uses a lot of your body's energy, and blood loss can contribute to low iron levels." },
+            { "heading": "Weight loss and poor appetite", "text": "During a severe flare, you may lose weight or not feel like eating. Making sure you get enough nutrition is important." }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Flare vs. remission",
+          "text": "During a flare, your symptoms are active and you may see blood in your stool, have more frequent bowel movements, and feel cramping or fatigue. During remission, the inflammation has calmed down, your stool returns to normal, and you feel well. The goal of treatment is to get you into remission quickly and keep you there for as long as possible. Some people stay in remission for years at a time with the right treatment. Even when you feel well, it is very important to keep taking your medications as prescribed \u2014 this is what keeps the inflammation under control."
+        }
+      ]
+    },
+    {
+      "id": "treatment",
+      "title": "Treatment",
+      "subtitle": "Medications and therapies that control inflammation",
+      "icon": "\ud83d\udc8a",
+      "color": "blue",
+      "summary": "Several effective medications can control UC. Your treatment plan depends on how much of your colon is affected and how active the inflammation is.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "The goal of UC treatment is to stop the inflammation, heal the lining of your colon, and keep you in remission. Your doctor will choose a treatment based on how severe your UC is and how much of your colon is involved. Treatment has improved dramatically over the past decade, and there are now more options than ever before."
+        },
+        {
+          "type": "medication-table",
+          "heading": "Medications Used for Ulcerative Colitis",
+          "items": [
+            { "med": "5-ASA (Mesalamine / Salofalk / Pentasa / Mezavant)", "note": "The first-line treatment for mild to moderate UC. Available as pills, enemas, and suppositories. Very safe for long-term use and effective for both treating flares and preventing them. Rectal forms (enemas and suppositories) are especially important and work directly where the inflammation is." },
+            { "med": "Corticosteroids (Prednisone, Budesonide MMX)", "note": "Used short-term to get a flare under control quickly. Steroids are not meant for long-term use because of side effects. Your doctor will taper (gradually lower) the dose once you start feeling better." },
+            { "med": "Immunomodulators (Azathioprine / Imuran, 6-MP)", "note": "Help keep the immune system in check to prevent flares. Often used alongside other medications. They take several weeks to start working and require regular blood tests for monitoring." },
+            { "med": "Biologics (Infliximab / Remicade, Adalimumab / Humira, Vedolizumab / Entyvio, Ustekinumab / Stelara)", "note": "Targeted therapies given by injection or infusion. Used for moderate to severe UC. They work by blocking specific parts of the immune system that drive inflammation. Very effective and well-studied." },
+            { "med": "Small molecules (Tofacitinib / Xeljanz, Ozanimod / Zeposia, Etrasimod / Velsipity)", "note": "Newer oral medications (pills) for moderate to severe UC. JAK inhibitors and S1P receptor modulators work differently from biologics and offer another option when other treatments have not worked well enough." }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Why rectal therapy matters",
+          "text": "Because UC always involves the rectum, rectal medications (enemas and suppositories) are a key part of treatment, especially for proctitis and left-sided disease. They deliver medication directly to the inflamed area and work faster than pills alone. Many patients find that combining an oral 5-ASA with a rectal 5-ASA gives better results than either one alone. Your doctor or pharmacist can show you how to use them comfortably."
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Do not stop your medication when you feel better",
+          "text": "One of the most common causes of UC flares is stopping medication because you feel well. UC is a chronic condition, and the medication is what keeps the inflammation under control. Even when you are in remission and feeling great, it is very important to keep taking your medication as prescribed. Always talk to your doctor before making any changes to your treatment."
+        }
+      ]
+    },
+    {
+      "id": "living-with-uc",
+      "title": "Living with UC",
+      "subtitle": "Practical tips for daily life, diet, and staying well",
+      "icon": "\ud83c\udf3f",
+      "color": "emerald",
+      "summary": "With the right plan, most people with UC live full, active lives. These practical tips cover nutrition, wellness habits, and cancer screening.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Living well with ulcerative colitis is absolutely possible. Beyond medications, there are practical steps you can take to feel your best, prevent flares, and stay on top of your health. This section covers nutrition, wellness habits, and important screening."
+        },
+        {
+          "type": "checklist",
+          "heading": "UC Wellness Checklist",
+          "storageKey": "uc-wellness-checklist",
+          "items": [
+            "Take all medications as prescribed, even during remission",
+            "Attend regular follow-up appointments with your gastroenterologist",
+            "Get routine blood work as recommended (CBC, CRP, iron, vitamin D)",
+            "Stay up to date on vaccinations (especially before starting immunosuppressive therapy)",
+            "Talk to your doctor about colorectal cancer screening (usually starting 8 years after diagnosis)",
+            "Exercise regularly \u2014 physical activity can help with fatigue, mood, and bone health",
+            "Manage stress with techniques that work for you (deep breathing, mindfulness, counseling)",
+            "Connect with Crohn's and Colitis Canada (crohnsandcolitis.ca) for support and resources",
+            "If you smoke, talk to your doctor about quitting \u2014 smoking can worsen IBD outcomes",
+            "Discuss family planning with your doctor if you are thinking about having children"
+          ]
+        },
+        {
+          "type": "allowed-avoid",
+          "heading": "Nutrition Tips: Remission vs. Flare",
+          "allowed": [
+            "During remission: eat a balanced, varied diet with plenty of fruits, vegetables, whole grains, lean protein, and healthy fats",
+            "Stay well hydrated \u2014 aim for 8 glasses of water a day",
+            "Include calcium-rich foods (dairy, fortified plant milks) and vitamin D for bone health",
+            "Eat regular meals and snacks to maintain a healthy weight",
+            "Try keeping a food diary to identify any personal trigger foods",
+            "Omega-3 rich foods (salmon, sardines, walnuts) may have anti-inflammatory benefits"
+          ],
+          "avoid": [
+            "During a flare: limit high-fibre, raw, or hard-to-digest foods that may worsen diarrhea and cramping",
+            "Reduce alcohol, especially during a flare",
+            "Limit caffeine if it worsens urgency or diarrhea",
+            "Avoid very spicy foods if they seem to trigger symptoms",
+            "Avoid skipping meals \u2014 small, frequent meals are easier to tolerate during a flare",
+            "Do not follow extreme elimination diets without guidance from a dietitian"
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Colorectal cancer screening in UC",
+          "text": "People with ulcerative colitis have a higher risk of developing colorectal cancer, especially if UC has been present for 8 or more years or if the entire colon is affected. The good news is that regular surveillance colonoscopies can catch precancerous changes (dysplasia) early, when they are most treatable. Your gastroenterologist will recommend a surveillance schedule based on your specific situation. Typically, colonoscopy is recommended every 1 to 3 years starting 8 years after your UC diagnosis. This is an important part of your long-term care."
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Symptoms that should prompt a call to your doctor",
+      "icon": "\ud83d\udea8",
+      "color": "rose",
+      "summary": "Most UC symptoms are manageable with your care team, but some warning signs mean you should seek medical attention right away.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "Heavy rectal bleeding \u2014 large amounts of blood or passing blood clots",
+            "Severe abdominal pain that does not go away",
+            "High fever (above 38.5\u00b0C / 101.3\u00b0F) with diarrhea",
+            "More than 6 bloody bowel movements per day",
+            "Signs of dehydration \u2014 dizziness, very dark urine, or not urinating",
+            "Rapid heart rate or feeling faint",
+            "Symptoms getting significantly worse despite taking your medications",
+            "New or worsening joint pain, eye redness, or skin sores (these can be related to UC)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common questions about ulcerative colitis",
+      "icon": "\u2753",
+      "color": "amber",
+      "summary": "Got questions about UC? Here are clear answers to the things patients ask most often.",
+      "content": [
+        {
+          "type": "faq",
+          "questions": [
+            { "q": "Will I need to have my colon removed (colectomy)?", "a": "Most people with UC never need surgery. With today's medications, the majority of patients can control their disease without an operation. However, if medications are not controlling severe UC or if precancerous changes are found, surgery may be recommended. A colectomy can be life-saving and curative for UC. Many people who have surgery go on to live full, active lives." },
+            { "q": "Can ulcerative colitis turn into Crohn's disease?", "a": "No. UC and Crohn's disease are two separate conditions. They are both types of inflammatory bowel disease, but UC does not turn into Crohn's. In rare cases, when only the colon is involved, it can be difficult to tell them apart at first. If the diagnosis changes, it is because more information has become available, not because one disease transformed into the other." },
+            { "q": "Is ulcerative colitis genetic? Will my children get it?", "a": "There is a genetic component to UC. If you have UC, your children have a slightly higher chance of developing IBD compared to the general population, but the overall risk is still low \u2014 about 2 to 5 percent. UC is caused by a combination of genetic and environmental factors, not a single gene." },
+            { "q": "Can I have children if I have UC?", "a": "Yes. Most people with UC can have healthy pregnancies and healthy babies. The most important thing is to be in remission before becoming pregnant, as active disease during pregnancy increases the risk of complications. Most UC medications are safe during pregnancy and breastfeeding. Talk to your gastroenterologist and obstetrician together to plan ahead." },
+            { "q": "Why does my doctor want me to use rectal enemas or suppositories?", "a": "Because UC always starts in the rectum, medications delivered directly to the rectum (enemas and suppositories) are very effective. They bring the medication right to where the inflammation is. Studies show that combining rectal 5-ASA with oral 5-ASA works better than pills alone. It may feel awkward at first, but most patients get used to it quickly and notice a real improvement." },
+            { "q": "How is UC different from Crohn's disease?", "a": "Both are types of inflammatory bowel disease, but they differ in important ways. UC affects only the colon and rectum, and the inflammation is continuous (no skipped areas). Crohn's can affect any part of the digestive tract from mouth to anus, and the inflammation can be patchy. UC inflammation is limited to the inner lining of the colon, while Crohn's can affect the full thickness of the bowel wall. Treatment approaches overlap but have some differences." },
+            { "q": "Will I always have bloody stools?", "a": "No. Bloody stools are a sign of active inflammation (a flare). When your UC is in remission \u2014 meaning the inflammation is controlled with medication \u2014 your stools should return to normal, without blood. If you are in remission and notice blood returning, contact your doctor, as it may be a sign that your disease is becoming active again." },
+            { "q": "Can diet cure ulcerative colitis?", "a": "Diet alone cannot cure UC, but it plays an important supporting role. Eating well helps you maintain a healthy weight, get the nutrients you need, and may help reduce symptoms during a flare. Some people find that certain foods make their symptoms worse. A registered dietitian experienced in IBD can help you find an eating plan that works for you. Medication remains the cornerstone of treatment." },
+            { "q": "Does UC increase my risk of colon cancer?", "a": "People with UC do have a higher risk of colorectal cancer compared to the general population, especially if the disease has been present for many years or involves the entire colon. However, this risk has decreased significantly in recent decades thanks to better medications that control inflammation and regular surveillance colonoscopies that catch precancerous changes early. Following your doctor's surveillance schedule is one of the best things you can do." },
+            { "q": "Does stress cause UC flares?", "a": "Stress does not cause UC, but many patients notice that stress can trigger or worsen a flare. This is because the gut and brain are closely connected (the gut-brain axis). Managing stress through exercise, mindfulness, adequate sleep, counseling, or whatever works for you can be a helpful part of your overall care plan. It is not a replacement for medication, but it can make a real difference in how you feel." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Guidelines and resources used in this guide",
+      "icon": "\ud83d\udcda",
+      "color": "rose",
+      "summary": "This guide is based on current Canadian and international gastroenterology guidelines.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            { "text": "Canadian Association of Gastroenterology \u2014 Clinical Practice Guideline for the Management of Ulcerative Colitis (2023)" },
+            { "text": "American College of Gastroenterology \u2014 Ulcerative Colitis in Adults Guideline (2019)" },
+            { "text": "AGA Clinical Practice Guideline \u2014 Management of Moderate-to-Severe Ulcerative Colitis (2020)" },
+            { "text": "Crohn's and Colitis Canada \u2014 2023 Impact of IBD in Canada Report" },
+            { "text": "Canadian Digestive Health Foundation \u2014 Ulcerative Colitis Patient Information" }
+          ]
+        }
+      ]
+    }
+  ]
+}

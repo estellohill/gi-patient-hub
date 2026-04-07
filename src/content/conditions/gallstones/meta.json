@@ -1,0 +1,18 @@
+{
+  "slug": "gallstones",
+  "title": "Gallstones",
+  "shortTitle": "Gallstones",
+  "subtitle": "Understanding gallstones, symptoms, and treatment options",
+  "icon": "🪨",
+  "color": "amber",
+  "description": "Clear, evidence-based information about gallstones — types, symptoms, complications, surgery, and recovery. Created by a Canadian gastroenterologist.",
+  "category": "upper-gi",
+  "prevalence": "Very Common",
+  "lastReviewed": "2026-03-29",
+  "guidelines": [
+    { "society": "SAGES", "title": "Society of American Gastrointestinal and Endoscopic Surgeons — Gallstone Disease Guideline", "year": 2020 },
+    { "society": "ACG", "title": "American College of Gastroenterology — Gallstone Pancreatitis Guideline", "year": 2024 },
+    { "society": "EASL", "title": "European Association for the Study of the Liver — Clinical Practice Guidelines on Gallstones", "year": 2016 }
+  ],
+  "enabled": true
+}

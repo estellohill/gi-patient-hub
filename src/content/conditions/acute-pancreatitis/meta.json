@@ -1,0 +1,18 @@
+{
+  "slug": "acute-pancreatitis",
+  "title": "Acute Pancreatitis",
+  "shortTitle": "Acute Pancreatitis",
+  "subtitle": "Understanding, recovering from, and preventing acute pancreatitis",
+  "icon": "\ud83e\udec5",
+  "color": "orange",
+  "description": "Clear, evidence-based information about acute pancreatitis \u2014 what causes it, how you recover, and how to prevent it from happening again. Created by a Canadian gastroenterologist.",
+  "category": "pancreas",
+  "prevalence": "Common",
+  "lastReviewed": "2026-03-29",
+  "guidelines": [
+    { "society": "ACG", "title": "American College of Gastroenterology Guideline: Acute Pancreatitis", "year": 2024 },
+    { "society": "AGA", "title": "AGA Clinical Practice Guidelines on Management of Pancreatitis", "year": 2024 },
+    { "society": "IAP/APA", "title": "IAP/APA Evidence-Based Guidelines for the Management of Acute Pancreatitis", "year": 2024 }
+  ],
+  "enabled": true
+}

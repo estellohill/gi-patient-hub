@@ -1,0 +1,18 @@
+{
+  "slug": "paracentesis",
+  "title": "Paracentesis",
+  "shortTitle": "Paracentesis",
+  "subtitle": "A procedure to drain fluid from your abdomen",
+  "icon": "💉",
+  "color": "blue",
+  "description": "Clear, evidence-based information about paracentesis — why it is done, what to expect, and recovery. Created by a Canadian gastroenterologist.",
+  "category": "procedure",
+  "prevalence": "Common",
+  "lastReviewed": "2026-03-30",
+  "guidelines": [
+    { "society": "AASLD", "title": "AASLD Practice Guidance: Portal Hypertension and Ascites", "year": 2021 },
+    { "society": "EASL", "title": "EASL Clinical Practice Guidelines: Decompensated Cirrhosis", "year": 2018 },
+    { "society": "ACG", "title": "ACG Clinical Guideline: Ascites", "year": 2021 }
+  ],
+  "enabled": true
+}

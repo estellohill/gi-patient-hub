@@ -1,0 +1,18 @@
+{
+  "slug": "primary-biliary-cholangitis",
+  "title": "Primary Biliary Cholangitis (PBC)",
+  "shortTitle": "PBC",
+  "subtitle": "Understanding and managing primary biliary cholangitis",
+  "icon": "🫁",
+  "color": "amber",
+  "description": "Clear, evidence-based information about primary biliary cholangitis (PBC) — symptoms, treatment with ursodiol, monitoring, and when to seek help. Created by a Canadian gastroenterologist.",
+  "category": "liver",
+  "prevalence": "Less Common",
+  "lastReviewed": "2026-03-29",
+  "guidelines": [
+    { "society": "AASLD", "title": "AASLD Practice Guidance on Primary Biliary Cholangitis", "year": 2019 },
+    { "society": "EASL", "title": "EASL Clinical Practice Guidelines on Primary Biliary Cholangitis", "year": 2017 },
+    { "society": "BSG", "title": "BSG/UK-PBC Guidelines for the Management of Primary Biliary Cholangitis", "year": 2018 }
+  ],
+  "enabled": true
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "ibs",
+  "title": "IBS (Irritable Bowel Syndrome)",
+  "shortTitle": "IBS",
+  "subtitle": "Understanding and managing irritable bowel syndrome",
+  "icon": "🧠",
+  "color": "purple",
+  "description": "Evidence-based information about IBS — subtypes, the low-FODMAP diet, treatment options, and myths vs. facts. Created by a Canadian gastroenterologist.",
+  "category": "lower-gi",
+  "prevalence": "Very Common",
+  "lastReviewed": "2026-03-29",
+  "guidelines": [
+    { "society": "CAG", "title": "Canadian Association of Gastroenterology IBS Clinical Practice Guideline", "year": 2019 },
+    { "society": "ACG", "title": "American College of Gastroenterology IBS Monograph", "year": 2021 },
+    { "society": "Rome Foundation", "title": "Rome IV Diagnostic Criteria", "year": 2016 },
+    { "society": "AGA", "title": "AGA Pharmacological Management of IBS", "year": 2022 }
+  ],
+  "enabled": true
+}

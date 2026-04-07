@@ -1,0 +1,18 @@
+{
+  "slug": "ercp",
+  "title": "ERCP",
+  "shortTitle": "ERCP",
+  "subtitle": "A procedure to diagnose and treat bile duct and pancreatic problems",
+  "icon": "🔬",
+  "color": "sky",
+  "description": "Clear, evidence-based information about ERCP — what to expect, how to prepare, risks, and recovery. Created by a Canadian gastroenterologist.",
+  "category": "procedure",
+  "prevalence": "Common",
+  "lastReviewed": "2026-03-30",
+  "guidelines": [
+    { "society": "ASGE", "title": "ASGE Standards of Practice: ERCP", "year": 2023 },
+    { "society": "ESGE", "title": "ESGE Guideline: Prophylaxis of Post-ERCP Pancreatitis", "year": 2024 },
+    { "society": "ACG", "title": "ACG Clinical Guideline: Choledocholithiasis", "year": 2019 }
+  ],
+  "enabled": true
+}

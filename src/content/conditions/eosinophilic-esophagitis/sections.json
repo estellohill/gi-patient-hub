@@ -1,0 +1,427 @@
+{
+  "hero": {
+    "title": "Eosinophilic Esophagitis (EoE)",
+    "subtitle": "Understanding and managing eosinophilic esophagitis",
+    "description": "Everything you need to know about EoE — what causes it, how it is diagnosed, and the treatments that help most people eat comfortably again. Clear, trustworthy information from a Canadian gastroenterologist.",
+    "reassurance": "EoE is a chronic but very manageable condition. With the right treatment, most people achieve remission and eat comfortably."
+  },
+  "sections": [
+    {
+      "id": "what-is-eoe",
+      "title": "What Is EoE?",
+      "subtitle": "An immune condition of the esophagus",
+      "icon": "🔬",
+      "color": "purple",
+      "summary": "EoE is a condition where a type of white blood cell builds up in the lining of the esophagus, causing swelling and difficulty swallowing. It is related to allergies and is becoming more common.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Eosinophilic esophagitis (say: ee-oh-SIN-oh-fill-ik eh-sof-uh-JY-tis), or EoE for short, is a condition where certain white blood cells called eosinophils build up in the lining of your esophagus. The esophagus is the tube that carries food from your mouth to your stomach. When too many eosinophils collect there, they cause swelling, stiffness, and narrowing that can make it hard to swallow food."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            {
+              "heading": "Immune and allergy-driven",
+              "text": "EoE is caused by your immune system reacting to certain foods or environmental allergens. It is not an infection and it is not contagious. Many people with EoE also have other allergic conditions like asthma, eczema, or hay fever."
+            },
+            {
+              "heading": "Becoming more common",
+              "text": "EoE is now recognized as one of the most common causes of difficulty swallowing and food getting stuck in adults. The number of people diagnosed has risen sharply over the past 20 years, likely because of better awareness and testing."
+            },
+            {
+              "heading": "Not the same as GERD",
+              "text": "EoE and GERD (acid reflux) can cause similar symptoms, but they are different conditions with different causes. EoE is driven by the immune system, while GERD is caused by stomach acid flowing back up. Some people have both conditions at the same time."
+            },
+            {
+              "heading": "Treatable and manageable",
+              "text": "Although EoE is a chronic (long-term) condition, there are very effective treatments available. Most people with EoE can achieve remission and eat normally with the right treatment plan."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Who gets EoE?",
+          "text": "EoE can happen at any age, but it is most commonly diagnosed in young adults and men. People with a personal or family history of allergic conditions — such as asthma, eczema, food allergies, or hay fever — are more likely to develop EoE. It affects people of all backgrounds, though it is diagnosed more often in people of European descent."
+        }
+      ]
+    },
+    {
+      "id": "symptoms",
+      "title": "Symptoms",
+      "subtitle": "How EoE can feel in everyday life",
+      "icon": "⚠️",
+      "color": "amber",
+      "summary": "The most common symptom of EoE is difficulty swallowing solid foods. Many people also develop habits to work around their swallowing problems without realizing it.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "EoE symptoms can be different depending on your age. In adults and teenagers, difficulty swallowing is the most common sign. Many people with EoE have lived with their symptoms for years and have learned to adapt without realizing there is a treatable problem."
+        },
+        {
+          "type": "key-points",
+          "heading": "Common EoE symptoms",
+          "points": [
+            {
+              "heading": "Dysphagia (difficulty swallowing)",
+              "text": "A feeling that food is moving slowly or getting stuck in your chest or throat. This is the hallmark symptom of EoE and usually happens with solid foods like meat, bread, or rice."
+            },
+            {
+              "heading": "Food impaction",
+              "text": "Food getting completely stuck in your esophagus and not going down. This can be very distressing and sometimes requires emergency removal. If food is stuck and you cannot swallow your own saliva, go to the emergency department right away."
+            },
+            {
+              "heading": "Food avoidance behaviours",
+              "text": "Many people with EoE unconsciously change how they eat. They may chew very slowly, cut food into tiny pieces, drink a lot of water with meals, avoid certain textures, or always be the last one to finish eating."
+            },
+            {
+              "heading": "Chest pain or heartburn",
+              "text": "Some people with EoE feel pain or a burning sensation in the chest, which can overlap with GERD symptoms."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Do any of these habits sound familiar?",
+          "text": "Many people with undiagnosed EoE think their eating habits are normal. If you always take a long time to eat, need lots of water to wash food down, or avoid foods like steak and bread, mention this to your doctor. These could be signs of EoE."
+        }
+      ]
+    },
+    {
+      "id": "diagnosis",
+      "title": "Diagnosis",
+      "subtitle": "How EoE is found and confirmed",
+      "icon": "🔍",
+      "color": "indigo",
+      "summary": "EoE is diagnosed with an upper endoscopy and biopsies of the esophagus. The biopsies are checked under a microscope for eosinophils.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "EoE cannot be diagnosed based on symptoms alone. The only way to confirm EoE is with an upper endoscopy (a camera test where a thin, flexible tube is passed through your mouth into your esophagus and stomach) and biopsies (tiny tissue samples) taken from the lining of your esophagus. In Canada, endoscopy ordered by your gastroenterologist is covered by your provincial health plan."
+        },
+        {
+          "type": "steps",
+          "heading": "How EoE is diagnosed",
+          "steps": [
+            "Your doctor performs an upper endoscopy while you are sedated. You will not feel any pain during the procedure.",
+            "During the endoscopy, the doctor looks for signs of EoE such as rings (like rings on a tree trunk), white spots (eosinophil collections), furrows (lines running up and down), and narrowing of the esophagus.",
+            "The doctor takes several small biopsies from different parts of the esophagus. This is painless and takes only seconds.",
+            "A pathologist examines the biopsies under a microscope and counts the number of eosinophils.",
+            "EoE is confirmed when 15 or more eosinophils are found per high-power field in the biopsy tissue, along with symptoms of esophageal trouble."
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Why biopsies are essential",
+          "text": "Even when the esophagus looks normal through the camera, biopsies can still show EoE. Up to 10% of people with EoE have a normal-looking esophagus on endoscopy. This is why your gastroenterologist will always take biopsies if EoE is suspected, even if everything looks fine visually."
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "What does the eosinophil count mean?",
+          "text": "Eosinophils are white blood cells that normally fight parasites and play a role in allergic reactions. A healthy esophagus has zero eosinophils. In EoE, the immune system sends eosinophils to the esophagus where they cause inflammation and damage. A count of 15 or more per high-power field is the threshold for diagnosis."
+        }
+      ]
+    },
+    {
+      "id": "treatment",
+      "title": "Treatment",
+      "subtitle": "Medications, diet changes, and newer options",
+      "icon": "💊",
+      "color": "blue",
+      "summary": "EoE is treated with medications (PPIs, swallowed topical steroids, or dupilumab), dietary changes, or a combination. Your doctor will work with you to find the best approach.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "The goal of EoE treatment is to reduce the eosinophils in your esophagus, relieve your symptoms, and prevent long-term damage like scarring and narrowing. There are several effective treatment options, and your gastroenterologist will help you choose the best one for your situation."
+        },
+        {
+          "type": "medication-table",
+          "heading": "Medication Options",
+          "items": [
+            {
+              "med": "PPI (Omeprazole, Pantoprazole)",
+              "note": "Proton pump inhibitors are often the first treatment tried. They reduce acid and also have anti-inflammatory effects in the esophagus. About one-third to one-half of people with EoE respond well to a PPI alone."
+            },
+            {
+              "med": "Swallowed budesonide (Jorveza)",
+              "note": "A topical steroid that you swallow as a dissolving tablet or mixed slurry. It coats the esophagus and reduces inflammation right where it is needed. One of the most effective treatments for EoE."
+            },
+            {
+              "med": "Swallowed fluticasone",
+              "note": "An asthma inhaler (like Flovent) used in a different way — instead of breathing it in, you puff it into your mouth and swallow it. This delivers the steroid directly to the esophagus."
+            },
+            {
+              "med": "Dupilumab (Dupixent)",
+              "note": "A biologic medication given as an injection under the skin every two weeks. It blocks key immune signals that drive EoE. Approved for EoE that has not responded to other treatments. Covered by some provincial plans and private insurance in Canada."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Important — swallowed steroids are not the same as oral steroids",
+          "text": "Swallowed topical steroids (budesonide, fluticasone) work locally on the esophagus and very little is absorbed into your body. They do not cause the same side effects as oral steroids like prednisone. Do not eat or drink for 30 minutes after taking them so the medication stays in contact with your esophagus."
+        },
+        {
+          "type": "text",
+          "heading": "Dietary treatment",
+          "text": "Because EoE is driven by food allergens, removing trigger foods from your diet can put the disease into remission. This is most often done with the guidance of a dietitian experienced in EoE."
+        },
+        {
+          "type": "tabs",
+          "heading": "Elimination Diet Options",
+          "tabs": [
+            {
+              "label": "2-Food Elimination",
+              "icon": "🥛",
+              "blocks": [
+                {
+                  "type": "text",
+                  "text": "The two-food elimination diet removes the two most common EoE triggers: dairy (milk, cheese, yogurt, butter) and wheat (bread, pasta, cereals, baked goods). This simpler approach works for about 40 to 50% of people with EoE and is much easier to follow than removing more foods."
+                },
+                {
+                  "type": "key-points",
+                  "points": [
+                    {
+                      "heading": "Why start here",
+                      "text": "Dairy and wheat are the top two triggers for EoE. Starting with a 2-food elimination diet is now recommended as the first dietary approach because it is easier to follow and still effective for many people."
+                    },
+                    {
+                      "heading": "How it works",
+                      "text": "You remove dairy and wheat for 6 to 8 weeks, then have a repeat endoscopy with biopsies to check if the eosinophils have gone down. If remission is achieved, foods are added back one at a time with repeat biopsies to find your personal trigger."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "label": "6-Food Elimination",
+              "icon": "🍽️",
+              "blocks": [
+                {
+                  "type": "text",
+                  "text": "The six-food elimination diet removes the six most common food allergens: dairy, wheat, eggs, soy, nuts and tree nuts, and seafood (fish and shellfish). This approach is more effective (up to 70% response rate) but is much harder to follow and requires more endoscopies during the reintroduction phase."
+                },
+                {
+                  "type": "key-points",
+                  "points": [
+                    {
+                      "heading": "More effective but more demanding",
+                      "text": "Removing six food groups is difficult and can affect nutrition and quality of life. A dietitian is essential to help you stay nourished and plan meals."
+                    },
+                    {
+                      "heading": "Food reintroduction",
+                      "text": "After 6 to 8 weeks, if biopsies show remission, foods are added back one at a time (usually every 6 to 8 weeks with a repeat endoscopy each time) to identify which specific food or foods are your trigger."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Esophageal dilation",
+          "text": "If EoE has caused narrowing (stricture) of your esophagus, your gastroenterologist may gently stretch the narrow area during an endoscopy. This is called dilation. It can provide quick relief from swallowing problems but does not treat the underlying inflammation. Dilation is safe and is usually done alongside medication or dietary treatment."
+        }
+      ]
+    },
+    {
+      "id": "monitoring",
+      "title": "Monitoring",
+      "subtitle": "Staying on track after treatment starts",
+      "icon": "📋",
+      "color": "teal",
+      "summary": "EoE requires follow-up endoscopies to make sure treatment is working. The goal is histologic remission — getting the eosinophil count down to normal.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Unlike many conditions where you can tell treatment is working just by how you feel, EoE requires repeat endoscopies with biopsies to confirm the inflammation is actually under control. Symptoms do not always match what is happening inside the esophagus — you can feel fine while inflammation continues. This is why follow-up testing matters."
+        },
+        {
+          "type": "key-points",
+          "heading": "What monitoring looks like",
+          "points": [
+            {
+              "heading": "Repeat endoscopy",
+              "text": "After starting treatment, you will typically have a follow-up endoscopy in 8 to 12 weeks to check if the eosinophils have gone down. Your doctor will take biopsies again."
+            },
+            {
+              "heading": "Histologic remission is the goal",
+              "text": "The target is fewer than 15 eosinophils per high-power field on biopsy — ideally fewer than 6. This means the inflammation is well controlled, even if it is not completely gone."
+            },
+            {
+              "heading": "Symptoms alone are not enough",
+              "text": "Some people feel better but still have active inflammation on biopsy. Others have few symptoms but significant eosinophil counts. Biopsies are the most reliable way to know how you are doing."
+            },
+            {
+              "heading": "Long-term follow-up",
+              "text": "Once remission is achieved, your gastroenterologist will discuss a long-term plan. EoE is a chronic condition, and most people need ongoing treatment to stay in remission. Regular check-ins help catch any flare-ups early."
+            }
+          ]
+        },
+        {
+          "type": "frequency-table",
+          "heading": "Typical Follow-Up Schedule",
+          "items": [
+            { "scenario": "After starting a new treatment", "interval": "Endoscopy in 8 to 12 weeks" },
+            { "scenario": "After achieving remission", "interval": "Discuss ongoing plan with your doctor" },
+            { "scenario": "During food reintroduction (diet therapy)", "interval": "Endoscopy after each food group is added back (every 6 to 8 weeks)" },
+            { "scenario": "Stable on maintenance treatment", "interval": "Periodic check-ins; endoscopy if symptoms change" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Signs that need prompt medical attention",
+      "icon": "🚨",
+      "color": "rose",
+      "summary": "Most EoE symptoms are manageable, but food impaction is an emergency that requires immediate care.",
+      "content": [
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Food impaction is an emergency",
+          "text": "If food gets stuck in your esophagus and you cannot swallow it down or bring it up, and especially if you cannot swallow your own saliva, go to the nearest emergency department right away. Do not wait to see if it passes on its own. Food impaction sometimes requires an urgent endoscopy to remove the stuck food."
+        },
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "Food stuck in your esophagus that will not go down or come up",
+            "Unable to swallow your own saliva",
+            "Difficulty swallowing that is getting worse over time",
+            "Chest pain that is severe or does not go away",
+            "Unintentional weight loss",
+            "Symptoms returning after a period of remission",
+            "New difficulty swallowing after being stable on treatment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common questions about EoE",
+      "icon": "❓",
+      "color": "amber",
+      "summary": "Got questions about EoE? Here are clear answers to the things patients ask most often.",
+      "content": [
+        {
+          "type": "knowledge-check",
+          "heading": "Test Your Understanding",
+          "items": [
+            {
+              "question": "How is EoE diagnosed?",
+              "options": [
+                "A blood test",
+                "An X-ray of the chest",
+                "An endoscopy with biopsies of the esophagus",
+                "A food allergy skin test"
+              ],
+              "correct": 2,
+              "explanation": "EoE can only be diagnosed by taking biopsies from the esophagus during an endoscopy and finding 15 or more eosinophils per high-power field. Blood tests and allergy tests cannot confirm EoE on their own."
+            },
+            {
+              "question": "Why is follow-up endoscopy important even when you feel better?",
+              "options": [
+                "To check for cancer",
+                "Because symptoms do not always match the level of inflammation inside the esophagus",
+                "To test for food allergies",
+                "It is not important if symptoms improve"
+              ],
+              "correct": 1,
+              "explanation": "In EoE, you can feel fine while inflammation continues silently. Repeat biopsies are the only reliable way to confirm that treatment is actually working and the eosinophils are under control."
+            },
+            {
+              "question": "What should you do if food gets stuck and you cannot swallow your saliva?",
+              "options": [
+                "Wait a few hours to see if it passes",
+                "Drink a large glass of water",
+                "Go to the emergency department right away",
+                "Take an antacid"
+              ],
+              "correct": 2,
+              "explanation": "A food impaction where you cannot swallow your own saliva is an emergency. Go to the nearest emergency department. You may need an urgent endoscopy to remove the stuck food."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "questions": [
+            {
+              "q": "Is EoE the same as GERD?",
+              "a": "No. EoE and GERD are different conditions. EoE is caused by an immune reaction that sends eosinophils to the esophagus. GERD is caused by stomach acid flowing back up. They can cause similar symptoms, and some people have both at the same time. Your doctor can tell them apart with biopsies."
+            },
+            {
+              "q": "Is EoE an allergy?",
+              "a": "EoE is closely related to allergies. It is driven by the immune system reacting to certain foods or environmental triggers. Most people with EoE have other allergic conditions like asthma, eczema, or hay fever. However, standard allergy tests do not reliably identify which foods trigger EoE."
+            },
+            {
+              "q": "Will I need treatment forever?",
+              "a": "EoE is a chronic condition, and most people need ongoing treatment to stay in remission. If treatment is stopped, the eosinophils and symptoms usually come back. The good news is that current treatments are effective and generally well tolerated for long-term use."
+            },
+            {
+              "q": "Can EoE cause cancer?",
+              "a": "No. EoE does not increase your risk of esophageal cancer. However, untreated EoE can lead to scarring and narrowing of the esophagus over time, which can make swallowing increasingly difficult. This is why treatment and follow-up are important."
+            },
+            {
+              "q": "Are the swallowed steroids safe?",
+              "a": "Yes. Swallowed topical steroids like budesonide and fluticasone work mainly on the surface of the esophagus, and very little is absorbed into the rest of your body. They do not carry the same risks as oral steroids like prednisone. The most common side effect is a mild yeast infection in the throat (thrush), which is easy to treat."
+            },
+            {
+              "q": "Do I need to see an allergist?",
+              "a": "Your gastroenterologist may refer you to an allergist, especially if you have other allergic conditions. While standard allergy testing is not reliable for identifying EoE food triggers specifically, an allergist can help manage related conditions like asthma or eczema."
+            },
+            {
+              "q": "Can I just take a PPI instead of doing an elimination diet?",
+              "a": "Yes. PPIs are a valid first-line treatment for EoE and work for many people. You do not have to try an elimination diet if you prefer medication, and your doctor will help you decide which approach fits best with your life."
+            },
+            {
+              "q": "What happens if EoE is not treated?",
+              "a": "Without treatment, ongoing inflammation can cause the esophagus to become stiff and narrow over time. This is called fibrostenotic disease. It leads to worsening difficulty swallowing and a higher risk of food impaction. Early and consistent treatment helps prevent these complications."
+            },
+            {
+              "q": "How common is EoE?",
+              "a": "EoE affects roughly 1 in 2,000 people, and the number of diagnoses has been rising steadily. It is now one of the most common causes of difficulty swallowing and food getting stuck in young adults. Increased awareness among doctors has also contributed to more people being diagnosed."
+            },
+            {
+              "q": "Is EoE hereditary?",
+              "a": "There is a genetic component to EoE. If you have a close family member with EoE, your risk is somewhat higher. However, EoE is caused by a combination of genetic and environmental factors, and having a family member with EoE does not mean you will definitely develop it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Guidelines and resources used in this guide",
+      "icon": "📚",
+      "color": "purple",
+      "summary": "This guide is based on current international gastroenterology guidelines for EoE.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            {
+              "text": "AGA and ACG Joint Clinical Guidelines for the Management of Eosinophilic Esophagitis (2020)"
+            },
+            {
+              "text": "AGREE Conference Recommendations on Eosinophilic Esophagitis (2023)"
+            },
+            {
+              "text": "Updated American College of Gastroenterology Clinical Guideline for Eosinophilic Esophagitis (2024)"
+            },
+            {
+              "text": "Canadian Digestive Health Foundation — Eosinophilic Esophagitis Patient Information"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

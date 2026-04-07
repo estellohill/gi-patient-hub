@@ -1,0 +1,385 @@
+{
+  "hero": {
+    "title": "H. pylori Infection",
+    "subtitle": "Understanding and treating Helicobacter pylori",
+    "description": "A guide covering what H. pylori is, why treatment is important, what your treatment involves, managing side effects, and confirming cure.",
+    "reassurance": "H. pylori is one of the most treatable infections in medicine. With the right antibiotics, over 90% of people are cured."
+  },
+  "sections": [
+    {
+      "id": "what-is-h-pylori",
+      "title": "What Is H. pylori?",
+      "subtitle": "A common stomach bacteria and how it affects you",
+      "icon": "🦠",
+      "color": "teal",
+      "summary": "H. pylori is a very common bacteria that infects the stomach lining. Most people have no symptoms, but it can cause ulcers, gastritis, or rarely stomach cancer.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "H. pylori (Helicobacter pylori) is a type of bacteria that infects the stomach lining. About 30–40% of Canadians carry it. Most people have no symptoms, but in some it can cause ulcers, gastritis, or rarely stomach cancer."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            {
+              "heading": "Very common worldwide",
+              "text": "About half the world’s population carries H. pylori. It is one of the most common bacterial infections in the world."
+            },
+            {
+              "heading": "Usually acquired in childhood",
+              "text": "Most people pick up H. pylori in childhood through close contact with family members or contaminated food and water."
+            },
+            {
+              "heading": "Most carriers have no symptoms",
+              "text": "The majority of people with H. pylori never develop any symptoms or problems from the infection."
+            },
+            {
+              "heading": "It weakens the stomach’s protective lining",
+              "text": "H. pylori damages the mucus layer that protects your stomach, allowing acid to cause irritation and damage."
+            },
+            {
+              "heading": "Not spread by casual contact",
+              "text": "You cannot get H. pylori from shaking hands, sharing a workplace, or other casual contact."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "How is H. pylori transmitted?",
+          "text": "H. pylori spreads through person-to-person contact (usually in childhood within families) or through contaminated water. It is more common in developing countries and in crowded living conditions. Once acquired, it persists for life unless treated with antibiotics."
+        }
+      ]
+    },
+    {
+      "id": "why-treatment-matters",
+      "title": "Why Treatment Matters",
+      "subtitle": "The risks of leaving H. pylori untreated",
+      "icon": "⚕️",
+      "color": "blue",
+      "summary": "Untreated H. pylori can lead to ulcers, chronic gastritis, and in rare cases stomach cancer. Treatment eliminates these risks.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "If your doctor has found H. pylori and recommended treatment, there is a good reason. Treatment eliminates the infection and dramatically reduces your risk of complications."
+        },
+        {
+          "type": "risk-table",
+          "heading": "What Can Happen Without Treatment",
+          "items": [
+            {
+              "name": "Chronic gastritis",
+              "risk": "Moderate",
+              "description": "Ongoing inflammation of the stomach lining causing discomfort."
+            },
+            {
+              "name": "Stomach or duodenal ulcer",
+              "risk": "High",
+              "description": "H. pylori causes about 80% of stomach ulcers and 90% of duodenal ulcers."
+            },
+            {
+              "name": "Stomach cancer",
+              "risk": "Low (but serious)",
+              "description": "H. pylori is the strongest known risk factor for stomach cancer — treatment significantly reduces this risk."
+            },
+            {
+              "name": "MALT lymphoma",
+              "risk": "Low",
+              "description": "A rare type of stomach lymphoma that can be cured by treating H. pylori alone."
+            },
+            {
+              "name": "Iron deficiency anemia",
+              "risk": "Moderate",
+              "description": "H. pylori can interfere with iron absorption."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "success",
+          "text": "The good news: treating H. pylori eliminates these risks. Cure rates with modern antibiotic regimens are over 90%."
+        }
+      ]
+    },
+    {
+      "id": "treatment-plan",
+      "title": "Your Treatment Plan",
+      "subtitle": "What your treatment involves and how to stay on track",
+      "icon": "💊",
+      "color": "emerald",
+      "summary": "H. pylori treatment involves taking several medications together for 14 days. Completing the full course is the most important thing you can do for a successful cure.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "H. pylori treatment involves taking several medications together for 14 days. This is called combination therapy. Taking ALL your medications as directed for the full 14 days is the most important thing you can do for a successful cure."
+        },
+        {
+          "type": "medication-table",
+          "heading": "Common Treatment Regimens",
+          "warning": "Your doctor will choose the regimen that is best for you based on local resistance patterns and your medication history. Do not stop treatment early even if you feel better.",
+          "items": [
+            {
+              "med": "Bismuth quadruple therapy (PPI + bismuth + metronidazole + tetracycline)",
+              "note": "The most commonly recommended first-line treatment in Canada — 14 days."
+            },
+            {
+              "med": "Concomitant therapy (PPI + amoxicillin + clarithromycin + metronidazole)",
+              "note": "Used when bismuth therapy is not available — 14 days."
+            },
+            {
+              "med": "Triple therapy (PPI + amoxicillin + clarithromycin)",
+              "note": "Less commonly used now due to antibiotic resistance — 14 days."
+            },
+            {
+              "med": "Levofloxacin-based therapy (PPI + amoxicillin + levofloxacin)",
+              "note": "Used as a rescue therapy if first treatment fails — 14 days."
+            }
+          ]
+        },
+        {
+          "type": "checklist",
+          "heading": "14-Day Treatment Checklist",
+          "storageKey": "h-pylori-treatment-checklist",
+          "items": [
+            "Take ALL medications exactly as prescribed — do not skip doses",
+            "Take your PPI (acid blocker) 30 minutes before a meal",
+            "Complete all 14 days even if you feel better before then",
+            "Avoid alcohol during treatment (it reduces effectiveness and worsens side effects)",
+            "Set a daily alarm or use a pill organizer to stay on track",
+            "If you miss a dose, take it as soon as you remember — do not double up"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "text": "Completing the FULL 14 days is critical. Stopping early is the most common reason treatment fails and can lead to antibiotic resistance, making future treatment harder."
+        }
+      ]
+    },
+    {
+      "id": "side-effects",
+      "title": "Side Effects",
+      "subtitle": "What to expect and how to manage common side effects",
+      "icon": "⚠️",
+      "color": "amber",
+      "summary": "Side effects are common during H. pylori treatment but are almost always temporary and manageable. Most people complete the full course.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Side effects are common during H. pylori treatment but are almost always temporary and manageable. Most people are able to complete their full course of treatment."
+        },
+        {
+          "type": "key-points",
+          "heading": "Expected Side Effects",
+          "points": [
+            {
+              "heading": "Nausea",
+              "text": "Very common — take medications with food to reduce this."
+            },
+            {
+              "heading": "Metallic taste in mouth",
+              "text": "Especially with metronidazole — hard candies or mints can help."
+            },
+            {
+              "heading": "Diarrhea",
+              "text": "Common — stay hydrated and eat bland foods."
+            },
+            {
+              "heading": "Headache",
+              "text": "Usually mild — acetaminophen (Tylenol) is safe to take."
+            },
+            {
+              "heading": "Dark or black stools",
+              "text": "If taking bismuth — this is completely harmless and expected."
+            }
+          ]
+        },
+        {
+          "type": "allowed-avoid",
+          "heading": "During Treatment",
+          "allowed": [
+            "Bland foods (rice, bananas, toast, crackers)",
+            "Yogurt and fermented foods",
+            "Small frequent meals",
+            "Plenty of water and clear fluids",
+            "Ginger tea for nausea",
+            "Acetaminophen (Tylenol) for headache"
+          ],
+          "avoid": [
+            "Alcohol (reduces effectiveness and worsens side effects)",
+            "Spicy and fatty foods",
+            "Large heavy meals",
+            "Dairy products within 2 hours of tetracycline",
+            "Antacids within 2 hours of antibiotics"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "About black stools during treatment",
+          "text": "If you are taking bismuth (Pepto-Bismol), your tongue and stools may turn black. This is completely normal and harmless. It will resolve after you stop the bismuth."
+        }
+      ]
+    },
+    {
+      "id": "confirming-cure",
+      "title": "Confirming Cure",
+      "subtitle": "How to verify the infection has been successfully treated",
+      "icon": "✅",
+      "color": "emerald",
+      "summary": "After completing treatment, a test-of-cure confirms the infection is gone. Stopping your PPI before the test is essential for an accurate result.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "After completing treatment, it is important to confirm that the infection has been cured. This is called a test-of-cure."
+        },
+        {
+          "type": "steps",
+          "heading": "Test-of-Cure Process",
+          "steps": [
+            "Complete your full 14-day course of antibiotics.",
+            "Wait at least 4 weeks after finishing antibiotics.",
+            "Stop your PPI (acid blocker) for at least 2 weeks before the test.",
+            "Your doctor will order a urea breath test or stool antigen test.",
+            "A negative result means the infection is cured.",
+            "If the test is positive, your doctor will prescribe a different regimen."
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Important — Stop PPI Before Testing",
+          "text": "You MUST stop your PPI (like omeprazole or pantoprazole) at least 2 weeks before your test-of-cure. PPIs can cause a false negative result — meaning the test may say you are cured when you are not."
+        },
+        {
+          "type": "text",
+          "heading": "What if treatment fails?",
+          "text": "If your first treatment does not work, do not be discouraged. Your doctor will prescribe a different combination of antibiotics. Second-line regimens have high success rates. It is important not to reuse the same antibiotics that failed."
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Warning signs that need urgent medical attention",
+      "icon": "🚨",
+      "color": "rose",
+      "summary": "Most side effects are manageable, but some symptoms require immediate medical attention.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "Severe abdominal pain that is getting worse",
+            "Vomiting blood or material that looks like coffee grounds",
+            "Black tarry stools that are NOT from bismuth medication",
+            "Difficulty swallowing",
+            "Unable to keep any food or liquids down",
+            "High fever during treatment",
+            "Severe allergic reaction (rash, hives, difficulty breathing) to any medication"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to the most common questions about H. pylori",
+      "icon": "❓",
+      "color": "amber",
+      "summary": "Answers to common questions about H. pylori infection, treatment, and life after cure.",
+      "content": [
+        {
+          "type": "knowledge-check",
+          "heading": "Test Your Understanding",
+          "items": [
+            {
+              "question": "Why is it critical to complete the full 14 days of H. pylori treatment?",
+              "options": [
+                "To avoid stomach upset",
+                "Stopping early can cause treatment failure and antibiotic resistance",
+                "The medication only starts working on day 14",
+                "It is not critical — you can stop when symptoms improve"
+              ],
+              "correct": 1,
+              "explanation": "Stopping antibiotics early is the most common reason H. pylori treatment fails. Incomplete treatment also promotes antibiotic resistance, making future treatment much harder."
+            },
+            {
+              "question": "Before a test-of-cure for H. pylori, what must you do?",
+              "options": [
+                "Stop eating for 24 hours",
+                "Stop your PPI for at least 2 weeks before the test",
+                "Take an extra dose of antibiotics",
+                "Nothing special is needed"
+              ],
+              "correct": 1,
+              "explanation": "PPIs (like omeprazole) can cause a false negative result, making it look like you are cured when you are not. You must stop your PPI at least 2 weeks before the breath test or stool test."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "questions": [
+            {
+              "q": "Can H. pylori come back after treatment?",
+              "a": "Reinfection is possible but uncommon in Canada (about 1–2% per year). The risk is higher in areas with poor sanitation or if a household member also carries the infection."
+            },
+            {
+              "q": "Should my family members be tested?",
+              "a": "Routine testing of family members is not recommended unless they have symptoms (like stomach pain or ulcers). However, if you keep getting reinfected, testing household members may be considered."
+            },
+            {
+              "q": "Should I take probiotics during treatment?",
+              "a": "Some studies suggest probiotics may reduce side effects like diarrhea during H. pylori treatment. They are generally safe to take alongside antibiotics but are not essential."
+            },
+            {
+              "q": "Do I need to change my diet permanently?",
+              "a": "No. Once H. pylori is cured, there are no permanent dietary restrictions. During treatment, bland foods and avoiding alcohol will help minimize side effects."
+            },
+            {
+              "q": "How did I get H. pylori?",
+              "a": "Most people acquire H. pylori in childhood through close contact with family members or contaminated water. It is very common worldwide — about half the world’s population carries it."
+            },
+            {
+              "q": "Does H. pylori always cause stomach cancer?",
+              "a": "No. While H. pylori is a risk factor for stomach cancer, the vast majority of people with H. pylori never develop cancer. Treatment significantly reduces this already small risk."
+            },
+            {
+              "q": "Why do I have to take so many pills?",
+              "a": "H. pylori is a resilient bacteria. A combination of medications is needed because no single antibiotic is effective enough on its own. The PPI reduces stomach acid to help the antibiotics work better."
+            },
+            {
+              "q": "What if I cannot tolerate the side effects?",
+              "a": "Contact your doctor before stopping treatment. They may be able to adjust your medications or suggest ways to manage side effects. Stopping early leads to treatment failure and antibiotic resistance."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Guidelines and sources used for this information",
+      "icon": "📚",
+      "color": "teal",
+      "summary": "This information is based on current Canadian and international gastroenterology guidelines.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            {
+              "text": "Canadian Association of Gastroenterology — Toronto Consensus for H. pylori Treatment (2016)"
+            },
+            {
+              "text": "American College of Gastroenterology — Clinical Guideline for H. pylori Infection (2024)"
+            },
+            {
+              "text": "Maastricht VI/Florence Consensus Report on H. pylori Management (2022)"
+            },
+            {
+              "text": "Canadian Digestive Health Foundation — H. pylori Patient Information"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

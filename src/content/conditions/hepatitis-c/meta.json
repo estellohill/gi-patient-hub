@@ -1,0 +1,19 @@
+{
+  "slug": "hepatitis-c",
+  "title": "Hepatitis C",
+  "shortTitle": "Hep C",
+  "subtitle": "A curable liver infection — what you need to know",
+  "icon": "\ud83e\udec0",
+  "color": "indigo",
+  "description": "Clear, evidence-based information about hepatitis C \u2014 testing, treatment, cure rates, and life after treatment. Created by a Canadian gastroenterologist.",
+  "category": "liver",
+  "prevalence": "Common",
+  "lastReviewed": "2026-03-29",
+  "guidelines": [
+    { "society": "AASLD/IDSA", "title": "HCV Guidance: Recommendations for Testing, Managing, and Treating Hepatitis C", "year": 2023 },
+    { "society": "CASL", "title": "Canadian Association for the Study of the Liver HCV Treatment Update", "year": 2023 },
+    { "society": "EASL", "title": "European Association for the Study of the Liver HCV Clinical Practice Guidelines", "year": 2024 },
+    { "society": "PHAC", "title": "Public Health Agency of Canada \u2014 Hepatitis C Screening Recommendations", "year": 2023 }
+  ],
+  "enabled": true
+}

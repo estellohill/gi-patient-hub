@@ -1,0 +1,18 @@
+{
+  "slug": "fibroscan",
+  "title": "FibroScan",
+  "shortTitle": "FibroScan",
+  "subtitle": "A painless scan to check your liver health",
+  "icon": "📊",
+  "color": "emerald",
+  "description": "Clear, evidence-based information about FibroScan (transient elastography) — what it measures, how to prepare, and what your results mean. Created by a Canadian gastroenterologist.",
+  "category": "procedure",
+  "prevalence": "Very Common",
+  "lastReviewed": "2026-03-30",
+  "guidelines": [
+    { "society": "EASL", "title": "EASL Clinical Practice Guidelines on Non-Invasive Tests", "year": 2021 },
+    { "society": "AASLD", "title": "AASLD Practice Guidance on Liver Fibrosis Assessment", "year": 2023 },
+    { "society": "CAG", "title": "CAG Position Statement on Liver Elastography", "year": 2022 }
+  ],
+  "enabled": true
+}

@@ -1,0 +1,525 @@
+{
+  "hero": {
+    "title": "IBS (Irritable Bowel Syndrome)",
+    "subtitle": "Understanding and managing irritable bowel syndrome",
+    "description": "A comprehensive guide covering what IBS is, diet approaches, treatment options, and addressing common myths.",
+    "reassurance": "IBS is real, it is common, and it does not damage your intestines or lead to cancer. Many people find significant relief with the right approach."
+  },
+  "sections": [
+    {
+      "id": "what-is-ibs",
+      "title": "What Is IBS?",
+      "subtitle": "Understanding irritable bowel syndrome",
+      "icon": "🧠",
+      "color": "purple",
+      "summary": "IBS is a common condition affecting the gut-brain connection. It causes symptoms like abdominal pain with changes in bowel habits and affects about 1 in 7 Canadians.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "IBS is a common condition affecting the gut-brain connection, causing symptoms like abdominal pain with changes in bowel habits. It affects 10-15% of Canadians."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            {
+              "heading": "It's very common",
+              "text": "About 1 in 7 Canadians live with IBS. You are not alone."
+            },
+            {
+              "heading": "It's a real medical condition",
+              "text": "IBS involves dysfunction in the gut-brain axis — the communication pathway between your gut and your brain."
+            },
+            {
+              "heading": "It does NOT damage your intestines",
+              "text": "IBS does not cause inflammation, damage your intestines, or lead to cancer."
+            },
+            {
+              "heading": "It can be effectively managed",
+              "text": "With the right combination of diet, lifestyle changes, and sometimes medication, most people find significant relief."
+            }
+          ]
+        },
+        {
+          "type": "risk-table",
+          "heading": "IBS Subtypes",
+          "items": [
+            {
+              "name": "IBS-D (Diarrhea-predominant)",
+              "risk": "Moderate",
+              "description": "Frequent loose stools with urgency and cramping."
+            },
+            {
+              "name": "IBS-C (Constipation-predominant)",
+              "risk": "Moderate",
+              "description": "Infrequent hard stools with bloating and straining."
+            },
+            {
+              "name": "IBS-M (Mixed)",
+              "risk": "Moderate",
+              "description": "Alternating between diarrhea and constipation."
+            },
+            {
+              "name": "IBS-U (Unclassified)",
+              "risk": "Low",
+              "description": "Symptoms don't clearly fit the other subtypes."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "text": "Rome IV criteria — IBS is diagnosed based on recurrent abdominal pain at least 1 day per week for the last 3 months, associated with changes in stool frequency or appearance."
+        }
+      ]
+    },
+    {
+      "id": "causes-triggers",
+      "title": "Causes and Triggers",
+      "subtitle": "Why IBS happens and what makes it worse",
+      "icon": "⚡",
+      "color": "amber",
+      "summary": "IBS is caused by a complex interaction between the gut and the brain. There is no single cause, but several factors work together.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "IBS is caused by a complex interaction between the gut and the brain. There is no single cause."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            {
+              "heading": "Gut-brain axis dysfunction",
+              "text": "The nervous system in your gut becomes overly sensitive, sending exaggerated signals to your brain."
+            },
+            {
+              "heading": "Visceral hypersensitivity",
+              "text": "Your gut feels normal sensations like gas as pain. Think of it like the volume being turned up too high."
+            },
+            {
+              "heading": "Altered gut motility",
+              "text": "Food moves too fast or too slow through the intestine, leading to diarrhea or constipation."
+            },
+            {
+              "heading": "Gut microbiome changes",
+              "text": "Shifts in gut bacteria may play a role in triggering or maintaining IBS symptoms."
+            },
+            {
+              "heading": "Psychological factors",
+              "text": "Stress and anxiety amplify gut symptoms through the brain-gut connection. This does not mean IBS is imaginary."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Post-infectious IBS",
+          "text": "About 10-15% of people develop IBS after a bout of gastroenteritis (food poisoning or stomach flu). This is called post-infectious IBS and tends to improve over time."
+        }
+      ]
+    },
+    {
+      "id": "diet-fodmap",
+      "title": "Diet and the Low-FODMAP Approach",
+      "subtitle": "The most effective dietary strategy for IBS",
+      "icon": "🥗",
+      "color": "emerald",
+      "summary": "Diet is one of the most effective treatments for IBS. The low-FODMAP diet helps about 70% of people experience significant symptom improvement.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Diet is one of the most effective treatments for IBS. The low-FODMAP diet has the strongest evidence, with about 70% of people experiencing significant symptom improvement."
+        },
+        {
+          "type": "phases",
+          "phases": [
+            {
+              "phase": "Elimination",
+              "icon": "🚫",
+              "items": [
+                "Remove all high-FODMAP foods for 2-6 weeks",
+                "Keep a symptom diary to track improvement",
+                "Work with a registered dietitian if possible",
+                "This phase should NOT be followed long-term"
+              ]
+            },
+            {
+              "phase": "Reintroduction",
+              "icon": "🔄",
+              "items": [
+                "Systematically reintroduce one FODMAP group at a time",
+                "Test each food for 3 days while monitoring symptoms",
+                "Identify YOUR specific triggers (everyone is different)",
+                "This is the most important phase — it personalizes your diet"
+              ]
+            },
+            {
+              "phase": "Maintenance",
+              "icon": "✅",
+              "items": [
+                "Return to a varied diet avoiding only YOUR confirmed triggers",
+                "Retest triggers periodically as tolerance can change",
+                "Goal is the least restrictive diet that controls symptoms"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "allowed-avoid",
+          "heading": "Common FODMAP Swaps",
+          "allowed": [
+            "Rice and quinoa",
+            "Potatoes and carrots",
+            "Spinach and lettuce",
+            "Bananas and blueberries",
+            "Chicken, fish, and eggs",
+            "Lactose-free milk and hard cheeses",
+            "Maple syrup",
+            "Sourdough spelt bread"
+          ],
+          "avoid": [
+            "Wheat bread and pasta (in large amounts)",
+            "Onion and garlic",
+            "Apples, pears, and watermelon",
+            "Milk, yogurt, and soft cheeses",
+            "Honey and high-fructose corn syrup",
+            "Beans, lentils, and chickpeas",
+            "Cauliflower and mushrooms",
+            "Artichoke and asparagus"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "text": "The low-FODMAP diet is a learning tool, not a life sentence. The elimination phase should last only 2-6 weeks. Working with a dietitian trained in FODMAPs leads to the best results."
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "text": "The Monash University FODMAP app is the most reliable resource for checking FODMAP content of foods. It is regularly updated with new food testing data."
+        }
+      ]
+    },
+    {
+      "id": "treatments",
+      "title": "Other Treatments",
+      "subtitle": "Medications and therapies that can help",
+      "icon": "💊",
+      "color": "blue",
+      "summary": "Treatment for IBS is tailored to your specific subtype and symptoms. Options include medications, gut-directed therapies, and lifestyle changes.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Treatment for IBS is tailored to your specific subtype and symptoms. There is no single medication that works for everyone."
+        },
+        {
+          "type": "medication-table",
+          "heading": "Medications by Symptom",
+          "warning": "Discuss all medications with your doctor. What works best depends on your specific IBS subtype and symptoms.",
+          "items": [
+            {
+              "med": "Fiber supplements (psyllium/Metamucil)",
+              "note": "Helps regulate bowel movements — start low and increase slowly to avoid bloating."
+            },
+            {
+              "med": "Loperamide (Imodium)",
+              "note": "For IBS-D — reduces diarrhea frequency but does not help pain."
+            },
+            {
+              "med": "Peppermint oil capsules (enteric-coated)",
+              "note": "Reduces abdominal pain and bloating — take 30 minutes before meals."
+            },
+            {
+              "med": "Antispasmodics (hyoscine/Buscopan)",
+              "note": "Reduces cramping and pain — available over the counter in Canada."
+            },
+            {
+              "med": "Amitriptyline (low-dose tricyclic)",
+              "note": "For IBS-D with pain — slows gut and reduces pain signals at low doses."
+            },
+            {
+              "med": "Linaclotide (Constella)",
+              "note": "For IBS-C — increases fluid in the intestine to ease constipation and reduce pain."
+            },
+            {
+              "med": "Prucalopride (Resotran)",
+              "note": "For IBS-C with severe constipation — helps the colon move more effectively."
+            },
+            {
+              "med": "Rifaximin (Zaxine)",
+              "note": "For IBS-D with bloating — a gut-specific antibiotic that may help some patients."
+            },
+            {
+              "med": "Eluxadoline (Viberzi)",
+              "note": "For IBS-D — reduces diarrhea and pain through gut opioid receptors."
+            }
+          ]
+        },
+        {
+          "type": "key-points",
+          "heading": "Non-Medication Treatments",
+          "points": [
+            {
+              "heading": "Gut-directed hypnotherapy",
+              "text": "Strong evidence — as effective as the low-FODMAP diet for many patients."
+            },
+            {
+              "heading": "Cognitive behavioural therapy (CBT)",
+              "text": "Helps break the cycle of anxiety and gut symptoms."
+            },
+            {
+              "heading": "Regular exercise",
+              "text": "30 minutes most days significantly improves IBS symptoms."
+            },
+            {
+              "heading": "Mindfulness and relaxation techniques",
+              "text": "Reduce the stress-gut symptom cycle."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "success",
+          "text": "Gut-directed hypnotherapy has Level 1 evidence for IBS. It is not stage hypnosis — it is a structured therapy that retrains how your brain processes gut signals. Ask your doctor about referral options."
+        }
+      ]
+    },
+    {
+      "id": "mental-health",
+      "title": "Mental Health and IBS",
+      "subtitle": "The real connection between your brain and your gut",
+      "icon": "💭",
+      "color": "sky",
+      "summary": "The connection between mental health and IBS is not in your head — it is in your nervous system. Your gut has its own nervous system with over 100 million nerve cells.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "The connection between mental health and IBS is not in your head — it is in your nervous system. The gut has its own nervous system with over 100 million nerve cells."
+        },
+        {
+          "type": "text",
+          "text": "There is no shame in IBS being connected to your brain. Your gut has more nerve cells than your spinal cord. When doctors recommend psychological treatments for IBS, they are treating a real physiological pathway — not suggesting your symptoms are imaginary."
+        },
+        {
+          "type": "key-points",
+          "heading": "Evidence-Based Psychological Treatments",
+          "points": [
+            {
+              "heading": "Cognitive Behavioural Therapy (CBT)",
+              "text": "Restructures unhelpful thought patterns that amplify gut symptoms."
+            },
+            {
+              "heading": "Gut-directed hypnotherapy",
+              "text": "Retrains the brain-gut signaling pathway with strong clinical evidence."
+            },
+            {
+              "heading": "Mindfulness-based stress reduction",
+              "text": "Reduces the stress response that triggers flares."
+            },
+            {
+              "heading": "Acceptance and Commitment Therapy (ACT)",
+              "text": "Helps you engage with life despite symptoms."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "myths-facts",
+      "title": "Myths vs. Facts",
+      "subtitle": "Separating truth from common misconceptions",
+      "icon": "🔍",
+      "color": "teal",
+      "summary": "There are many misconceptions about IBS. Here are the facts based on current medical evidence.",
+      "content": [
+        {
+          "type": "faq",
+          "questions": [
+            {
+              "q": "IBS is all in your head",
+              "a": "IBS is a real medical condition involving dysfunction in the gut-brain axis. It has measurable changes in gut motility, sensitivity, and microbiome. Psychological treatments work because they target real nerve pathways, not because the condition is imaginary."
+            },
+            {
+              "q": "IBS will turn into IBD or cancer",
+              "a": "IBS does not cause inflammation, damage the intestine, or increase your risk of inflammatory bowel disease (Crohn's or colitis) or colon cancer. It is a functional condition."
+            },
+            {
+              "q": "You just need more fiber",
+              "a": "The wrong type of fiber can actually make IBS worse. Soluble fiber (like psyllium) tends to help, while insoluble fiber (like wheat bran) can increase bloating and pain. Start low and increase slowly."
+            },
+            {
+              "q": "Probiotics will cure IBS",
+              "a": "Some probiotic strains may help specific symptoms, but there is no single probiotic proven to cure IBS. If you try probiotics, give them 4 weeks and stop if there is no benefit."
+            },
+            {
+              "q": "You need a colonoscopy to diagnose IBS",
+              "a": "IBS is diagnosed based on symptoms (Rome IV criteria) and basic blood work. A colonoscopy is only needed if you have red flag symptoms, are over 50, or need screening for another reason."
+            },
+            {
+              "q": "Everyone with IBS should avoid gluten",
+              "a": "Gluten-free diets help some people with IBS, but often the benefit comes from reducing FODMAPs in wheat, not gluten itself. A low-FODMAP diet is more targeted and evidence-based."
+            },
+            {
+              "q": "Stress causes IBS",
+              "a": "Stress does not cause IBS, but it is a major trigger for symptom flares. Managing stress is an important part of treatment, not because IBS is psychological, but because the gut-brain connection is real."
+            },
+            {
+              "q": "IBS is not a serious condition",
+              "a": "While IBS is not life-threatening, it significantly impacts quality of life. Studies show IBS reduces quality of life as much as diabetes or heart disease. Your symptoms deserve proper treatment."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Red flag symptoms that need medical attention",
+      "icon": "🚨",
+      "color": "rose",
+      "summary": "Most IBS symptoms are manageable, but certain warning signs should always be evaluated by your doctor.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "Blood in your stool (red or black)",
+            "Unintentional weight loss",
+            "Symptoms that wake you from sleep",
+            "New symptoms after age 50",
+            "Progressive difficulty swallowing",
+            "Persistent vomiting",
+            "Fever with abdominal pain",
+            "Family history of colon cancer or IBD with new symptoms"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "text": "These 'red flag' symptoms do not necessarily mean something serious, but they should always be evaluated by your doctor to rule out other conditions."
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Common questions about living with IBS",
+      "icon": "❓",
+      "color": "amber",
+      "summary": "Answers to the most common questions people have about IBS, from diagnosis to daily management.",
+      "content": [
+        {
+          "type": "knowledge-check",
+          "heading": "Test Your Understanding",
+          "items": [
+            {
+              "question": "Does IBS damage your intestines or lead to cancer?",
+              "options": [
+                "Yes, IBS causes permanent damage",
+                "Yes, IBS increases cancer risk",
+                "No — IBS does not damage the intestines or increase cancer risk",
+                "Only IBS-D causes damage"
+              ],
+              "correct": 2,
+              "explanation": "IBS is a functional disorder. While symptoms can be very disruptive, IBS does not cause structural damage to the intestines and does not increase the risk of cancer or IBD."
+            },
+            {
+              "question": "What is the recommended approach to the low-FODMAP diet?",
+              "options": [
+                "Avoid all FODMAPs permanently",
+                "A 3-phase approach: elimination, reintroduction, and personalization",
+                "Only avoid gluten and dairy",
+                "Eat only bland foods"
+              ],
+              "correct": 1,
+              "explanation": "The low-FODMAP diet is a 3-phase process. You eliminate high-FODMAP foods for 2-6 weeks, then systematically reintroduce them to identify your specific triggers. The goal is the least restrictive diet that controls your symptoms."
+            },
+            {
+              "question": "Why might a doctor recommend an antidepressant for IBS?",
+              "options": [
+                "Because IBS is caused by depression",
+                "Because antidepressants can reduce gut sensitivity and pain signals",
+                "Because all IBS patients are anxious",
+                "Antidepressants are never used for IBS"
+              ],
+              "correct": 1,
+              "explanation": "Low-dose antidepressants (TCAs or SSRIs) can reduce the sensitivity of gut nerves and calm pain signaling through the gut-brain axis. This is a well-established treatment for IBS — it does not mean your symptoms are 'in your head.'"
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "questions": [
+            {
+              "q": "Will IBS ever go away?",
+              "a": "For some people IBS improves significantly over time, especially post-infectious IBS. For others it is a chronic condition that can be well-managed. Many people have long periods with few or no symptoms."
+            },
+            {
+              "q": "Should I be tested for celiac disease?",
+              "a": "Yes. Current guidelines recommend that everyone being evaluated for IBS should have a blood test for celiac disease (tTG-IgA), as celiac can mimic IBS symptoms."
+            },
+            {
+              "q": "Do I need a colonoscopy?",
+              "a": "Not necessarily. If you meet Rome IV criteria for IBS and have no red flag symptoms, a colonoscopy may not be needed. Your doctor will decide based on your age, symptoms, and risk factors."
+            },
+            {
+              "q": "Do probiotics help IBS?",
+              "a": "Some probiotics may help specific symptoms, but results are inconsistent. There is no one-size-fits-all probiotic for IBS. If you try one, give it 4 weeks. If no improvement, stop."
+            },
+            {
+              "q": "Can I drink alcohol with IBS?",
+              "a": "Alcohol can trigger IBS symptoms, especially beer and wine. If you choose to drink, keep it moderate and notice how your gut responds. Many people tolerate spirits better than beer or wine."
+            },
+            {
+              "q": "Is a gluten-free diet better than low-FODMAP?",
+              "a": "The low-FODMAP diet has stronger evidence for IBS than a gluten-free diet. Often the benefit people get from going gluten-free is actually from reducing fructans (a FODMAP in wheat) rather than gluten itself."
+            },
+            {
+              "q": "Does exercise help IBS?",
+              "a": "Yes. Regular moderate exercise (like 30 minutes of walking most days) has been shown to significantly improve IBS symptoms including bloating, constipation, and overall quality of life."
+            },
+            {
+              "q": "Can IBS qualify as a disability?",
+              "a": "Severe IBS can significantly impact daily functioning. In Canada, if IBS prevents you from working, you may be eligible for disability benefits. Speak with your doctor about documentation."
+            },
+            {
+              "q": "Does cannabis help IBS?",
+              "a": "There is limited evidence for cannabis in IBS. Some patients report symptom relief, but clinical trials are lacking. THC may slow gut motility which could help IBS-D but worsen IBS-C. Discuss with your doctor."
+            },
+            {
+              "q": "Can IBS cause back pain?",
+              "a": "Yes. Referred pain from the gut can be felt in the lower back. This is common in IBS and does not mean you have a separate back problem."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Guidelines and resources used in this guide",
+      "icon": "📚",
+      "color": "purple",
+      "summary": "Evidence-based guidelines and resources that inform this IBS guide.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            {
+              "text": "Canadian Association of Gastroenterology — IBS Clinical Practice Guideline (2019)"
+            },
+            {
+              "text": "American College of Gastroenterology — IBS Monograph (2021)"
+            },
+            {
+              "text": "Rome Foundation — Rome IV Diagnostic Criteria for Functional GI Disorders (2016)"
+            },
+            {
+              "text": "AGA — Pharmacological Management of IBS Guideline (2022)"
+            },
+            {
+              "text": "Monash University — Low FODMAP Diet Resources"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

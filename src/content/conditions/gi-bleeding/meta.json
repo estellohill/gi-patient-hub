@@ -1,0 +1,18 @@
+{
+  "slug": "gi-bleeding",
+  "title": "GI Bleeding",
+  "shortTitle": "GI Bleeding",
+  "subtitle": "Understanding gastrointestinal bleeding and what to expect",
+  "icon": "\ud83e\ude78",
+  "color": "rose",
+  "description": "Clear, evidence-based information about gastrointestinal bleeding \u2014 what it looks like, common causes, how it is investigated, and when to seek help. Created by a Canadian gastroenterologist.",
+  "category": "lower-gi",
+  "prevalence": "Common",
+  "lastReviewed": "2026-03-29",
+  "guidelines": [
+    { "society": "ACG", "title": "American College of Gastroenterology Guideline on Upper GI Bleeding", "year": 2021 },
+    { "society": "ACG", "title": "American College of Gastroenterology Guideline on Lower GI Bleeding", "year": 2023 },
+    { "society": "ASGE", "title": "ASGE Standards of Practice \u2014 Management of GI Bleeding", "year": 2021 }
+  ],
+  "enabled": true
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "h-pylori",
+  "title": "H. pylori Infection",
+  "shortTitle": "H. pylori",
+  "subtitle": "Understanding and treating Helicobacter pylori",
+  "icon": "\ud83e\udda0",
+  "color": "teal",
+  "description": "Evidence-based information about H. pylori infection \u2014 why treatment matters, what to expect during treatment, side effects, and confirming cure. Created by a Canadian gastroenterologist.",
+  "category": "upper-gi",
+  "prevalence": "Common",
+  "lastReviewed": "2026-03-29",
+  "guidelines": [
+    { "society": "CAG", "title": "Toronto Consensus for H. pylori Treatment", "year": 2016 },
+    { "society": "ACG", "title": "American College of Gastroenterology H. pylori Guideline", "year": 2024 },
+    { "society": "Maastricht", "title": "Maastricht VI/Florence Consensus Report", "year": 2022 }
+  ],
+  "enabled": true
+}

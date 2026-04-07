@@ -1,0 +1,315 @@
+{
+  "hero": {
+    "title": "Capsule Endoscopy",
+    "subtitle": "A tiny camera in a pill to see inside your small bowel",
+    "description": "Capsule endoscopy is a simple, painless test. You swallow a small pill with a camera inside. It takes thousands of pictures as it moves through your digestive system. This helps your doctor look at parts of your small bowel that are hard to reach with a regular scope.",
+    "reassurance": "This is a safe and well-tolerated procedure. Most people say it is one of the easiest tests they have ever had."
+  },
+  "sections": [
+    {
+      "id": "what-is-capsule-endoscopy",
+      "title": "What Is Capsule Endoscopy?",
+      "subtitle": "A pill-sized camera that takes pictures inside your body",
+      "icon": "📷",
+      "color": "teal",
+      "summary": "You swallow a small capsule with a tiny camera. It travels through your digestive system and takes pictures of your small bowel.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Capsule endoscopy uses a vitamin-sized pill that has a tiny camera, a light, and a battery inside. After you swallow it, it travels through your digestive tract on its own. It takes about 2 to 6 pictures every second and sends them wirelessly to a small recorder you wear on a belt. Your doctor reviews the images afterward."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            { "heading": "Pill-sized camera", "text": "The capsule is about the size of a large vitamin pill. It has a tiny camera, LED lights, and a wireless transmitter inside." },
+            { "heading": "Pictures of your small bowel", "text": "It takes thousands of pictures as it passes through your small intestine — a part of your gut that is hard to see with regular scopes." },
+            { "heading": "Painless and easy", "text": "You simply swallow the capsule with water. There are no needles, no sedation, and no tubes." },
+            { "heading": "Takes 8 to 12 hours", "text": "The capsule moves through your system on its own over 8 to 12 hours. You wear a small recording device during this time." },
+            { "heading": "Disposable", "text": "The capsule is single-use. It passes naturally in your stool and is flushed away. You do not need to retrieve it." }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "success",
+          "title": "Good to know",
+          "text": "Capsule endoscopy is one of the most comfortable GI tests. There is no sedation, no pain, and you can go about most of your normal day while the camera does its work."
+        }
+      ]
+    },
+    {
+      "id": "why-you-might-need-one",
+      "title": "Why You Might Need One",
+      "subtitle": "Common reasons your doctor may recommend this test",
+      "icon": "🔍",
+      "color": "blue",
+      "summary": "Your doctor may order capsule endoscopy to find the cause of bleeding, check for Crohn's disease, or look at your small bowel for other problems.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Your doctor may suggest a capsule endoscopy if they need to look closely at your small bowel. The small bowel is about 6 metres (20 feet) long and sits between your stomach and colon. It is too long and winding to see well with a regular scope. The capsule camera is the best way to check it."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            { "heading": "Iron deficiency anemia", "text": "If your iron levels are low and other tests have not found the cause, bleeding in the small bowel may be the reason. Capsule endoscopy can find the source." },
+            { "heading": "Small bowel bleeding", "text": "If you have blood in your stool or dark/tarry stools and upper and lower scopes were normal, the bleeding may be coming from the small bowel." },
+            { "heading": "Crohn's disease assessment", "text": "Capsule endoscopy can check for signs of Crohn's disease in the small bowel, or see how well treatment is working if you already have Crohn's." },
+            { "heading": "Celiac disease follow-up", "text": "If you have celiac disease and symptoms are not improving with a gluten-free diet, the capsule can check for ongoing damage or complications." },
+            { "heading": "Small bowel tumors", "text": "Although rare, tumors can grow in the small bowel. The capsule can help find polyps, growths, or other abnormalities." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "preparation",
+      "title": "Preparation",
+      "subtitle": "How to get ready for your capsule endoscopy",
+      "icon": "📋",
+      "color": "amber",
+      "summary": "Preparation is simpler than for a colonoscopy. You will need to follow a clear liquid diet and fast before the test.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Getting ready for capsule endoscopy is straightforward. The goal is to have a clean small bowel so the camera gets clear pictures. Your doctor's office will give you specific instructions, but here is what to expect."
+        },
+        {
+          "type": "checklist",
+          "heading": "Preparation checklist",
+          "storageKey": "capsule-prep",
+          "items": [
+            "Talk to your doctor about all your medications, especially iron pills and blood thinners",
+            "Pick up any prep solution prescribed by your doctor",
+            "Stock up on clear liquids (water, broth, apple juice, Jell-O)",
+            "Charge your phone and bring something to do during the test day",
+            "Arrange for someone to return the recorder belt if required",
+            "Shave your abdomen if instructed (helps sensor pads stick better)",
+            "Set an alarm for the morning of the test"
+          ]
+        },
+        {
+          "type": "phases",
+          "phases": [
+            {
+              "phase": "Day before",
+              "icon": "🌅",
+              "items": [
+                "Eat a light breakfast and lunch — avoid seeds, nuts, and raw vegetables",
+                "Switch to clear liquids only after lunch (usually by 2:00 PM)",
+                "Some doctors may ask you to drink a small prep solution in the evening",
+                "Do not eat any solid food after starting clear liquids"
+              ]
+            },
+            {
+              "phase": "Morning of the test",
+              "icon": "🌄",
+              "items": [
+                "Do not eat or drink anything for at least 8 to 12 hours before the test (your doctor will tell you the exact time)",
+                "Take only essential medications with a small sip of water",
+                "Wear comfortable, loose-fitting two-piece clothing (you will need access to your waist for the recorder belt)",
+                "Arrive at your appointment on time"
+              ]
+            },
+            {
+              "phase": "During the test",
+              "icon": "⏳",
+              "items": [
+                "Sensor pads will be placed on your abdomen and connected to a recorder belt",
+                "You will swallow the capsule with water",
+                "You may sip clear liquids after 2 hours",
+                "You may eat a light snack after 4 hours",
+                "Keep the recorder belt on and avoid getting it wet"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Medication adjustments",
+          "text": "Tell your doctor about all your medications. Iron supplements should be stopped at least 5 days before. Blood thinners, diabetes medications, and other drugs may need to be adjusted. Never stop a medication without your doctor's guidance."
+        }
+      ]
+    },
+    {
+      "id": "what-to-expect",
+      "title": "What to Expect",
+      "subtitle": "Step-by-step: what happens on the day of the test",
+      "icon": "🗓️",
+      "color": "green",
+      "summary": "You swallow the capsule, wear a recorder belt, go about your day, and return the equipment. Most people find it very easy.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "The test itself is simple and painless. You will spend a short time at the clinic in the morning, then carry on with most of your normal activities for the rest of the day."
+        },
+        {
+          "type": "steps",
+          "heading": "What happens step by step",
+          "steps": [
+            "A nurse or technician will place small sensor pads on your abdomen and connect them to a data recorder worn on a belt around your waist.",
+            "You will swallow the capsule with a glass of water. It is about the size of a large vitamin and goes down easily.",
+            "You can leave the clinic and go about most normal activities — walking, reading, light work. Avoid heavy exercise, bending, or lifting.",
+            "After about 8 hours (or as instructed), you will return to the clinic to have the recorder belt removed. Some clinics let you remove it at home.",
+            "The capsule passes naturally in your stool, usually within 24 to 72 hours. It is disposable — simply flush it away."
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "The capsule is disposable",
+          "text": "You do not need to look for or retrieve the capsule. It is designed to pass on its own and be flushed. It is single-use and contains no harmful materials."
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Signs to watch for after swallowing the capsule",
+      "icon": "🚨",
+      "color": "red",
+      "summary": "Complications are rare, but contact your doctor right away if you have abdominal pain, vomiting, fever, or if the capsule has not passed after two weeks.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "New or worsening abdominal pain, cramping, or bloating that does not go away",
+            "Nausea or vomiting after swallowing the capsule",
+            "The capsule has not passed in your stool after 2 weeks — contact your doctor",
+            "Difficulty swallowing the capsule or a feeling that it is stuck in your throat",
+            "Fever, chills, or signs of infection after the procedure"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common questions about capsule endoscopy",
+      "icon": "❓",
+      "color": "purple",
+      "summary": "Get answers to the most common questions patients ask about capsule endoscopy.",
+      "content": [
+        {
+          "type": "faq",
+          "questions": [
+            {
+              "q": "Is capsule endoscopy painful?",
+              "a": "No. Swallowing the capsule feels like swallowing a large vitamin pill. You will not feel it once it is in your stomach. There is no sedation and no discomfort as it travels through your system."
+            },
+            {
+              "q": "Where does the capsule go after I swallow it?",
+              "a": "The capsule travels from your mouth to your stomach, then through your small intestine and into your colon. It passes naturally in your stool, usually within 24 to 72 hours."
+            },
+            {
+              "q": "Can the capsule get stuck?",
+              "a": "In rare cases (about 1 to 2% of patients), the capsule can get held up in a narrowed part of the small bowel. This is more common in people with known Crohn's disease or prior abdominal surgery. Your doctor will assess your risk before the test."
+            },
+            {
+              "q": "Can I do normal activities during the test?",
+              "a": "Yes, you can do most normal activities like walking, reading, and light work. Avoid vigorous exercise, swimming, heavy lifting, and bending over. Do not get the recorder belt wet."
+            },
+            {
+              "q": "Can I have an MRI after capsule endoscopy?",
+              "a": "You should not have an MRI until you are sure the capsule has passed. Most modern capsules are MRI-safe once confirmed to have passed. Tell any doctor who orders an MRI that you recently had a capsule endoscopy."
+            },
+            {
+              "q": "When will I get my results?",
+              "a": "Your doctor needs to review thousands of images, which takes time. Results are usually available within 1 to 2 weeks. Your doctor's office will contact you to discuss the findings."
+            },
+            {
+              "q": "Does the capsule have a taste?",
+              "a": "No. The capsule has a smooth, plastic coating and no taste. You swallow it quickly with water, just like a pill."
+            },
+            {
+              "q": "What if I don't pass the capsule?",
+              "a": "If the capsule has not passed after 2 weeks, contact your doctor. An X-ray can check where it is. In most cases, it will pass on its own. Rarely, it may need to be removed with a scope or, very rarely, surgery."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "knowledge-check",
+      "title": "Knowledge Check",
+      "subtitle": "Test your understanding of capsule endoscopy",
+      "icon": "🧠",
+      "color": "indigo",
+      "summary": "A quick quiz to make sure you feel prepared and informed about your capsule endoscopy.",
+      "content": [
+        {
+          "type": "knowledge-check",
+          "items": [
+            {
+              "question": "How is the capsule endoscopy camera given to you?",
+              "options": [
+                "You swallow a pill-sized capsule with water",
+                "It is inserted through a tube in your nose",
+                "It is placed during a colonoscopy",
+                "It is injected into your abdomen"
+              ],
+              "correct": 0,
+              "explanation": "Capsule endoscopy is as simple as swallowing a large vitamin pill with a glass of water. No tubes, needles, or sedation are needed."
+            },
+            {
+              "question": "What should you do with the capsule after it passes in your stool?",
+              "options": [
+                "Bring it back to the clinic",
+                "Clean it and save it",
+                "Simply flush it — it is disposable",
+                "Put it in a special container"
+              ],
+              "correct": 2,
+              "explanation": "The capsule is single-use and disposable. It passes naturally in your stool and you simply flush it away. There is no need to retrieve it."
+            },
+            {
+              "question": "When should you contact your doctor after the test?",
+              "options": [
+                "Only when your results are ready",
+                "If you have new abdominal pain, vomiting, or the capsule has not passed after 2 weeks",
+                "You never need to contact your doctor",
+                "Only if you see the capsule in your stool"
+              ],
+              "correct": 1,
+              "explanation": "While complications are rare, you should contact your doctor right away if you develop abdominal pain, vomiting, fever, or if the capsule has not passed within 2 weeks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Evidence-based sources for this information",
+      "icon": "📚",
+      "color": "gray",
+      "summary": "Guidelines and resources used to create this patient education content.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            {
+              "text": "ASGE Standards of Practice Committee. Small Bowel Capsule Endoscopy. Gastrointest Endosc. 2023.",
+              "url": "https://www.asge.org/home/practice-and-quality/practice-guidelines"
+            },
+            {
+              "text": "ACG Clinical Guideline: Diagnosis and Management of Small Bowel Bleeding. Am J Gastroenterol. 2023.",
+              "url": "https://journals.lww.com/ajg/pages/default.aspx"
+            },
+            {
+              "text": "Canadian Association of Gastroenterology Position Statement on Capsule Endoscopy. 2022.",
+              "url": "https://www.cag-acg.org/publications"
+            },
+            {
+              "text": "Enns RA et al. Clinical Practice Guidelines for the Use of Video Capsule Endoscopy. Gastroenterology. 2017;152(3):497-514.",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/28063287/"
+            },
+            {
+              "text": "Canadian Digestive Health Foundation — Capsule Endoscopy Patient Information.",
+              "url": "https://cdhf.ca/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

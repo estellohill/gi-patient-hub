@@ -1,0 +1,18 @@
+{
+  "slug": "fit-test",
+  "title": "FIT Test (Stool Test)",
+  "shortTitle": "FIT Test",
+  "subtitle": "A simple at-home test to screen for colon cancer",
+  "icon": "🧪",
+  "color": "teal",
+  "description": "Clear, evidence-based information about the FIT test (fecal immunochemical test) — how to do it, what results mean, and next steps. Created by a Canadian gastroenterologist.",
+  "category": "procedure",
+  "prevalence": "Very Common",
+  "lastReviewed": "2026-03-30",
+  "guidelines": [
+    { "society": "CTFPHC", "title": "Canadian Task Force: Colorectal Cancer Screening", "year": 2024 },
+    { "society": "CCS", "title": "Canadian Cancer Society: Screening Recommendations", "year": 2024 },
+    { "society": "USPSTF", "title": "USPSTF Colorectal Cancer Screening", "year": 2021 }
+  ],
+  "enabled": true
+}

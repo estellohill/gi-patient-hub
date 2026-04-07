@@ -1,0 +1,18 @@
+{
+  "slug": "diverticular-disease",
+  "title": "Diverticulosis / Diverticulitis",
+  "shortTitle": "Diverticular Disease",
+  "subtitle": "Understanding diverticulosis and diverticulitis — what they mean and how to stay well",
+  "icon": "🫘",
+  "color": "orange",
+  "description": "Clear, evidence-based information about diverticular disease — what diverticulosis and diverticulitis are, how they are treated, diet advice, and when to seek help. Created by a Canadian gastroenterologist.",
+  "category": "lower-gi",
+  "prevalence": "Very Common",
+  "lastReviewed": "2026-03-29",
+  "guidelines": [
+    { "society": "AGA", "title": "AGA Clinical Practice Guideline on the Management of Acute Diverticulitis", "year": 2021 },
+    { "society": "ACG", "title": "American College of Gastroenterology Clinical Guideline: Diverticular Disease", "year": 2024 },
+    { "society": "CMA", "title": "Canadian Medical Association Practice Guidelines — Diverticular Disease", "year": 2023 }
+  ],
+  "enabled": true
+}

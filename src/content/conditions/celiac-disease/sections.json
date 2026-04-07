@@ -1,0 +1,269 @@
+{
+  "hero": {
+    "title": "Celiac Disease",
+    "subtitle": "Understanding celiac disease and the gluten-free diet",
+    "description": "Everything you need to know about living well with celiac disease \u2014 from setting up a safe gluten-free kitchen to monitoring your health and screening your family. Clear, trustworthy information to help you take control.",
+    "reassurance": "Celiac disease is entirely managed by diet. Once you remove gluten, your intestine heals and your symptoms resolve."
+  },
+  "sections": [
+    {
+      "id": "what-is-celiac",
+      "title": "What Is Celiac Disease?",
+      "subtitle": "How celiac disease affects your body and how it is diagnosed",
+      "icon": "\ud83c\udf3e",
+      "color": "amber",
+      "summary": "Celiac disease is an immune reaction to gluten that damages the lining of the small intestine. It is common, runs in families, and is diagnosed with blood tests and a biopsy.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Celiac disease is a condition where your immune system reacts to gluten \u2014 a protein found in wheat, barley, and rye. When someone with celiac disease eats gluten, the immune system attacks the lining of the small intestine, damaging tiny finger-like structures called villi. These villi are what help your body absorb nutrients from food. Over time, this damage can lead to poor nutrient absorption, digestive symptoms, and other health problems. Celiac disease affects about 1 in 100 Canadians, though many remain undiagnosed."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            { "heading": "Not an allergy or intolerance", "text": "Celiac disease is an autoimmune condition. It is different from a wheat allergy or gluten sensitivity. In celiac disease, even tiny amounts of gluten cause real damage to the intestine." },
+            { "heading": "Common and often missed", "text": "About 1 in 100 people have celiac disease, but many do not know it. Symptoms can be subtle \u2014 fatigue, iron deficiency, or bone thinning \u2014 and some people have no digestive symptoms at all." },
+            { "heading": "Runs in families", "text": "If you have celiac disease, your first-degree relatives (parents, siblings, children) have about a 1 in 10 chance of having it too. Family screening is important." },
+            { "heading": "Must be eating gluten to diagnose", "text": "Blood tests and biopsies only work if you are still eating gluten. Do not start a gluten-free diet before testing is complete, or the results may be falsely negative." }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "How is celiac disease diagnosed?",
+          "text": "Diagnosis usually starts with a blood test called tissue transglutaminase IgA (tTG-IgA). If this test is positive, your doctor will refer you for an upper endoscopy with small intestine biopsies to confirm the diagnosis. It is very important that you keep eating gluten until all testing is done. Stopping gluten early can cause the blood test and biopsy to look normal, even if you truly have celiac disease. In Canada, both the blood test and endoscopy are covered by your provincial health plan when ordered by your doctor."
+        }
+      ]
+    },
+    {
+      "id": "gluten-free-diet",
+      "title": "The Gluten-Free Diet",
+      "subtitle": "Your most important treatment \u2014 and how to do it right",
+      "icon": "\ud83e\udd66",
+      "color": "emerald",
+      "summary": "A strict, lifelong gluten-free diet is the only treatment for celiac disease. Learning which foods are safe, how to read labels, and how to set up your kitchen will help you succeed.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "The gluten-free diet is not just a lifestyle choice \u2014 it is your treatment. Removing all gluten from your diet allows your small intestine to heal, your symptoms to improve, and your nutrient levels to recover. For most people, the intestine begins to heal within weeks and is fully recovered within 6 to 18 months. The diet is strict \u2014 even small amounts of gluten can cause damage \u2014 but with the right knowledge, it becomes second nature."
+        },
+        {
+          "type": "allowed-avoid",
+          "heading": "Gluten-Free Food Swaps",
+          "allowed": [
+            "Rice, quinoa, corn, millet, buckwheat, sorghum",
+            "Potatoes and sweet potatoes",
+            "All fresh fruits and vegetables",
+            "Plain meat, fish, poultry, and eggs",
+            "Beans, lentils, and legumes",
+            "Dairy products (plain milk, cheese, yogurt)",
+            "Nuts and seeds (plain, unprocessed)",
+            "Certified gluten-free oats",
+            "Gluten-free bread, pasta, and flour blends",
+            "Corn tortillas"
+          ],
+          "avoid": [
+            "Wheat (including spelt, kamut, semolina, durum)",
+            "Barley (including malt, malt vinegar, malt flavoring)",
+            "Rye and triticale",
+            "Regular bread, pasta, cereal, and baked goods",
+            "Beer and ale (unless labelled gluten-free)",
+            "Couscous and bulgur",
+            "Soy sauce (unless labelled gluten-free)",
+            "Many processed soups, sauces, and gravies",
+            "Breaded or battered foods",
+            "Communion wafers (gluten-free options are available)"
+          ]
+        },
+        {
+          "type": "checklist",
+          "heading": "Gluten-Free Pantry Setup Checklist",
+          "storageKey": "celiac-pantry-checklist",
+          "items": [
+            "Remove all gluten-containing products from your pantry or designate a separate gluten-free shelf",
+            "Buy a separate toaster (or use toaster bags) \u2014 crumbs in a shared toaster can contaminate gluten-free bread",
+            "Get a separate colander, cutting board, and wooden spoons for gluten-free cooking",
+            "Replace shared butter, peanut butter, and jam jars (or use squeeze bottles to avoid crumb contamination)",
+            "Stock gluten-free basics: rice, certified GF oats, GF pasta, GF flour blend, GF soy sauce",
+            "Check all spice mixes and seasonings for hidden gluten or wheat starch",
+            "Download a gluten-free scanner app (such as the Canadian Celiac Association app) for grocery shopping",
+            "Learn to read the Health Canada allergen label \u2014 wheat, barley, rye, and oats must be declared"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "A note about oats",
+          "text": "Oats do not naturally contain gluten, but they are very often contaminated with wheat during growing and processing. In Canada, only oats labelled 'gluten-free' are considered safe for people with celiac disease. Even with certified gluten-free oats, a small number of people with celiac disease may still react. Introduce them slowly and discuss with your doctor."
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Canadian labelling rules work in your favour",
+          "text": "In Canada, Health Canada requires that all pre-packaged foods clearly declare wheat, barley, rye, oats, and triticale (or their derivatives) on the ingredient list. A product labelled 'gluten-free' must contain less than 20 parts per million of gluten \u2014 the international safety standard. Look for the 'gluten-free' claim and always check the ingredient list and 'Contains' statement."
+        }
+      ]
+    },
+    {
+      "id": "hidden-sources",
+      "title": "Hidden Sources of Gluten",
+      "subtitle": "Surprising places where gluten can hide",
+      "icon": "\ud83d\udd0d",
+      "color": "rose",
+      "summary": "Gluten is not just in bread and pasta. It can hide in medications, cosmetics, sauces, and many processed products. Knowing where to look protects your health.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "One of the trickiest parts of living gluten-free is that gluten can show up in places you would never expect. Wheat and barley derivatives are used as thickeners, flavourings, and fillers in many everyday products. Learning to spot these hidden sources is an important part of staying safe and keeping your intestine healed."
+        },
+        {
+          "type": "risk-table",
+          "heading": "Common Hidden Sources of Gluten",
+          "items": [
+            { "name": "Medications and supplements", "risk": "Moderate", "description": "Some pills and capsules use wheat starch as a filler. In Canada, ask your pharmacist to check if your medications are gluten-free. Most major brands are, but always verify." },
+            { "name": "Sauces and condiments", "risk": "High", "description": "Soy sauce, teriyaki sauce, salad dressings, and gravies often contain wheat. Look for gluten-free versions or make your own." },
+            { "name": "Processed meats", "risk": "Moderate", "description": "Deli meats, sausages, hot dogs, and meatballs may contain wheat-based fillers or breadcrumbs. Check labels carefully." },
+            { "name": "Soups and broths", "risk": "Moderate", "description": "Many canned and packaged soups use wheat flour as a thickener. Choose products with a gluten-free label." },
+            { "name": "Cosmetics and lip products", "risk": "Low", "description": "Lipstick, lip balm, and some lotions may contain wheat-derived ingredients. While skin absorption is not a concern, anything near your mouth could be ingested." },
+            { "name": "Communion wafers and play dough", "risk": "High", "description": "Traditional communion wafers contain wheat. Gluten-free options are available at many churches. Children's play dough contains wheat \u2014 use a gluten-free recipe." },
+            { "name": "Restaurant cross-contact", "risk": "High", "description": "Shared fryers, grills, and prep surfaces can contaminate gluten-free food. When eating out, communicate clearly and choose restaurants that understand celiac disease." }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Cross-contact vs. cross-contamination",
+          "text": "You may hear both terms. Cross-contact means gluten-containing food touches or shares equipment with gluten-free food \u2014 for example, using the same toaster for regular and gluten-free bread. Even trace amounts transferred this way can damage the intestine. This is why separate kitchen tools and careful restaurant choices matter. The Canadian Celiac Association recommends communicating the word 'celiac' (not just 'gluten-free preference') when eating out, so staff understand the medical seriousness."
+        }
+      ]
+    },
+    {
+      "id": "nutritional-monitoring",
+      "title": "Nutritional Monitoring",
+      "subtitle": "Follow-up tests and nutrients to watch",
+      "icon": "\ud83e\ude78",
+      "color": "blue",
+      "summary": "After diagnosis, regular blood work and check-ups help make sure your intestine is healing, your diet is working, and you are getting the nutrients you need.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Once you start a gluten-free diet, your doctor will schedule follow-up visits to make sure you are healing well and not developing any nutritional deficiencies. Celiac disease can affect the absorption of several important nutrients, especially before the intestine has fully recovered. Regular monitoring helps catch and correct any problems early."
+        },
+        {
+          "type": "frequency-table",
+          "heading": "Recommended Follow-Up Schedule",
+          "items": [
+            { "scenario": "tTG-IgA blood test (to check healing)", "interval": "Every 6 months until normal, then yearly" },
+            { "scenario": "Iron and ferritin levels", "interval": "At diagnosis and every 6 to 12 months" },
+            { "scenario": "Vitamin D level", "interval": "At diagnosis and yearly" },
+            { "scenario": "Vitamin B12 and folate", "interval": "At diagnosis and as needed" },
+            { "scenario": "Bone density scan (DEXA)", "interval": "At diagnosis if adult, repeat based on results" },
+            { "scenario": "Thyroid function (TSH)", "interval": "At diagnosis and every 1 to 2 years (autoimmune thyroid disease is more common)" },
+            { "scenario": "Dietitian review", "interval": "At diagnosis, 3 to 6 months, then yearly or as needed" }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "What your tTG level tells you",
+          "text": "The tTG-IgA blood test is the best way to track whether your gluten-free diet is working. After starting the diet, your tTG level should gradually fall toward normal. If it stays elevated or rises again, it usually means gluten is still getting into your diet \u2014 often from a hidden source. A dietitian experienced in celiac disease can help you find and fix the problem."
+        }
+      ]
+    },
+    {
+      "id": "family-screening",
+      "title": "Family Screening",
+      "subtitle": "Why your relatives should be tested",
+      "icon": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66",
+      "color": "indigo",
+      "summary": "Celiac disease runs in families. First-degree relatives have about a 1 in 10 chance of having it, even without obvious symptoms. Screening with a simple blood test can catch it early.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Celiac disease has a strong genetic component. If you have been diagnosed, your parents, siblings, and children each have roughly a 10% chance of having celiac disease too \u2014 that is 10 times higher than the general population. Many of these relatives may have no obvious symptoms, or they may have subtle signs they never connected to celiac disease, such as fatigue, iron deficiency, or mouth ulcers. Screening is simple and can prevent years of undiagnosed damage."
+        },
+        {
+          "type": "key-points",
+          "heading": "Who should be screened",
+          "points": [
+            { "heading": "First-degree relatives", "text": "Parents, siblings, and children of someone with celiac disease should all be tested with a tTG-IgA blood test, even if they feel perfectly well." },
+            { "heading": "Second-degree relatives with symptoms", "text": "Aunts, uncles, cousins, and grandchildren who have any symptoms (digestive or otherwise) should also be tested." },
+            { "heading": "Children", "text": "Children of a parent with celiac disease can be screened from around age 2 to 3, or earlier if they develop symptoms. Testing may need to be repeated during childhood as the disease can develop over time." },
+            { "heading": "Those with related conditions", "text": "Relatives who have type 1 diabetes, autoimmune thyroid disease, or unexplained iron deficiency should be especially encouraged to get tested." }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "They must be eating gluten before testing",
+          "text": "Just like your own diagnosis, family members must be eating a regular gluten-containing diet for the blood test to be accurate. If someone has already gone gluten-free on their own, they will need to do a gluten challenge (eating gluten daily for several weeks) before testing. Talk to the doctor about how to do this safely."
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Signs that something needs attention",
+      "icon": "\ud83d\udea8",
+      "color": "rose",
+      "summary": "Most people with celiac disease do very well on a gluten-free diet. But certain symptoms mean you should check in with your doctor.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "Symptoms that are not improving after 6 to 12 months of a strict gluten-free diet",
+            "Your tTG-IgA blood test is not coming down despite following the diet carefully",
+            "New or worsening diarrhea, abdominal pain, or bloating",
+            "Unexplained weight loss or ongoing fatigue",
+            "Signs of nutritional deficiency (unusual bruising, tingling in hands or feet, bone pain)",
+            "Skin rash with intensely itchy blisters (this could be dermatitis herpetiformis, the skin form of celiac disease)",
+            "You are struggling to follow the gluten-free diet or feel overwhelmed \u2014 ask for a referral to a celiac-experienced dietitian"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common questions about celiac disease",
+      "icon": "\u2753",
+      "color": "amber",
+      "summary": "Got questions about celiac disease? Here are clear answers to the things patients ask most often.",
+      "content": [
+        {
+          "type": "faq",
+          "questions": [
+            { "q": "Is celiac disease lifelong?", "a": "Yes. Celiac disease is a permanent condition. You will need to follow a strict gluten-free diet for life. The good news is that as long as you avoid gluten, your intestine stays healed and you can live a completely normal, healthy life." },
+            { "q": "Can I eat just a little bit of gluten?", "a": "No. Even small amounts of gluten \u2014 as little as a crumb of bread \u2014 can trigger the immune response and damage your intestine, even if you do not feel symptoms right away. Strict avoidance is essential for your long-term health." },
+            { "q": "Can I eat oats?", "a": "Most people with celiac disease can safely eat oats, but only if they are certified gluten-free. Regular oats are almost always contaminated with wheat during growing or processing. In Canada, look for products specifically labelled 'gluten-free oats.' Start with a small amount and discuss with your doctor." },
+            { "q": "How serious is celiac disease if left untreated?", "a": "Untreated celiac disease can lead to iron deficiency anemia, osteoporosis, vitamin deficiencies, infertility, and in rare cases, a type of intestinal lymphoma. It is also linked to other autoimmune conditions. The earlier you are diagnosed and start treatment, the better the outcomes." },
+            { "q": "What happens if I accidentally eat gluten?", "a": "An accidental exposure may cause symptoms like bloating, diarrhea, or stomach pain within hours. Some people have no noticeable symptoms at all. There is no medication to take \u2014 the best approach is to drink water, rest, and return to your strict gluten-free diet. A single accidental exposure will not undo months of healing, but repeated exposures can." },
+            { "q": "Do I need separate cookware and a separate kitchen?", "a": "You do not need a completely separate kitchen, but you do need some dedicated items. A separate toaster, colander, cutting board, and wooden spoons are recommended because these items are hard to clean thoroughly. Shared pots, pans, and dishes are fine as long as they are washed well between uses." },
+            { "q": "How do I eat safely at restaurants?", "a": "Choose restaurants that understand celiac disease and have gluten-free options. Tell your server you have celiac disease (not just a preference) so the kitchen takes precautions against cross-contact. Ask about shared fryers and cooking surfaces. The Canadian Celiac Association website lists celiac-friendly restaurants across Canada." },
+            { "q": "Is celiac disease the same as gluten sensitivity?", "a": "No. Celiac disease is an autoimmune condition with measurable intestinal damage and specific blood markers. Non-celiac gluten sensitivity can cause similar symptoms but does not damage the intestine or show up on celiac blood tests. The distinction matters because celiac disease requires strict lifelong avoidance and medical monitoring." },
+            { "q": "Should my children be tested?", "a": "Yes. Children of a parent with celiac disease have about a 1 in 10 chance of developing it. They can be screened with a simple blood test starting around age 2 to 3, or earlier if symptoms develop. Because celiac disease can appear later in childhood, negative results in young children may need to be repeated." },
+            { "q": "Are gluten-free products healthier?", "a": "Not necessarily. Many gluten-free packaged products are higher in sugar, fat, and calories and lower in fibre than their regular counterparts. Focus on naturally gluten-free whole foods \u2014 fruits, vegetables, rice, potatoes, meat, fish, and legumes \u2014 rather than relying on processed gluten-free substitutes." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Guidelines and resources used in this guide",
+      "icon": "\ud83d\udcda",
+      "color": "amber",
+      "summary": "This guide is based on current Canadian and international celiac disease guidelines.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            { "text": "Canadian Association of Gastroenterology \u2014 Position Statement on Celiac Disease (2023)" },
+            { "text": "American College of Gastroenterology \u2014 Clinical Guideline for Celiac Disease (2023)" },
+            { "text": "Canadian Celiac Association \u2014 Patient Education Resources (canadianceliac.ca)" },
+            { "text": "Health Canada \u2014 Gluten-Free Claims and Food Allergen Labelling Regulations (2023)" },
+            { "text": "World Gastroenterology Organisation \u2014 Global Guidelines on Celiac Disease (2023)" }
+          ]
+        }
+      ]
+    }
+  ]
+}

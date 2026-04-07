@@ -1,0 +1,17 @@
+{
+  "slug": "hemorrhoids",
+  "title": "Hemorrhoids",
+  "shortTitle": "Hemorrhoids",
+  "subtitle": "A very common condition that is treatable and nothing to be embarrassed about",
+  "icon": "🩹",
+  "color": "rose",
+  "description": "Clear, evidence-based information about hemorrhoids — what they are, home treatments, medical procedures, and when to see your doctor. Created by a Canadian gastroenterologist.",
+  "category": "lower-gi",
+  "prevalence": "Very Common",
+  "lastReviewed": "2026-03-29",
+  "guidelines": [
+    { "society": "ACG", "title": "American College of Gastroenterology Clinical Guideline: Management of Benign Anorectal Disorders", "year": 2021 },
+    { "society": "ASCRS", "title": "American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Management of Hemorrhoids", "year": 2018 }
+  ],
+  "enabled": true
+}

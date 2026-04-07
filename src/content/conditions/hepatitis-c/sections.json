@@ -1,0 +1,212 @@
+{
+  "hero": {
+    "title": "Hepatitis C",
+    "subtitle": "A curable liver infection \u2014 what you need to know",
+    "description": "Everything you need to know about hepatitis C \u2014 how it is found, how it is cured, and what to expect after treatment. Clear, trustworthy information to help you feel confident and informed.",
+    "reassurance": "Hepatitis C is now curable. A simple 8\u201312 week course of pills cures over 95% of patients with minimal side effects."
+  },
+  "sections": [
+    {
+      "id": "what-is-hepatitis-c",
+      "title": "What Is Hepatitis C?",
+      "subtitle": "Understanding the virus and why a cure changes everything",
+      "icon": "\ud83e\udec0",
+      "color": "indigo",
+      "summary": "Hepatitis C is a virus that infects the liver. The good news is that it is now curable with a short course of pills.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Hepatitis C is a virus (often called HCV) that infects the liver. It spreads through blood-to-blood contact. Many people with hepatitis C do not feel sick for years, which is why it is sometimes called a \"silent\" infection. Over time, the virus can slowly damage the liver if it is not treated. The most important thing to know is this: hepatitis C is now curable. Modern treatments are simple, effective, and well tolerated."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            { "heading": "Curable", "text": "Hepatitis C can be completely cured with 8 to 12 weeks of pills. Over 95% of people who take treatment are cured." },
+            { "heading": "Often silent", "text": "Many people have hepatitis C for years without knowing it. You do not need to feel sick to have it \u2014 a simple blood test is all it takes to find out." },
+            { "heading": "Spread through blood only", "text": "Hepatitis C is spread through blood-to-blood contact. It is NOT spread by hugging, kissing, sharing food, or casual contact." },
+            { "heading": "Treatment is covered", "text": "In Canada, hepatitis C treatment is covered by provincial drug plans for all patients, regardless of the stage of liver disease." }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "success",
+          "title": "Hepatitis C is curable",
+          "text": "This is one of the greatest success stories in modern medicine. Until 2014, treatment required painful injections and had many side effects. Today, a short course of pills cures the vast majority of patients. If you have hepatitis C, a cure is within reach."
+        }
+      ]
+    },
+    {
+      "id": "getting-tested",
+      "title": "Getting Tested",
+      "subtitle": "How hepatitis C is found and who should be tested",
+      "icon": "\ud83e\ude78",
+      "color": "blue",
+      "summary": "Testing for hepatitis C is simple. A blood test checks for the virus, and further tests help your doctor plan the best treatment.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Finding hepatitis C early means it can be cured before it causes significant liver damage. Testing is straightforward \u2014 it starts with a simple blood test. If the first test is positive, a few more blood tests and a liver scan help your doctor understand your situation and plan your treatment."
+        },
+        {
+          "type": "steps",
+          "heading": "The Testing Process",
+          "steps": [
+            "Hepatitis C antibody test \u2014 a blood test that checks if you have ever been exposed to the virus. A positive result means your body has seen the virus at some point.",
+            "HCV RNA test (viral load) \u2014 if the antibody test is positive, this test checks if the virus is still active in your blood. Some people clear the virus on their own; this test tells you if you still have it.",
+            "Genotype test \u2014 identifies which strain of the virus you have. This helps your doctor choose the best medication, though most modern treatments work on all strains.",
+            "Liver assessment (FibroScan or blood tests) \u2014 checks how healthy your liver is. A FibroScan is a painless scan that measures liver stiffness. This helps your doctor understand if the virus has caused any scarring."
+          ]
+        },
+        {
+          "type": "key-points",
+          "heading": "Who Should Be Tested",
+          "points": [
+            { "heading": "Born between 1945 and 1975", "text": "This age group (sometimes called the baby boomer generation) has the highest rates of hepatitis C in Canada. Many were infected before routine blood screening began in 1992." },
+            { "heading": "Received blood products before 1992", "text": "Blood transfusions and organ transplants before 1992 were not screened for hepatitis C." },
+            { "heading": "Current or past injection drug use", "text": "Even one-time use carries risk. Testing is recommended regardless of how long ago it happened." },
+            { "heading": "Born in a high-prevalence country", "text": "Some regions of the world have higher rates of hepatitis C, including parts of Africa, the Middle East, Central Asia, and Eastern Europe." },
+            { "heading": "HIV positive", "text": "People living with HIV are at higher risk for hepatitis C co-infection and should be tested." },
+            { "heading": "Incarceration history", "text": "Hepatitis C rates are higher among people who have spent time in correctional facilities." },
+            { "heading": "Tattoos or piercings in unregulated settings", "text": "Equipment that is not properly sterilized can transmit the virus." },
+            { "heading": "Children born to mothers with hepatitis C", "text": "The virus can sometimes be passed from mother to baby during birth." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "treatment-the-cure",
+      "title": "Treatment \u2014 The Cure",
+      "subtitle": "How hepatitis C is cured with modern medications",
+      "icon": "\ud83d\udc8a",
+      "color": "emerald",
+      "summary": "Hepatitis C is cured with a short course of pills. Treatment is simple, well tolerated, and cures over 95% of patients.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Hepatitis C treatment has been completely transformed. The old treatment involved weekly injections of interferon that lasted up to a year and caused severe side effects. That era is over. Today, hepatitis C is cured with direct-acting antiviral (DAA) pills taken once a day for 8 to 12 weeks. Side effects are mild, and the cure rate is over 95%. Your doctor will choose the best medication based on your virus strain, liver health, and any other medications you take."
+        },
+        {
+          "type": "medication-table",
+          "heading": "Common Hepatitis C Medications",
+          "items": [
+            { "med": "Epclusa (sofosbuvir / velpatasvir)", "note": "One pill, once daily for 12 weeks. Works on all genotypes (strains) of hepatitis C. One of the most commonly used treatments in Canada." },
+            { "med": "Mavyret (glecaprevir / pibrentasvir)", "note": "Three pills, once daily for 8 weeks (in many cases). Works on all genotypes. May be the shortest treatment option for patients without cirrhosis." },
+            { "med": "Harvoni (ledipasvir / sofosbuvir)", "note": "One pill, once daily for 8 to 12 weeks. Primarily used for genotype 1, the most common strain in Canada." }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "What does SVR mean? It means you are cured.",
+          "text": "After you finish treatment, your doctor will check your blood 12 weeks later. If the virus is no longer detected, this is called a sustained virological response, or SVR. An SVR means the virus has been completely eliminated from your body. In simple terms, SVR equals cure. Once you achieve SVR, the hepatitis C virus will not come back on its own. You are cured."
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "A world of difference from old treatments",
+          "text": "If you or someone you know had a bad experience with the old interferon-based treatment, please know that today's treatments are completely different. Modern pills have very few side effects \u2014 the most common are mild fatigue and headache. Most people continue their normal activities throughout treatment without any problems."
+        }
+      ]
+    },
+    {
+      "id": "after-cure",
+      "title": "After Cure",
+      "subtitle": "What happens once hepatitis C is cured",
+      "icon": "\u2705",
+      "color": "teal",
+      "summary": "Once cured, you no longer have hepatitis C. However, some people need ongoing monitoring depending on their liver health.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Being cured of hepatitis C is a major milestone. The virus is gone from your body and will not come back on its own. However, being cured does not make you immune \u2014 you can be reinfected if you are exposed to the virus again. If your liver had any scarring (fibrosis) before treatment, your doctor may recommend ongoing monitoring to make sure your liver stays healthy."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            { "heading": "Cured means cured", "text": "Once you achieve SVR (sustained virological response), the hepatitis C virus is gone. It will not return on its own." },
+            { "heading": "Reinfection is possible", "text": "Curing hepatitis C does not create immunity. If you are exposed to infected blood again, you can catch the virus a second time. Practice harm reduction to stay protected." },
+            { "heading": "Your liver can heal", "text": "After the virus is cleared, your liver begins to repair itself. Mild scarring can improve over time. Even advanced scarring (cirrhosis) can stabilize or improve after cure." },
+            { "heading": "Ongoing monitoring if needed", "text": "If you had significant liver scarring before treatment, your doctor will continue to monitor you with regular blood tests and imaging to watch for complications." }
+          ]
+        },
+        {
+          "type": "frequency-table",
+          "heading": "Post-Cure Monitoring Schedule",
+          "items": [
+            { "scenario": "No or mild fibrosis (F0\u2013F2) \u2014 after confirming SVR", "interval": "No further HCV-specific follow-up needed. Continue routine health care with your family doctor." },
+            { "scenario": "Advanced fibrosis (F3) \u2014 after confirming SVR", "interval": "Blood tests and liver assessment every 12 months. Your doctor may repeat a FibroScan periodically." },
+            { "scenario": "Cirrhosis (F4) \u2014 after confirming SVR", "interval": "Ultrasound and blood tests every 6 months to screen for liver cancer (hepatocellular carcinoma). This continues indefinitely, even after cure." },
+            { "scenario": "Reinfection risk \u2014 ongoing exposure", "interval": "Annual HCV RNA testing if you have ongoing risk factors for reinfection." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Signs that you should contact your doctor",
+      "icon": "\ud83d\udea8",
+      "color": "rose",
+      "summary": "Most people with hepatitis C feel well, but certain symptoms should prompt a call to your doctor.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "Yellowing of your skin or the whites of your eyes (jaundice)",
+            "Swelling in your belly (abdomen) that is new or getting worse",
+            "Confusion, forgetfulness, or unusual sleepiness",
+            "Vomiting blood or noticing dark, tarry stools",
+            "New or worsening fatigue that interferes with your daily life",
+            "Unexplained weight loss",
+            "Persistent right-sided abdominal pain or discomfort",
+            "Fever or signs of infection during treatment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common questions about hepatitis C",
+      "icon": "\u2753",
+      "color": "amber",
+      "summary": "Got questions about hepatitis C? Here are clear answers to the things patients ask most often.",
+      "content": [
+        {
+          "type": "faq",
+          "questions": [
+            { "q": "Is hepatitis C really curable?", "a": "Yes. Hepatitis C is one of the only chronic viral infections that can be completely cured. Modern treatments cure over 95% of patients. Once the virus is gone (confirmed by a blood test 12 weeks after treatment), it will not come back on its own. You are cured." },
+            { "q": "How much does treatment cost?", "a": "In Canada, hepatitis C treatment is covered by all provincial and territorial drug plans. Most private insurance plans also cover it. If you are worried about cost, talk to your doctor or pharmacist \u2014 there are programs available to help ensure no one goes without treatment because of finances." },
+            { "q": "Can I get hepatitis C again after being cured?", "a": "Yes, but only if you are exposed to infected blood again. Being cured does not give you immunity. If you have ongoing risk factors, practicing harm reduction (such as never sharing needles or drug equipment) and getting tested annually is important." },
+            { "q": "Do I need to tell my partner?", "a": "Hepatitis C is spread through blood, not through sexual contact in most situations. The risk of sexual transmission is very low in stable, monogamous relationships. However, the risk increases with certain practices. It is a good idea to discuss this with your doctor, who can help you understand your specific situation and have the conversation." },
+            { "q": "How long could I have had hepatitis C without knowing?", "a": "It is very common to have hepatitis C for years or even decades without any symptoms. The virus works slowly and quietly. Many people are diagnosed during routine blood work or screening. This is one reason testing is so important, especially for people in higher-risk groups." },
+            { "q": "Will my liver recover after treatment?", "a": "In most cases, yes. Once the virus is cleared, your liver starts to heal. Mild scarring can improve significantly. Even people with more advanced scarring (cirrhosis) often see improvement \u2014 the key is that damage stops progressing, and in many cases, it partially reverses. The earlier treatment happens, the more recovery is possible." },
+            { "q": "Can I drink alcohol during treatment?", "a": "It is best to avoid alcohol during treatment. Alcohol puts additional stress on your liver at a time when your body is working to clear the virus. After you are cured, your doctor will advise you on alcohol based on the health of your liver. If you have any degree of liver scarring, reducing or stopping alcohol is strongly recommended." },
+            { "q": "Is the treatment hard to go through?", "a": "No. Modern hepatitis C treatment is very well tolerated. The most common side effects are mild fatigue and headache, and many people have no side effects at all. Most patients continue working, exercising, and living normally throughout treatment. It is nothing like the old interferon-based regimens." },
+            { "q": "Should I get vaccinated for hepatitis A and B?", "a": "Yes. There is no vaccine for hepatitis C, but vaccines exist for hepatitis A and hepatitis B. If you have hepatitis C (or liver scarring from it), getting vaccinated against A and B protects your liver from additional harm. Your doctor can check if you are already immune and arrange vaccination if needed." },
+            { "q": "Can I donate blood after being cured?", "a": "Current Canadian Blood Services policy does not allow people who have ever had hepatitis C to donate blood, even after being cured. This policy may change in the future as more data becomes available. You can still donate organs in many circumstances \u2014 talk to your doctor if this is important to you." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Guidelines and resources used in this guide",
+      "icon": "\ud83d\udcda",
+      "color": "indigo",
+      "summary": "This guide is based on current Canadian and international hepatology guidelines.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            { "text": "AASLD/IDSA \u2014 HCV Guidance: Recommendations for Testing, Managing, and Treating Hepatitis C (2023)" },
+            { "text": "Canadian Association for the Study of the Liver \u2014 HCV Treatment Update (2023)" },
+            { "text": "European Association for the Study of the Liver \u2014 HCV Clinical Practice Guidelines (2024)" },
+            { "text": "Public Health Agency of Canada \u2014 Hepatitis C Screening Recommendations (2023)" },
+            { "text": "Canadian Liver Foundation \u2014 Hepatitis C Patient Information" }
+          ]
+        }
+      ]
+    }
+  ]
+}

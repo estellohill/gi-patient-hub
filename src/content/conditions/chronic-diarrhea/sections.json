@@ -1,0 +1,394 @@
+{
+  "hero": {
+    "title": "Chronic Diarrhea",
+    "subtitle": "Understanding and investigating persistent loose stools",
+    "description": "Everything you need to know about chronic diarrhea — what causes it, how your doctor will investigate it, and how it can be treated. Clear, trustworthy information to help you get answers and feel better.",
+    "reassurance": "Chronic diarrhea almost always has an identifiable and treatable cause. A systematic workup will find the answer."
+  },
+  "sections": [
+    {
+      "id": "what-is-chronic-diarrhea",
+      "title": "What Is Chronic Diarrhea?",
+      "subtitle": "When loose stools last longer than expected",
+      "icon": "💧",
+      "color": "amber",
+      "summary": "Chronic diarrhea means loose or watery stools lasting more than 4 weeks. It is common, and there is almost always an identifiable cause.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Diarrhea is when your bowel movements become loose, watery, or more frequent than usual. Most people get a short bout of diarrhea from time to time, usually from a stomach bug, and it clears up within a few days. Chronic diarrhea is different. It means loose stools that last for more than 4 weeks. When diarrhea goes on this long, it is unlikely to be a simple infection, and your doctor will want to look for an underlying cause."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            {
+              "heading": "More than 4 weeks",
+              "text": "Diarrhea is considered chronic when it lasts longer than 4 weeks. This is the point where further investigation is recommended."
+            },
+            {
+              "heading": "Bristol Stool Types 5 to 7",
+              "text": "Doctors use the Bristol Stool Chart to describe stool consistency. Types 5 (soft blobs), 6 (mushy), and 7 (entirely liquid) are considered diarrhea. This chart helps you and your doctor speak the same language."
+            },
+            {
+              "heading": "Very common",
+              "text": "Chronic diarrhea affects roughly 5% of the population at any given time. You are not alone, and there are many effective treatments."
+            },
+            {
+              "heading": "A cause can almost always be found",
+              "text": "With the right tests, your doctor can identify the reason for your diarrhea in the vast majority of cases. Finding the cause is the key to the right treatment."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "What counts as diarrhea?",
+          "text": "Many people are unsure whether their stools qualify as diarrhea. In general, having 3 or more loose or watery bowel movements per day, or stools that are consistently Bristol type 5 to 7, is considered diarrhea. The frequency matters, but so does the consistency. Some people have frequent stools that are well-formed, which is a different issue. If you are unsure, keeping a brief stool diary for a week can be very helpful for your doctor."
+        }
+      ]
+    },
+    {
+      "id": "common-causes",
+      "title": "Common Causes",
+      "subtitle": "The most frequent reasons behind chronic diarrhea",
+      "icon": "🔎",
+      "color": "amber",
+      "summary": "There are many possible causes of chronic diarrhea, but a handful of conditions account for the majority of cases.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "When your doctor investigates chronic diarrhea, they will consider a range of possible causes. Some are very common, and your doctor will check for these first. The cause often depends on your age, other symptoms, medications, and medical history."
+        },
+        {
+          "type": "key-points",
+          "heading": "Most common causes of chronic diarrhea",
+          "points": [
+            {
+              "heading": "IBS-D (irritable bowel syndrome, diarrhea-predominant)",
+              "text": "The most common cause of chronic diarrhea in younger adults. IBS-D causes cramping, bloating, and frequent loose stools, often related to stress or certain foods. It is a real condition, not \"just stress,\" and there are effective treatments."
+            },
+            {
+              "heading": "Bile acid malabsorption",
+              "text": "Your liver makes bile acids to help digest fat. If too much bile reaches the colon, it causes watery diarrhea. This is more common than many people realize and is a treatable cause that is often overlooked."
+            },
+            {
+              "heading": "Celiac disease",
+              "text": "An immune reaction to gluten (found in wheat, barley, and rye) that damages the lining of the small intestine. It can cause diarrhea, bloating, weight loss, and fatigue. A simple blood test can screen for it."
+            },
+            {
+              "heading": "Microscopic colitis",
+              "text": "A condition where the colon lining looks normal on colonoscopy but shows inflammation under the microscope. It is especially common in older adults and women, and it responds well to treatment."
+            },
+            {
+              "heading": "Medications",
+              "text": "Many common medications can cause diarrhea, including antibiotics, metformin, magnesium supplements, SSRIs, and proton pump inhibitors (PPIs). Always review your medication list with your doctor."
+            },
+            {
+              "heading": "Lactose intolerance",
+              "text": "An inability to fully digest lactose, the sugar found in milk and dairy products. It causes bloating, gas, cramping, and diarrhea after consuming dairy. It is very common and easy to manage with dietary changes."
+            },
+            {
+              "heading": "Small intestinal bacterial overgrowth (SIBO)",
+              "text": "An excess of bacteria in the small intestine that can cause bloating, gas, and diarrhea. It is more common in people with certain risk factors like prior surgery, diabetes, or slow gut motility."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "More than one cause is possible",
+          "text": "Some people have more than one factor contributing to their diarrhea. For example, someone with IBS-D may also have lactose intolerance. Your doctor will consider all possibilities and may treat more than one cause at the same time."
+        }
+      ]
+    },
+    {
+      "id": "the-investigation",
+      "title": "The Investigation",
+      "subtitle": "How your doctor finds the cause",
+      "icon": "🧪",
+      "color": "indigo",
+      "summary": "A step-by-step workup — including blood tests, stool tests, celiac screening, and sometimes colonoscopy — will help your doctor pinpoint the cause.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Finding the cause of chronic diarrhea follows a logical, step-by-step approach. Your doctor will start with your history and basic tests, then move to more specific investigations based on the results. Most of these tests are straightforward and are covered by your provincial health plan in Canada."
+        },
+        {
+          "type": "steps",
+          "heading": "Typical Investigation Steps",
+          "steps": [
+            "Detailed history and physical exam — your doctor will ask about the timing, frequency, and character of your stools, your diet, medications, travel history, and family history",
+            "Blood tests — including a complete blood count (CBC), electrolytes, thyroid function, inflammatory markers (CRP), and albumin to check your overall health and look for clues",
+            "Celiac screening — a blood test (tissue transglutaminase or tTG-IgA) that can detect celiac disease. This is recommended for everyone with unexplained chronic diarrhea",
+            "Stool tests — checking for infection, inflammation (fecal calprotectin), and sometimes fat content to look for malabsorption",
+            "Colonoscopy with biopsies — if initial tests do not explain your symptoms, your doctor may recommend a colonoscopy. Random biopsies are taken even if the colon looks normal, because microscopic colitis can only be diagnosed under the microscope",
+            "Bile acid testing — in Canada, a trial of cholestyramine is often used to test for bile acid malabsorption. In some centres, a SeHCAT scan may be available to confirm the diagnosis"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Why biopsies even if the colonoscopy looks normal?",
+          "text": "Microscopic colitis is one of the most common causes of chronic watery diarrhea, especially in older adults. The colon looks completely normal during the procedure, but tiny samples (biopsies) examined under a microscope reveal the inflammation. This is why random biopsies are an essential part of the workup."
+        },
+        {
+          "type": "text",
+          "heading": "How long does the workup take?",
+          "text": "Most of the initial blood and stool tests can be done within a week or two. If a colonoscopy is needed, wait times vary across Canada but your doctor will arrange this as promptly as possible. In total, most people have a clear answer within a few weeks to a couple of months. While waiting for results, your doctor may suggest treatments to help manage your symptoms in the meantime."
+        }
+      ]
+    },
+    {
+      "id": "treatment-by-cause",
+      "title": "Treatment by Cause",
+      "subtitle": "Targeted treatment based on what is causing your diarrhea",
+      "icon": "💊",
+      "color": "emerald",
+      "summary": "Treatment depends on the underlying cause. Once the cause is found, most people improve significantly with targeted therapy.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "The best treatment for chronic diarrhea depends on the cause. That is why the investigation step is so important. Once your doctor identifies why your diarrhea is happening, they can recommend a treatment plan that targets the root problem rather than just the symptoms."
+        },
+        {
+          "type": "tabs",
+          "heading": "Treatments by Condition",
+          "tabs": [
+            {
+              "label": "IBS-D",
+              "icon": "🧠",
+              "blocks": [
+                {
+                  "type": "text",
+                  "text": "Treatment for IBS-D often involves a combination of dietary changes, stress management, and medication. A low-FODMAP diet guided by a dietitian can help identify food triggers. Medications like loperamide can control urgent diarrhea, and prescription options like antispasmodics or low-dose antidepressants may be recommended by your doctor."
+                }
+              ]
+            },
+            {
+              "label": "Bile Acid",
+              "icon": "💛",
+              "blocks": [
+                {
+                  "type": "text",
+                  "text": "Bile acid malabsorption is treated with bile acid binders, most commonly cholestyramine (Questran). This medication is taken as a powder mixed with water, usually before meals. Most people notice a significant improvement within days. Your doctor will adjust the dose to find the right balance for you."
+                }
+              ]
+            },
+            {
+              "label": "Celiac",
+              "icon": "🌾",
+              "blocks": [
+                {
+                  "type": "text",
+                  "text": "The treatment for celiac disease is a strict, lifelong gluten-free diet. This means avoiding all foods containing wheat, barley, and rye. A referral to a dietitian experienced in celiac disease is very helpful. Most people feel significantly better within weeks of removing gluten, and the intestinal damage heals over time."
+                }
+              ]
+            },
+            {
+              "label": "Microscopic Colitis",
+              "icon": "🔬",
+              "blocks": [
+                {
+                  "type": "text",
+                  "text": "The main treatment for microscopic colitis is budesonide, a targeted steroid that works locally in the colon with few side effects. Most people respond very well. Your doctor may also review your medications, as some drugs (like PPIs and NSAIDs) can trigger or worsen microscopic colitis."
+                }
+              ]
+            },
+            {
+              "label": "Lactose",
+              "icon": "🥛",
+              "blocks": [
+                {
+                  "type": "text",
+                  "text": "Managing lactose intolerance involves reducing or avoiding dairy products that cause symptoms. Lactose-free milk and dairy products are widely available. Lactase enzyme supplements taken before eating dairy can also help. Most people can tolerate small amounts of dairy without symptoms."
+                }
+              ]
+            },
+            {
+              "label": "SIBO",
+              "icon": "🦠",
+              "blocks": [
+                {
+                  "type": "text",
+                  "text": "SIBO is treated with a course of antibiotics, most commonly rifaximin. Your doctor may also look for and treat any underlying cause that led to the bacterial overgrowth. Some people need more than one course of treatment, and dietary adjustments can help prevent recurrence."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "medication-table",
+          "heading": "Common Medications Used for Chronic Diarrhea",
+          "items": [
+            {
+              "med": "Loperamide (Imodium)",
+              "note": "Slows gut movement and reduces stool frequency. Safe for symptom control while the underlying cause is being investigated or treated. Available over the counter."
+            },
+            {
+              "med": "Cholestyramine (Questran)",
+              "note": "A bile acid binder used for bile acid malabsorption. Taken as a powder mixed with water. Very effective for watery diarrhea caused by excess bile acids."
+            },
+            {
+              "med": "Budesonide (Entocort)",
+              "note": "A targeted steroid used for microscopic colitis. Works locally in the gut with fewer side effects than traditional steroids."
+            },
+            {
+              "med": "Rifaximin (Zaxine)",
+              "note": "An antibiotic that stays in the gut and is used to treat SIBO. Usually taken for 2 weeks."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Loperamide is safe when used correctly",
+          "text": "Many people worry about taking loperamide (Imodium) regularly, but when used at recommended doses it is safe and effective for controlling diarrhea symptoms. It does not mask the cause and can greatly improve your quality of life while your doctor works out the underlying problem. Always follow the dosing instructions on the package or from your doctor."
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Symptoms that should prompt a call to your doctor",
+      "icon": "🚨",
+      "color": "rose",
+      "summary": "Most chronic diarrhea is not dangerous, but certain warning signs mean you should see your doctor sooner rather than later.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "Blood in your stool or black, tarry stools",
+            "Unintentional weight loss of more than 5 pounds",
+            "Diarrhea that wakes you up from sleep at night",
+            "Fever lasting more than a few days alongside diarrhea",
+            "Signs of dehydration such as dizziness, dark urine, or feeling faint",
+            "Diarrhea that started after age 50 without a known cause",
+            "A family history of inflammatory bowel disease or colon cancer",
+            "Symptoms that are getting worse despite treatment"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Night-time diarrhea is a red flag",
+          "text": "Diarrhea that wakes you from sleep is an important clue. It suggests an organic (physical) cause rather than a functional condition like IBS. If this is happening to you, make sure to mention it to your doctor."
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common questions about chronic diarrhea",
+      "icon": "❓",
+      "color": "amber",
+      "summary": "Got questions about chronic diarrhea? Here are clear answers to the things patients ask most often.",
+      "content": [
+        {
+          "type": "knowledge-check",
+          "heading": "Test Your Understanding",
+          "items": [
+            {
+              "question": "When is diarrhea considered chronic?",
+              "options": [
+                "After 3 days",
+                "After 2 weeks",
+                "After 4 weeks",
+                "After 3 months"
+              ],
+              "correct": 2,
+              "explanation": "Diarrhea is considered chronic when it lasts more than 4 weeks. At that point, it is unlikely to be from a simple infection and warrants further investigation."
+            },
+            {
+              "question": "Why are biopsies taken during a colonoscopy even if the colon looks normal?",
+              "options": [
+                "It is just routine and not really necessary",
+                "To check for microscopic colitis, which can only be seen under a microscope",
+                "To test for food allergies",
+                "To check the bacteria in the colon"
+              ],
+              "correct": 1,
+              "explanation": "Microscopic colitis causes inflammation that is invisible to the naked eye during colonoscopy. Random biopsies are essential to detect it, and it is one of the most common causes of chronic watery diarrhea."
+            },
+            {
+              "question": "What is the treatment for bile acid malabsorption?",
+              "options": [
+                "A gluten-free diet",
+                "Antibiotics",
+                "A bile acid binder like cholestyramine",
+                "Surgery"
+              ],
+              "correct": 2,
+              "explanation": "Bile acid malabsorption is treated with bile acid binders such as cholestyramine (Questran), which bind excess bile acids in the gut and reduce diarrhea. Most people notice improvement within days."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "questions": [
+            {
+              "q": "Could my chronic diarrhea be caused by stress?",
+              "a": "Stress alone does not cause chronic diarrhea, but it can make symptoms worse, especially if you have IBS. Stress can speed up gut movement and increase sensitivity in the intestines. If stress is a major factor, your doctor may suggest stress management strategies alongside other treatments."
+            },
+            {
+              "q": "Should I try cutting out gluten or dairy on my own?",
+              "a": "It is best to get tested for celiac disease before removing gluten from your diet, because a gluten-free diet can make the blood test inaccurate. For dairy, a 2-week trial of avoiding lactose is reasonable. Talk to your doctor before making major diet changes so the right tests can be done first."
+            },
+            {
+              "q": "Is chronic diarrhea a sign of cancer?",
+              "a": "In the vast majority of cases, chronic diarrhea is not caused by cancer. However, it is one reason your doctor may recommend a colonoscopy, especially if you are over 50 or have alarm features like blood in the stool or weight loss. The colonoscopy helps rule out serious causes and gives peace of mind."
+            },
+            {
+              "q": "Can I take Imodium every day?",
+              "a": "Yes, loperamide (Imodium) is safe for regular use at recommended doses. It can greatly improve your quality of life while the cause of your diarrhea is being investigated or treated. Follow the dosing instructions on the package or from your doctor."
+            },
+            {
+              "q": "What should I eat while I have chronic diarrhea?",
+              "a": "Focus on smaller, more frequent meals. Foods like rice, bananas, toast, lean chicken, and potatoes are generally well tolerated. Stay well hydrated with water, broth, or oral rehydration solutions. Avoid caffeine, alcohol, spicy foods, and high-fat foods, which can make diarrhea worse. Your doctor or a dietitian can help with a more specific plan."
+            },
+            {
+              "q": "How much water should I be drinking?",
+              "a": "When you have chronic diarrhea, you lose extra fluid and electrolytes. Aim for at least 8 glasses of water a day, and more if your diarrhea is frequent. Oral rehydration solutions or broth can help replace lost electrolytes. If you feel dizzy, lightheaded, or your urine is dark, you may be dehydrated and should increase your fluid intake."
+            },
+            {
+              "q": "Will I need a colonoscopy?",
+              "a": "Not everyone with chronic diarrhea needs a colonoscopy. Your doctor will decide based on your age, symptoms, and initial test results. A colonoscopy is more likely to be recommended if you are over 50, have blood in your stool, have lost weight, or if initial blood and stool tests have not revealed a cause. In Canada, colonoscopy ordered by your doctor is covered by your provincial health plan."
+            },
+            {
+              "q": "What is microscopic colitis and how is it treated?",
+              "a": "Microscopic colitis is inflammation in the colon that can only be seen under a microscope. It is a common cause of chronic watery diarrhea, especially in older adults and women. It is treated with budesonide, a gentle steroid that works locally in the gut. Most people respond very well to treatment and the condition can be managed long-term."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Guidelines and resources used in this guide",
+      "icon": "📚",
+      "color": "amber",
+      "summary": "This guide is based on current international gastroenterology guidelines.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            {
+              "text": "American College of Gastroenterology — Clinical Guideline on the Management of Chronic Diarrhea (2019)"
+            },
+            {
+              "text": "American Gastroenterological Association — Clinical Practice Guidelines on the Laboratory Evaluation of Functional Diarrhea and Chronic Diarrhea (2019)"
+            },
+            {
+              "text": "British Society of Gastroenterology — Guidelines on the Investigation of Chronic Diarrhea (2018)"
+            },
+            {
+              "text": "Canadian Digestive Health Foundation — Diarrhea Patient Information"
+            },
+            {
+              "text": "Canadian Association of Gastroenterology — Celiac Disease Clinical Practice Guidelines (2023)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

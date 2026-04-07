@@ -1,0 +1,355 @@
+{
+  "hero": {
+    "title": "FIT Test Guide",
+    "subtitle": "A simple at-home test to screen for colon cancer",
+    "description": "Everything you need to know about the FIT test — what it is, how to do it at home, and what your results mean. Clear, trustworthy information to help you stay on top of your colon health.",
+    "reassurance": "The FIT test is quick, painless, and one of the best ways to catch colon problems early — when they're easiest to treat."
+  },
+  "sections": [
+    {
+      "id": "what-is-fit-test",
+      "title": "What Is the FIT Test?",
+      "subtitle": "A simple screening test you do at home",
+      "icon": "🧪",
+      "color": "teal",
+      "summary": "The FIT test (fecal immunochemical test) checks for tiny amounts of blood in your stool that you can't see. It's a simple, painless way to screen for colon cancer and polyps.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "The FIT test (fecal immunochemical test) is a simple stool test you do at home. It looks for tiny traces of blood in your stool that you can't see with your eyes. Hidden blood can be an early sign of polyps or colon cancer — catching these early makes a big difference."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            {
+              "heading": "Detects hidden blood",
+              "text": "The FIT test finds tiny amounts of blood in your stool that are invisible to the naked eye. This hidden blood can come from polyps or other problems in the colon."
+            },
+            {
+              "heading": "Screens for colon cancer and polyps",
+              "text": "The main goal is to catch colon cancer or precancerous polyps early, before symptoms appear. Early detection leads to better outcomes."
+            },
+            {
+              "heading": "Done at home",
+              "text": "You collect a small stool sample in the privacy of your own bathroom. No clinic visit is needed for the test itself — just drop off or mail the sample."
+            },
+            {
+              "heading": "No diet restrictions",
+              "text": "Unlike older stool tests, you don't need to change your diet or stop any medications before doing the FIT test. Eat and drink as you normally would."
+            },
+            {
+              "heading": "Recommended every 1–2 years (ages 50–74)",
+              "text": "For people at average risk, Canadian guidelines recommend a FIT test every 1 to 2 years between the ages of 50 and 74. Regular screening is what makes it effective."
+            }
+          ]
+        },
+        {
+          "type": "stats",
+          "heading": "Why the FIT test matters",
+          "items": [
+            "Regular FIT screening reduces colon cancer deaths by about 30%",
+            "Most positive FIT results are NOT caused by cancer",
+            "The FIT test catches problems early — when they are most treatable",
+            "It's the most widely used colon cancer screening test in Canada"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "success",
+          "title": "Early detection saves lives",
+          "text": "When colon cancer is found early through screening, the 5-year survival rate is over 90%. The FIT test is a proven, effective way to catch problems before they become serious."
+        }
+      ]
+    },
+    {
+      "id": "how-to-do-the-test",
+      "title": "How to Do the Test",
+      "subtitle": "Step-by-step instructions",
+      "icon": "📋",
+      "color": "blue",
+      "summary": "The FIT test takes just a few minutes. You collect a small stool sample at home using the kit provided, then return it to the lab.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "The FIT test is quick and easy to do at home. Your doctor or screening program will give you a test kit with everything you need. Here's how to do it step by step."
+        },
+        {
+          "type": "steps",
+          "heading": "How to complete your FIT test",
+          "steps": [
+            "Check the expiry date on your test kit — do not use an expired kit",
+            "Write your name and the date on the collection tube label",
+            "Go to the bathroom as you normally would — have the kit ready beforehand",
+            "Use the toilet paper or collection paper (if provided) to catch the stool, or collect the sample before it touches the toilet water",
+            "Open the collection tube and use the attached probe (small stick) to poke into the surface of the stool in 5 or 6 different spots",
+            "Put the probe back into the tube and snap the cap shut tightly — do not overfill",
+            "Wash your hands thoroughly with soap and water",
+            "Return the sealed tube to your doctor's office or lab as soon as possible — ideally within 24 to 48 hours",
+            "Store the sample in the fridge (not the freezer) if you can't return it right away"
+          ]
+        },
+        {
+          "type": "checklist",
+          "heading": "FIT test day checklist",
+          "storageKey": "fit-checklist",
+          "items": [
+            "I have my FIT test kit and it's not expired",
+            "I've written my name and date on the label",
+            "I have a plan for how to collect the sample",
+            "I've collected the sample using the probe (5–6 pokes)",
+            "I've sealed the tube tightly",
+            "I've washed my hands",
+            "I've returned (or scheduled to return) the sample to the lab"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "No special diet needed",
+          "text": "Unlike the older guaiac-based stool test (gFOBT), the FIT test does not require any diet changes. You don't need to avoid red meat, vitamin C, or any foods. You can also continue taking your regular medications, including aspirin and blood thinners."
+        }
+      ]
+    },
+    {
+      "id": "understanding-results",
+      "title": "Understanding Your Results",
+      "subtitle": "What a negative or positive result means",
+      "icon": "📊",
+      "color": "purple",
+      "summary": "A negative result means no blood was found — keep screening regularly. A positive result means blood was detected and you'll need a colonoscopy to find out why.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Your FIT test result will come back as either negative (normal) or positive (abnormal). Here's what each result means and what happens next."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            {
+              "heading": "Negative (normal) result",
+              "text": "No blood was detected in your stool sample. This is good news. Continue doing the FIT test every 1 to 2 years as recommended by your doctor."
+            },
+            {
+              "heading": "Positive (abnormal) result",
+              "text": "Blood was detected in your stool sample. This does NOT mean you have cancer. It means further testing — usually a colonoscopy — is needed to find the cause."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "A positive FIT always needs follow-up",
+          "text": "If your FIT test is positive, it's very important to follow through with a colonoscopy. Do not repeat the FIT test instead — a colonoscopy is needed to find out where the blood is coming from. Skipping follow-up removes the benefit of screening."
+        },
+        {
+          "type": "text",
+          "heading": "Common causes of a positive FIT",
+          "text": "Finding blood in the stool can be worrying, but most of the time it's not cancer. The most common causes of a positive FIT test include hemorrhoids (swollen blood vessels near the anus), colon polyps (small growths that can be removed during colonoscopy), and diverticulosis (small pouches in the colon wall). Less commonly, the blood may come from inflammation, ulcers, or colorectal cancer. A colonoscopy will determine the exact cause."
+        }
+      ]
+    },
+    {
+      "id": "who-should-be-screened",
+      "title": "Who Should Be Screened",
+      "subtitle": "Screening guidelines and risk factors",
+      "icon": "👥",
+      "color": "green",
+      "summary": "Most Canadians at average risk should start colon cancer screening at age 50. Your risk level determines which test is best for you.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Colon cancer screening is recommended for most adults starting at age 50. The right test and schedule depend on your personal risk level. Here's a guide to help you understand who should be screened and how."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            {
+              "heading": "Average risk: ages 50–74",
+              "text": "If you have no family history of colon cancer and no personal history of polyps or inflammatory bowel disease, you are considered average risk. Screening with a FIT test every 2 years is the standard recommendation in most Canadian provinces."
+            },
+            {
+              "heading": "FIT every 2 years OR colonoscopy every 10 years",
+              "text": "For average-risk adults, either a FIT test every 2 years or a colonoscopy every 10 years are acceptable screening options. Both are effective at reducing colon cancer deaths."
+            },
+            {
+              "heading": "High risk = colonoscopy instead",
+              "text": "If you have a first-degree relative (parent, sibling, or child) diagnosed with colon cancer before age 60, a personal history of polyps, or inflammatory bowel disease (Crohn's or ulcerative colitis), you may need colonoscopy screening instead of FIT."
+            },
+            {
+              "heading": "Family history matters",
+              "text": "Having a close family member with colon cancer or advanced polyps increases your risk. Tell your doctor about your family history — it may mean you should start screening earlier (sometimes at age 40 or 10 years before the age your relative was diagnosed)."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Talk to your doctor",
+          "text": "Screening recommendations vary based on your personal and family history. Your doctor can help you decide which screening test is right for you and how often you should be tested."
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Symptoms that need prompt attention",
+      "icon": "🚨",
+      "color": "red",
+      "summary": "Some symptoms should not wait for a screening test. Contact your doctor if you notice any of these warning signs.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "Visible blood in your stool or on the toilet paper (bright red or dark/tarry stools)",
+            "A change in your bowel habits lasting more than 2 weeks (new diarrhea, constipation, or narrower stools)",
+            "Unexplained weight loss without trying",
+            "New or persistent abdominal pain or cramping",
+            "Iron deficiency anemia (low iron) found on blood work, especially without an obvious cause"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Common questions about the FIT test",
+      "icon": "❓",
+      "color": "orange",
+      "summary": "Answers to the most common questions patients have about the FIT test.",
+      "content": [
+        {
+          "type": "faq",
+          "questions": [
+            {
+              "q": "Is the FIT test better than a colonoscopy?",
+              "a": "They serve different roles. The FIT test is a screening tool — it's simple, non-invasive, and effective when done regularly. A colonoscopy is more thorough and can find and remove polyps in the same session. For average-risk people, regular FIT testing is a very good option. If your FIT is positive, a colonoscopy is the next step."
+            },
+            {
+              "q": "Do I need to follow a special diet before the FIT test?",
+              "a": "No. Unlike the older guaiac stool test, the FIT test does not require any changes to your diet. You can eat whatever you normally eat, including red meat, and continue taking all your medications."
+            },
+            {
+              "q": "What if I forget to do my FIT test?",
+              "a": "It's never too late to do it. If you've missed a screening cycle, contact your doctor or local screening program to get a new kit. The important thing is to get back on track with regular screening."
+            },
+            {
+              "q": "Can hemorrhoids affect my FIT result?",
+              "a": "Yes. Hemorrhoids can cause a small amount of blood in the stool, which may lead to a positive (abnormal) FIT result. However, a positive result still needs to be followed up with a colonoscopy to make sure there isn't another cause."
+            },
+            {
+              "q": "How accurate is the FIT test?",
+              "a": "The FIT test is good at detecting colon cancer — it picks up about 74% of cancers in a single round. Because it's done every 1 to 2 years, repeated testing over time makes it even more effective. It's less sensitive for polyps, which is why a colonoscopy is recommended if the result is positive."
+            },
+            {
+              "q": "Why do I need to repeat it every 2 years?",
+              "a": "Polyps and early cancers don't always bleed, and when they do, the bleeding can be on and off. A single test might miss something. By repeating the test regularly, you have the best chance of catching a problem early."
+            },
+            {
+              "q": "At what age should I start colon cancer screening?",
+              "a": "In Canada, most provincial screening programs recommend starting at age 50 for people at average risk. If you have a family history of colon cancer, your doctor may recommend starting earlier — sometimes as early as age 40."
+            },
+            {
+              "q": "Does my family history change what screening I need?",
+              "a": "Yes. If you have a first-degree relative (parent, sibling, or child) who had colon cancer — especially before age 60 — you may need a colonoscopy instead of a FIT test, and you may need to start screening earlier. Talk to your doctor about your family history."
+            },
+            {
+              "q": "Can I do the FIT test during my period?",
+              "a": "It's best to wait until your period is over before collecting the sample. Menstrual blood can mix with the stool and may cause a false positive result."
+            },
+            {
+              "q": "Is the FIT test the same as the old stool test (guaiac test)?",
+              "a": "No. The FIT test is newer and more accurate. The older guaiac-based test (gFOBT) required diet restrictions and multiple samples. The FIT test needs only one sample, has no diet restrictions, and is better at detecting human blood specifically from the lower digestive tract."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "knowledge-check",
+      "title": "Knowledge Check",
+      "subtitle": "Test what you've learned",
+      "icon": "🧠",
+      "color": "indigo",
+      "summary": "A few quick questions to make sure you feel confident about the FIT test.",
+      "content": [
+        {
+          "type": "knowledge-check",
+          "items": [
+            {
+              "question": "If your FIT test comes back positive, what should you do next?",
+              "options": [
+                "Repeat the FIT test in 6 months",
+                "Schedule a colonoscopy",
+                "No action needed — it's probably just hemorrhoids",
+                "Start taking iron supplements"
+              ],
+              "correct": 1,
+              "explanation": "A positive FIT test means blood was found in your stool. The next step is always a colonoscopy to find out where the blood is coming from. You should not repeat the FIT test instead — a colonoscopy is needed for proper follow-up."
+            },
+            {
+              "question": "Do you need to change your diet before doing the FIT test?",
+              "options": [
+                "Yes — avoid red meat for 3 days",
+                "Yes — avoid vitamin C and aspirin",
+                "No — eat and drink as you normally would",
+                "Yes — only eat clear liquids the day before"
+              ],
+              "correct": 2,
+              "explanation": "The FIT test does not require any diet changes. Unlike the older guaiac stool test, you can eat normally and continue all your regular medications."
+            },
+            {
+              "question": "How often should average-risk adults do the FIT test?",
+              "options": [
+                "Once in a lifetime",
+                "Every 5 years",
+                "Every 1 to 2 years",
+                "Only if you have symptoms"
+              ],
+              "correct": 2,
+              "explanation": "Canadian guidelines recommend FIT testing every 1 to 2 years for average-risk adults between ages 50 and 74. Regular, repeated testing is what makes screening effective."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References & Resources",
+      "subtitle": "Where this information comes from",
+      "icon": "📚",
+      "color": "slate",
+      "summary": "Evidence-based guidelines and trusted resources used to create this guide.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            {
+              "text": "Canadian Task Force on Preventive Health Care — Colorectal Cancer Screening Recommendations (2024)",
+              "url": "https://canadiantaskforce.ca/guidelines/published-guidelines/colorectal-cancer/"
+            },
+            {
+              "text": "Canadian Cancer Society — Screening for Colorectal Cancer",
+              "url": "https://cancer.ca/en/cancer-information/cancer-types/colorectal/screening"
+            },
+            {
+              "text": "U.S. Preventive Services Task Force — Colorectal Cancer Screening (2021)",
+              "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/colorectal-cancer-screening"
+            },
+            {
+              "text": "BC Cancer Colon Screening Program — About the FIT",
+              "url": "https://www.screeningbc.ca/colon-screening/about-the-fit/"
+            },
+            {
+              "text": "Cancer Care Ontario — ColonCancerCheck Program",
+              "url": "https://www.cancercareontario.ca/en/cancer-care-ontario/programs/screening-programs/colon-cancer"
+            },
+            {
+              "text": "Lee JK et al. Accuracy of fecal immunochemical tests for colorectal cancer: systematic review and meta-analysis. Ann Intern Med. 2014;160(3):171.",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/24658694/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

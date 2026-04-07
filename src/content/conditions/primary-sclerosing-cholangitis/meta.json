@@ -1,0 +1,18 @@
+{
+  "slug": "primary-sclerosing-cholangitis",
+  "title": "Primary Sclerosing Cholangitis (PSC)",
+  "shortTitle": "PSC",
+  "subtitle": "Understanding PSC — a chronic condition affecting the bile ducts",
+  "icon": "🫀",
+  "color": "indigo",
+  "description": "Clear, evidence-based information about primary sclerosing cholangitis (PSC) — what it is, the IBD connection, monitoring, treatment options, and when to seek help. Created by a Canadian gastroenterologist.",
+  "category": "liver",
+  "prevalence": "Less Common",
+  "lastReviewed": "2026-03-29",
+  "guidelines": [
+    { "society": "AASLD", "title": "AASLD Practice Guidance on Primary Sclerosing Cholangitis", "year": 2023 },
+    { "society": "EASL", "title": "EASL Clinical Practice Guidelines on Sclerosing Cholangitis", "year": 2023 },
+    { "society": "ACG", "title": "ACG Clinical Guideline: Primary Sclerosing Cholangitis", "year": 2023 }
+  ],
+  "enabled": true
+}

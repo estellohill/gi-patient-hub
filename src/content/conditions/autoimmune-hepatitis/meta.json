@@ -1,0 +1,18 @@
+{
+  "slug": "autoimmune-hepatitis",
+  "title": "Autoimmune Hepatitis",
+  "shortTitle": "AIH",
+  "subtitle": "Understanding and managing autoimmune hepatitis",
+  "icon": "🛡️",
+  "color": "purple",
+  "description": "Clear, evidence-based information about autoimmune hepatitis (AIH) — what it is, how it is diagnosed, treatment options, and living well with the condition. Created by a Canadian gastroenterologist.",
+  "category": "liver",
+  "prevalence": "Less Common",
+  "lastReviewed": "2026-03-29",
+  "guidelines": [
+    { "society": "AASLD", "title": "American Association for the Study of Liver Diseases — Diagnosis and Management of Autoimmune Hepatitis", "year": 2020 },
+    { "society": "EASL", "title": "European Association for the Study of the Liver — Clinical Practice Guidelines on Autoimmune Hepatitis", "year": 2015 },
+    { "society": "BSG", "title": "British Society of Gastroenterology — Guidelines for the Management of Autoimmune Hepatitis", "year": 2023 }
+  ],
+  "enabled": true
+}

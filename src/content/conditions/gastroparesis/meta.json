@@ -1,0 +1,17 @@
+{
+  "slug": "gastroparesis",
+  "title": "Gastroparesis",
+  "shortTitle": "Gastroparesis",
+  "subtitle": "Understanding and managing delayed stomach emptying",
+  "icon": "🐢",
+  "color": "orange",
+  "description": "Clear, evidence-based information about gastroparesis (delayed stomach emptying) — causes, dietary strategies, medications, and advanced options. Created by a Canadian gastroenterologist.",
+  "category": "upper-gi",
+  "prevalence": "Common",
+  "lastReviewed": "2026-03-29",
+  "guidelines": [
+    { "society": "ACG", "title": "American College of Gastroenterology Guideline on Gastroparesis", "year": 2013 },
+    { "society": "AGA", "title": "AGA Clinical Practice Guideline on Gastroparesis", "year": 2022 }
+  ],
+  "enabled": true
+}

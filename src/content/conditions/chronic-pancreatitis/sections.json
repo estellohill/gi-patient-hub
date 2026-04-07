@@ -1,0 +1,371 @@
+{
+  "hero": {
+    "title": "Chronic Pancreatitis",
+    "subtitle": "Understanding and managing chronic inflammation of the pancreas",
+    "description": "Everything you need to know about chronic pancreatitis — from understanding what causes it to managing pain, replacing pancreatic enzymes, and eating well. Clear, trustworthy information to help you take control of your health.",
+    "reassurance": "Chronic pancreatitis is a challenging condition, but with the right treatment plan — including pain management, enzyme replacement, and lifestyle changes — most people can improve their quality of life."
+  },
+  "sections": [
+    {
+      "id": "what-is-chronic-pancreatitis",
+      "title": "What Is Chronic Pancreatitis?",
+      "subtitle": "How ongoing inflammation damages the pancreas over time",
+      "icon": "🟠",
+      "color": "orange",
+      "summary": "Chronic pancreatitis is a condition where the pancreas becomes permanently damaged by long-term inflammation. Unlike acute pancreatitis, the damage does not fully heal.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Your pancreas is a long, flat organ that sits behind your stomach. It has two main jobs: it makes enzymes that help you digest food, and it makes hormones like insulin that control your blood sugar. In chronic pancreatitis, repeated episodes of inflammation cause scar tissue (fibrosis) to build up in the pancreas over time. This scarring is permanent and irreversible. As more scar tissue forms, the pancreas slowly loses its ability to make enzymes and hormones. This can lead to problems with digestion, pain, and blood sugar control."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            {
+              "heading": "Progressive and irreversible",
+              "text": "Chronic pancreatitis gets worse over time as scar tissue replaces normal pancreas tissue. The damage cannot be undone, but treatment can slow it down and manage symptoms."
+            },
+            {
+              "heading": "Different from acute pancreatitis",
+              "text": "Acute pancreatitis is a sudden attack that usually heals completely. Chronic pancreatitis is ongoing damage that builds up over months or years."
+            },
+            {
+              "heading": "Two key functions are affected",
+              "text": "As the pancreas is damaged, it may stop making enough digestive enzymes (causing problems absorbing food) and enough insulin (leading to diabetes)."
+            },
+            {
+              "heading": "Treatable, even if not curable",
+              "text": "While chronic pancreatitis cannot be reversed, there are effective treatments for pain, digestive problems, and diabetes that can greatly improve your quality of life."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "causes",
+      "title": "Causes",
+      "subtitle": "What leads to chronic pancreatitis",
+      "icon": "🔍",
+      "color": "amber",
+      "summary": "There are several known causes of chronic pancreatitis, including alcohol use, genetic factors, and autoimmune disease. In some cases, no clear cause is found.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Chronic pancreatitis can develop for a number of reasons. Sometimes the cause is clear, and sometimes it takes investigation to figure out. Understanding the cause is important because it can guide treatment and help prevent further damage."
+        },
+        {
+          "type": "key-points",
+          "heading": "Common causes of chronic pancreatitis",
+          "points": [
+            {
+              "heading": "Alcohol use",
+              "text": "Heavy, long-term alcohol use is the most common cause in adults. It accounts for about 40 to 70 percent of cases. Even after stopping alcohol, damage that has already occurred does not reverse — but quitting can slow or stop further harm."
+            },
+            {
+              "heading": "Genetic factors",
+              "text": "Some people inherit gene changes that increase the risk of pancreatitis. The most common ones are PRSS1, SPINK1, and CFTR (the same gene involved in cystic fibrosis). Genetic causes are especially important to consider in younger patients or those with a family history."
+            },
+            {
+              "heading": "Autoimmune pancreatitis",
+              "text": "In autoimmune pancreatitis, the body's immune system mistakenly attacks the pancreas. This type can look like chronic pancreatitis on imaging but often responds well to steroid treatment."
+            },
+            {
+              "heading": "Recurrent acute pancreatitis",
+              "text": "Repeated episodes of acute pancreatitis — from any cause — can eventually lead to chronic pancreatitis. Preventing further attacks is key to slowing progression."
+            },
+            {
+              "heading": "Idiopathic (no clear cause)",
+              "text": "In up to 30 percent of cases, no specific cause is found even after thorough testing. This is called idiopathic chronic pancreatitis. It is still treated the same way."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Smoking makes it worse",
+          "text": "Smoking is a major risk factor that speeds up the progression of chronic pancreatitis, regardless of the original cause. Quitting smoking is one of the most important things you can do to protect your pancreas."
+        }
+      ]
+    },
+    {
+      "id": "pain-management",
+      "title": "Pain Management",
+      "subtitle": "A step-by-step approach to controlling pain",
+      "icon": "💊",
+      "color": "blue",
+      "summary": "Pain is the most common symptom of chronic pancreatitis. Treatment follows a stepwise approach, starting with the simplest options and moving to more advanced ones if needed.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Abdominal pain is the main symptom for most people with chronic pancreatitis. The pain is usually felt in the upper belly and can spread to the back. It may come and go or be constant. Pain management follows a stepwise approach — starting with lifestyle changes and simpler treatments, then moving to stronger options only if needed."
+        },
+        {
+          "type": "steps",
+          "heading": "Stepwise Approach to Pain",
+          "steps": [
+            "Lifestyle changes — stop alcohol completely, quit smoking, and eat small low-fat meals. These steps can reduce pain on their own and make other treatments work better.",
+            "Pancreatic enzyme supplements — taking enzymes with meals may help reduce pain in some patients by giving the pancreas a chance to rest.",
+            "Non-opioid pain medications — acetaminophen (Tylenol) is usually tried first. Anti-inflammatory drugs like ibuprofen may also help. Your doctor may add medications for nerve-related pain, such as pregabalin or gabapentin.",
+            "Endoscopic treatment — if there is a blockage in the pancreatic duct (such as a stone or narrowing), a gastroenterologist may be able to open it up using an endoscopic procedure (ERCP) to improve drainage and reduce pain.",
+            "Surgery — for patients whose pain does not respond to other treatments, surgical options can help. These may include draining a blocked pancreatic duct or removing the most damaged part of the pancreas."
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "A word about opioids",
+          "text": "Chronic opioid use should be avoided if at all possible. While opioids may be needed for short-term flares, long-term use can lead to dependence, worsening pain sensitivity, and serious side effects. If you are currently taking opioids for pancreatitis pain, talk to your doctor about a plan to reduce or replace them with safer options."
+        },
+        {
+          "type": "text",
+          "heading": "Pain does not always mean worsening disease",
+          "text": "It is important to know that pain in chronic pancreatitis does not always mean the disease is getting worse. Pain can fluctuate for many reasons, including stress, diet, and how your nerves process signals. In some patients, pain actually decreases over many years as the pancreas burns out. Work closely with your healthcare team to find the right balance of treatments."
+        }
+      ]
+    },
+    {
+      "id": "pancreatic-insufficiency",
+      "title": "Pancreatic Insufficiency",
+      "subtitle": "When your pancreas can no longer digest food properly",
+      "icon": "⚠️",
+      "color": "amber",
+      "summary": "As chronic pancreatitis progresses, the pancreas may stop making enough enzymes to digest food. Enzyme replacement therapy and vitamin supplements can help.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "One of the main jobs of the pancreas is to release enzymes that break down the fats, proteins, and carbohydrates in your food. When chronic pancreatitis damages enough of the pancreas, it can no longer make enough of these enzymes. This is called exocrine pancreatic insufficiency (EPI). Without enough enzymes, your body cannot absorb nutrients properly — especially fat and fat-soluble vitamins."
+        },
+        {
+          "type": "key-points",
+          "heading": "Signs of pancreatic insufficiency",
+          "points": [
+            {
+              "heading": "Oily or fatty stools",
+              "text": "Stools may be pale, bulky, greasy, or float. They may also have a very strong smell. This happens because fat is not being digested properly."
+            },
+            {
+              "heading": "Unintentional weight loss",
+              "text": "Even if you are eating enough, you may lose weight because your body is not absorbing the nutrients from your food."
+            },
+            {
+              "heading": "Bloating and gas",
+              "text": "Undigested food in the gut can cause uncomfortable bloating, gas, and cramping after meals."
+            },
+            {
+              "heading": "Vitamin deficiencies",
+              "text": "Fat-soluble vitamins (A, D, E, and K) need fat to be absorbed. Without enough enzymes, you may become deficient in these vitamins, which can affect your bones, vision, and blood clotting."
+            }
+          ]
+        },
+        {
+          "type": "medication-table",
+          "heading": "Treatment for Pancreatic Insufficiency",
+          "items": [
+            {
+              "med": "Pancreatic enzyme replacement therapy (PERT)",
+              "note": "Prescription enzyme capsules (such as Creon) taken with every meal and snack. These replace the enzymes your pancreas can no longer make. The dose is adjusted based on your symptoms and how much fat is in your meal."
+            },
+            {
+              "med": "Fat-soluble vitamins (A, D, E, K)",
+              "note": "Your doctor will check your vitamin levels and prescribe supplements if needed. Vitamin D is especially important for bone health."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Diabetes screening",
+          "text": "The pancreas also makes insulin. As chronic pancreatitis progresses, you may develop diabetes (called type 3c diabetes or pancreatogenic diabetes). Your doctor will check your blood sugar regularly. If diabetes develops, it is treated with insulin or other medications."
+        }
+      ]
+    },
+    {
+      "id": "nutrition",
+      "title": "Nutrition",
+      "subtitle": "Eating well with chronic pancreatitis",
+      "icon": "🥗",
+      "color": "emerald",
+      "summary": "Good nutrition is an important part of managing chronic pancreatitis. Small, frequent, low-fat meals combined with enzyme supplements can help you absorb the nutrients you need.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Eating well can be a challenge with chronic pancreatitis, but it is one of the most important things you can do to feel better and stay healthy. The goal is to get enough calories and nutrients while keeping fat intake at a level your body can handle with the help of enzyme supplements."
+        },
+        {
+          "type": "checklist",
+          "heading": "Nutrition Action Plan",
+          "storageKey": "chronic-pancreatitis-nutrition-checklist",
+          "items": [
+            "Eat small, frequent meals — 5 to 6 smaller meals throughout the day instead of 3 large ones",
+            "Keep fat intake moderate — do not eliminate fat completely, but choose healthy fats and take your enzymes with every meal",
+            "Stop all alcohol — even small amounts can cause further damage to the pancreas",
+            "Consider MCT oil — medium-chain triglyceride (MCT) oil is a type of fat that is absorbed without needing pancreatic enzymes, and can be a helpful source of extra calories",
+            "Stay hydrated — drink plenty of water throughout the day",
+            "Take your enzyme capsules with every meal and snack — swallow them whole at the start of your meal",
+            "Ask your doctor about a referral to a registered dietitian who specializes in pancreatic conditions"
+          ]
+        },
+        {
+          "type": "allowed-avoid",
+          "heading": "Foods to Focus On and Foods to Limit",
+          "allowed": [
+            "Lean proteins (chicken, fish, turkey, eggs)",
+            "Whole grains (oatmeal, brown rice, whole wheat bread)",
+            "Fruits and vegetables (cooked vegetables may be easier to digest)",
+            "Low-fat dairy (skim milk, low-fat yogurt)",
+            "MCT oil (as a calorie supplement — can be added to smoothies or foods)",
+            "Healthy fats in moderation with enzymes (avocado, olive oil)"
+          ],
+          "avoid": [
+            "Alcohol — in any amount",
+            "Fried and deep-fried foods",
+            "High-fat processed foods (chips, pastries, fast food)",
+            "Large meals — stick to smaller portions spread throughout the day",
+            "Sugary drinks and sweets (especially if you have diabetes or are at risk)"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Do not eliminate fat completely",
+          "text": "Some people with chronic pancreatitis try to avoid all fat, but this can lead to malnutrition and weight loss. A moderate amount of fat is needed for your body to function. The key is to take your enzyme supplements with meals so your body can digest the fat you eat. Your dietitian or doctor can help you find the right balance."
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Symptoms that should prompt a call to your doctor or a visit to the emergency room",
+      "icon": "🚨",
+      "color": "rose",
+      "summary": "Some symptoms of chronic pancreatitis need urgent attention. Knowing when to seek help can prevent serious complications.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "Severe abdominal pain that is not relieved by your usual pain medications",
+            "Fever or chills along with worsening abdominal pain",
+            "Persistent vomiting or inability to keep food or fluids down",
+            "New or worsening yellowing of your skin or eyes (jaundice)",
+            "Unintentional weight loss of more than 5 pounds",
+            "Dark urine or pale-colored stools",
+            "Signs of uncontrolled blood sugar — extreme thirst, frequent urination, confusion, or feeling very unwell"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common questions about chronic pancreatitis",
+      "icon": "❓",
+      "color": "amber",
+      "summary": "Got questions about chronic pancreatitis? Here are clear answers to the things patients ask most often.",
+      "content": [
+        {
+          "type": "knowledge-check",
+          "heading": "Test Your Understanding",
+          "items": [
+            {
+              "question": "What is the most important lifestyle change for chronic pancreatitis?",
+              "options": [
+                "Eating more protein",
+                "Stopping alcohol and quitting smoking",
+                "Taking vitamins every day",
+                "Exercising more"
+              ],
+              "correct": 1,
+              "explanation": "Stopping alcohol and quitting smoking are the two most important steps you can take. Alcohol and smoking both cause further damage to the pancreas and speed up the progression of chronic pancreatitis."
+            },
+            {
+              "question": "When should you take pancreatic enzyme capsules?",
+              "options": [
+                "Only at breakfast",
+                "Only when you eat fatty foods",
+                "With every meal and snack",
+                "Once a day at bedtime"
+              ],
+              "correct": 2,
+              "explanation": "Enzyme capsules need to be taken with every meal and snack to help your body digest food properly. Skipping doses means your body will not absorb nutrients from that meal."
+            },
+            {
+              "question": "Can chronic pancreatitis be cured?",
+              "options": [
+                "Yes, with the right medication",
+                "Yes, with surgery",
+                "No, but treatments can manage symptoms and slow progression",
+                "No, and there are no effective treatments"
+              ],
+              "correct": 2,
+              "explanation": "Chronic pancreatitis cannot be cured because the scarring is permanent. However, effective treatments exist for pain, digestive problems, and diabetes. Most people can significantly improve their quality of life with the right care."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "questions": [
+            {
+              "q": "Can I ever drink alcohol again?",
+              "a": "No. If you have chronic pancreatitis, you should stop drinking alcohol completely and permanently. Even small amounts of alcohol can cause further damage to your pancreas, trigger painful flares, and speed up the progression of the disease. If you need help quitting, talk to your doctor — there are programs and medications that can support you."
+            },
+            {
+              "q": "Will I need to take enzymes forever?",
+              "a": "If you have pancreatic insufficiency, you will likely need enzyme replacement therapy for the rest of your life. The pancreas does not recover its ability to make enzymes once enough damage has occurred. The good news is that enzyme capsules are very effective and allow most people to eat comfortably and absorb their nutrients."
+            },
+            {
+              "q": "Is chronic pancreatitis the same as pancreatic cancer?",
+              "a": "No. Chronic pancreatitis is not cancer. However, having chronic pancreatitis does slightly increase the risk of developing pancreatic cancer over many years. This risk is higher in people with hereditary (genetic) forms of pancreatitis. Talk to your doctor about whether any screening is right for you."
+            },
+            {
+              "q": "What is type 3c diabetes?",
+              "a": "Type 3c diabetes (also called pancreatogenic diabetes) develops when chronic pancreatitis damages the cells in the pancreas that make insulin. It is different from type 1 or type 2 diabetes because it is caused directly by pancreatic disease. It is managed with insulin or other medications, along with careful blood sugar monitoring."
+            },
+            {
+              "q": "Why do I still have pain even though I stopped drinking?",
+              "a": "Stopping alcohol prevents further damage, but it does not reverse the scarring that has already occurred. Pain in chronic pancreatitis can come from nerve damage, blockages in the pancreatic duct, or inflammation. Your doctor can work with you to find the best combination of treatments to manage your pain."
+            },
+            {
+              "q": "Can children get chronic pancreatitis?",
+              "a": "Yes, though it is rare. In children, chronic pancreatitis is most often caused by genetic factors such as mutations in the PRSS1, SPINK1, or CFTR genes. Pediatric gastroenterologists specialize in managing these cases."
+            },
+            {
+              "q": "Is surgery ever needed?",
+              "a": "Surgery is considered when pain cannot be controlled with medications and endoscopic treatments. Options include draining a blocked pancreatic duct or removing part of the pancreas. In rare cases, a total pancreatectomy with islet autotransplantation (removing the entire pancreas and transplanting the insulin-producing cells) may be discussed. Surgery is a last resort but can be very helpful for the right patients."
+            },
+            {
+              "q": "Will my chronic pancreatitis get worse over time?",
+              "a": "It can, especially if you continue to drink alcohol or smoke. However, with proper treatment and lifestyle changes, many people are able to slow or even stop the progression. Some patients find that their pain actually improves over many years, though digestive problems and diabetes may develop as the pancreas loses more function."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Guidelines and resources used in this guide",
+      "icon": "📚",
+      "color": "orange",
+      "summary": "This guide is based on current international gastroenterology guidelines.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            {
+              "text": "American College of Gastroenterology — Clinical Guideline on Chronic Pancreatitis (2020)"
+            },
+            {
+              "text": "American Gastroenterological Association — Clinical Practice Update on Chronic Pancreatitis (2024)"
+            },
+            {
+              "text": "European Society of Gastrointestinal Endoscopy — Guideline on Endoscopic Treatment of Chronic Pancreatitis (2022)"
+            },
+            {
+              "text": "Canadian Digestive Health Foundation — Pancreatitis Patient Information"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

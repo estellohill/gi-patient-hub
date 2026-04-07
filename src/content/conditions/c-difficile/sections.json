@@ -1,0 +1,372 @@
+{
+  "hero": {
+    "title": "C. difficile Infection",
+    "subtitle": "Understanding and recovering from Clostridioides difficile infection",
+    "description": "Everything you need to know about C. difficile infection \u2014 what causes it, how it is treated, how to prevent it from coming back, and when fecal transplant may help. Clear, trustworthy information to help you recover with confidence.",
+    "reassurance": "C. difficile infection is treatable and most people recover fully. Even recurrent C. diff can be cured with newer treatments including fecal transplant."
+  },
+  "sections": [
+    {
+      "id": "what-is-c-diff",
+      "title": "What Is C. diff?",
+      "subtitle": "How this infection happens and why antibiotics are involved",
+      "icon": "\ud83e\udda0",
+      "color": "teal",
+      "summary": "C. difficile is a gut infection that usually happens after antibiotics disrupt your normal gut bacteria. It is common, well understood, and treatable.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Clostridioides difficile (say: klos-TRID-ee-OY-deez dif-uh-SEEL), often called C. diff, is a type of bacteria that can infect your large intestine (colon) and cause inflammation. Your gut is normally home to trillions of helpful bacteria that keep you healthy and keep harmful germs in check. When you take antibiotics for another infection, those antibiotics can kill off many of your good gut bacteria along with the bad. This disrupts the balance of your gut microbiome and gives C. diff an opening to grow and cause infection."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            {
+              "heading": "Antibiotic-associated",
+              "text": "Most C. diff infections happen during or shortly after a course of antibiotics. Any antibiotic can cause it, but some carry a higher risk than others."
+            },
+            {
+              "heading": "Disrupted gut microbiome",
+              "text": "Your gut has a community of bacteria that normally keeps C. diff under control. Antibiotics can disrupt this community, allowing C. diff to take over and produce toxins that damage the lining of your colon."
+            },
+            {
+              "heading": "Very treatable",
+              "text": "C. diff infection responds well to treatment. Most people recover fully with the right medication. Even if the infection comes back, there are effective options including fecal transplant."
+            },
+            {
+              "heading": "Common in hospitals and the community",
+              "text": "C. diff infections are most common in hospitals and long-term care facilities, but they can also happen in the community. In Canada, thousands of people are affected every year."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "How does C. diff spread?",
+          "text": "C. diff produces spores that are very tough and can survive on surfaces for weeks or even months. These spores can be picked up on your hands by touching contaminated surfaces like bed rails, doorknobs, or bathroom fixtures, and then enter your body when you touch your mouth. This is why hand hygiene is so important. Importantly, alcohol-based hand sanitizer does not kill C. diff spores. You need to wash your hands with soap and water."
+        }
+      ]
+    },
+    {
+      "id": "symptoms",
+      "title": "Symptoms",
+      "subtitle": "What C. diff infection feels like",
+      "icon": "\u26a0\ufe0f",
+      "color": "amber",
+      "summary": "C. diff causes watery diarrhea, abdominal pain, and sometimes fever. Symptoms can range from mild to severe.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "C. diff symptoms usually start during or within a few weeks after taking antibiotics, though sometimes they can begin up to three months later. Symptoms can range from mild diarrhea to severe illness. Most people have a milder form that responds well to treatment."
+        },
+        {
+          "type": "key-points",
+          "heading": "Common symptoms of C. diff infection",
+          "points": [
+            {
+              "heading": "Watery diarrhea",
+              "text": "The most common symptom. Usually at least three or more loose, watery bowel movements per day, often with a distinctive unpleasant smell."
+            },
+            {
+              "heading": "Abdominal pain and cramping",
+              "text": "Belly pain or cramping, often in the lower abdomen, is common. It may come and go or be constant."
+            },
+            {
+              "heading": "Fever",
+              "text": "A low-grade fever is common with C. diff. A higher fever may mean the infection is more severe."
+            },
+            {
+              "heading": "Nausea and loss of appetite",
+              "text": "Many people feel unwell, lose their appetite, or feel nauseous during the infection."
+            },
+            {
+              "heading": "Dehydration",
+              "text": "Frequent diarrhea can lead to dehydration. It is important to drink plenty of fluids while you are recovering."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "When C. diff becomes severe",
+          "text": "In rare cases, C. diff can become a severe or life-threatening infection. Signs of severe illness include very high fever, severe belly pain, bloody diarrhea, more than 10 bowel movements a day, or signs of dehydration (dizziness, dark urine, very dry mouth). If you have any of these, seek medical attention right away."
+        }
+      ]
+    },
+    {
+      "id": "treatment",
+      "title": "Treatment",
+      "subtitle": "Medications used to treat C. diff and prevent recurrence",
+      "icon": "\ud83d\udc8a",
+      "color": "blue",
+      "summary": "C. diff is treated with specific antibiotics. For recurrent infections, newer options like bezlotoxumab can help prevent it from coming back.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "The first step in treating C. diff is to stop the antibiotic that triggered the infection, if possible. Then your doctor will prescribe a different antibiotic that specifically targets C. diff. Most people start to feel better within a few days of starting treatment."
+        },
+        {
+          "type": "medication-table",
+          "heading": "C. diff Treatment Options",
+          "items": [
+            {
+              "med": "Vancomycin (oral)",
+              "note": "The standard first-line treatment for C. diff. Taken by mouth (not IV), usually four times a day for 10 days. It works directly in the gut to kill C. diff bacteria."
+            },
+            {
+              "med": "Fidaxomicin (Dificid)",
+              "note": "A newer antibiotic that is as effective as vancomycin but may have a lower risk of recurrence. Taken twice a day for 10 days. It is more targeted and causes less disruption to your other gut bacteria."
+            },
+            {
+              "med": "Bezlotoxumab (Zinplava)",
+              "note": "Not an antibiotic. This is an IV infusion given once alongside antibiotic treatment. It is an antibody that neutralizes C. diff toxin B and helps prevent recurrence. Usually considered for people at high risk of the infection coming back."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "What about metronidazole (Flagyl)?",
+          "text": "Metronidazole used to be a common treatment for C. diff, but current guidelines no longer recommend it as a first choice because vancomycin and fidaxomicin work better with fewer treatment failures. Your doctor may still use metronidazole in certain situations, but for most patients, vancomycin or fidaxomicin is preferred."
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Finish the full course",
+          "text": "Even if you start feeling better after a few days, it is very important to finish the entire course of antibiotics your doctor prescribed. Stopping early increases the risk of the infection coming back."
+        }
+      ]
+    },
+    {
+      "id": "preventing-recurrence",
+      "title": "Preventing Recurrence",
+      "subtitle": "Reducing the chance that C. diff comes back",
+      "icon": "\ud83d\udee1\ufe0f",
+      "color": "emerald",
+      "summary": "About 1 in 5 people will have C. diff come back after treatment. There are practical steps you can take to lower that risk.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "One of the biggest concerns with C. diff is recurrence. About 15 to 25 percent of people will have the infection come back, usually within 2 to 8 weeks after finishing treatment. The good news is there are several things you and your healthcare team can do to reduce that risk."
+        },
+        {
+          "type": "checklist",
+          "heading": "Recurrence Prevention Checklist",
+          "storageKey": "c-diff-recurrence-checklist",
+          "items": [
+            "Finish the full course of antibiotics as prescribed",
+            "Wash your hands with soap and water after using the bathroom and before eating (alcohol sanitizer does NOT kill C. diff spores)",
+            "Ask your doctor if future antibiotics are truly necessary before taking them",
+            "Talk to your doctor about bezlotoxumab if you are at high risk for recurrence",
+            "Stay hydrated and eat a balanced diet to support gut recovery",
+            "Clean bathroom surfaces regularly with a bleach-based cleaner",
+            "Discuss fidaxomicin as a treatment option, which may lower recurrence risk"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Soap and water, not sanitizer",
+          "text": "This is one of the most important things to know about C. diff. Alcohol-based hand sanitizer does NOT kill C. diff spores. You must wash your hands with soap and water. This applies to you, your family members, and your healthcare providers. Do not hesitate to ask your nurse or doctor if they have washed their hands."
+        },
+        {
+          "type": "text",
+          "heading": "Antibiotic stewardship",
+          "text": "Since antibiotics are the number one risk factor for C. diff, avoiding unnecessary antibiotics is one of the best ways to prevent it from coming back. This does not mean you should avoid antibiotics when you truly need them. It means having an open conversation with your doctor about whether an antibiotic is needed, whether a narrower-spectrum antibiotic could be used, and whether the course can be kept as short as possible."
+        },
+        {
+          "type": "text",
+          "heading": "What about probiotics?",
+          "text": "The role of probiotics in preventing C. diff recurrence is debated. Some studies suggest that certain probiotics, such as Saccharomyces boulardii, may offer a small benefit when taken alongside antibiotic treatment. However, the evidence is not strong enough for current guidelines to make a firm recommendation. Probiotics are generally safe for most people, but they should not be used in people who are severely ill or immunocompromised. Talk to your doctor before starting any probiotic."
+        }
+      ]
+    },
+    {
+      "id": "fecal-transplant",
+      "title": "Fecal Microbiota Transplant (FMT)",
+      "subtitle": "Restoring your gut bacteria to cure recurrent C. diff",
+      "icon": "\ud83c\udf31",
+      "color": "indigo",
+      "summary": "FMT is a highly effective treatment for recurrent C. diff infection. It works by restoring healthy gut bacteria from a donor.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Fecal microbiota transplant, often called FMT or fecal transplant, is a treatment where healthy gut bacteria from a screened donor are transferred into the colon of a person with recurrent C. diff. It is one of the most effective treatments available for C. diff that keeps coming back, with cure rates of 80 to 90 percent."
+        },
+        {
+          "type": "key-points",
+          "heading": "Key facts about FMT",
+          "points": [
+            {
+              "heading": "When is FMT considered?",
+              "text": "FMT is typically recommended after two or more recurrences of C. diff despite appropriate antibiotic treatment. It is not usually a first-line treatment."
+            },
+            {
+              "heading": "How does it work?",
+              "text": "Healthy stool from a carefully screened donor is processed and delivered into your colon, usually during a colonoscopy. The healthy bacteria re-establish the normal gut microbiome and crowd out C. diff."
+            },
+            {
+              "heading": "Very high success rate",
+              "text": "FMT cures recurrent C. diff in about 80 to 90 percent of patients, often after just one treatment. Some people may need a second procedure."
+            },
+            {
+              "heading": "Safe and well studied",
+              "text": "FMT has been used for over a decade and is well studied. Donors are rigorously screened for infections and other conditions. Side effects are usually mild and temporary, like bloating or cramping."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "What to expect during FMT",
+          "steps": [
+            "Your doctor confirms that FMT is appropriate for your situation (usually after two or more C. diff recurrences)",
+            "You complete a course of vancomycin leading up to the procedure to reduce the C. diff load in your gut",
+            "You do a bowel preparation (similar to a colonoscopy prep) the day before",
+            "During a colonoscopy, the donor material is delivered directly into your colon",
+            "Most people go home the same day and start to feel better within days",
+            "You follow up with your doctor to confirm the infection has cleared"
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Newer options: microbiome-based therapies",
+          "text": "Newer products that contain defined communities of gut bacteria are now becoming available. These are sometimes called microbiome therapeutics or live biotherapeutic products. They work on the same principle as FMT but are manufactured under standardized conditions. In Canada, access to FMT and newer microbiome therapies may vary by province. Talk to your gastroenterologist about what options are available to you."
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Symptoms that should prompt a call to your doctor",
+      "icon": "\ud83d\udea8",
+      "color": "rose",
+      "summary": "Most C. diff infections are manageable, but certain warning signs mean you should seek medical attention right away.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "Diarrhea that is getting worse or not improving after 3 days of treatment",
+            "More than 10 watery bowel movements in a day",
+            "Severe abdominal pain or a belly that feels very tender or bloated",
+            "Blood in your stool",
+            "High fever (above 38.5\u00b0C or 101.3\u00b0F)",
+            "Signs of dehydration: dizziness, dark urine, very dry mouth, or feeling faint",
+            "Diarrhea returning within 8 weeks of finishing C. diff treatment (possible recurrence)",
+            "New diarrhea starting during or soon after any antibiotic course"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common questions about C. diff",
+      "icon": "\u2753",
+      "color": "amber",
+      "summary": "Got questions about C. diff? Here are clear answers to the things patients ask most often.",
+      "content": [
+        {
+          "type": "knowledge-check",
+          "heading": "Test Your Understanding",
+          "items": [
+            {
+              "question": "What is the best way to clean your hands when you have C. diff?",
+              "options": [
+                "Alcohol-based hand sanitizer",
+                "Soap and water",
+                "Antibacterial wipes",
+                "It doesn't matter which method you use"
+              ],
+              "correct": 1,
+              "explanation": "Alcohol-based hand sanitizer does NOT kill C. diff spores. You must wash your hands with soap and water. This is one of the most important steps in preventing the spread of C. diff."
+            },
+            {
+              "question": "What is the main risk factor for getting a C. diff infection?",
+              "options": [
+                "Eating undercooked food",
+                "Stress and lack of sleep",
+                "Taking antibiotics",
+                "Not exercising enough"
+              ],
+              "correct": 2,
+              "explanation": "Antibiotics are the number one risk factor for C. diff. They disrupt the normal gut bacteria that keep C. diff in check, allowing it to grow and cause infection."
+            },
+            {
+              "question": "What is FMT used for?",
+              "options": [
+                "First-time C. diff infection",
+                "Preventing C. diff in hospitals",
+                "Recurrent C. diff that keeps coming back despite antibiotics",
+                "Treating all types of diarrhea"
+              ],
+              "correct": 2,
+              "explanation": "FMT (fecal microbiota transplant) is used for recurrent C. diff infection that has come back two or more times despite appropriate antibiotic treatment. It has a cure rate of 80 to 90 percent."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "questions": [
+            {
+              "q": "Is C. diff contagious?",
+              "a": "Yes, C. diff can spread from person to person through spores found on surfaces and hands. However, simply being exposed to C. diff does not mean you will get sick. Healthy people with a normal gut microbiome can usually fight it off. The infection is most likely to take hold when antibiotics have disrupted your gut bacteria. Good hand hygiene with soap and water is the best way to prevent spread."
+            },
+            {
+              "q": "Can I get C. diff without taking antibiotics?",
+              "a": "Yes, although it is less common. Antibiotics are the biggest risk factor, but some people develop C. diff without recent antibiotic use. Other risk factors include being over 65, recent hospitalization, a weakened immune system, or taking medications that reduce stomach acid (like PPIs) for a long time."
+            },
+            {
+              "q": "How long does it take to recover from C. diff?",
+              "a": "Most people start feeling better within 2 to 3 days of starting the right antibiotic. A full course of treatment is usually 10 days. However, it can take several weeks for your bowel habits to fully return to normal. Be patient with your body as your gut bacteria recover."
+            },
+            {
+              "q": "Why does C. diff keep coming back?",
+              "a": "C. diff recurs because the underlying problem \u2014 a disrupted gut microbiome \u2014 has not fully recovered. The antibiotics used to treat C. diff can themselves further disrupt your gut bacteria, creating a cycle. C. diff spores can also survive in your gut and reactivate once treatment ends. This is why restoring the gut microbiome through FMT is so effective for recurrent cases."
+            },
+            {
+              "q": "Do I need to clean my home differently?",
+              "a": "If you have C. diff, it is a good idea to clean bathroom surfaces, especially the toilet and sink, with a bleach-based cleaner (or a 1:10 bleach-to-water solution). Regular household cleaners may not kill C. diff spores. Wash your hands with soap and water after using the bathroom, and encourage family members to do the same."
+            },
+            {
+              "q": "Should I take probiotics during or after C. diff treatment?",
+              "a": "The evidence for probiotics in C. diff is mixed. Some studies suggest Saccharomyces boulardii may offer a small benefit, but current guidelines do not make a strong recommendation for or against probiotics. They are generally safe for most people. Talk to your doctor before starting one, especially if you have a weakened immune system."
+            },
+            {
+              "q": "Is fecal transplant safe?",
+              "a": "FMT is well studied and has been used for over a decade. Donors are rigorously screened for infections, antibiotic-resistant bacteria, and other conditions. Side effects are usually mild and short-lived, like bloating or cramping. Serious complications are very rare. In Canada, FMT is performed under medical supervision in specialized centres."
+            },
+            {
+              "q": "Can I prevent C. diff if I need to take antibiotics?",
+              "a": "You cannot completely eliminate the risk, but you can reduce it. Take antibiotics only when they are truly necessary. Ask your doctor if a narrower-spectrum antibiotic could work. Take the shortest course that is effective. Wash your hands frequently with soap and water, especially in hospital settings. Some doctors may consider prescribing a probiotic alongside the antibiotic, though evidence for this is still limited."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Guidelines and resources used in this guide",
+      "icon": "\ud83d\udcda",
+      "color": "teal",
+      "summary": "This guide is based on current Canadian and international gastroenterology and infectious disease guidelines.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            {
+              "text": "American College of Gastroenterology \u2014 Clinical Guideline: Prevention, Diagnosis, and Treatment of Clostridioides difficile Infections (2021)"
+            },
+            {
+              "text": "Infectious Diseases Society of America / Society for Healthcare Epidemiology of America \u2014 Focused Update Guidelines on Management of C. difficile Infection in Adults (2021)"
+            },
+            {
+              "text": "Association of Medical Microbiology and Infectious Disease Canada \u2014 Position Statement on Clostridioides difficile Infection (2021)"
+            },
+            {
+              "text": "Canadian Digestive Health Foundation \u2014 C. difficile Patient Information"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

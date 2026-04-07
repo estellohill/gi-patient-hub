@@ -1,0 +1,18 @@
+{
+  "slug": "cirrhosis",
+  "title": "Cirrhosis",
+  "shortTitle": "Cirrhosis",
+  "subtitle": "Understanding and managing liver cirrhosis",
+  "icon": "\ud83e\udec0",
+  "color": "rose",
+  "description": "Clear, evidence-based information about cirrhosis \u2014 causes, complications, management, nutrition, and when to seek help. Created by a Canadian gastroenterologist.",
+  "category": "liver",
+  "prevalence": "Less Common",
+  "lastReviewed": "2026-03-29",
+  "guidelines": [
+    { "society": "AASLD", "title": "AASLD Practice Guidance on Management of Cirrhosis", "year": 2023 },
+    { "society": "EASL", "title": "EASL Clinical Practice Guidelines on Management of Decompensated Cirrhosis", "year": 2018 },
+    { "society": "AASLD", "title": "AASLD Guidance on Prevention, Diagnosis, and Treatment of Hepatocellular Carcinoma", "year": 2023 }
+  ],
+  "enabled": true
+}

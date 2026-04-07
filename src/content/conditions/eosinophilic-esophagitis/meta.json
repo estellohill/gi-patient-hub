@@ -1,0 +1,18 @@
+{
+  "slug": "eosinophilic-esophagitis",
+  "title": "Eosinophilic Esophagitis (EoE)",
+  "shortTitle": "EoE",
+  "subtitle": "Understanding and managing eosinophilic esophagitis",
+  "icon": "🔬",
+  "color": "purple",
+  "description": "Clear, evidence-based information about eosinophilic esophagitis (EoE) — symptoms, diagnosis, treatment options, and when to seek help. Created by a Canadian gastroenterologist.",
+  "category": "upper-gi",
+  "prevalence": "Common",
+  "lastReviewed": "2026-03-29",
+  "guidelines": [
+    { "society": "AGA/ACG", "title": "AGA and ACG Joint Clinical Guidelines for the Management of EoE", "year": 2020 },
+    { "society": "AGREE", "title": "AGREE Conference Recommendations on EoE", "year": 2023 },
+    { "society": "ACG", "title": "Updated ACG Clinical Guideline for EoE", "year": 2024 }
+  ],
+  "enabled": true
+}

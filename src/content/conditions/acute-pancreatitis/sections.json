@@ -1,0 +1,253 @@
+{
+  "hero": {
+    "title": "Acute Pancreatitis",
+    "subtitle": "Understanding, recovering from, and preventing acute pancreatitis",
+    "description": "Everything you need to know about acute pancreatitis \u2014 why it happens, how your body heals, and what you can do to prevent it from coming back. Clear, trustworthy information to support your recovery.",
+    "reassurance": "Most episodes of acute pancreatitis are mild and resolve within a few days. Understanding the cause helps prevent future episodes."
+  },
+  "sections": [
+    {
+      "id": "what-is-acute-pancreatitis",
+      "title": "What Is Acute Pancreatitis?",
+      "subtitle": "Understanding what happens in your body",
+      "icon": "\ud83e\udec5",
+      "color": "orange",
+      "summary": "Acute pancreatitis is sudden inflammation of the pancreas. It can be painful, but most cases are mild and get better within a few days with hospital care.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Your pancreas is a small organ that sits behind your stomach. It has two important jobs: it makes enzymes that help you digest food, and it makes hormones like insulin that control your blood sugar. In acute pancreatitis, the pancreas becomes inflamed very quickly. This usually causes sudden, severe belly pain that leads people to the emergency room. The good news is that most episodes are mild and get better with a short hospital stay."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            { "heading": "Sudden onset", "text": "Acute pancreatitis comes on quickly, usually over a few hours. The pain is typically in the upper belly and may spread to the back." },
+            { "heading": "Most cases are mild", "text": "About 80% of acute pancreatitis cases are mild. This means the pancreas is inflamed but recovers on its own without lasting damage." },
+            { "heading": "Hospital care is needed", "text": "Most people need a hospital stay for pain control, IV fluids, and monitoring. Mild cases usually improve within 3 to 5 days." },
+            { "heading": "Finding the cause is key", "text": "Your doctors will run blood tests and imaging (usually an ultrasound) to figure out what caused the episode. Knowing the cause is the most important step in preventing it from happening again." }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "What does the pain feel like?",
+          "text": "The pain of acute pancreatitis is usually in the upper middle part of your belly, just below the breastbone. It often spreads straight through to the back. Many people describe it as a constant, deep, boring pain that gets worse after eating. Leaning forward sometimes helps a little. The pain is usually severe enough to bring you to the emergency room. Nausea and vomiting are common alongside the pain."
+        }
+      ]
+    },
+    {
+      "id": "causes",
+      "title": "Causes",
+      "subtitle": "Why acute pancreatitis happens and what your doctor will look for",
+      "icon": "\ud83d\udd0d",
+      "color": "amber",
+      "summary": "The two most common causes are gallstones and alcohol. Finding the cause is the single most important step in preventing another episode.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "There are several things that can trigger acute pancreatitis. Your medical team will do blood tests and an ultrasound to find the cause. In most cases, the cause can be identified. Knowing the cause matters because each cause has its own specific way to prevent it from happening again."
+        },
+        {
+          "type": "risk-table",
+          "heading": "Common Causes of Acute Pancreatitis",
+          "items": [
+            { "name": "Gallstones", "risk": "Most common", "description": "Small stones from the gallbladder can block the duct that drains the pancreas. Removing the gallbladder (cholecystectomy) prevents this from happening again." },
+            { "name": "Alcohol", "risk": "Very common", "description": "Heavy alcohol use can inflame the pancreas. This usually requires years of heavy drinking, but it can happen with binge drinking too. Stopping alcohol is the key to prevention." },
+            { "name": "High triglycerides", "risk": "Common", "description": "Very high blood fat levels (usually above 1,000 mg/dL) can trigger pancreatitis. Medication and diet changes can bring these levels down." },
+            { "name": "Medications", "risk": "Less common", "description": "Some medications can rarely cause pancreatitis. Your doctor will review your medication list. Common culprits include certain blood pressure pills, seizure medications, and immune-suppressing drugs." },
+            { "name": "Post-ERCP", "risk": "Less common", "description": "ERCP is a procedure used to treat bile duct problems. Pancreatitis is a known possible side effect, occurring in about 5 to 10% of cases." },
+            { "name": "Idiopathic (no cause found)", "risk": "Varies", "description": "In about 15 to 20% of cases, no clear cause is found after initial testing. Your doctor may recommend further investigation, such as an endoscopic ultrasound, to look for small stones or other hidden causes." }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Gallstone pancreatitis and surgery",
+          "text": "If gallstones caused your pancreatitis, your doctor will likely recommend removing your gallbladder (cholecystectomy). This is a common, safe surgery that prevents future episodes. It is ideally done during the same hospital stay or within 2 weeks. You do not need your gallbladder to live a normal life."
+        }
+      ]
+    },
+    {
+      "id": "recovery",
+      "title": "Recovery",
+      "subtitle": "What to expect in hospital and after you go home",
+      "icon": "\ud83d\udcc8",
+      "color": "emerald",
+      "summary": "Recovery happens in stages. Most people start feeling better within a few days and return to normal activities within 1 to 2 weeks.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Recovering from acute pancreatitis takes time, but most people make a full recovery. Understanding what to expect at each stage can help you feel more in control and less anxious."
+        },
+        {
+          "type": "phases",
+          "phases": [
+            {
+              "phase": "In Hospital (Days 1\u20135)",
+              "icon": "\ud83c\udfe5",
+              "items": [
+                "IV fluids to keep you hydrated and support your pancreas",
+                "Pain medication \u2014 your team will work to keep you comfortable",
+                "Nothing to eat at first, then clear liquids, then solid food as tolerated",
+                "Blood tests to monitor inflammation and organ function",
+                "Ultrasound to check for gallstones if not already done",
+                "Early eating is encouraged as soon as you can tolerate it \u2014 this actually helps you recover faster"
+              ]
+            },
+            {
+              "phase": "First 2 Weeks at Home",
+              "icon": "\ud83c\udfe0",
+              "items": [
+                "Eat small, low-fat meals \u2014 your pancreas is still healing",
+                "Stay well hydrated with water and clear fluids",
+                "Rest as needed but try gentle walking each day",
+                "Take prescribed pain medication if needed",
+                "Avoid alcohol completely",
+                "Attend your follow-up appointment (usually 1 to 2 weeks after discharge)"
+              ]
+            },
+            {
+              "phase": "Long-Term Recovery (Weeks 2\u20136)",
+              "icon": "\u2705",
+              "items": [
+                "Gradually return to your normal diet as you feel better",
+                "Most people feel back to normal within 4 to 6 weeks",
+                "Follow through on the plan to treat the underlying cause (for example, gallbladder surgery or stopping alcohol)",
+                "Report any return of pain, fever, or poor appetite to your doctor",
+                "Attend any planned imaging or follow-up tests"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "checklist",
+          "heading": "Post-Discharge Recovery Checklist",
+          "storageKey": "acute-pancreatitis-recovery-checklist",
+          "items": [
+            "Follow-up appointment booked with my doctor (within 1 to 2 weeks)",
+            "Eating small, low-fat meals and tolerating food well",
+            "Taking any prescribed medications as directed",
+            "Avoiding alcohol completely",
+            "Gallbladder surgery scheduled (if gallstones were the cause)",
+            "Know the warning signs that mean I should go back to the ER"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "preventing-recurrence",
+      "title": "Preventing Recurrence",
+      "subtitle": "Steps you can take to keep it from happening again",
+      "icon": "\ud83d\udee1\ufe0f",
+      "color": "blue",
+      "summary": "The best way to prevent another episode depends on what caused the first one. There are clear steps for each cause.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Once you have had one episode of acute pancreatitis, preventing another one is the top priority. The approach depends on the cause. Your doctor will work with you on a plan tailored to your situation."
+        },
+        {
+          "type": "key-points",
+          "heading": "Prevention by Cause",
+          "points": [
+            { "heading": "Gallstones", "text": "Gallbladder removal (cholecystectomy) is the most effective prevention. This is usually recommended during the same hospital stay or within 2 weeks. Without surgery, the risk of another episode within 6 weeks is up to 30%." },
+            { "heading": "Alcohol", "text": "Complete abstinence from alcohol is strongly recommended. Even moderate drinking can trigger another episode. Talk to your doctor about support programs if stopping is difficult." },
+            { "heading": "High triglycerides", "text": "Lowering triglyceride levels with medication (fibrates) and dietary changes reduces risk. Avoid sugary drinks, refined carbohydrates, and excess alcohol. Your doctor will recheck your levels." },
+            { "heading": "Medications", "text": "If a medication was the suspected cause, your doctor will switch you to an alternative. Do not stop any medication on your own without talking to your doctor first." },
+            { "heading": "Idiopathic (unknown cause)", "text": "Your doctor may recommend further testing, such as an endoscopic ultrasound or genetic testing. Following general healthy habits still helps reduce risk." }
+          ]
+        },
+        {
+          "type": "allowed-avoid",
+          "heading": "Dietary Guidance During Recovery",
+          "allowed": [
+            "Lean proteins (chicken breast, fish, turkey, egg whites)",
+            "Fruits and vegetables (cooked or soft varieties may be easier at first)",
+            "Whole grains (rice, oatmeal, whole wheat bread)",
+            "Low-fat dairy (skim milk, low-fat yogurt)",
+            "Water, herbal teas, and clear broths",
+            "Small, frequent meals throughout the day"
+          ],
+          "avoid": [
+            "Fried and greasy foods",
+            "Full-fat dairy (whole milk, cream, butter in large amounts)",
+            "Fatty red meat and processed meats",
+            "Alcohol (avoid completely)",
+            "Large meals (eat smaller portions instead)",
+            "Sugary drinks and sweets (especially if triglycerides are high)"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Alcohol and pancreatitis",
+          "text": "If alcohol was the cause, complete and permanent abstinence is the single most important thing you can do. Even one drink can trigger another episode. If you find it hard to stop drinking, talk to your doctor \u2014 there are effective treatments and support programs that can help."
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Warning signs that mean you should call your doctor or go to the ER",
+      "icon": "\ud83d\udea8",
+      "color": "rose",
+      "summary": "Most people recover smoothly, but some symptoms after discharge need prompt medical attention.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "Severe belly pain that returns or gets worse",
+            "Fever above 38.5\u00b0C (101.3\u00b0F)",
+            "Unable to keep food or fluids down for more than 24 hours",
+            "New or worsening nausea and vomiting",
+            "Your belly becomes swollen, firm, or very tender",
+            "Yellowing of your skin or eyes (jaundice)",
+            "Feeling dizzy, lightheaded, or very weak",
+            "Dark urine or very pale stools"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common questions about acute pancreatitis",
+      "icon": "\u2753",
+      "color": "amber",
+      "summary": "Got questions about acute pancreatitis? Here are clear answers to the things patients ask most often.",
+      "content": [
+        {
+          "type": "faq",
+          "questions": [
+            { "q": "Will acute pancreatitis happen again?", "a": "It depends on the cause. If the cause is found and treated \u2014 for example, removing the gallbladder for gallstones or stopping alcohol \u2014 the risk of it happening again is much lower. Without treating the cause, the chance of another episode can be as high as 30% within a few weeks." },
+            { "q": "When can I eat normally again?", "a": "Most people can start eating a normal diet within 1 to 2 weeks after a mild episode. During recovery, start with small, low-fat meals and gradually add more variety as you feel better. There is no need to stay on a liquid diet once you can tolerate solid food." },
+            { "q": "Will I need surgery?", "a": "If gallstones caused your pancreatitis, yes \u2014 removing the gallbladder is recommended to prevent another episode. This is a very common and safe surgery, often done with tiny incisions (laparoscopic). Most people go home the same day or the next day. If another cause was found, surgery is usually not needed." },
+            { "q": "Can I ever have a drink again?", "a": "If alcohol caused your pancreatitis, doctors strongly recommend stopping alcohol completely and permanently. Even small amounts can trigger another episode or lead to chronic pancreatitis. If gallstones were the cause and you only drink in moderation, you can likely resume moderate drinking after you have fully recovered \u2014 but check with your doctor." },
+            { "q": "Does pancreatitis lead to diabetes?", "a": "A single mild episode usually does not cause diabetes. However, severe or repeated episodes can damage enough of the pancreas to affect its ability to make insulin. Your doctor may check your blood sugar during follow-up to make sure everything is normal." },
+            { "q": "When will I feel like myself again?", "a": "After a mild episode, most people feel significantly better within 1 to 2 weeks and fully recover within 4 to 6 weeks. Severe episodes can take longer. Be patient with yourself and follow up with your doctor if you are not improving as expected." },
+            { "q": "What pain medication can I take at home?", "a": "Your doctor may prescribe pain medication for the first few days at home. Acetaminophen (Tylenol) is generally safe for mild pain. Avoid anti-inflammatory medications like ibuprofen (Advil) or naproxen (Aleve) unless your doctor says they are okay, as these can sometimes irritate the stomach. If your pain is getting worse rather than better, contact your doctor." },
+            { "q": "Can acute pancreatitis turn into chronic pancreatitis?", "a": "In most cases, a single episode of acute pancreatitis does not lead to chronic pancreatitis. However, repeated episodes \u2014 especially from ongoing alcohol use \u2014 can cause permanent damage to the pancreas over time. This is another important reason to treat the underlying cause and prevent recurrence." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Guidelines and resources used in this guide",
+      "icon": "\ud83d\udcda",
+      "color": "orange",
+      "summary": "This guide is based on current Canadian and international gastroenterology guidelines.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            { "text": "American College of Gastroenterology \u2014 Guideline on Acute Pancreatitis (2024)" },
+            { "text": "American Gastroenterological Association \u2014 Clinical Practice Guidelines on Management of Pancreatitis (2024)" },
+            { "text": "International Association of Pancreatology / American Pancreatic Association \u2014 Evidence-Based Guidelines for the Management of Acute Pancreatitis" },
+            { "text": "Canadian Digestive Health Foundation \u2014 Pancreatitis Patient Information" }
+          ]
+        }
+      ]
+    }
+  ]
+}

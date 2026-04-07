@@ -1,0 +1,380 @@
+{
+  "hero": {
+    "title": "Gallstones",
+    "subtitle": "Understanding gallstones, symptoms, and treatment options",
+    "description": "Everything you need to know about gallstones — what they are, when they cause problems, what surgery involves, and how to recover. Clear, trustworthy information to help you feel informed and prepared.",
+    "reassurance": "Gallstones are very common — most cause no problems. When treatment is needed, gallbladder removal is one of the safest and most commonly performed surgeries."
+  },
+  "sections": [
+    {
+      "id": "what-are-gallstones",
+      "title": "What Are Gallstones?",
+      "subtitle": "Types of gallstones, who gets them, and when they matter",
+      "icon": "🪨",
+      "color": "amber",
+      "summary": "Gallstones are small, hard deposits that form in the gallbladder. Many people have them without ever knowing. Understanding what they are can help you know when to act.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Your gallbladder is a small, pear-shaped organ that sits just below your liver on the right side of your abdomen. Its job is to store bile, a digestive fluid made by the liver that helps break down fats. Gallstones form when substances in bile — mainly cholesterol or bilirubin — harden into small stones. These stones can be as small as a grain of sand or as large as a golf ball. You can have one stone or many at the same time."
+        },
+        {
+          "type": "key-points",
+          "heading": "Key facts about gallstones",
+          "points": [
+            {
+              "heading": "Very common",
+              "text": "About 1 in 5 women and 1 in 10 men in Canada will develop gallstones by age 60. Most will never have symptoms."
+            },
+            {
+              "heading": "Two main types",
+              "text": "Cholesterol stones are the most common type (about 80%) and are usually yellow-green. Pigment stones are smaller and darker, made from bilirubin."
+            },
+            {
+              "heading": "\"Silent\" gallstones",
+              "text": "Most gallstones cause no symptoms at all. These are called silent gallstones. If they are found by chance on an imaging test, they usually do not need treatment."
+            },
+            {
+              "heading": "Who gets them?",
+              "text": "Risk factors include being female, being over 40, having a family history, being overweight, losing weight rapidly, pregnancy, and certain ethnic backgrounds (including Indigenous Canadians, who have higher rates)."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Silent gallstones usually don't need treatment",
+          "text": "If gallstones are found by accident on an ultrasound or CT scan and you have no symptoms, your doctor will likely recommend leaving them alone. Removing the gallbladder for silent stones is not recommended in most cases."
+        }
+      ]
+    },
+    {
+      "id": "symptoms",
+      "title": "Symptoms",
+      "subtitle": "How gallstones make themselves known",
+      "icon": "⚠️",
+      "color": "amber",
+      "summary": "When gallstones cause symptoms, the main one is biliary colic — a specific pattern of pain that is often triggered by fatty meals.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Gallstones cause symptoms when they block the opening of the gallbladder or the bile ducts. The main symptom is called biliary colic — a steady, intense pain in the upper right side of your abdomen or in the middle of your abdomen, just below the breastbone. It is not a crampy, come-and-go pain like intestinal cramps. It builds up, stays steady, and then gradually fades."
+        },
+        {
+          "type": "key-points",
+          "heading": "What biliary colic feels like",
+          "points": [
+            {
+              "heading": "Location",
+              "text": "Upper right abdomen or upper middle abdomen. The pain can also spread to the right shoulder or between the shoulder blades."
+            },
+            {
+              "heading": "Timing",
+              "text": "Often comes on after a fatty or large meal, especially in the evening. It can also wake you up at night."
+            },
+            {
+              "heading": "Duration",
+              "text": "Typically lasts 30 minutes to several hours, then fades. If the pain lasts more than 6 hours, it may be a sign of a complication."
+            },
+            {
+              "heading": "Other symptoms",
+              "text": "Nausea and vomiting often come with the pain. You may also feel bloated or uncomfortable after fatty foods."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Pain lasting more than 6 hours",
+          "text": "If your pain lasts more than 6 hours, is getting worse, or comes with a fever, this may mean the gallbladder has become inflamed (cholecystitis). Go to the emergency department."
+        }
+      ]
+    },
+    {
+      "id": "complications",
+      "title": "Complications",
+      "subtitle": "What can happen if gallstones cause a blockage",
+      "icon": "🔴",
+      "color": "rose",
+      "summary": "While most gallstones are harmless, they can sometimes lead to serious problems like cholecystitis, bile duct stones, or pancreatitis.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Most people with gallstones will never have complications. However, when a stone gets stuck in the wrong place, it can cause serious problems that need medical attention. Knowing the warning signs helps you act quickly."
+        },
+        {
+          "type": "risk-table",
+          "heading": "Gallstone Complications",
+          "items": [
+            {
+              "name": "Cholecystitis (inflamed gallbladder)",
+              "risk": "Most common",
+              "description": "A stone blocks the gallbladder outlet for a long time, causing inflammation and infection. Symptoms include severe pain lasting more than 6 hours, fever, and tenderness in the upper right abdomen. This usually requires hospital admission and surgery."
+            },
+            {
+              "name": "Choledocholithiasis (bile duct stone)",
+              "risk": "Common",
+              "description": "A stone moves out of the gallbladder and gets stuck in the common bile duct. This can cause pain, jaundice (yellowing of the skin and eyes), and dark urine. It is treated with a procedure called ERCP to remove the stone."
+            },
+            {
+              "name": "Cholangitis (bile duct infection)",
+              "risk": "Serious",
+              "description": "When a stone blocks the bile duct and the bile becomes infected. Symptoms include fever, jaundice, and abdominal pain (Charcot's triad). This is a medical emergency that needs urgent treatment."
+            },
+            {
+              "name": "Gallstone pancreatitis",
+              "risk": "Serious",
+              "description": "A stone passes through and temporarily blocks the pancreatic duct, causing inflammation of the pancreas. Symptoms include severe upper abdominal pain that radiates to the back, nausea, and vomiting. This requires hospital admission."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Jaundice is always a reason to seek medical care",
+          "text": "If you notice your skin or the whites of your eyes turning yellow, or if your urine becomes very dark (like tea), see a doctor the same day. This may mean a gallstone is blocking your bile duct."
+        }
+      ]
+    },
+    {
+      "id": "surgery-cholecystectomy",
+      "title": "Surgery: Cholecystectomy",
+      "subtitle": "What to expect before, during, and after gallbladder removal",
+      "icon": "🏥",
+      "color": "blue",
+      "summary": "Gallbladder removal (cholecystectomy) is one of the most common surgeries performed in Canada. Most are done laparoscopically with a quick recovery.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "When gallstones cause repeated symptoms or complications, the recommended treatment is to remove the gallbladder. This surgery is called a cholecystectomy. It is one of the most commonly performed surgeries in Canada, with over 50,000 done each year. You can live a completely normal life without your gallbladder."
+        },
+        {
+          "type": "key-points",
+          "heading": "About the surgery",
+          "points": [
+            {
+              "heading": "Laparoscopic (keyhole) surgery",
+              "text": "Most gallbladder removals are done laparoscopically. The surgeon makes 3 to 4 small cuts in your abdomen and uses a tiny camera and instruments to remove the gallbladder. This means less pain and a faster recovery."
+            },
+            {
+              "heading": "Same-day or overnight",
+              "text": "Many people go home the same day or the next morning. For emergency surgery or if there are complications, you may stay a day or two longer."
+            },
+            {
+              "heading": "Open surgery is rare",
+              "text": "In a small number of cases (about 5%), the surgeon may need to switch to a larger incision (open surgery) for safety reasons. This is not a failure — it is the safe and correct decision."
+            },
+            {
+              "heading": "General anesthesia",
+              "text": "You will be fully asleep during the procedure. The surgery itself usually takes 30 to 60 minutes."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "What to Expect: Recovery Timeline",
+          "steps": [
+            "Day of surgery: You will feel groggy from the anesthesia. Some shoulder pain from the gas used during surgery is normal and goes away within a day or two.",
+            "Days 1 to 3: Take it easy at home. You can walk around the house and go up stairs. Manage pain with the medications your surgeon prescribes.",
+            "Week 1: Most people start to feel much better. You can usually shower after 24 to 48 hours (follow your surgeon's instructions about the dressings).",
+            "Weeks 1 to 2: You can return to light work and daily activities. Avoid heavy lifting (more than 10 pounds) for 2 weeks.",
+            "Weeks 2 to 4: Gradually return to all normal activities, including exercise. Most people are fully recovered within 2 to 4 weeks."
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "You do not need your gallbladder",
+          "text": "Your liver will continue to make bile, which will flow directly into your small intestine. Your body adjusts, and most people notice no difference in digestion after recovery."
+        }
+      ]
+    },
+    {
+      "id": "life-after-surgery",
+      "title": "Life After Surgery",
+      "subtitle": "Diet, digestion, and what to expect long term",
+      "icon": "🥗",
+      "color": "emerald",
+      "summary": "Most people feel great after gallbladder removal. Some experience temporary changes in digestion, which usually improve with simple dietary adjustments.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "The good news is that most people feel significantly better after gallbladder removal — the pain that brought them to surgery is gone. Your body adjusts well to life without a gallbladder. However, some people notice changes in their digestion in the first few weeks or months. These are usually mild and improve over time."
+        },
+        {
+          "type": "allowed-avoid",
+          "heading": "Dietary Tips After Surgery",
+          "allowed": [
+            "Start with bland, low-fat foods for the first 1 to 2 weeks",
+            "Gradually reintroduce your regular foods over 2 to 4 weeks",
+            "Eat smaller, more frequent meals",
+            "Choose lean proteins (chicken, fish, tofu)",
+            "Include plenty of fibre (vegetables, whole grains, fruits)",
+            "Stay well hydrated"
+          ],
+          "avoid": [
+            "Large, fatty meals (especially in the first few weeks)",
+            "Greasy or fried foods until your body adjusts",
+            "Large amounts of butter, cream, or heavy sauces",
+            "Rushing back to your full pre-surgery diet all at once"
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Postcholecystectomy diarrhea",
+          "text": "About 1 in 5 people experience looser stools or more frequent bowel movements after gallbladder removal. This happens because bile now flows continuously into the intestine instead of being stored and released in batches. For most people, this improves within a few weeks to months as the body adjusts. If it persists, your doctor can prescribe a bile acid binder such as cholestyramine, which is very effective. Let your doctor know if diarrhea is bothering you — there are good treatments available."
+        },
+        {
+          "type": "info-callout",
+          "variant": "success",
+          "title": "Most people return to a normal diet",
+          "text": "After the initial recovery period, the majority of people can eat whatever they like without any problems. Long-term dietary restrictions are usually not necessary."
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Symptoms that should prompt a call to your doctor or a visit to the emergency department",
+      "icon": "🚨",
+      "color": "rose",
+      "summary": "Most gallstone symptoms are manageable, but certain warning signs need prompt medical attention.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "Severe abdominal pain lasting more than 6 hours",
+            "Fever or chills along with abdominal pain",
+            "Yellowing of your skin or the whites of your eyes (jaundice)",
+            "Very dark urine (tea-coloured) or pale, clay-coloured stools",
+            "Persistent nausea and vomiting that prevents you from keeping fluids down",
+            "Severe pain that is different from or worse than your usual gallstone attacks",
+            "After surgery: increasing redness, swelling, or drainage from your incision sites",
+            "After surgery: fever above 38.5 degrees Celsius"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common questions about gallstones",
+      "icon": "❓",
+      "color": "amber",
+      "summary": "Got questions about gallstones? Here are clear answers to the things patients ask most often.",
+      "content": [
+        {
+          "type": "knowledge-check",
+          "heading": "Test Your Understanding",
+          "items": [
+            {
+              "question": "If gallstones are found by accident on an imaging test and you have no symptoms, what is the usual recommendation?",
+              "options": [
+                "Remove the gallbladder right away",
+                "Start medication to dissolve the stones",
+                "Leave them alone — no treatment needed",
+                "Follow a strict low-fat diet"
+              ],
+              "correct": 2,
+              "explanation": "Silent gallstones (ones that cause no symptoms) do not need treatment in most cases. Your doctor will likely recommend monitoring and only intervening if symptoms develop."
+            },
+            {
+              "question": "What is the typical duration of biliary colic?",
+              "options": [
+                "A few seconds",
+                "30 minutes to several hours",
+                "Several days",
+                "It comes and goes throughout the day"
+              ],
+              "correct": 1,
+              "explanation": "Biliary colic typically lasts 30 minutes to several hours and then fades. If pain lasts more than 6 hours, it may indicate a complication like cholecystitis."
+            },
+            {
+              "question": "What should you do if you notice yellowing of your skin or eyes?",
+              "options": [
+                "Wait a few days to see if it goes away",
+                "Take an antacid",
+                "See a doctor the same day",
+                "Increase your water intake"
+              ],
+              "correct": 2,
+              "explanation": "Jaundice (yellow skin or eyes) can mean a gallstone is blocking the bile duct. This needs prompt medical attention to prevent infection and other complications."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "questions": [
+            {
+              "q": "Can gallstones be dissolved with medication?",
+              "a": "There is a medication called ursodeoxycholic acid (ursodiol) that can sometimes dissolve small cholesterol stones, but it takes months to years to work and stones often come back. Surgery is the standard treatment when gallstones are causing symptoms. Medication is mainly used for people who cannot have surgery for medical reasons."
+            },
+            {
+              "q": "Will I gain weight after gallbladder removal?",
+              "a": "Gallbladder removal itself does not cause weight gain. Some people gain weight because they feel better and can eat more comfortably again. Maintaining a balanced diet and staying active will help you manage your weight."
+            },
+            {
+              "q": "Can I still eat fatty foods after surgery?",
+              "a": "Yes, most people can return to a normal diet after recovery. In the first few weeks, it is a good idea to go easy on very fatty or greasy foods while your body adjusts. After that, most people can eat whatever they like without any problems."
+            },
+            {
+              "q": "Are gallbladder cleanses or flushes effective?",
+              "a": "There is no scientific evidence that gallbladder cleanses or flushes work. The waxy lumps that people pass during these cleanses are not gallstones — they are formed from the olive oil and other ingredients consumed during the flush. These products are unregulated and can cause harm. Talk to your doctor about proven treatments."
+            },
+            {
+              "q": "Can gallstones come back after surgery?",
+              "a": "Once the gallbladder is removed, gallstones cannot form in the gallbladder again. In rare cases, a stone can form in the bile ducts themselves, but this is uncommon."
+            },
+            {
+              "q": "Is gallbladder surgery safe during pregnancy?",
+              "a": "Yes, laparoscopic cholecystectomy can be performed safely during pregnancy when needed, ideally during the second trimester. Untreated gallstone attacks during pregnancy can lead to complications, so surgery is sometimes the safest option. Your surgeon and obstetrician will work together."
+            },
+            {
+              "q": "How do I know if my pain is gallstones or something else?",
+              "a": "Gallstone pain (biliary colic) has a specific pattern — it is steady (not crampy), in the upper right abdomen, often after fatty meals, and lasts 30 minutes to several hours. An ultrasound is the best first test. Your doctor can help sort out whether your symptoms fit a gallstone pattern."
+            },
+            {
+              "q": "What is ERCP?",
+              "a": "ERCP stands for endoscopic retrograde cholangiopancreatography. It is a specialized procedure where a gastroenterologist uses a flexible camera (endoscope) passed through the mouth to find and remove stones stuck in the bile duct. It is done under sedation and is the standard way to treat bile duct stones."
+            },
+            {
+              "q": "Do I need to change my diet if I have silent gallstones?",
+              "a": "If you have gallstones with no symptoms, you do not need a special diet. A generally healthy diet — lower in saturated fat, rich in fibre, and at a healthy weight — is good for your overall health and may reduce the chance of developing symptoms."
+            },
+            {
+              "q": "How long is the wait for gallbladder surgery in Canada?",
+              "a": "Wait times vary by province and by urgency. Emergency surgery (for example, for acute cholecystitis) is usually done within days. Elective surgery for recurring symptoms can take weeks to months depending on your location. Your surgeon's office can give you the most accurate estimate for your situation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Guidelines and resources used in this guide",
+      "icon": "📚",
+      "color": "amber",
+      "summary": "This guide is based on current international gastroenterology and surgical guidelines.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            {
+              "text": "Society of American Gastrointestinal and Endoscopic Surgeons (SAGES) — Guidelines for the Clinical Application of Laparoscopic Biliary Tract Surgery (2020)"
+            },
+            {
+              "text": "American College of Gastroenterology (ACG) — Guideline on Management of Gallstone Pancreatitis (2024)"
+            },
+            {
+              "text": "European Association for the Study of the Liver (EASL) — Clinical Practice Guidelines on the Prevention, Diagnosis and Treatment of Gallstones (2016)"
+            },
+            {
+              "text": "Canadian Association of General Surgeons — Patient Information on Cholecystectomy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

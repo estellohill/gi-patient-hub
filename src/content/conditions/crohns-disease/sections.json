@@ -1,0 +1,273 @@
+{
+  "hero": {
+    "title": "Crohn's Disease",
+    "subtitle": "Understanding and managing Crohn's disease",
+    "description": "Everything you need to know about Crohn's disease \u2014 what it is, how it is treated, how to stay well between flares, and when to seek help. Clear, trustworthy information to help you take control of your health.",
+    "reassurance": "Crohn's disease is a lifelong condition, but with modern treatments, most people with Crohn's live full, active lives."
+  },
+  "sections": [
+    {
+      "id": "what-is-crohns",
+      "title": "What Is Crohn's?",
+      "subtitle": "Understanding the basics of Crohn's disease",
+      "icon": "\ud83e\udec1",
+      "color": "indigo",
+      "summary": "Crohn's disease is a type of inflammatory bowel disease (IBD) that causes inflammation in the digestive tract. Canada has one of the highest rates of Crohn's in the world.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Crohn's disease is a chronic (long-lasting) condition where the immune system causes inflammation in the digestive tract. Unlike ulcerative colitis, which only affects the large intestine, Crohn's can affect any part of the digestive system from the mouth to the anus. It most commonly affects the end of the small intestine (called the ileum) and the beginning of the large intestine (colon). The inflammation in Crohn's can go through the entire thickness of the bowel wall, which is why it sometimes leads to complications like narrowing (strictures) or tunnels between organs (fistulas)."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            { "heading": "Canada has high rates", "text": "Canada has one of the highest rates of Crohn's disease in the world, affecting roughly 1 in 150 Canadians. You are far from alone, and there is a strong support community here." },
+            { "heading": "Not caused by anything you did", "text": "Crohn's disease is caused by a combination of genetics, the immune system, and environmental factors. It is not caused by stress, diet, or anything you did wrong." },
+            { "heading": "It is not the same as IBS", "text": "Crohn's disease involves actual inflammation and damage to the intestine, unlike irritable bowel syndrome (IBS), which causes symptoms but does not damage the gut." },
+            { "heading": "Treatments keep getting better", "text": "There are more effective treatments for Crohn's disease today than ever before. Many people achieve lasting remission and live normal, active lives." }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Crohn's vs. ulcerative colitis \u2014 what's the difference?",
+          "text": "Crohn's disease and ulcerative colitis are the two main types of inflammatory bowel disease (IBD). Ulcerative colitis only affects the inner lining of the large intestine (colon) and rectum, and the inflammation is continuous. Crohn's disease can affect any part of the digestive tract, goes deeper into the bowel wall, and can have healthy patches between areas of inflammation (called skip lesions). The treatments overlap quite a bit, but there are some important differences your doctor will explain based on your specific situation."
+        }
+      ]
+    },
+    {
+      "id": "symptoms-and-patterns",
+      "title": "Symptoms and Patterns",
+      "subtitle": "How Crohn's disease can show up and how it behaves over time",
+      "icon": "\u26a0\ufe0f",
+      "color": "amber",
+      "summary": "Crohn's symptoms vary from person to person and tend to come and go in cycles of flares and remission. Knowing the patterns helps you manage your condition.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Crohn's disease affects everyone differently. Some people have mild symptoms, while others have more severe disease. Symptoms tend to come and go \u2014 periods when the disease is active are called flares, and periods when you feel well are called remission. The goal of treatment is to get you into remission and keep you there as long as possible."
+        },
+        {
+          "type": "key-points",
+          "heading": "Common symptoms of Crohn's disease",
+          "points": [
+            { "heading": "Abdominal pain and cramping", "text": "Often felt in the lower right side of the abdomen, but it can occur anywhere. The pain may come and go or be constant during a flare." },
+            { "heading": "Diarrhea", "text": "Frequent, loose, or watery stools are one of the most common symptoms. Some people go to the bathroom many times a day during a flare." },
+            { "heading": "Fatigue", "text": "Feeling very tired is one of the most common and frustrating symptoms. It can happen during flares and sometimes even during remission." },
+            { "heading": "Weight loss and poor appetite", "text": "Inflammation can make it hard to absorb nutrients, and pain or nausea may reduce your appetite." },
+            { "heading": "Blood in the stool", "text": "Some people notice blood when they have a bowel movement. This should always be reported to your doctor." },
+            { "heading": "Symptoms outside the gut", "text": "Crohn's can also cause joint pain, skin rashes, eye inflammation, and mouth sores. These are called extraintestinal manifestations." }
+          ]
+        },
+        {
+          "type": "risk-table",
+          "heading": "Disease Behavior Classification",
+          "intro": "Your doctor may describe your Crohn's using these patterns. This helps guide treatment decisions.",
+          "items": [
+            { "name": "Inflammatory (non-stricturing, non-penetrating)", "risk": "Most common", "description": "Inflammation without narrowing or tunneling. This is the most common pattern, especially at diagnosis." },
+            { "name": "Stricturing", "risk": "Moderate", "description": "Inflammation leads to scar tissue that narrows the intestine. Can cause cramping and bloating, especially after eating." },
+            { "name": "Penetrating (fistulizing)", "risk": "Requires close monitoring", "description": "Inflammation creates abnormal connections (fistulas) between the intestine and other organs or the skin. Needs prompt treatment." }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Flares and remission",
+          "text": "Crohn's disease often follows a pattern of flares (when symptoms are active) and remission (when you feel well). A flare can be triggered by stopping medications, infections, stress, smoking, or sometimes for no clear reason. The goal of treatment is to achieve remission and keep you there. Even when you feel well, it is important to continue your medications as prescribed, because they are working to keep the inflammation quiet."
+        }
+      ]
+    },
+    {
+      "id": "treatment-overview",
+      "title": "Treatment Overview",
+      "subtitle": "Medications and approaches to control Crohn's disease",
+      "icon": "\ud83d\udc8a",
+      "color": "blue",
+      "summary": "Modern Crohn's treatment aims to heal the intestine, not just reduce symptoms. There are many effective medication options, and your doctor will tailor a plan for you.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Treatment for Crohn's disease has improved dramatically over the past 20 years. The goal is no longer just to control symptoms \u2014 it is to heal the lining of the intestine (called mucosal healing) and prevent complications like strictures, fistulas, and surgery. Your treatment plan will depend on how severe your disease is, where it is located, and how you respond to different medications."
+        },
+        {
+          "type": "medication-table",
+          "heading": "Common Crohn's Disease Medications",
+          "items": [
+            { "med": "5-ASA (Mesalamine / Pentasa)", "note": "An anti-inflammatory medication sometimes used for mild Crohn's disease of the colon. Works directly on the lining of the intestine." },
+            { "med": "Corticosteroids (Prednisone, Budesonide)", "note": "Used to quickly control flares. Effective short-term but not meant for long-term use because of side effects. Your doctor will taper you off once the flare is controlled." },
+            { "med": "Immunomodulators (Azathioprine, Methotrexate)", "note": "Help keep the immune system from attacking the intestine. Used to maintain remission. Take several weeks to reach full effect." },
+            { "med": "Biologics (Infliximab, Adalimumab, Vedolizumab, Ustekinumab)", "note": "Targeted therapies that block specific parts of the immune system causing inflammation. Very effective for moderate-to-severe Crohn's. Given by injection or infusion." },
+            { "med": "Small molecules (Upadacitinib, Risankizumab)", "note": "Newer targeted treatments taken as pills or injections. Expanding the options for people who have not responded to other therapies." }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Treatment is moving earlier and faster",
+          "text": "Canadian and international guidelines now recommend starting effective therapy early, before complications develop. For many patients with moderate-to-severe Crohn's, this means starting a biologic or targeted therapy sooner rather than going through a step-up approach. Your gastroenterologist will discuss what makes sense for your situation."
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Do not stop your medications when you feel well",
+          "text": "This is one of the most important things to understand about Crohn's disease. When you feel well, it means your medication is working. Stopping it can lead to a flare, and the medication may not work as well the second time around. Always talk to your doctor before making any changes to your treatment."
+        }
+      ]
+    },
+    {
+      "id": "living-with-crohns",
+      "title": "Living with Crohn's",
+      "subtitle": "Practical tips for daily life, nutrition, and wellness",
+      "icon": "\ud83c\udf1f",
+      "color": "emerald",
+      "summary": "Living well with Crohn's means staying on top of your medications, eating well, managing stress, and knowing what resources are available to you.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "A Crohn's diagnosis can feel overwhelming at first, but most people with Crohn's disease learn to manage it well and live full, active lives. Staying consistent with your medications, paying attention to your nutrition, and connecting with support resources can make a big difference in how you feel day to day."
+        },
+        {
+          "type": "checklist",
+          "heading": "Crohn's Wellness Checklist",
+          "storageKey": "crohns-wellness-checklist",
+          "items": [
+            "Take all medications as prescribed, even when feeling well",
+            "Attend all scheduled appointments with your gastroenterologist",
+            "Keep up with recommended blood tests and imaging",
+            "Stay up to date on vaccinations (talk to your doctor before any live vaccines)",
+            "If you smoke, make a plan to quit \u2014 smoking makes Crohn's significantly worse",
+            "Stay physically active \u2014 even light exercise like walking helps with fatigue and mood",
+            "Watch for signs of a flare and contact your doctor early if symptoms return",
+            "Connect with Crohn's and Colitis Canada for support and resources (crohnsandcolitis.ca)",
+            "Ask about the GoHere washroom access program (free card and app for washroom access across Canada)",
+            "Talk to your doctor about mental health \u2014 anxiety and low mood are common and treatable"
+          ]
+        },
+        {
+          "type": "allowed-avoid",
+          "heading": "Nutrition: Remission vs. Flare",
+          "allowed": [
+            "During remission: eat a varied, balanced diet with plenty of fruits, vegetables, whole grains, and lean protein",
+            "During remission: include calcium-rich foods (dairy, fortified plant milks) to support bone health",
+            "During remission: eat fiber-rich foods if tolerated \u2014 they support gut health",
+            "During a flare: low-fiber, low-residue foods may be easier to tolerate (white rice, bananas, cooked vegetables, eggs, lean chicken)",
+            "During a flare: small, frequent meals instead of large ones",
+            "Stay well hydrated at all times, especially during diarrhea"
+          ],
+          "avoid": [
+            "During a flare: high-fiber and raw vegetables that are hard to digest",
+            "During a flare: spicy foods, fried foods, and high-fat meals",
+            "During a flare: caffeine and alcohol, which can worsen diarrhea",
+            "Processed foods and sugary drinks in general",
+            "Skipping meals \u2014 regular eating helps maintain nutrition",
+            "Restrictive diets without medical guidance \u2014 talk to a dietitian before cutting out food groups"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Crohn's and Colitis Canada",
+          "text": "Crohn's and Colitis Canada (crohnsandcolitis.ca) is a national organization that provides support, education, and advocacy for people living with IBD. They offer the GoHere washroom access program, peer support, information events, and resources for navigating work, school, and daily life. They also fund Canadian IBD research. Connecting with them is free."
+        }
+      ]
+    },
+    {
+      "id": "monitoring",
+      "title": "Monitoring",
+      "subtitle": "Staying on top of your health with regular check-ups",
+      "icon": "\ud83d\udcc5",
+      "color": "sky",
+      "summary": "Regular monitoring helps catch problems early, even when you feel well. Your doctor will schedule blood tests, imaging, and colonoscopies at specific intervals.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Even when you feel well, Crohn's disease can still be active at a low level (called subclinical inflammation). Regular monitoring helps your doctor make sure the inflammation is truly under control and catch any complications early. The specific tests and how often you need them will depend on your disease and your treatment."
+        },
+        {
+          "type": "frequency-table",
+          "heading": "Typical Monitoring Schedule",
+          "items": [
+            { "scenario": "Blood tests (CBC, CRP, liver and kidney function)", "interval": "Every 3 to 6 months, or as directed by your doctor" },
+            { "scenario": "Fecal calprotectin (stool test for inflammation)", "interval": "Every 3 to 6 months \u2014 a simple, non-invasive way to check for gut inflammation" },
+            { "scenario": "Colonoscopy", "interval": "Typically 6 to 12 months after starting treatment, then every 1 to 3 years depending on your situation" },
+            { "scenario": "MRI or CT scan (cross-sectional imaging)", "interval": "As needed to check for strictures, fistulas, or disease in the small bowel" },
+            { "scenario": "Bone density scan (DEXA)", "interval": "If you have taken steroids for a long time or have other risk factors for osteoporosis" },
+            { "scenario": "Colorectal cancer screening", "interval": "Starting 8 years after diagnosis if your colon is involved \u2014 surveillance colonoscopy every 1 to 3 years" }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Complications to watch for",
+          "text": "Over time, Crohn's disease can sometimes lead to complications. These include strictures (narrowing of the intestine that can cause blockages), fistulas (abnormal tunnels between the intestine and other structures), abscesses (pockets of infection), and nutritional deficiencies (especially iron, vitamin B12, vitamin D, and folate). Regular monitoring helps catch these early so they can be treated before they become serious. If you notice new or worsening symptoms, contact your doctor rather than waiting for your next scheduled appointment."
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Symptoms that should prompt a call to your doctor",
+      "icon": "\ud83d\udea8",
+      "color": "rose",
+      "summary": "Most Crohn's symptoms can be managed, but some warning signs mean you should contact your doctor or go to the emergency department right away.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "Severe or worsening abdominal pain that is not relieved by your usual methods",
+            "High fever (above 38.5\u00b0C / 101.3\u00b0F)",
+            "Bloody diarrhea that is getting worse or not improving",
+            "Signs of dehydration: dizziness, very dark urine, or inability to keep fluids down",
+            "Sudden swelling, redness, or drainage near the anus (possible abscess or fistula)",
+            "Inability to eat or drink for more than 24 hours",
+            "Severe nausea or vomiting that prevents you from taking your medications",
+            "New or worsening joint pain, eye redness, or skin changes",
+            "Any symptoms that feel different from your usual flare pattern"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common questions about Crohn's disease",
+      "icon": "\u2753",
+      "color": "amber",
+      "summary": "Got questions about Crohn's disease? Here are clear answers to the things patients ask most often.",
+      "content": [
+        {
+          "type": "faq",
+          "questions": [
+            { "q": "Did I cause my Crohn's disease?", "a": "No. Crohn's disease is caused by a combination of genetic, immune, and environmental factors. It is not caused by stress, diet, or anything you did. Researchers believe that in people with a genetic tendency, something triggers the immune system to attack the digestive tract. You did not do anything to bring this on." },
+            { "q": "Will I need surgery?", "a": "Not everyone with Crohn's needs surgery. With modern treatments, the need for surgery has gone down significantly. However, about 30 to 50 percent of people with Crohn's may need surgery at some point in their lives, usually for complications like strictures, fistulas, or disease that does not respond to medications. Surgery is not a failure \u2014 it can be an important part of the treatment plan, and many people do very well after surgery." },
+            { "q": "Can I have children if I have Crohn's disease?", "a": "Yes. Most people with Crohn's disease can have healthy pregnancies and healthy babies. The most important thing is to have your disease well controlled before and during pregnancy. Many Crohn's medications, including most biologics, are safe to continue during pregnancy. Talk to your gastroenterologist and obstetrician early so you can plan together." },
+            { "q": "Are biologic medications safe?", "a": "Biologics have been used for over 20 years and have a strong safety record. Like all medications, they have potential side effects, including a small increase in the risk of certain infections. Your doctor will screen you for infections like tuberculosis and hepatitis B before starting a biologic. The risks of uncontrolled Crohn's disease are generally much greater than the risks of biologic therapy." },
+            { "q": "Should I avoid gluten?", "a": "There is no evidence that a gluten-free diet helps Crohn's disease unless you also have celiac disease. Some people feel better avoiding certain foods, and that is fine, but cutting out entire food groups without guidance can lead to nutritional deficiencies. If you want to try dietary changes, work with a dietitian who understands IBD." },
+            { "q": "Can I travel with Crohn's disease?", "a": "Yes. Many people with Crohn's travel regularly, including internationally. Plan ahead by packing extra medication, carrying a letter from your doctor explaining your condition and treatments, and researching washroom access at your destination. The GoHere card from Crohn's and Colitis Canada can help with washroom access. Talk to your doctor before travel about any vaccinations you may need, especially if you are on immunosuppressive therapy." },
+            { "q": "Does Crohn's disease affect life expectancy?", "a": "With modern treatments and regular monitoring, most people with Crohn's disease have a normal or near-normal life expectancy. The key is staying on top of your treatment, attending your follow-up appointments, and not smoking. Canada has some of the best IBD care in the world, and the treatments available today are more effective than ever." },
+            { "q": "Can I use marijuana for my Crohn's symptoms?", "a": "Some people report that cannabis helps with pain, nausea, and appetite. However, there is not enough scientific evidence to recommend it as a treatment for Crohn's disease. Cannabis does not treat the underlying inflammation. If you are using or considering cannabis, let your doctor know so they can make sure it does not interfere with your other treatments." },
+            { "q": "Can I drink alcohol with Crohn's disease?", "a": "Small amounts of alcohol are generally okay for many people with Crohn's, but alcohol can irritate the gut, worsen diarrhea, and interact with some medications (especially methotrexate and azathioprine). During a flare, it is best to avoid alcohol. Talk to your doctor about what is safe for your specific situation." },
+            { "q": "Are there special diets that can treat Crohn's disease?", "a": "No single diet has been proven to treat Crohn's disease in adults, though exclusive enteral nutrition (a special liquid diet) is an effective treatment for children with Crohn's. Some diets like the Mediterranean diet or the Crohn's Disease Exclusion Diet are being studied and may help some people. The most important thing is to eat a nutritious, balanced diet and work with a dietitian if you want to make changes. Do not follow restrictive diets without professional guidance." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Guidelines and resources used in this guide",
+      "icon": "\ud83d\udcda",
+      "color": "indigo",
+      "summary": "This guide is based on current Canadian and international gastroenterology guidelines.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            { "text": "Canadian Association of Gastroenterology \u2014 Clinical Practice Guideline for the Management of Inflammatory Bowel Disease (2023)" },
+            { "text": "American College of Gastroenterology \u2014 Management of Crohn\u2019s Disease in Adults (2018)" },
+            { "text": "AGA Clinical Practice Guideline \u2014 Management of Moderate-to-Severe Luminal and Fistulizing Crohn\u2019s Disease (2021)" },
+            { "text": "Crohn\u2019s and Colitis Canada \u2014 Patient Education Resources (crohnsandcolitis.ca)" },
+            { "text": "GI Society \u2014 Canadian Society of Intestinal Research (badgut.org)" }
+          ]
+        }
+      ]
+    }
+  ]
+}

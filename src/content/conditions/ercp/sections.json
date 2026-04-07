@@ -1,0 +1,442 @@
+{
+  "hero": {
+    "title": "ERCP Guide",
+    "subtitle": "A procedure to diagnose and treat bile duct and pancreatic problems",
+    "description": "Everything you need to know about ERCP — why it's done, how to prepare, what happens during the procedure, and what to expect afterward. Clear, trustworthy information to help you feel confident.",
+    "reassurance": "ERCP is a well-established procedure performed thousands of times every day. Your care team is highly trained and will keep you comfortable throughout."
+  },
+  "sections": [
+    {
+      "id": "what-is-ercp",
+      "title": "What Is ERCP?",
+      "subtitle": "Understanding the procedure",
+      "icon": "🔬",
+      "color": "sky",
+      "summary": "ERCP is a specialized procedure that uses a flexible scope and X-rays to diagnose and treat problems in the bile ducts and pancreatic duct. You'll be sedated and comfortable throughout.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "ERCP stands for Endoscopic Retrograde Cholangiopancreatography. It's a procedure where a gastroenterologist uses a thin, flexible tube (called a duodenoscope) that is passed through your mouth, down your throat, and into the first part of your small intestine. From there, the doctor can access the openings of your bile duct and pancreatic duct to diagnose and treat problems."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            {
+              "heading": "Scope through the mouth",
+              "text": "A special side-viewing scope is guided through your mouth and stomach into the duodenum (the first part of the small intestine), where the bile duct and pancreatic duct open."
+            },
+            {
+              "heading": "Both diagnostic and therapeutic",
+              "text": "ERCP can both find problems (using X-ray dye and imaging) and treat them in the same session — such as removing stones or placing stents."
+            },
+            {
+              "heading": "Done under sedation",
+              "text": "You'll receive sedation or general anesthesia through an IV, so you'll be asleep or very deeply relaxed. Most patients don't remember the procedure at all."
+            },
+            {
+              "heading": "Takes 30 to 60 minutes",
+              "text": "The procedure itself usually takes 30 to 60 minutes, depending on what needs to be done. With preparation and recovery, plan to be at the hospital for most of the day."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "How is ERCP different from a regular endoscopy?",
+          "text": "A regular upper endoscopy looks at the lining of your esophagus, stomach, and duodenum. ERCP goes a step further — it uses a special side-viewing scope and X-ray dye to look inside the bile ducts and pancreatic duct, which a regular endoscopy cannot do."
+        }
+      ]
+    },
+    {
+      "id": "why-you-might-need-one",
+      "title": "Why You Might Need One",
+      "subtitle": "Common reasons for ERCP",
+      "icon": "📋",
+      "color": "blue",
+      "summary": "ERCP is used to treat bile duct stones, narrowings, blockages, bile leaks, and certain pancreatic duct problems. Your doctor has recommended it because it's the best way to address your specific issue.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Your doctor has recommended ERCP because you have a problem in your bile duct or pancreatic duct that can be treated through this procedure. Here are the most common reasons ERCP is performed."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            {
+              "heading": "Bile duct stones",
+              "text": "Gallstones can slip out of the gallbladder and get stuck in the bile duct, causing pain, jaundice (yellowing of the skin), or infection. ERCP can remove these stones."
+            },
+            {
+              "heading": "Strictures or narrowings",
+              "text": "The bile duct or pancreatic duct can become narrowed due to scarring, inflammation, or tumours. ERCP can widen the narrowing and take tissue samples to find the cause."
+            },
+            {
+              "heading": "Stent placement",
+              "text": "A small tube (stent) can be placed during ERCP to keep a blocked or narrowed duct open, allowing bile or pancreatic fluid to flow normally."
+            },
+            {
+              "heading": "Sphincterotomy",
+              "text": "A small cut can be made at the opening of the bile duct to make it easier to remove stones or place stents. This is one of the most common parts of an ERCP."
+            },
+            {
+              "heading": "Bile leak",
+              "text": "After gallbladder surgery or liver injury, bile can leak from the duct. ERCP can place a stent to seal the leak and allow it to heal."
+            },
+            {
+              "heading": "Pancreatic duct problems",
+              "text": "ERCP can treat blockages or stones in the pancreatic duct, which may be causing recurrent pancreatitis (inflammation of the pancreas) or pain."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "preparation",
+      "title": "Preparation",
+      "subtitle": "Getting ready for your ERCP",
+      "icon": "✅",
+      "color": "emerald",
+      "summary": "Preparing for ERCP is straightforward. You'll need to fast, adjust certain medications, and arrange a ride home. Follow these steps to be fully ready.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Good preparation helps your procedure go smoothly and safely. Your doctor's office will give you specific instructions, but here is a general guide to help you get ready."
+        },
+        {
+          "type": "checklist",
+          "heading": "ERCP preparation checklist",
+          "storageKey": "ercp-prep",
+          "items": [
+            "Arrange a ride home — you cannot drive after sedation",
+            "Tell your doctor about all medications you take, especially blood thinners and diabetes medications",
+            "Tell your doctor if you have any allergies, especially to contrast dye, iodine, or latex",
+            "Tell your doctor if you have a heart valve replacement or pacemaker",
+            "Pick up any prescriptions your doctor has ordered (such as antibiotics)",
+            "Do not eat solid food for at least 8 hours before the procedure (your doctor will confirm the exact time)",
+            "You may drink clear liquids up to 2 hours before (ask your doctor)",
+            "Wear comfortable, loose-fitting clothing on the day",
+            "Bring your health card, medication list, and any recent blood work or imaging results",
+            "Plan to take the full day off work"
+          ]
+        },
+        {
+          "type": "medication-table",
+          "heading": "Medications to discuss with your doctor",
+          "warning": "Always confirm medication changes with your doctor before your procedure. Never stop or change medications on your own.",
+          "items": [
+            {
+              "med": "Blood thinners (Warfarin, Eliquis, Xarelto, Plavix)",
+              "note": "Your doctor will tell you when to stop — usually 3-7 days before, depending on the medication and what is planned during the ERCP"
+            },
+            {
+              "med": "Aspirin (low-dose)",
+              "note": "Usually continued, but confirm with your doctor"
+            },
+            {
+              "med": "Diabetes medications (insulin, metformin, gliclazide)",
+              "note": "Doses may need adjustment since you'll be fasting. Monitor blood sugar closely"
+            },
+            {
+              "med": "Blood pressure medications",
+              "note": "Usually taken the morning of with a small sip of water — confirm with your doctor"
+            },
+            {
+              "med": "Antibiotics",
+              "note": "Your doctor may prescribe antibiotics to take before the procedure in certain situations (e.g., if you have a stent or suspected infection)"
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Fasting is required",
+          "text": "You must have an empty stomach for ERCP. Do not eat solid food for at least 8 hours before your procedure. Having food in your stomach increases the risk of complications during sedation. If you are unsure about the fasting timeline, call your doctor's office."
+        }
+      ]
+    },
+    {
+      "id": "what-to-expect",
+      "title": "What to Expect",
+      "subtitle": "Before, during, and after your ERCP",
+      "icon": "🏥",
+      "color": "indigo",
+      "summary": "Knowing what happens on the day of your ERCP helps reduce anxiety. Here's a step-by-step walkthrough of the experience.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "ERCP is done in a hospital endoscopy suite or procedure room equipped with X-ray equipment. The entire visit usually takes 4 to 6 hours, including preparation and recovery time."
+        },
+        {
+          "type": "phases",
+          "phases": [
+            {
+              "phase": "Before",
+              "icon": "📝",
+              "items": [
+                "You'll check in at the endoscopy unit and change into a hospital gown",
+                "A nurse will review your medical history, medications, allergies, and fasting status",
+                "An IV line will be placed in your arm for sedation, fluids, and any medications",
+                "You'll meet your gastroenterologist and the care team",
+                "You'll sign a consent form — feel free to ask any last questions",
+                "You may receive antibiotics through the IV if needed"
+              ]
+            },
+            {
+              "phase": "During",
+              "icon": "⏱️",
+              "items": [
+                "You'll lie on your left side or stomach on the procedure table",
+                "Sedation or general anesthesia is given through your IV — you'll fall asleep quickly",
+                "A mouth guard is placed to protect your teeth and the scope",
+                "The scope is guided through your mouth into the duodenum",
+                "X-ray dye is injected into the ducts and images are taken on a screen",
+                "Treatment is performed as needed (stone removal, sphincterotomy, stent placement)",
+                "The procedure takes 30 to 60 minutes depending on complexity"
+              ]
+            },
+            {
+              "phase": "After",
+              "icon": "🛋️",
+              "items": [
+                "You'll rest in the recovery area for 1 to 2 hours as sedation wears off",
+                "Your throat may feel slightly sore — this is normal and goes away within a day",
+                "You may feel bloated from the air used during the procedure",
+                "Your doctor will share the initial results before you leave",
+                "You'll receive written discharge instructions",
+                "You must not drive, operate machinery, or make important decisions for 24 hours",
+                "Start with clear liquids, then light meals as tolerated"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "The procedure step by step",
+          "steps": [
+            "Sedation is given and you fall asleep",
+            "The duodenoscope is passed through your mouth into the duodenum",
+            "The doctor locates the opening of the bile duct (the papilla)",
+            "A thin catheter is threaded through the scope into the bile or pancreatic duct",
+            "X-ray contrast dye is injected and images are taken",
+            "If needed, a sphincterotomy (small cut) is made to widen the duct opening",
+            "Stones are removed using a balloon or basket, or a stent is placed",
+            "The scope is withdrawn and you're taken to recovery"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Recovery room: 1 to 2 hours",
+          "text": "You'll be monitored in the recovery area for 1 to 2 hours after the procedure. The nurses will check your vital signs, pain level, and make sure you're recovering well before you go home. Some patients may need to stay overnight for observation, depending on the complexity of the procedure."
+        }
+      ]
+    },
+    {
+      "id": "risks",
+      "title": "Risks",
+      "subtitle": "Understanding the risks of ERCP",
+      "icon": "⚠️",
+      "color": "amber",
+      "summary": "Like all medical procedures, ERCP carries some risks. Serious complications are uncommon, and your doctor takes steps to minimize them. Understanding the risks helps you make an informed decision.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "ERCP is generally safe, but it does carry a slightly higher risk of complications compared to a standard endoscopy because of the work done on the bile duct and pancreatic duct. Your doctor has recommended ERCP because the benefits of the procedure outweigh the risks in your situation."
+        },
+        {
+          "type": "risk-table",
+          "heading": "Possible complications",
+          "items": [
+            {
+              "name": "Pancreatitis (inflammation of the pancreas)",
+              "risk": "3–5%",
+              "description": "The most common complication. It causes abdominal pain and usually resolves with a short hospital stay, IV fluids, and pain medication. Most cases are mild."
+            },
+            {
+              "name": "Bleeding",
+              "risk": "1–2%",
+              "description": "Bleeding can occur if a sphincterotomy is performed. It is usually minor and stops on its own or is treated during the procedure. Rarely, it may need further intervention."
+            },
+            {
+              "name": "Perforation (tear)",
+              "risk": "Less than 1%",
+              "description": "A small tear in the intestine or bile duct. This is rare but may require antibiotics, a hospital stay, or in very rare cases, surgery to repair."
+            },
+            {
+              "name": "Infection (cholangitis)",
+              "risk": "Less than 1%",
+              "description": "An infection in the bile duct can occur, especially if a blockage cannot be fully cleared. It is treated with antibiotics and, if needed, a repeat procedure."
+            },
+            {
+              "name": "Sedation-related risks",
+              "risk": "Rare",
+              "description": "As with any procedure involving sedation or anesthesia, there are small risks of breathing problems, allergic reactions, or heart rhythm changes. Your vital signs are monitored throughout."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Rectal indomethacin reduces pancreatitis risk",
+          "text": "In most cases, a rectal suppository of indomethacin (an anti-inflammatory medication) is given during the procedure. Studies have shown this simple step reduces the risk of post-ERCP pancreatitis by about 50%. Your care team will discuss this with you."
+        },
+        {
+          "type": "text",
+          "heading": "How your care team minimizes risks",
+          "text": "Your gastroenterologist is specially trained in ERCP and takes several steps to keep you safe. These include careful patient selection, using the latest techniques and equipment, placing a temporary pancreatic duct stent when appropriate, giving rectal indomethacin to prevent pancreatitis, monitoring your vital signs throughout the procedure, and having a full care team present. The decision to recommend ERCP is made only when the expected benefits clearly outweigh the risks."
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Warning signs after your procedure",
+      "icon": "🚨",
+      "color": "rose",
+      "summary": "Most people recover smoothly after ERCP. However, it's important to know the warning signs that mean you should seek medical attention right away.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "Severe or worsening abdominal pain that is not relieved by the pain medication you were given",
+            "Fever or chills (temperature above 38°C / 100.4°F)",
+            "Persistent nausea or vomiting that prevents you from keeping liquids down",
+            "Black, tarry stools or bright red blood in your stool",
+            "Chest pain or difficulty breathing",
+            "Symptoms that are getting worse rather than better in the hours after discharge"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common concerns",
+      "icon": "❓",
+      "color": "purple",
+      "summary": "Got questions? You're not alone. Here are answers to the most common things patients ask about ERCP.",
+      "content": [
+        {
+          "type": "faq",
+          "questions": [
+            {
+              "q": "Will the procedure be painful?",
+              "a": "No. You'll be sedated or under general anesthesia, so you won't feel pain during the procedure. Afterward, you may have a mild sore throat and some bloating, which usually resolve within a day. If you experience any abdominal discomfort, your care team will provide pain relief."
+            },
+            {
+              "q": "Will I be awake during ERCP?",
+              "a": "No. ERCP is performed under deep sedation or general anesthesia. You'll be asleep for the entire procedure and won't remember it. This is different from some standard endoscopies where lighter sedation may be used."
+            },
+            {
+              "q": "How long does the procedure take?",
+              "a": "The procedure itself usually takes 30 to 60 minutes, depending on what needs to be done. However, plan to be at the hospital for 4 to 6 hours total, including check-in, preparation, the procedure, and recovery time."
+            },
+            {
+              "q": "When can I eat after the procedure?",
+              "a": "You can usually start with clear liquids once you're fully awake and your swallowing feels normal, which is typically 1 to 2 hours after the procedure. If you feel well, you can move on to light, easy-to-digest meals. Your care team will give you specific guidance before you leave."
+            },
+            {
+              "q": "When can I return to work?",
+              "a": "Most people take the procedure day and the following day off work. If your job involves heavy lifting or physical labour, you may need a few extra days. Your doctor will advise you based on what was done during the procedure."
+            },
+            {
+              "q": "Will I need more than one ERCP?",
+              "a": "It depends on your condition. Some patients need only a single ERCP to solve the problem. Others may need a follow-up procedure — for example, to remove or replace a stent, or to complete treatment that couldn't be finished in one session. Your doctor will let you know."
+            },
+            {
+              "q": "How does ERCP compare to surgery?",
+              "a": "ERCP is a minimally invasive alternative to surgery for many bile duct and pancreatic duct problems. There are no surgical incisions, and recovery is much faster than open surgery. For issues like bile duct stones, ERCP is the preferred first-line treatment."
+            },
+            {
+              "q": "If a stent is placed, when does it come out?",
+              "a": "Plastic stents are usually removed or replaced during a follow-up ERCP, typically within 2 to 3 months. Metal stents may be left in permanently, depending on the reason they were placed. Your doctor will explain the plan for your specific stent."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "knowledge-check",
+      "title": "Knowledge Check",
+      "subtitle": "Test your understanding",
+      "icon": "🧠",
+      "color": "teal",
+      "summary": "See how well you understand ERCP with these quick questions. There's no pressure — it's just a helpful way to review what you've learned.",
+      "content": [
+        {
+          "type": "knowledge-check",
+          "items": [
+            {
+              "question": "What is the most common complication of ERCP?",
+              "options": [
+                "Bleeding",
+                "Pancreatitis (inflammation of the pancreas)",
+                "Infection",
+                "Perforation (tear)"
+              ],
+              "correct": 1,
+              "explanation": "Pancreatitis is the most common complication of ERCP, occurring in about 3 to 5% of cases. It is usually mild and resolves with a short hospital stay. Your care team takes steps to reduce this risk, including giving rectal indomethacin."
+            },
+            {
+              "question": "How long should you fast before an ERCP?",
+              "options": [
+                "2 hours",
+                "4 hours",
+                "At least 8 hours for solid food",
+                "Fasting is not required"
+              ],
+              "correct": 2,
+              "explanation": "You must not eat solid food for at least 8 hours before your ERCP. Having an empty stomach is essential for your safety during sedation and to give the doctor a clear view. Your doctor will give you the exact fasting instructions."
+            },
+            {
+              "question": "What does ERCP allow the doctor to do that a regular upper endoscopy cannot?",
+              "options": [
+                "Look at the stomach lining",
+                "Take biopsies from the esophagus",
+                "Access and treat the bile duct and pancreatic duct",
+                "Remove stomach polyps"
+              ],
+              "correct": 2,
+              "explanation": "ERCP uses a special side-viewing scope and X-ray dye to access the bile duct and pancreatic duct — something a regular upper endoscopy cannot do. This allows the doctor to remove stones, place stents, and treat blockages in these ducts."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Evidence-based sources",
+      "icon": "📚",
+      "color": "sky",
+      "summary": "The information on this page is based on current clinical guidelines and peer-reviewed evidence.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            {
+              "text": "ASGE Standards of Practice Committee. Adverse events associated with ERCP. Gastrointestinal Endoscopy, 2023.",
+              "url": "https://www.asge.org/home/practice-support/standards-of-practice"
+            },
+            {
+              "text": "Dumonceau JM, et al. ESGE Guideline: Prophylaxis of post-ERCP pancreatitis. Endoscopy, 2024.",
+              "url": "https://www.esge.com/guidelines/"
+            },
+            {
+              "text": "Buxbaum JL, et al. ACG Clinical Guideline: Diagnosis and Management of Choledocholithiasis. American Journal of Gastroenterology, 2019.",
+              "url": "https://journals.lww.com/ajg/fulltext/2019/04000/acg_clinical_guideline__diagnosis_and_management.14.aspx"
+            },
+            {
+              "text": "Elmunzer BJ, et al. A Randomized Trial of Rectal Indomethacin to Prevent Post-ERCP Pancreatitis. New England Journal of Medicine, 2012.",
+              "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa1111103"
+            },
+            {
+              "text": "Canadian Association of Gastroenterology — Patient Information on ERCP.",
+              "url": "https://www.cag-acg.org/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "hero": {
+    "title": "Cirrhosis",
+    "subtitle": "Understanding and managing liver cirrhosis",
+    "description": "Everything you need to know about cirrhosis \u2014 what causes it, what complications to watch for, how to manage it day to day, and when to seek help. Clear, trustworthy information to help you take an active role in your care.",
+    "reassurance": "A cirrhosis diagnosis is serious, but it does not mean your life is over. With proper management, many people with compensated cirrhosis live for decades."
+  },
+  "sections": [
+    {
+      "id": "what-is-cirrhosis",
+      "title": "What Is Cirrhosis?",
+      "subtitle": "How scarring affects your liver and what it means for you",
+      "icon": "\ud83e\udec0",
+      "color": "rose",
+      "summary": "Cirrhosis is advanced scarring of the liver. Understanding the difference between compensated and decompensated cirrhosis is the most important thing you can learn.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Your liver is one of the hardest-working organs in your body. It filters toxins from your blood, makes proteins that help your blood clot, produces bile to digest food, stores energy, and fights infections. Cirrhosis means that years of liver damage have caused healthy liver tissue to be replaced by scar tissue. This scarring makes it harder for the liver to do its job. Cirrhosis does not happen overnight \u2014 it develops slowly over many years."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            { "heading": "Compensated cirrhosis", "text": "Your liver has scarring but is still able to do most of its work. Many people at this stage have no symptoms at all. With good management, people with compensated cirrhosis can remain stable for many years." },
+            { "heading": "Decompensated cirrhosis", "text": "The scarring has become severe enough that the liver can no longer keep up with all its tasks. This stage can cause noticeable symptoms like fluid buildup, confusion, or bleeding. Treatment focuses on managing these complications." },
+            { "heading": "Early detection matters", "text": "The earlier cirrhosis is found, the more that can be done to slow or stop further damage. Many people are diagnosed before they ever develop complications." },
+            { "heading": "Treatable causes", "text": "In many cases, the underlying cause of cirrhosis can be treated. Stopping the ongoing injury to the liver is the single most important step." }
+          ]
+        },
+        {
+          "type": "risk-table",
+          "heading": "Compensated vs. Decompensated Cirrhosis",
+          "items": [
+            { "name": "Compensated", "risk": "Stable", "description": "Liver is scarred but still functioning. Few or no symptoms. Focus is on preventing progression. Many people stay at this stage for years or decades with good care." },
+            { "name": "Decompensated", "risk": "Serious", "description": "Liver can no longer keep up. Complications like fluid in the belly, confusion, or bleeding varices may develop. Closer medical follow-up is needed and transplant evaluation may be considered." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "causes",
+      "title": "Causes",
+      "subtitle": "What leads to cirrhosis and why treating the cause matters",
+      "icon": "\ud83d\udd0d",
+      "color": "blue",
+      "summary": "Cirrhosis has many possible causes. Identifying and treating the underlying cause is the most important step in stopping further liver damage.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Many different conditions can injure the liver over time and eventually lead to cirrhosis. The good news is that for most of these causes, treatment is available. When the ongoing injury to the liver is stopped, the scarring often stabilizes and sometimes even improves. Your doctor will work with you to identify the cause and start the right treatment."
+        },
+        {
+          "type": "key-points",
+          "heading": "Common Causes of Cirrhosis",
+          "points": [
+            { "heading": "Alcohol-related liver disease", "text": "Heavy drinking over many years is one of the leading causes of cirrhosis. Stopping alcohol completely is the most effective treatment and can dramatically improve outcomes." },
+            { "heading": "Metabolic dysfunction-associated steatotic liver disease (MASLD)", "text": "Formerly called fatty liver disease. Linked to obesity, diabetes, and metabolic syndrome. Now the fastest-growing cause of cirrhosis worldwide. Weight loss and lifestyle changes can help." },
+            { "heading": "Hepatitis C", "text": "A viral infection that can be cured with a simple 8 to 12 week course of pills. Curing hepatitis C stops further liver damage and can even reverse some scarring." },
+            { "heading": "Hepatitis B", "text": "A viral infection that can be controlled with long-term antiviral medication, preventing further damage to the liver." },
+            { "heading": "Autoimmune hepatitis", "text": "The body's immune system mistakenly attacks the liver. Treated with medications that calm the immune system." },
+            { "heading": "Primary biliary cholangitis (PBC)", "text": "A condition where the bile ducts in the liver are slowly destroyed. Treated with ursodiol and sometimes additional medications." },
+            { "heading": "Primary sclerosing cholangitis (PSC)", "text": "Scarring and narrowing of the bile ducts inside and outside the liver. Often linked to inflammatory bowel disease." },
+            { "heading": "Other causes", "text": "Hemochromatosis (iron overload), Wilson disease (copper overload), certain medications, and other rare conditions can also cause cirrhosis." }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "success",
+          "title": "Treating the cause can change everything",
+          "text": "No matter what caused your cirrhosis, treating the underlying problem is the single most important thing you can do. When the ongoing injury stops, your liver has a chance to stabilize. In some cases, early scarring can even improve over time. This is why your doctor will focus on finding and treating the cause right away."
+        }
+      ]
+    },
+    {
+      "id": "complications",
+      "title": "Complications",
+      "subtitle": "What to watch for and how complications are managed",
+      "icon": "\u26a0\ufe0f",
+      "color": "amber",
+      "summary": "Cirrhosis can lead to several complications. Knowing the warning signs means you can get help early, when treatment is most effective.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "As cirrhosis progresses, the liver has more trouble doing its many jobs. This can lead to complications that need medical attention. Not everyone with cirrhosis will develop these problems, especially if the condition is caught early and managed well. Learning the warning signs helps you act quickly if something changes."
+        },
+        {
+          "type": "risk-table",
+          "heading": "Cirrhosis Complications",
+          "items": [
+            { "name": "Ascites (fluid in the belly)", "risk": "Common", "description": "Fluid builds up in the abdomen, causing swelling and discomfort. Managed with a low-salt diet and diuretic medications (water pills). Sometimes the fluid needs to be drained with a needle (paracentesis)." },
+            { "name": "Varices (swollen veins)", "risk": "Common", "description": "Scarring in the liver increases pressure in the veins around it. This can cause veins in the esophagus or stomach to swell and sometimes bleed. Screening with endoscopy and preventive medication (beta-blockers) can reduce this risk." },
+            { "name": "Hepatic encephalopathy (confusion)", "risk": "Common", "description": "When the liver cannot filter toxins properly, they can build up and affect the brain. This can cause confusion, forgetfulness, trouble concentrating, sleep changes, or in severe cases, disorientation. Treated with lactulose and rifaximin." },
+            { "name": "Hepatocellular carcinoma (liver cancer)", "risk": "Moderate", "description": "People with cirrhosis have an increased risk of liver cancer. Regular screening with ultrasound every 6 months allows early detection when treatment is most effective." },
+            { "name": "Infections", "risk": "Moderate", "description": "A weakened liver means a weaker immune system. Infections such as spontaneous bacterial peritonitis (infection of ascites fluid) can occur. Vaccines and sometimes preventive antibiotics are used." },
+            { "name": "Kidney problems", "risk": "Moderate", "description": "Advanced cirrhosis can affect blood flow to the kidneys. Staying hydrated, avoiding anti-inflammatory medications (like ibuprofen), and close monitoring help protect kidney function." }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Encephalopathy can be subtle",
+          "text": "Hepatic encephalopathy does not always look like obvious confusion. Early signs can include trouble concentrating, changes in sleep patterns, mild forgetfulness, or personality changes that family members notice first. If you or your family notice any of these changes, contact your doctor. Treatment with lactulose and rifaximin is very effective when started early."
+        }
+      ]
+    },
+    {
+      "id": "management-plan",
+      "title": "Management Plan",
+      "subtitle": "Your roadmap for staying on top of cirrhosis",
+      "icon": "\ud83d\udccb",
+      "color": "emerald",
+      "summary": "Managing cirrhosis means regular check-ups, screening tests, the right medications, and daily habits that protect your liver.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Living well with cirrhosis means working closely with your medical team and staying on top of a few important things. This section brings together the key parts of your management plan \u2014 the daily habits, screening schedule, and medications that help keep your liver as healthy as possible."
+        },
+        {
+          "type": "checklist",
+          "heading": "Cirrhosis Management Checklist",
+          "storageKey": "cirrhosis-management-checklist",
+          "items": [
+            "Treat the underlying cause of cirrhosis (stop alcohol, take antivirals, manage metabolic risk factors)",
+            "Attend all scheduled appointments with your liver doctor (hepatologist or gastroenterologist)",
+            "Get a liver ultrasound every 6 months to screen for liver cancer",
+            "Get an upper endoscopy to check for varices (as recommended by your doctor)",
+            "Follow a low-sodium diet (less than 2,000 mg of salt per day) if you have ascites or fluid retention",
+            "Take all prescribed medications as directed, including lactulose and rifaximin if prescribed",
+            "Avoid all alcohol completely",
+            "Avoid anti-inflammatory painkillers like ibuprofen and naproxen (Tylenol/acetaminophen in small doses is usually safe \u2014 ask your doctor)",
+            "Stay up to date on vaccinations (hepatitis A, hepatitis B, influenza, pneumococcal, COVID-19)",
+            "Weigh yourself daily if you have ascites \u2014 a sudden gain of more than 2 pounds in a day or 5 pounds in a week should be reported to your doctor"
+          ]
+        },
+        {
+          "type": "frequency-table",
+          "heading": "Screening and Monitoring Schedule",
+          "items": [
+            { "scenario": "Liver ultrasound (HCC screening)", "interval": "Every 6 months" },
+            { "scenario": "Blood work (liver function, blood counts, kidney function)", "interval": "Every 3 to 6 months" },
+            { "scenario": "Upper endoscopy (variceal screening)", "interval": "At diagnosis, then every 1 to 3 years depending on findings" },
+            { "scenario": "MELD score calculation", "interval": "At each clinic visit" },
+            { "scenario": "Bone density scan (if applicable)", "interval": "As recommended by your doctor" }
+          ]
+        },
+        {
+          "type": "medication-table",
+          "heading": "Common Medications for Cirrhosis",
+          "items": [
+            { "med": "Lactulose", "note": "A syrup that helps remove toxins through bowel movements. Used to prevent or treat hepatic encephalopathy (confusion). Aim for 2 to 3 soft bowel movements per day." },
+            { "med": "Rifaximin (Zaxine)", "note": "An antibiotic that works in the gut to reduce toxin-producing bacteria. Often used alongside lactulose to prevent encephalopathy episodes." },
+            { "med": "Spironolactone and/or Furosemide", "note": "Diuretics (water pills) used to reduce fluid buildup from ascites. Your doctor will monitor your kidney function and potassium levels while on these." },
+            { "med": "Nadolol or Propranolol", "note": "Beta-blockers used to lower pressure in the portal vein and reduce the risk of variceal bleeding. Your doctor will adjust the dose based on your heart rate." },
+            { "med": "Norfloxacin or Ciprofloxacin", "note": "Preventive antibiotics sometimes prescribed if you have had spontaneous bacterial peritonitis (SBP) or are at high risk for it." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nutrition",
+      "title": "Nutrition",
+      "subtitle": "What to eat and what to limit to support your liver",
+      "icon": "\ud83e\udd57",
+      "color": "emerald",
+      "summary": "Good nutrition is a key part of cirrhosis care. Protein is encouraged, sodium is limited, and proper eating habits help prevent muscle loss.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Nutrition plays an important role in managing cirrhosis. Many people with cirrhosis are malnourished, which can make complications worse and slow recovery. The old advice to restrict protein was wrong \u2014 we now know that getting enough protein is essential for maintaining muscle strength and preventing worsening of liver disease."
+        },
+        {
+          "type": "allowed-avoid",
+          "heading": "Nutrition Guide for Cirrhosis",
+          "allowed": [
+            "Protein-rich foods at every meal (eggs, chicken, fish, Greek yogurt, beans, tofu, lentils)",
+            "Small, frequent meals throughout the day (3 meals plus 2 to 3 snacks)",
+            "A late-evening snack before bed to prevent overnight muscle breakdown",
+            "Whole grains (oats, brown rice, whole wheat bread)",
+            "Fruits and vegetables (aim for variety and color)",
+            "Healthy fats in moderation (olive oil, avocado, nuts)",
+            "Plenty of water throughout the day"
+          ],
+          "avoid": [
+            "Salt and high-sodium foods (canned soups, processed meats, fast food, soy sauce, pickles)",
+            "All alcohol \u2014 even small amounts can cause further liver damage",
+            "Raw or undercooked shellfish (higher infection risk with cirrhosis)",
+            "Large amounts of added sugar and highly processed foods",
+            "Herbal supplements and alternative remedies (many are processed by the liver and can cause harm \u2014 always check with your doctor first)"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Do NOT restrict protein",
+          "text": "In the past, patients with cirrhosis were told to avoid protein. This advice is outdated and harmful. Current guidelines recommend that people with cirrhosis eat 1.2 to 1.5 grams of protein per kilogram of body weight per day. Protein is essential for maintaining muscle mass, supporting immune function, and preventing worsening encephalopathy. If you have been told to limit protein, please discuss this with your liver specialist."
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Warning signs that need prompt medical attention",
+      "icon": "\ud83d\udea8",
+      "color": "rose",
+      "summary": "Some symptoms in cirrhosis need urgent attention. Knowing when to call your doctor or go to the emergency room can make a real difference.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "Vomiting blood or passing black, tarry stools (signs of internal bleeding \u2014 go to the emergency room)",
+            "New or worsening confusion, drowsiness, or difficulty speaking (signs of hepatic encephalopathy)",
+            "Sudden increase in belly size or rapid weight gain (more than 2 pounds in a day or 5 pounds in a week)",
+            "Fever or chills, especially if you have ascites (may indicate infection)",
+            "New or worsening yellowing of your skin or eyes (jaundice)",
+            "Severe abdominal pain",
+            "Little or no urine output for 12 hours or more",
+            "Feeling faint, lightheaded, or having a rapid heartbeat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common questions about cirrhosis",
+      "icon": "\u2753",
+      "color": "amber",
+      "summary": "Got questions about cirrhosis? Here are clear answers to the things patients ask most often.",
+      "content": [
+        {
+          "type": "faq",
+          "questions": [
+            { "q": "Can cirrhosis be reversed?", "a": "Early-stage scarring (fibrosis) can sometimes improve when the underlying cause is treated \u2014 for example, after curing hepatitis C or stopping alcohol. Advanced cirrhosis cannot be fully reversed, but treating the cause can stop it from getting worse. Many people with compensated cirrhosis remain stable for years or even decades with proper care." },
+            { "q": "Will I need a liver transplant?", "a": "Not everyone with cirrhosis needs a transplant. Many people live well with compensated cirrhosis for a long time. If your liver function declines significantly or you develop severe complications, your doctor may refer you for transplant evaluation. Canada has excellent transplant programs, and outcomes are very good." },
+            { "q": "Can I ever drink alcohol again?", "a": "No. If you have cirrhosis, you should avoid all alcohol completely, regardless of the cause. Even small amounts of alcohol can cause further liver damage and speed up progression. This applies to beer, wine, and spirits equally." },
+            { "q": "Why do I need to limit salt?", "a": "When the liver is scarred, pressure builds up in the blood vessels around it. This causes the body to hold on to salt and water, which leads to fluid buildup in the belly (ascites) and leg swelling. Limiting salt to less than 2,000 mg per day helps your diuretic medications work better and reduces fluid retention." },
+            { "q": "Is Tylenol (acetaminophen) safe with cirrhosis?", "a": "In small doses, yes. Acetaminophen (Tylenol) up to 2 grams per day (that is four regular-strength tablets) is generally considered safe for people with compensated cirrhosis. It is actually the preferred painkiller because ibuprofen, naproxen, and aspirin can cause serious problems like bleeding and kidney damage. Always check with your doctor about the right dose for you." },
+            { "q": "What is a MELD score?", "a": "MELD stands for Model for End-Stage Liver Disease. It is a number calculated from your blood tests (bilirubin, creatinine, and INR) that tells your doctor how well your liver is working. It ranges from 6 (mild disease) to 40 (severe). The MELD score is used to monitor your liver function over time and to prioritize patients for liver transplant." },
+            { "q": "Am I at risk for liver cancer?", "a": "Yes. People with cirrhosis from any cause have an increased risk of developing liver cancer (hepatocellular carcinoma). This is why your doctor will order a liver ultrasound every 6 months. The good news is that when liver cancer is caught early through screening, there are effective treatments available, including surgery, ablation, and transplant." },
+            { "q": "Can I exercise with cirrhosis?", "a": "Yes, and it is encouraged. Regular, moderate exercise like walking, swimming, or light resistance training helps maintain muscle mass, improves mood, and supports overall health. Avoid heavy straining or contact sports if you have large varices. Talk to your doctor about what level of activity is right for you." },
+            { "q": "What should I do if I become confused or forgetful?", "a": "Confusion, forgetfulness, or difficulty concentrating can be signs of hepatic encephalopathy \u2014 a buildup of toxins that affects the brain. Tell your doctor right away. This is very treatable with lactulose and rifaximin. Family members often notice changes before the patient does, so it is important for your family to know what to watch for." },
+            { "q": "What vaccinations do I need?", "a": "People with cirrhosis should be up to date on several vaccines: hepatitis A, hepatitis B (if not already immune), annual influenza (flu), pneumococcal vaccine, and COVID-19. Your immune system may be weaker with cirrhosis, so vaccines are an important way to prevent infections that could be serious." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Guidelines and resources used in this guide",
+      "icon": "\ud83d\udcda",
+      "color": "rose",
+      "summary": "This guide is based on current international hepatology and gastroenterology guidelines.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            { "text": "American Association for the Study of Liver Diseases (AASLD) \u2014 Practice Guidance on Management of Patients with Cirrhosis (2023)" },
+            { "text": "European Association for the Study of the Liver (EASL) \u2014 Clinical Practice Guidelines on the Management of Patients with Decompensated Cirrhosis (2018)" },
+            { "text": "American Association for the Study of Liver Diseases (AASLD) \u2014 Practice Guidance on Prevention, Diagnosis, and Treatment of Hepatocellular Carcinoma (2023)" },
+            { "text": "Canadian Liver Foundation \u2014 Cirrhosis Patient Information" },
+            { "text": "European Association for the Study of the Liver (EASL) \u2014 Clinical Practice Guidelines on Nutrition in Chronic Liver Disease (2019)" }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "hero": {
+    "title": "GERD / Acid Reflux",
+    "subtitle": "Understanding and managing gastroesophageal reflux disease",
+    "description": "Everything you need to know about managing acid reflux — from lifestyle changes and trigger foods to medications and when to see your doctor. Clear, trustworthy information to help you feel better.",
+    "reassurance": "Acid reflux is one of the most common digestive conditions — and with the right changes, most people feel significantly better."
+  },
+  "sections": [
+    {
+      "id": "what-is-gerd",
+      "title": "What Is GERD?",
+      "subtitle": "Understanding acid reflux and how it affects you",
+      "icon": "🔥",
+      "color": "orange",
+      "summary": "GERD happens when stomach acid flows back into your esophagus. It is very common, very treatable, and most people improve with lifestyle changes and medication.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "GERD stands for gastroesophageal reflux disease. At the bottom of your esophagus (the tube that carries food from your mouth to your stomach), there is a ring of muscle called the lower esophageal sphincter (LES). This muscle opens to let food into your stomach and closes to keep it there. When the LES relaxes too often or doesn't close tightly enough, stomach acid can flow back up into the esophagus. This is called acid reflux. When it happens regularly and causes bothersome symptoms, it is called GERD."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            {
+              "heading": "Very common",
+              "text": "GERD affects roughly 1 in 5 adults in Canada. You are not alone, and there are many effective treatments available."
+            },
+            {
+              "heading": "More than just heartburn",
+              "text": "GERD can cause a range of symptoms beyond the classic burning feeling — including cough, hoarseness, and chest pain."
+            },
+            {
+              "heading": "Highly manageable",
+              "text": "Most people with GERD can control their symptoms well with a combination of lifestyle changes and, when needed, medication."
+            },
+            {
+              "heading": "When heartburn becomes a disease",
+              "text": "Occasional heartburn is normal. GERD is diagnosed when reflux symptoms happen frequently (two or more times a week) or start to affect your quality of life."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Heartburn vs. GERD — what's the difference?",
+          "text": "Almost everyone gets heartburn once in a while, especially after a large or spicy meal. This is normal and usually goes away on its own. GERD is different. It means reflux is happening often enough to cause ongoing symptoms or irritation to your esophagus. If you find yourself reaching for antacids more than twice a week, or if reflux is keeping you up at night, it is worth talking to your doctor."
+        }
+      ]
+    },
+    {
+      "id": "symptoms",
+      "title": "Symptoms",
+      "subtitle": "How GERD can feel — typical and less obvious signs",
+      "icon": "⚠️",
+      "color": "amber",
+      "summary": "GERD causes more than just heartburn. Knowing all the possible symptoms helps you recognize when acid reflux may be the cause.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "GERD symptoms can be divided into typical symptoms (the ones most people recognize) and atypical symptoms (less obvious signs that many people don't connect to acid reflux). Both are important to know about."
+        },
+        {
+          "type": "key-points",
+          "heading": "Common GERD symptoms",
+          "points": [
+            {
+              "heading": "Heartburn",
+              "text": "A burning feeling in your chest, usually after eating or when lying down. This is the most common symptom of GERD."
+            },
+            {
+              "heading": "Regurgitation",
+              "text": "A sour or bitter taste in your mouth from stomach acid or food coming back up. This can happen without warning."
+            },
+            {
+              "heading": "Chest pain",
+              "text": "A pressure or burning in the chest that can sometimes feel like heart pain. Always get chest pain checked out to rule out a heart problem."
+            },
+            {
+              "heading": "Chronic cough",
+              "text": "A dry, nagging cough — especially at night — that doesn't seem to go away. GERD is one of the top three causes of chronic cough."
+            },
+            {
+              "heading": "Hoarseness or sore throat",
+              "text": "Acid reaching the throat can cause a raspy voice, throat clearing, or a feeling of a lump in the throat, especially in the morning."
+            },
+            {
+              "heading": "Difficulty swallowing",
+              "text": "A feeling that food is getting stuck or moving slowly through your chest. This should always be discussed with your doctor."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Chest pain — when to call 911",
+          "text": "If you have sudden, severe chest pain, especially with shortness of breath, sweating, or arm/jaw pain, call 911 immediately. GERD-related chest pain can feel similar to a heart attack. When in doubt, always get it checked out."
+        }
+      ]
+    },
+    {
+      "id": "lifestyle-changes",
+      "title": "Lifestyle Changes That Work",
+      "subtitle": "Simple steps that can make a real difference",
+      "icon": "🥗",
+      "color": "emerald",
+      "summary": "Lifestyle changes are the foundation of GERD treatment. Many people see a big improvement just by adjusting their habits and diet.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Before reaching for medication, lifestyle changes are the first and most important step in managing GERD. For many people, these changes alone are enough to bring significant relief. Even if you do need medication, these habits will help it work better."
+        },
+        {
+          "type": "checklist",
+          "heading": "Lifestyle Action Plan",
+          "storageKey": "gerd-lifestyle-checklist",
+          "items": [
+            "Elevate the head of your bed 6 to 8 inches (use a wedge pillow or blocks under the bedposts — extra pillows alone don't work as well)",
+            "Avoid eating within 3 hours of bedtime",
+            "If you are overweight, work toward a healthy weight — even a small amount of weight loss can improve symptoms",
+            "If you smoke, talk to your doctor about quitting — smoking weakens the lower esophageal sphincter",
+            "Wear loose-fitting clothing, especially around your waist",
+            "Eat smaller, more frequent meals instead of large ones",
+            "Avoid lying down right after eating — stay upright for at least 30 minutes"
+          ]
+        },
+        {
+          "type": "allowed-avoid",
+          "heading": "Trigger Foods to Know",
+          "allowed": [
+            "Lean proteins (chicken, fish, turkey)",
+            "Whole grains (oatmeal, brown rice, whole wheat bread)",
+            "Non-citrus fruits (bananas, melons, apples)",
+            "Vegetables (broccoli, green beans, potatoes, leafy greens)",
+            "Ginger (can be soothing for the stomach)",
+            "Oatmeal (a great breakfast choice)",
+            "Healthy fats in moderation (avocado, olive oil, nuts)"
+          ],
+          "avoid": [
+            "Spicy foods",
+            "Citrus fruits and tomato-based products",
+            "Chocolate",
+            "Coffee and other caffeinated drinks",
+            "Alcohol",
+            "Peppermint",
+            "Fatty and fried foods",
+            "Carbonated drinks"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Keep a food diary",
+          "text": "Everyone's triggers are a little different. Try keeping a simple food diary for 2 weeks — write down what you eat and when symptoms happen. This can help you and your doctor identify your personal triggers and build a plan that works for you."
+        }
+      ]
+    },
+    {
+      "id": "medications",
+      "title": "Medications for GERD",
+      "subtitle": "What they do, how they work, and what to expect",
+      "icon": "💊",
+      "color": "blue",
+      "summary": "Several medications can help control GERD symptoms. Your doctor will help you choose the right one based on how often and how severe your symptoms are.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "When lifestyle changes alone aren't enough, medications can help reduce the amount of acid your stomach makes or protect your esophagus from damage. There are several options, and your doctor will recommend the best fit for you."
+        },
+        {
+          "type": "medication-table",
+          "heading": "Common GERD Medications",
+          "items": [
+            {
+              "med": "Antacids (Tums, Gaviscon)",
+              "note": "Provide quick relief by neutralizing stomach acid. Best for mild, occasional symptoms. Available over the counter."
+            },
+            {
+              "med": "H2 blockers (Famotidine / Pepcid)",
+              "note": "Reduce acid production for 8 to 12 hours. Good for mild to moderate symptoms. Available over the counter or by prescription."
+            },
+            {
+              "med": "PPIs (Omeprazole, Pantoprazole)",
+              "note": "The most effective acid-suppressing medications. Taken once daily, usually before breakfast. Best for frequent or more severe symptoms."
+            },
+            {
+              "med": "Sucralfate",
+              "note": "Forms a protective coating over the lining of the esophagus. Sometimes used alongside other medications for extra protection."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Are PPIs safe?",
+          "text": "Proton pump inhibitors (PPIs) are one of the most studied drug classes in medicine. They have been used safely by millions of people around the world for over 30 years. Like all medications, there are small risks that have been reported with very long-term use, but for most patients the benefits clearly outweigh the risks. Your doctor will help you find the lowest effective dose. In Canada, some PPIs are available over the counter, while higher doses require a prescription."
+        },
+        {
+          "type": "steps",
+          "heading": "PPI Step-Down Plan (Discuss with Your Doctor)",
+          "steps": [
+            "Take your PPI daily for 4 to 8 weeks as prescribed by your doctor",
+            "Once your symptoms are well controlled, discuss stepping down with your doctor",
+            "Try reducing to every other day for 2 weeks",
+            "If symptoms stay controlled, try stopping the PPI and keep an antacid on hand as backup",
+            "If symptoms return, go back to the dose that worked and discuss next steps with your doctor"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Don't stop PPIs suddenly",
+          "text": "Stopping a PPI abruptly after taking it for several weeks can cause rebound acid production — meaning your symptoms may temporarily feel worse than before. Always taper gradually under your doctor's guidance."
+        }
+      ]
+    },
+    {
+      "id": "further-testing",
+      "title": "When You Might Need Further Testing",
+      "subtitle": "Signs that more investigation may be needed",
+      "icon": "🔍",
+      "color": "indigo",
+      "summary": "Most people with GERD don't need tests beyond a conversation with their doctor. But certain symptoms or situations may call for an endoscopy or other investigation.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Many people with typical GERD symptoms can be treated without any tests. However, your doctor may recommend an upper endoscopy (a camera test to look at your esophagus and stomach) or other investigations if you have certain warning signs, if treatment isn't working, or if you've had GERD for many years. In Canada, endoscopy ordered by your doctor is covered by your provincial health plan."
+        },
+        {
+          "type": "risk-table",
+          "heading": "Alarm Features — See Your Doctor Promptly",
+          "items": [
+            {
+              "name": "Difficulty swallowing",
+              "risk": "High",
+              "description": "Food getting stuck or painful swallowing needs urgent evaluation to rule out narrowing or other problems."
+            },
+            {
+              "name": "Unintentional weight loss",
+              "risk": "High",
+              "description": "Losing weight without trying, especially alongside reflux symptoms, should be investigated promptly."
+            },
+            {
+              "name": "Vomiting blood or black stools",
+              "risk": "High",
+              "description": "These are signs of bleeding in the digestive tract and require immediate medical attention."
+            },
+            {
+              "name": "Persistent vomiting",
+              "risk": "Moderate",
+              "description": "Ongoing vomiting that doesn't improve with treatment should be evaluated further."
+            },
+            {
+              "name": "Symptoms not responding to PPIs",
+              "risk": "Moderate",
+              "description": "If your symptoms continue after 8 weeks of PPI therapy, your doctor may want to look further."
+            },
+            {
+              "name": "Age over 50 with new symptoms",
+              "risk": "Moderate",
+              "description": "New onset reflux symptoms in adults over 50 may warrant an endoscopy to check for changes in the esophagus."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "What is Barrett's esophagus?",
+          "text": "When GERD goes on for many years without treatment, the constant exposure to stomach acid can cause changes in the cells lining the lower esophagus. This is called Barrett's esophagus. Barrett's is not cancer, but it does carry a small increased risk of developing esophageal cancer over time (less than 0.5% per year). If you have had GERD for many years, your doctor may recommend a one-time screening endoscopy. If Barrett's is found, a regular surveillance program can catch any concerning changes early."
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Symptoms that should prompt a call to your doctor",
+      "icon": "🚨",
+      "color": "rose",
+      "summary": "Most GERD symptoms are manageable, but some warning signs mean you should see your doctor sooner rather than later.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "Difficulty swallowing that is getting worse",
+            "Chest pain that feels different from your usual reflux",
+            "Vomiting blood or material that looks like coffee grounds",
+            "Black, tarry stools",
+            "Unintentional weight loss of more than 5 pounds",
+            "Symptoms not improving after 8 weeks of PPI therapy",
+            "Feeling like food is getting stuck in your chest or throat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common questions about GERD",
+      "icon": "❓",
+      "color": "amber",
+      "summary": "Got questions about GERD? Here are clear answers to the things patients ask most often.",
+      "content": [
+        {
+          "type": "knowledge-check",
+          "heading": "Test Your Understanding",
+          "items": [
+            {
+              "question": "What is the most important first step in managing GERD?",
+              "options": [
+                "Taking a PPI every day",
+                "Lifestyle changes like diet and weight management",
+                "Getting an endoscopy",
+                "Avoiding all acidic foods forever"
+              ],
+              "correct": 1,
+              "explanation": "Lifestyle changes are the foundation of GERD treatment. Many people see significant improvement with adjustments to diet, meal timing, and weight — sometimes without needing medication."
+            },
+            {
+              "question": "When should you call 911 for chest pain?",
+              "options": [
+                "Only if it happens after eating",
+                "Only if you have a history of heart disease",
+                "If it is sudden and severe, especially with shortness of breath or sweating",
+                "Chest pain from GERD is never an emergency"
+              ],
+              "correct": 2,
+              "explanation": "Sudden, severe chest pain — especially with shortness of breath, sweating, or arm/jaw pain — could be a heart attack. Always call 911 when in doubt. GERD-related chest pain can mimic heart pain."
+            },
+            {
+              "question": "What should you do if you want to stop taking a PPI?",
+              "options": [
+                "Stop immediately",
+                "Gradually taper the dose under your doctor's guidance",
+                "Switch to antacids right away",
+                "Double the dose first, then stop"
+              ],
+              "correct": 1,
+              "explanation": "Stopping a PPI suddenly can cause rebound acid production, making symptoms worse. Your doctor can help you taper the dose gradually over several weeks."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "questions": [
+            {
+              "q": "Is GERD dangerous?",
+              "a": "Usually not. GERD is a very common and treatable condition. However, if left untreated for many years, it can lead to complications like Barrett's esophagus. With proper treatment and lifestyle changes, most people do very well and live completely normal lives."
+            },
+            {
+              "q": "Will I need to take a PPI forever?",
+              "a": "Not necessarily. Many people can step down or stop their PPI after lifestyle changes take effect and symptoms are well controlled. Some people with severe GERD or Barrett's esophagus may benefit from long-term therapy. Your doctor will help you figure out what's right for you."
+            },
+            {
+              "q": "Are PPIs safe long-term?",
+              "a": "PPIs are one of the most studied drug classes in medicine and are generally safe. Small risks have been reported with very long-term use, but for most patients the benefits clearly outweigh the risks. Talk to your doctor about whether you still need your PPI and what the lowest effective dose is for you."
+            },
+            {
+              "q": "Can GERD cause cancer?",
+              "a": "Long-standing GERD can cause Barrett's esophagus, which has a small risk of developing into esophageal cancer (less than 0.5% per year). This is why treating your GERD and following up with your doctor is important. The overall risk is low, and surveillance programs can catch changes early."
+            },
+            {
+              "q": "Why do I cough at night — could it be GERD?",
+              "a": "Yes. GERD is one of the most common causes of chronic cough. When you lie down, stomach acid can travel up and irritate the throat and airways. Elevating the head of your bed and avoiding late-night meals can help."
+            },
+            {
+              "q": "Do I need an endoscopy?",
+              "a": "Not everyone with GERD needs an endoscopy. Your doctor may recommend one if you have alarm features (like difficulty swallowing or weight loss), if your symptoms are not responding to treatment, or if you have had GERD for many years and need screening for Barrett's esophagus."
+            },
+            {
+              "q": "Does stress cause GERD?",
+              "a": "Stress does not directly cause GERD, but it can make your symptoms feel worse. When you are stressed, you may be more aware of discomfort, and stress can affect your eating habits. Stress management techniques like deep breathing, exercise, and good sleep can be a helpful part of your treatment plan."
+            },
+            {
+              "q": "Is heartburn the same as a heart attack?",
+              "a": "Heartburn and heart attack pain can feel very similar. If your chest pain is sudden, severe, or comes with shortness of breath, sweating, or pain in your arm or jaw, call 911 right away. When in doubt, always get it checked out. It is better to be safe."
+            },
+            {
+              "q": "Does drinking milk help acid reflux?",
+              "a": "Milk may provide brief relief because it coats the esophagus temporarily, but it actually stimulates your stomach to produce more acid. It is not recommended as a treatment for GERD. Water or non-citrus drinks are better choices."
+            },
+            {
+              "q": "What about natural remedies?",
+              "a": "Some people find relief with ginger tea, elevating the head of the bed, and dietary changes. These approaches can complement medical treatment. However, they should not replace medication if you have frequent or severe symptoms. Always let your doctor know what you are trying so they can make sure it is safe."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Guidelines and resources used in this guide",
+      "icon": "📚",
+      "color": "orange",
+      "summary": "This guide is based on current Canadian and international gastroenterology guidelines.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            {
+              "text": "Canadian Association of Gastroenterology — GERD Consensus Statement (2024)"
+            },
+            {
+              "text": "American College of Gastroenterology — Clinical Guideline for GERD (2022)"
+            },
+            {
+              "text": "AGA Clinical Practice Update — De-prescribing PPIs (2024)"
+            },
+            {
+              "text": "Canadian Digestive Health Foundation — GERD Patient Information"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

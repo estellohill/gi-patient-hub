@@ -1,0 +1,18 @@
+{
+  "slug": "capsule-endoscopy",
+  "title": "Capsule Endoscopy",
+  "shortTitle": "Capsule Endoscopy",
+  "subtitle": "A tiny camera in a pill to see inside your small bowel",
+  "icon": "💊",
+  "color": "teal",
+  "description": "Clear, evidence-based information about capsule endoscopy — what to expect, how to prepare, and what happens after. Created by a Canadian gastroenterologist.",
+  "category": "procedure",
+  "prevalence": "Common",
+  "lastReviewed": "2026-03-30",
+  "guidelines": [
+    { "society": "ASGE", "title": "ASGE Standards of Practice: Small Bowel Capsule Endoscopy", "year": 2023 },
+    { "society": "ACG", "title": "ACG Clinical Guideline: Small Bowel Bleeding", "year": 2023 },
+    { "society": "CAG", "title": "CAG Position Statement on Capsule Endoscopy", "year": 2022 }
+  ],
+  "enabled": true
+}

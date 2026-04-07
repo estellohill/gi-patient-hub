@@ -1,0 +1,377 @@
+{
+  "hero": {
+    "title": "Hemochromatosis",
+    "subtitle": "Understanding hereditary iron overload and how it is treated",
+    "description": "Everything you need to know about hemochromatosis — what it is, how it is diagnosed, how treatment works, and what your family should know. Clear, trustworthy information to help you take an active role in your care.",
+    "reassurance": "Hemochromatosis is one of the most treatable genetic conditions. When caught early, simple treatment can prevent all complications and you can expect a normal, healthy life."
+  },
+  "sections": [
+    {
+      "id": "what-is-hemochromatosis",
+      "title": "What Is Hemochromatosis?",
+      "subtitle": "How your body absorbs too much iron and what that means",
+      "icon": "🩸",
+      "color": "emerald",
+      "summary": "Hemochromatosis is a common genetic condition where your body absorbs too much iron from food. Extra iron builds up in your organs over time, but treatment is simple and very effective.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Your body needs iron to make red blood cells and carry oxygen through your blood. Normally, your body absorbs just the right amount of iron from the food you eat. In hemochromatosis, a change (mutation) in a gene called HFE causes your body to absorb too much iron. The most common mutation is called C282Y. Over many years, the extra iron builds up in organs like the liver, heart, and pancreas. This can cause damage if it is not treated — but the good news is that treatment is simple and works very well."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            { "heading": "Most common genetic condition in Caucasians", "text": "About 1 in 200 people of Northern European descent carry two copies of the C282Y mutation. It is the most common inherited condition in this population." },
+            { "heading": "Your body absorbs too much iron", "text": "Normally your body controls how much iron it takes in from food. With hemochromatosis, that control is broken and extra iron keeps building up over time." },
+            { "heading": "Very treatable", "text": "Treatment involves regularly removing blood (phlebotomy), which lowers iron levels. When caught early, treatment prevents all complications and people live completely normal lives." },
+            { "heading": "Runs in families", "text": "Hemochromatosis is inherited. If you are diagnosed, your brothers, sisters, parents, and children should be tested. Finding it early in family members means they can be treated before any damage occurs." }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "success",
+          "title": "One of the most treatable conditions in medicine",
+          "text": "Hemochromatosis is sometimes called the easiest serious condition to treat. Phlebotomy (removing blood) is simple, safe, and highly effective. When iron overload is caught before organ damage happens, people with hemochromatosis have the same life expectancy as everyone else."
+        }
+      ]
+    },
+    {
+      "id": "symptoms-and-diagnosis",
+      "title": "Symptoms and Diagnosis",
+      "subtitle": "What to look for and how doctors confirm iron overload",
+      "icon": "🔍",
+      "color": "blue",
+      "summary": "Many people with hemochromatosis have no symptoms at all, especially early on. Simple blood tests can detect iron overload before any damage occurs.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Hemochromatosis develops slowly over many years. Many people are diagnosed before they ever have symptoms, often through routine blood work or family screening. When symptoms do appear, they tend to be vague and can be mistaken for other conditions. Men usually develop symptoms earlier (age 40–60), while women are often protected until after menopause because menstrual periods naturally lower iron levels."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            { "heading": "Fatigue", "text": "Feeling tired or low on energy is the most common symptom. It is often one of the first things people notice, but it can be caused by many other conditions too." },
+            { "heading": "Joint pain", "text": "Iron deposits in the joints — especially the knuckles of the index and middle fingers — can cause pain and stiffness. This is sometimes mistaken for arthritis." },
+            { "heading": "Bronze or grey skin", "text": "Iron buildup can cause the skin to darken, giving it a bronze or greyish colour. This happens gradually and may not be obvious at first." },
+            { "heading": "Liver problems", "text": "The liver is one of the first organs affected. Iron overload can cause the liver to enlarge, and over time it can lead to scarring (fibrosis or cirrhosis) if not treated." },
+            { "heading": "Many people have no symptoms", "text": "A large number of people with hemochromatosis are found through blood tests before symptoms develop. This is actually the best time to find it because early treatment prevents all complications." }
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "How Hemochromatosis Is Diagnosed",
+          "steps": [
+            "Iron studies blood test — Your doctor checks two key numbers: serum ferritin (how much iron is stored in your body) and transferrin saturation (how much iron is circulating in your blood). A transferrin saturation above 45% or a high ferritin suggests iron overload.",
+            "HFE gene test — A simple blood test looks for mutations in the HFE gene, especially C282Y. Having two copies of C282Y (homozygous) confirms hereditary hemochromatosis.",
+            "Liver assessment — Your doctor will check how your liver is doing. This may include blood tests for liver function, a FibroScan (painless ultrasound-like test), or in some cases an MRI to measure iron levels in the liver.",
+            "Rule out other causes — Your doctor may also check for other reasons iron could be high, such as liver disease from other causes, frequent blood transfusions, or heavy alcohol use."
+          ]
+        },
+        {
+          "type": "risk-table",
+          "heading": "Organ Complications if Untreated",
+          "items": [
+            { "name": "Liver", "risk": "High", "description": "The liver stores excess iron first. Over time, this can cause liver scarring (fibrosis), cirrhosis, and a higher risk of liver cancer. Early treatment prevents this entirely." },
+            { "name": "Heart", "risk": "Moderate", "description": "Iron deposits in the heart muscle can cause irregular heartbeat (arrhythmia) or weakened pumping (cardiomyopathy). This is rare when hemochromatosis is treated." },
+            { "name": "Pancreas", "risk": "Moderate", "description": "Iron buildup in the pancreas can damage the cells that make insulin, leading to diabetes. This is sometimes called 'bronze diabetes' because of the skin colour changes." },
+            { "name": "Joints", "risk": "Common", "description": "Iron deposits in the joints cause pain and stiffness, especially in the hands. Joint symptoms may not fully go away even after iron levels are lowered, so early treatment is important." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "treatment-phlebotomy",
+      "title": "Treatment: Phlebotomy",
+      "subtitle": "How regular blood removal keeps iron levels safe",
+      "icon": "💉",
+      "color": "teal",
+      "summary": "The main treatment for hemochromatosis is phlebotomy — regular removal of blood. This safely and effectively lowers iron levels and prevents organ damage.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Phlebotomy is the main treatment for hemochromatosis. It means having blood removed on a regular schedule, much like donating blood. Each time blood is removed, your body uses up stored iron to make new red blood cells. Over time, this brings iron levels back to a safe range. Phlebotomy is simple, safe, and has been used successfully for decades."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            { "heading": "How it works", "text": "Each session removes about 500 mL of blood (about one pint). Your body then makes new red blood cells, which uses up iron from your stores. This gradually lowers your iron levels back to normal." },
+            { "heading": "Induction phase", "text": "When you are first diagnosed, you will have phlebotomy more often — usually once a week or every two weeks. This phase lasts until your ferritin drops to the target range (usually below 50 µg/L). This can take several months to over a year depending on how high your iron was." },
+            { "heading": "Maintenance phase", "text": "Once your iron levels are in the target range, you switch to less frequent sessions — typically every 2 to 4 months. This keeps iron levels stable for the rest of your life." },
+            { "heading": "Quick and well tolerated", "text": "Each session takes about 15 to 30 minutes. Most people feel fine afterwards. Drinking plenty of water before and after your appointment helps." }
+          ]
+        },
+        {
+          "type": "frequency-table",
+          "heading": "Typical Phlebotomy Schedule",
+          "items": [
+            { "scenario": "Induction phase (high iron)", "interval": "Every 1–2 weeks until ferritin drops below 50 µg/L" },
+            { "scenario": "Maintenance phase (iron at target)", "interval": "Every 2–4 months to keep ferritin between 25–50 µg/L" },
+            { "scenario": "Ferritin monitoring during induction", "interval": "Blood test every 1–2 months to track progress" },
+            { "scenario": "Ferritin monitoring during maintenance", "interval": "Blood test every 3–6 months" }
+          ]
+        },
+        {
+          "type": "checklist",
+          "heading": "Treatment Checklist",
+          "storageKey": "hemo-treatment",
+          "items": [
+            "Schedule my first phlebotomy appointment",
+            "Get baseline blood tests done (ferritin, transferrin saturation, liver function, CBC)",
+            "Understand my ferritin target (usually below 50 µg/L)",
+            "Drink plenty of water before each phlebotomy session",
+            "Bring a snack to eat after my appointment",
+            "Keep a record of my phlebotomy dates and ferritin levels",
+            "Ask about donating my blood to the blood bank if eligible",
+            "Schedule follow-up blood tests to track my iron levels"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Phlebotomy is a lot like donating blood",
+          "text": "The procedure is almost identical to a regular blood donation. A needle is placed in a vein in your arm, and about one pint of blood is collected. Many people with hemochromatosis are able to donate their blood to the blood bank, which helps others too. Ask your doctor if you are eligible to donate."
+        }
+      ]
+    },
+    {
+      "id": "diet-and-lifestyle",
+      "title": "Diet and Lifestyle",
+      "subtitle": "Simple changes that support your treatment",
+      "icon": "🥗",
+      "color": "amber",
+      "summary": "Most people with hemochromatosis can eat a normal, balanced diet. A few simple precautions help support your treatment and keep you safe.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Diet alone cannot treat hemochromatosis — phlebotomy is the main treatment. However, a few simple dietary changes can support your treatment and help keep you healthy. The good news is that you do not need a special or restrictive diet. Most people with hemochromatosis eat normally and just follow a few common-sense guidelines."
+        },
+        {
+          "type": "allowed-avoid",
+          "heading": "Diet Guidelines for Hemochromatosis",
+          "allowed": [
+            "Tea or coffee with meals — these reduce iron absorption from food",
+            "A normal, balanced diet with fruits, vegetables, whole grains, and lean protein",
+            "Calcium-rich foods with meals (dairy, fortified plant milks) — calcium reduces iron absorption",
+            "Cooked seafood and shellfish (must be fully cooked)",
+            "Moderate amounts of iron-containing foods — no need to avoid them completely"
+          ],
+          "avoid": [
+            "Iron supplements or multivitamins containing iron",
+            "Large doses of vitamin C supplements (over 500 mg) — vitamin C increases iron absorption",
+            "Raw or undercooked shellfish (oysters, clams, mussels) — serious infection risk",
+            "Excess alcohol — increases liver damage risk, especially if liver is already affected",
+            "Iron-fortified cereals and bars in large amounts"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Raw shellfish can be dangerous",
+          "text": "People with hemochromatosis are at higher risk for a serious infection called Vibrio vulnificus, a bacteria found in raw or undercooked shellfish (especially oysters). This infection can be life-threatening. Always make sure shellfish is fully cooked before eating. This is one of the most important dietary rules to follow."
+        },
+        {
+          "type": "text",
+          "heading": "Alcohol Guidance",
+          "text": "If you have hemochromatosis without liver damage, moderate alcohol consumption (up to 1 drink per day for women, up to 2 for men) is generally considered acceptable by most guidelines. However, if you have any liver scarring or fibrosis, your doctor may recommend avoiding alcohol completely. Alcohol increases the risk of liver damage when combined with iron overload, and together they increase the risk of liver cancer more than either one alone. Talk to your doctor about what is right for you."
+        }
+      ]
+    },
+    {
+      "id": "family-screening",
+      "title": "Family Screening",
+      "subtitle": "Why testing your relatives is one of the most important steps",
+      "icon": "👨‍👩‍👧‍👦",
+      "color": "indigo",
+      "summary": "Hemochromatosis runs in families. Testing close relatives is one of the most important things you can do — early detection prevents all complications.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Because hemochromatosis is an inherited condition, your close family members may also carry the gene mutation. Screening your first-degree relatives (parents, brothers, sisters, and children) is one of the most important steps you can take after your own diagnosis. Finding iron overload in a family member before they develop symptoms means treatment can start early, and all complications can be prevented."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            { "heading": "First-degree relatives must be screened", "text": "All of your parents, brothers, sisters, and adult children should be tested. Each first-degree relative of someone with hemochromatosis has a significant chance of carrying the same gene mutations." },
+            { "heading": "Two simple tests are needed", "text": "Screening involves an HFE gene test (a one-time blood test) and iron studies (serum ferritin and transferrin saturation). These are simple, widely available blood tests." },
+            { "heading": "Early detection prevents all complications", "text": "When hemochromatosis is found before iron levels become too high, treatment can start right away. People who are treated early have a completely normal life expectancy and avoid all organ damage." },
+            { "heading": "Children can be tested when they are adults", "text": "Iron overload develops slowly over decades. Children of someone with hemochromatosis can be tested with an HFE gene test at any age, but iron studies are usually done once they reach adulthood (around age 18–20)." }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Family screening is critical",
+          "text": "Screening your family is just as important as your own treatment. Hemochromatosis is silent for years — most people have no symptoms until organ damage has already started. A simple blood test can find iron overload early, when it is easiest to treat and before any harm is done. Please talk to your family members about getting tested."
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Warning signs that need medical attention",
+      "icon": "🚨",
+      "color": "rose",
+      "summary": "Most people with treated hemochromatosis do very well. Know these warning signs so you can get help quickly if something changes.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Once you are on a regular treatment plan, hemochromatosis is well controlled. However, it is important to know which symptoms should prompt a call to your doctor. If you notice any of the following, contact your healthcare team."
+        },
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "New or worsening joint pain, especially in your hands",
+            "Increasing fatigue or tiredness that does not improve with rest",
+            "Abdominal pain, especially in the upper right side (where the liver is)",
+            "New skin colour changes — darkening or bronze appearance",
+            "Heart palpitations, racing heart, or shortness of breath",
+            "Increased thirst, frequent urination, or unexplained weight loss (signs of diabetes)",
+            "Swelling in your legs or belly",
+            "Confusion or difficulty concentrating"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to the most common questions about hemochromatosis",
+      "icon": "❓",
+      "color": "sky",
+      "summary": "Clear answers to the questions patients ask most often about hemochromatosis, from treatment to family planning.",
+      "content": [
+        {
+          "type": "faq",
+          "questions": [
+            {
+              "q": "Can hemochromatosis be cured?",
+              "a": "Hemochromatosis is a genetic condition, so the gene mutation is always there. However, it can be completely controlled with regular phlebotomy. When iron levels are kept in the normal range, you can live a completely normal, healthy life. Think of it as a condition that is managed rather than cured — and management is simple and very effective."
+            },
+            {
+              "q": "Can I donate my blood to the blood bank?",
+              "a": "In many cases, yes. In Canada and many other countries, people with hemochromatosis are allowed to donate blood as long as they meet the usual eligibility criteria (no active infections, etc.). Your blood is perfectly healthy — it just has extra iron, which is removed during donation. Ask your treatment centre or blood bank about their specific rules."
+            },
+            {
+              "q": "Do all my family members need to be tested?",
+              "a": "All first-degree relatives (parents, siblings, and adult children) should be tested with an HFE gene test and iron studies. Partners do not need to be tested unless you want to know the risk for your children. If your partner is tested and does not carry the C282Y mutation, your children will be carriers but will not develop iron overload."
+            },
+            {
+              "q": "Why should I avoid vitamin C supplements?",
+              "a": "Vitamin C increases the amount of iron your body absorbs from food. Taking large doses of vitamin C (over 500 mg) can raise your iron levels and work against your treatment. Normal amounts of vitamin C from food are fine — it is the high-dose supplements you should avoid. You do not need to avoid fruits and vegetables."
+            },
+            {
+              "q": "Is phlebotomy painful?",
+              "a": "Most people say phlebotomy feels like having a routine blood test or donating blood. You may feel a brief pinch when the needle goes in, but the procedure itself is not painful. Some people feel a little lightheaded or tired afterwards. Drinking plenty of water before and after helps. Most sessions take 15 to 30 minutes."
+            },
+            {
+              "q": "Can liver damage from hemochromatosis be reversed?",
+              "a": "It depends on how much damage has occurred. Early-stage liver fibrosis (mild scarring) can improve or even reverse with treatment. However, advanced cirrhosis (severe scarring) is permanent, although treatment can stop it from getting worse. This is why early diagnosis and treatment are so important — they prevent liver damage from ever developing."
+            },
+            {
+              "q": "How often do I need blood tests?",
+              "a": "During the induction phase (when iron levels are being brought down), your ferritin is usually checked every 1 to 2 months. Once you are in the maintenance phase, blood tests are typically done every 3 to 6 months. Your doctor will adjust this schedule based on how stable your levels are."
+            },
+            {
+              "q": "Can my children inherit hemochromatosis?",
+              "a": "Hemochromatosis follows an autosomal recessive pattern, which means a child needs to inherit the gene mutation from both parents to develop the condition. If only one parent carries two copies of C282Y, the children will be carriers at most. If both parents carry the mutation, each child has a 1 in 4 chance of having hemochromatosis. Genetic testing can help clarify the risk."
+            },
+            {
+              "q": "Can I drink alcohol if I have hemochromatosis?",
+              "a": "If you have no liver damage, moderate alcohol consumption is generally considered acceptable. However, alcohol and iron overload together are especially harmful to the liver and increase the risk of liver cancer. If you have any liver fibrosis or cirrhosis, most doctors recommend avoiding alcohol completely. Talk to your doctor about what is safe for you."
+            },
+            {
+              "q": "Can I give blood to the blood bank or does it get discarded?",
+              "a": "In many countries, including Canada, your phlebotomy blood can be used for the blood bank if you meet standard donation criteria. The blood itself is healthy and safe for transfusion. Some treatment centres are set up to send your blood directly to the blood bank. Ask your doctor or treatment centre about this option — it is a great way to help others while managing your condition."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "knowledge-check",
+      "title": "Knowledge Check",
+      "subtitle": "Test what you have learned about hemochromatosis",
+      "icon": "🧠",
+      "color": "purple",
+      "summary": "A few quick questions to check your understanding. There is no pass or fail — this is just to help you remember the key points.",
+      "content": [
+        {
+          "type": "knowledge-check",
+          "items": [
+            {
+              "question": "What is the main treatment for hemochromatosis?",
+              "options": [
+                "Iron supplements",
+                "Phlebotomy (regular blood removal)",
+                "A special iron-free diet",
+                "Liver transplant"
+              ],
+              "correct": 1,
+              "explanation": "Phlebotomy — regular removal of blood — is the main treatment. Each time blood is removed, your body uses stored iron to make new red blood cells, which lowers your iron levels over time."
+            },
+            {
+              "question": "Why is it important to screen family members?",
+              "options": [
+                "Hemochromatosis is contagious",
+                "Family members may carry the same gene mutation and benefit from early treatment",
+                "Family members need to change their diet immediately",
+                "It is required by law in Canada"
+              ],
+              "correct": 1,
+              "explanation": "Hemochromatosis is inherited. First-degree relatives may carry the same HFE gene mutations. Finding iron overload early — before symptoms appear — means treatment can prevent all complications."
+            },
+            {
+              "question": "Why should people with hemochromatosis avoid raw shellfish?",
+              "options": [
+                "Shellfish contains too much iron",
+                "Raw shellfish can carry Vibrio vulnificus, a dangerous bacteria for people with iron overload",
+                "Shellfish interferes with phlebotomy treatment",
+                "Shellfish causes joint pain to get worse"
+              ],
+              "correct": 1,
+              "explanation": "People with hemochromatosis are at higher risk for serious infection from Vibrio vulnificus, a bacteria found in raw or undercooked shellfish. Always make sure shellfish is fully cooked."
+            },
+            {
+              "question": "What is the usual ferritin target during maintenance treatment?",
+              "options": [
+                "As close to zero as possible",
+                "Below 50 µg/L",
+                "Between 200–300 µg/L",
+                "Above 500 µg/L"
+              ],
+              "correct": 1,
+              "explanation": "The typical target is to keep ferritin below 50 µg/L (usually between 25–50 µg/L). This level is low enough to prevent iron overload but high enough to avoid iron deficiency."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Clinical guidelines and sources used for this page",
+      "icon": "📚",
+      "color": "orange",
+      "summary": "This information is based on current clinical practice guidelines from leading gastroenterology and hepatology societies.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            {
+              "text": "Bacon BR et al. Diagnosis and Management of Hemochromatosis: 2011 Practice Guideline by the American Association for the Study of Liver Diseases (AASLD). Hepatology. 2011;54(1):328–343.",
+              "url": "https://doi.org/10.1002/hep.24330"
+            },
+            {
+              "text": "European Association for the Study of the Liver (EASL). EASL Clinical Practice Guidelines on Haemochromatosis. J Hepatol. 2022;77(2):479–502.",
+              "url": "https://doi.org/10.1016/j.jhep.2022.03.033"
+            },
+            {
+              "text": "Engert A et al. Canadian Medical Association (CMA) Guideline on Hereditary Hemochromatosis. CMAJ. 2023.",
+              "url": "https://www.cmaj.ca"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

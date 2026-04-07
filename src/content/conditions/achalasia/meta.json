@@ -1,0 +1,18 @@
+{
+  "slug": "achalasia",
+  "title": "Achalasia",
+  "shortTitle": "Achalasia",
+  "subtitle": "Understanding and treating this rare swallowing disorder",
+  "icon": "🫁",
+  "color": "indigo",
+  "description": "Clear, evidence-based information about achalasia — what it is, how it is diagnosed, and the treatments that help most people eat comfortably again. Created by a Canadian gastroenterologist.",
+  "category": "upper-gi",
+  "prevalence": "Less Common",
+  "lastReviewed": "2026-03-29",
+  "guidelines": [
+    { "society": "ACG", "title": "ACG Clinical Guideline: Diagnosis and Management of Achalasia", "year": 2020 },
+    { "society": "AGA", "title": "AGA Clinical Practice Update on the Evaluation and Management of Achalasia", "year": 2020 },
+    { "society": "ISDE", "title": "ISDE Expert Consensus on the Management of Achalasia", "year": 2023 }
+  ],
+  "enabled": true
+}

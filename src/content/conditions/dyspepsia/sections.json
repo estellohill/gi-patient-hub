@@ -1,0 +1,209 @@
+{
+  "hero": {
+    "title": "Dyspepsia (Indigestion)",
+    "subtitle": "Understanding and managing persistent stomach discomfort",
+    "description": "Everything you need to know about dyspepsia \u2014 why your stomach hurts, how your doctor investigates it, what treatments are available, and when to seek help. Clear, trustworthy information to help you feel better.",
+    "reassurance": "Dyspepsia (indigestion) is extremely common and almost always benign. Most people improve with simple treatment."
+  },
+  "sections": [
+    {
+      "id": "what-is-dyspepsia",
+      "title": "What Is Dyspepsia?",
+      "subtitle": "Understanding the different types and causes of indigestion",
+      "icon": "\ud83e\ude79",
+      "color": "sky",
+      "summary": "Dyspepsia is the medical term for indigestion. It refers to pain or discomfort in the upper part of your stomach. It is very common and there are several possible causes, but most are not serious.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Dyspepsia is the medical word for indigestion. It means pain or discomfort in the upper part of your belly, usually around the area just below your ribs. You might feel a burning sensation, fullness after eating just a small amount, bloating, or nausea. Dyspepsia is one of the most common reasons people visit their doctor \u2014 it affects up to 1 in 4 Canadians at some point. The good news is that the cause is almost always something treatable, and serious causes are rare."
+        },
+        {
+          "type": "key-points",
+          "heading": "Key facts about dyspepsia",
+          "points": [
+            { "heading": "Very common", "text": "Up to 25% of Canadians experience dyspepsia. You are not alone, and help is available." },
+            { "heading": "Usually not serious", "text": "In most cases, dyspepsia is caused by something minor and treatable. Serious causes like stomach cancer are rare, especially in people under 60." },
+            { "heading": "Several possible causes", "text": "Dyspepsia can come from a stomach infection (H. pylori), certain medications (like ibuprofen), or simply how your stomach processes food (functional dyspepsia)." },
+            { "heading": "Treatable", "text": "Whether it is caused by an infection, a medication, or a sensitive stomach, there are effective treatments that help most people feel better." }
+          ]
+        },
+        {
+          "type": "risk-table",
+          "heading": "Types of Dyspepsia",
+          "items": [
+            { "name": "Functional dyspepsia", "risk": "Most common", "description": "No visible cause found on testing. The stomach is extra sensitive or does not empty as well as it should. This is the most frequent type and is not dangerous." },
+            { "name": "H. pylori-related", "risk": "Common", "description": "A bacterial infection in the stomach lining that can cause pain, bloating, and nausea. Easily treated with antibiotics." },
+            { "name": "NSAID-related", "risk": "Common", "description": "Pain relievers like ibuprofen (Advil) or naproxen (Aleve) can irritate the stomach lining and cause dyspepsia. Switching medications often helps." },
+            { "name": "Structural (ulcer, etc.)", "risk": "Less common", "description": "A stomach ulcer or other visible problem found on endoscopy. Treatable with medication and, in some cases, treating an underlying H. pylori infection." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "investigation",
+      "title": "Investigation",
+      "subtitle": "How your doctor figures out what is causing your symptoms",
+      "icon": "\ud83d\udd0d",
+      "color": "blue",
+      "summary": "Your doctor will decide the best approach based on your age, symptoms, and risk factors. Most people do not need an endoscopy right away.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "When you see your doctor about dyspepsia, they will ask about your symptoms, medications, and health history. In Canada, guidelines recommend a \"test-and-treat\" approach for most people. This means testing for H. pylori first rather than jumping straight to an endoscopy. If you have certain warning signs (called alarm features), your doctor may recommend an endoscopy sooner."
+        },
+        {
+          "type": "steps",
+          "heading": "The Test-and-Treat Approach (CAG 2021)",
+          "steps": [
+            "Your doctor reviews your symptoms and checks for alarm features (see below)",
+            "If no alarm features, you are tested for H. pylori \u2014 usually with a simple breath test or stool test",
+            "If H. pylori is found, you receive antibiotic treatment to clear the infection",
+            "If H. pylori is not found (or symptoms persist after treatment), a trial of acid-lowering medication (PPI) is started for 4 to 8 weeks",
+            "If symptoms do not improve with H. pylori treatment or a PPI trial, your doctor may refer you for an upper endoscopy to look more closely"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Alarm features \u2014 tell your doctor right away",
+          "text": "Certain symptoms mean your doctor will want to investigate sooner. These include: difficulty swallowing, unintentional weight loss, persistent vomiting, vomiting blood or black stools, anemia (low blood count), or being over 60 with new dyspepsia symptoms. If you have any of these, your doctor may recommend an endoscopy without waiting for a trial of medication."
+        }
+      ]
+    },
+    {
+      "id": "treatment",
+      "title": "Treatment",
+      "subtitle": "Options for getting your symptoms under control",
+      "icon": "\ud83d\udc8a",
+      "color": "emerald",
+      "summary": "Treatment depends on what is causing your dyspepsia. Options include acid-lowering medication, antibiotics for H. pylori, lifestyle changes, and medications that help the stomach work more normally.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "The right treatment depends on the cause of your dyspepsia. If H. pylori is found, antibiotics are the first step. If no clear cause is found (functional dyspepsia), your doctor will work with you to find the medication and lifestyle changes that help most. Treatment is usually very effective, and most people see improvement within a few weeks."
+        },
+        {
+          "type": "medication-table",
+          "heading": "Common Medications for Dyspepsia",
+          "items": [
+            { "med": "PPIs (Omeprazole, Pantoprazole)", "note": "Reduce stomach acid. Often the first medication tried. Taken once daily before a meal for 4 to 8 weeks." },
+            { "med": "H2 blockers (Famotidine / Pepcid)", "note": "An alternative acid-reducing option. May be used if PPIs are not suitable or as a step-down from a PPI." },
+            { "med": "Prokinetics (Domperidone)", "note": "Help the stomach empty more efficiently. Used when bloating or early fullness is the main symptom. Available in Canada by prescription." },
+            { "med": "Low-dose tricyclic antidepressant (Amitriptyline, Nortriptyline)", "note": "Used at very low doses (much lower than for depression) to reduce stomach nerve sensitivity. Can be very helpful for functional dyspepsia." },
+            { "med": "Buspirone", "note": "Helps the stomach relax to hold food more comfortably. Used for functional dyspepsia when fullness and bloating are the main symptoms." },
+            { "med": "H. pylori antibiotics", "note": "A combination of antibiotics taken for 14 days to clear the H. pylori infection. Your doctor will explain the specific regimen." }
+          ]
+        },
+        {
+          "type": "checklist",
+          "heading": "Lifestyle Changes That Help",
+          "storageKey": "dyspepsia-lifestyle-checklist",
+          "items": [
+            "Eat smaller, more frequent meals rather than large ones",
+            "Avoid eating within 3 hours of bedtime",
+            "Cut back on fatty and fried foods, which slow stomach emptying",
+            "Limit or avoid alcohol and caffeine",
+            "If you smoke, talk to your doctor about quitting",
+            "Reduce use of NSAIDs (ibuprofen, naproxen) \u2014 use acetaminophen (Tylenol) instead when possible",
+            "Manage stress through exercise, relaxation, or mindfulness \u2014 stress can worsen symptoms"
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "If you have functional dyspepsia",
+          "text": "Functional dyspepsia means your stomach is extra sensitive even though tests do not show a visible problem. This does not mean your symptoms are imagined \u2014 they are real. The nerves in your stomach are simply more reactive than usual. This is a recognized medical condition, and there are effective treatments. Many people improve with a combination of dietary changes, stress management, and medications that calm stomach nerve signals. Your doctor may try more than one approach to find what works best for you."
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Symptoms that should prompt a call to your doctor",
+      "icon": "\ud83d\udea8",
+      "color": "rose",
+      "summary": "Most dyspepsia is manageable, but some warning signs mean you should see your doctor promptly.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "Difficulty swallowing or painful swallowing",
+            "Unintentional weight loss of more than 5 pounds",
+            "Persistent vomiting that does not improve",
+            "Vomiting blood or material that looks like coffee grounds",
+            "Black, tarry stools or blood in your stool",
+            "Symptoms not improving after 8 weeks of treatment",
+            "New indigestion symptoms starting after age 60",
+            "Feeling a lump or mass in your upper belly"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common questions about dyspepsia",
+      "icon": "\u2753",
+      "color": "amber",
+      "summary": "Got questions about your stomach symptoms? Here are clear answers to the things patients ask most often.",
+      "content": [
+        {
+          "type": "faq",
+          "questions": [
+            {
+              "q": "Is dyspepsia the same as GERD (acid reflux)?",
+              "a": "Not exactly. GERD mainly causes heartburn and acid coming back up into your throat. Dyspepsia causes pain or discomfort in the upper stomach area, often with bloating, fullness, or nausea. However, the two conditions can overlap, and some people have both. Your doctor can help sort out which one you have."
+            },
+            {
+              "q": "Should I be worried about stomach cancer?",
+              "a": "Stomach cancer is very rare, especially in people under 60 who do not have alarm features (like weight loss, difficulty swallowing, or bleeding). If you are under 60 with no warning signs, the chance of a serious cause is extremely low. Your doctor will check for alarm features and investigate further if needed."
+            },
+            {
+              "q": "Why did my doctor prescribe an antidepressant for my stomach?",
+              "a": "Low-dose tricyclic antidepressants (like amitriptyline) are used at doses much lower than those used for depression. At these low doses, they calm the nerve signals in the stomach and reduce pain sensitivity. They are a well-studied treatment for functional dyspepsia and do not mean your doctor thinks your symptoms are caused by depression."
+            },
+            {
+              "q": "Can anxiety or stress cause dyspepsia?",
+              "a": "Stress and anxiety do not directly cause dyspepsia, but they can make symptoms worse. The gut and brain are closely connected through what doctors call the gut-brain axis. Managing stress through exercise, sleep, relaxation techniques, or counseling can be an important part of treatment."
+            },
+            {
+              "q": "How long will I need to take a PPI?",
+              "a": "Most people take a PPI for 4 to 8 weeks to see if it helps. If your symptoms improve, your doctor may suggest tapering to the lowest effective dose or trying to stop. Some people need longer treatment, and your doctor will work with you to find the right balance."
+            },
+            {
+              "q": "Is dyspepsia a chronic (lifelong) condition?",
+              "a": "It depends on the cause. If dyspepsia is caused by H. pylori, curing the infection often resolves symptoms for good. If it is caused by a medication, switching the medication can help. Functional dyspepsia can come and go over time, but many people find that symptoms improve significantly with treatment and lifestyle changes."
+            },
+            {
+              "q": "Will antacids like Tums or Gaviscon help?",
+              "a": "Antacids may provide temporary relief, but they are not a long-term solution for most types of dyspepsia. If you find yourself using antacids frequently, it is worth talking to your doctor. A proper assessment can identify the cause and lead to more effective treatment."
+            },
+            {
+              "q": "Are there specific foods I should avoid?",
+              "a": "There is no single \"dyspepsia diet,\" but many people find that fatty foods, fried foods, spicy foods, caffeine, and alcohol can make symptoms worse. Eating smaller meals and avoiding eating late at night can also help. A food diary can be useful to identify your personal triggers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Guidelines and resources used in this guide",
+      "icon": "\ud83d\udcda",
+      "color": "sky",
+      "summary": "This guide is based on current Canadian and international gastroenterology guidelines.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            { "text": "Canadian Association of Gastroenterology \u2014 Clinical Practice Guideline on the Management of Uninvestigated Dyspepsia (2021)" },
+            { "text": "American College of Gastroenterology and Canadian Association of Gastroenterology \u2014 Clinical Guideline: Management of Dyspepsia (2017)" },
+            { "text": "Rome Foundation \u2014 Rome IV Diagnostic Criteria for Functional Gastrointestinal Disorders (2016)" },
+            { "text": "Canadian Digestive Health Foundation \u2014 Dyspepsia Patient Information" }
+          ]
+        }
+      ]
+    }
+  ]
+}

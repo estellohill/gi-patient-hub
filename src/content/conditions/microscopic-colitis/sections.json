@@ -1,0 +1,342 @@
+{
+  "hero": {
+    "title": "Microscopic Colitis",
+    "subtitle": "Understanding and managing this common cause of chronic watery diarrhea",
+    "description": "Everything you need to know about microscopic colitis — why your colonoscopy looked normal but biopsies told a different story, what treatments work best, and how to manage flares. Clear, trustworthy information to help you feel better.",
+    "reassurance": "Microscopic colitis is very treatable. Most people respond well to medication and achieve complete resolution of their diarrhea."
+  },
+  "sections": [
+    {
+      "id": "what-is-microscopic-colitis",
+      "title": "What Is Microscopic Colitis?",
+      "subtitle": "A hidden cause of diarrhea that only shows up under the microscope",
+      "icon": "🔬",
+      "color": "sky",
+      "summary": "Microscopic colitis is a type of inflammation in the colon that causes chronic watery diarrhea. The colon looks completely normal during a colonoscopy — the inflammation can only be seen under a microscope, which is why biopsies are essential.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Microscopic colitis is a condition where the lining of the colon (large intestine) becomes inflamed. Unlike other types of colitis, this inflammation is invisible to the naked eye. During a colonoscopy, the colon looks perfectly normal. The only way to find it is by taking small tissue samples (biopsies) and looking at them under a microscope. This is why the condition is called microscopic colitis — and why biopsies during colonoscopy are so important."
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "A normal-looking colonoscopy does NOT mean nothing is wrong",
+          "text": "Many patients are told their colonoscopy looked normal and wonder why they still have diarrhea. With microscopic colitis, the colon looks healthy during the procedure, but the biopsies tell a different story. If your doctor suspects microscopic colitis, they will take biopsies even though everything looks fine — and that is exactly the right thing to do."
+        },
+        {
+          "type": "key-points",
+          "heading": "Key facts about microscopic colitis",
+          "points": [
+            {
+              "heading": "Two types",
+              "text": "There are two forms: collagenous colitis (a thick band of collagen builds up under the colon lining) and lymphocytic colitis (too many white blood cells called lymphocytes collect in the colon lining). Both types cause the same symptoms and are treated the same way."
+            },
+            {
+              "heading": "More common than you might think",
+              "text": "Microscopic colitis is one of the most common causes of chronic watery diarrhea, especially in older adults. It accounts for up to 1 in 10 cases of chronic diarrhea that are investigated."
+            },
+            {
+              "heading": "Most common in older women",
+              "text": "Microscopic colitis is most often diagnosed in people over 60, and women are affected about three times more often than men. However, it can occur at any age."
+            },
+            {
+              "heading": "Not the same as IBD",
+              "text": "Microscopic colitis is different from Crohn's disease and ulcerative colitis. It does not cause visible damage to the colon and does not increase the risk of colon cancer."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "What does microscopic colitis feel like?",
+          "text": "The main symptom is chronic, watery, non-bloody diarrhea. Many people have several loose or watery bowel movements a day, sometimes with urgency (needing to rush to the bathroom). Some people also experience mild cramping, bloating, or fecal incontinence. Symptoms can come and go, with flares lasting weeks or months. Unlike ulcerative colitis or Crohn's disease, there is usually no blood in the stool."
+        }
+      ]
+    },
+    {
+      "id": "causes-and-triggers",
+      "title": "Causes and Triggers",
+      "subtitle": "What can bring on or worsen microscopic colitis",
+      "icon": "⚡",
+      "color": "amber",
+      "summary": "The exact cause is not fully understood, but certain medications, autoimmune conditions, and smoking are known triggers.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Researchers are still learning exactly what causes microscopic colitis. It is likely a combination of factors — the immune system overreacting to something in the colon, genetic factors, and environmental triggers. The good news is that many of the known triggers can be identified and addressed."
+        },
+        {
+          "type": "key-points",
+          "heading": "Known triggers and risk factors",
+          "points": [
+            {
+              "heading": "Medications",
+              "text": "Several common medications have been linked to microscopic colitis. The most well-known culprits are NSAIDs (like ibuprofen and naproxen), proton pump inhibitors (PPIs like omeprazole and pantoprazole), and SSRIs (antidepressants like sertraline and citalopram). Other medications have also been reported. Always tell your doctor about every medication you take, including over-the-counter drugs."
+            },
+            {
+              "heading": "Autoimmune connection",
+              "text": "People with microscopic colitis are more likely to have other autoimmune conditions such as celiac disease, thyroid disease, rheumatoid arthritis, or type 1 diabetes. This suggests the immune system plays an important role."
+            },
+            {
+              "heading": "Smoking",
+              "text": "Current smoking is a significant risk factor for microscopic colitis. Smokers tend to develop it at a younger age and may have a harder time controlling symptoms. Quitting smoking can help improve the condition."
+            },
+            {
+              "heading": "Bile acid malabsorption",
+              "text": "Some people with microscopic colitis also have trouble absorbing bile acids in their small intestine. This overlap can make diarrhea worse and may need specific treatment."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Do not stop medications on your own",
+          "text": "If you suspect a medication may be triggering your symptoms, talk to your doctor before making any changes. Stopping certain medications suddenly can be harmful. Your doctor can help you weigh the risks and benefits and find alternatives if needed."
+        }
+      ]
+    },
+    {
+      "id": "treatment",
+      "title": "Treatment",
+      "subtitle": "Effective options to stop the diarrhea and keep it away",
+      "icon": "💊",
+      "color": "blue",
+      "summary": "Budesonide is the first-line treatment and works for most people. Other options are available for those who need them.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "The great news about microscopic colitis is that it responds very well to treatment. Most people see a significant improvement — often complete resolution of diarrhea — within a few weeks of starting the right medication. Your doctor will work with you to find the approach that works best for your situation."
+        },
+        {
+          "type": "medication-table",
+          "heading": "Treatment Options",
+          "items": [
+            {
+              "med": "Budesonide (Entocort)",
+              "note": "The first-line treatment for microscopic colitis. This is a locally acting steroid that targets the gut with fewer side effects than other steroids. Most people respond within 2 to 4 weeks. A typical course starts at 9 mg daily for 6 to 8 weeks, then tapers down gradually. Some people need a low maintenance dose long-term."
+            },
+            {
+              "med": "Cholestyramine (Olestyr)",
+              "note": "A bile acid binder that can help, especially if bile acid malabsorption is also present. Sometimes used alongside budesonide or as an alternative for mild symptoms."
+            },
+            {
+              "med": "Bismuth subsalicylate (Pepto-Bismol)",
+              "note": "High-dose bismuth has shown benefit in some studies. It is an option for mild cases or for people who prefer to avoid steroids. Requires taking several tablets daily for 8 weeks."
+            },
+            {
+              "med": "Immunomodulators (Azathioprine, Methotrexate)",
+              "note": "Reserved for refractory cases — meaning people whose symptoms keep coming back despite budesonide. These medications suppress the immune system more broadly and require regular blood monitoring."
+            },
+            {
+              "med": "Biologic therapy",
+              "note": "In rare cases that do not respond to any of the above, biologic medications may be considered. This is uncommon and would be managed by a specialist."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "Typical Treatment Path",
+          "steps": [
+            "Your doctor identifies and stops any suspect trigger medications (if possible)",
+            "Budesonide is started at 9 mg daily — most people feel better within 2 to 4 weeks",
+            "After 6 to 8 weeks, the dose is gradually tapered down over several weeks",
+            "If symptoms return during the taper, a low maintenance dose (3 to 6 mg daily) may be continued",
+            "If budesonide alone is not enough, cholestyramine or an immunomodulator may be added"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "success",
+          "title": "High response rate",
+          "text": "Studies show that about 80% of people with microscopic colitis respond to budesonide therapy. This is one of the most treatable conditions in gastroenterology. Even if your first course does not fully work, your doctor has other options to try."
+        }
+      ]
+    },
+    {
+      "id": "managing-flares",
+      "title": "Managing Flares",
+      "subtitle": "What to do when symptoms return and how to prevent them",
+      "icon": "🛡️",
+      "color": "emerald",
+      "summary": "Flares are common in microscopic colitis but manageable. Knowing your triggers and having a plan makes a big difference.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Many people with microscopic colitis experience flares — periods when diarrhea returns after a time of feeling well. This is normal and does not mean your treatment has failed. Flares can often be managed quickly when you know what to do."
+        },
+        {
+          "type": "checklist",
+          "heading": "Flare Management Action Plan",
+          "storageKey": "mc-flare-checklist",
+          "items": [
+            "Review your medications — have you recently started a new drug, including over-the-counter medications like NSAIDs or PPIs?",
+            "If you identified a trigger medication with your doctor, stop it (or discuss stopping it)",
+            "Contact your doctor about restarting or increasing your budesonide dose",
+            "Stay well hydrated — drink plenty of water, broth, or electrolyte drinks",
+            "Avoid caffeine and alcohol during a flare, as these can worsen diarrhea",
+            "Keep a symptom diary to share with your doctor at your next visit",
+            "If you smoke, talk to your doctor about quitting — smoking makes flares more likely"
+          ]
+        },
+        {
+          "type": "key-points",
+          "heading": "Tips for preventing flares",
+          "points": [
+            {
+              "heading": "Know your medication triggers",
+              "text": "Keep a list of medications that have been linked to your flares. Share this list with every doctor, dentist, or pharmacist who prescribes or recommends medications to you."
+            },
+            {
+              "heading": "Do not stop budesonide too quickly",
+              "text": "One of the most common reasons for a relapse is tapering budesonide too fast. Always follow your doctor's tapering schedule. Some people do best on a low long-term dose."
+            },
+            {
+              "heading": "Consider celiac testing",
+              "text": "If you have not been tested for celiac disease, ask your doctor. Celiac disease can coexist with microscopic colitis, and treating it with a gluten-free diet can help both conditions."
+            },
+            {
+              "heading": "Stay active and manage stress",
+              "text": "While stress does not directly cause microscopic colitis, it can affect how your gut feels. Regular physical activity and stress management can support your overall wellbeing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Signs that you should call your doctor",
+      "icon": "🚨",
+      "color": "rose",
+      "summary": "Most flares can be managed with your doctor's guidance, but some symptoms need prompt attention.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "Diarrhea that is severe, worsening, or not responding to your usual treatment",
+            "Blood in your stool — microscopic colitis does not typically cause bleeding, so this needs investigation",
+            "Signs of dehydration — dizziness, dark urine, dry mouth, or feeling faint",
+            "Unintentional weight loss of more than 5 pounds",
+            "Fever along with diarrhea",
+            "New or worsening abdominal pain",
+            "Symptoms that return after stopping or tapering budesonide",
+            "You are unsure whether a new medication could be triggering a flare"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common questions about microscopic colitis",
+      "icon": "❓",
+      "color": "amber",
+      "summary": "Got questions about microscopic colitis? Here are clear answers to the things patients ask most often.",
+      "content": [
+        {
+          "type": "knowledge-check",
+          "heading": "Test Your Understanding",
+          "items": [
+            {
+              "question": "Why is it called microscopic colitis?",
+              "options": [
+                "Because the colon is very small",
+                "Because the inflammation can only be seen under a microscope",
+                "Because the treatment uses very small doses of medication",
+                "Because only a small part of the colon is affected"
+              ],
+              "correct": 1,
+              "explanation": "The colon looks completely normal during colonoscopy. The inflammation is only visible when biopsy samples are examined under a microscope — which is why biopsies are essential for diagnosis."
+            },
+            {
+              "question": "What is the first-line treatment for microscopic colitis?",
+              "options": [
+                "Antibiotics",
+                "Surgery",
+                "Budesonide",
+                "A gluten-free diet"
+              ],
+              "correct": 2,
+              "explanation": "Budesonide is the first-line treatment recommended by all major guidelines. About 80% of patients respond well to it. It is a locally acting steroid that targets the gut with fewer side effects than other steroids."
+            },
+            {
+              "question": "Which of the following medications has been linked to triggering microscopic colitis?",
+              "options": [
+                "Acetaminophen (Tylenol)",
+                "NSAIDs like ibuprofen",
+                "Vitamin D supplements",
+                "Probiotics"
+              ],
+              "correct": 1,
+              "explanation": "NSAIDs (like ibuprofen and naproxen) are one of the most commonly reported medication triggers for microscopic colitis. PPIs and SSRIs have also been linked to the condition."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "questions": [
+            {
+              "q": "Is microscopic colitis serious?",
+              "a": "Microscopic colitis is not dangerous and does not increase your risk of colon cancer. However, the chronic diarrhea it causes can significantly affect your quality of life. The good news is that it is very treatable, and most people achieve full control of their symptoms with medication."
+            },
+            {
+              "q": "Will I need to take budesonide forever?",
+              "a": "Not necessarily. Some people have a single episode that goes away with one course of treatment and does not come back. Others have recurring flares and do best on a low maintenance dose of budesonide long-term. Your doctor will help you find the right approach for your situation."
+            },
+            {
+              "q": "Can microscopic colitis go away on its own?",
+              "a": "In some cases, yes. Microscopic colitis can go into remission on its own, especially if a trigger medication is identified and stopped. However, most people benefit from treatment with budesonide to control symptoms more quickly and reliably."
+            },
+            {
+              "q": "Why did my colonoscopy look normal if I have colitis?",
+              "a": "This is the hallmark of microscopic colitis. The colon lining looks completely normal to the naked eye during a colonoscopy. The inflammation is only visible when tiny tissue samples (biopsies) are examined under a microscope. A normal-looking colonoscopy with ongoing diarrhea is actually one of the reasons doctors suspect this condition."
+            },
+            {
+              "q": "Should I follow a special diet?",
+              "a": "There is no specific diet proven to treat microscopic colitis. However, some people find that reducing caffeine, alcohol, and dairy helps their symptoms. If you also have celiac disease, a strict gluten-free diet is important. A food diary can help you identify any personal triggers."
+            },
+            {
+              "q": "Is microscopic colitis the same as IBS?",
+              "a": "No. Irritable bowel syndrome (IBS) and microscopic colitis are different conditions. IBS does not involve inflammation and is a disorder of gut function. Microscopic colitis involves actual inflammation that is visible under the microscope. However, some people are initially diagnosed with IBS before biopsies reveal microscopic colitis. This is why biopsies are so important when investigating chronic diarrhea."
+            },
+            {
+              "q": "Can I take ibuprofen if I have microscopic colitis?",
+              "a": "NSAIDs like ibuprofen are one of the most common medication triggers for microscopic colitis. If you have been diagnosed with this condition, it is best to avoid NSAIDs. Talk to your doctor about safer alternatives for pain relief, such as acetaminophen (Tylenol)."
+            },
+            {
+              "q": "Does microscopic colitis increase my risk of colon cancer?",
+              "a": "No. Unlike ulcerative colitis and Crohn's disease, microscopic colitis does not increase your risk of developing colon cancer. You should still follow the standard colon cancer screening recommendations for your age, but you do not need extra surveillance because of microscopic colitis."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Guidelines and resources used in this guide",
+      "icon": "📚",
+      "color": "sky",
+      "summary": "This guide is based on current international gastroenterology guidelines.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            {
+              "text": "American Gastroenterological Association — AGA Clinical Practice Guidelines on the Management of Microscopic Colitis (2016)"
+            },
+            {
+              "text": "American College of Gastroenterology — ACG Clinical Guideline on Microscopic Colitis (2024)"
+            },
+            {
+              "text": "European Microscopic Colitis Group — Consensus Statements on Diagnosis and Management (2021)"
+            },
+            {
+              "text": "Canadian Digestive Health Foundation — Microscopic Colitis Patient Information"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

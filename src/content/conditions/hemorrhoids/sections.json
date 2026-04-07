@@ -1,0 +1,384 @@
+{
+  "hero": {
+    "title": "Hemorrhoids",
+    "subtitle": "A very common condition that is treatable and nothing to be embarrassed about",
+    "description": "Everything you need to know about hemorrhoids — what they are, how to treat them at home, when you might need a procedure, and when to see your doctor. Clear, trustworthy information so you can feel confident about your next steps.",
+    "reassurance": "Hemorrhoids are one of the most common conditions — nearly everyone will experience them at some point. They are almost never dangerous and are very treatable."
+  },
+  "sections": [
+    {
+      "id": "what-are-hemorrhoids",
+      "title": "What Are Hemorrhoids?",
+      "subtitle": "Understanding a very normal part of your body",
+      "icon": "🔎",
+      "color": "rose",
+      "summary": "Hemorrhoids are cushions of blood vessels that everyone has. Problems happen when these cushions become swollen or irritated. This is extremely common and nothing to feel embarrassed about.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Hemorrhoids are cushions of tissue filled with blood vessels that sit around your anus (the opening where stool comes out) and in the lower part of your rectum. Everyone has them — they are a normal part of your body. They help with bowel control and cushion the area during bowel movements. When people say they \"have hemorrhoids,\" they usually mean these cushions have become swollen, stretched, or irritated. This is very common. About 3 out of 4 adults will deal with hemorrhoid symptoms at some point in their life."
+        },
+        {
+          "type": "key-points",
+          "heading": "Two types of hemorrhoids",
+          "points": [
+            {
+              "heading": "Internal hemorrhoids",
+              "text": "These are inside the rectum, where you cannot see or feel them. They usually do not hurt because there are very few pain nerves in that area. The most common sign is painless bright red bleeding during a bowel movement."
+            },
+            {
+              "heading": "External hemorrhoids",
+              "text": "These are under the skin around the outside of the anus. They can itch, swell, and sometimes be painful — especially if a blood clot forms inside one (called a thrombosed hemorrhoid)."
+            },
+            {
+              "heading": "Very normal and very common",
+              "text": "Hemorrhoids are one of the most common reasons people visit a gastroenterologist. There is absolutely no reason to feel embarrassed. Your doctor has seen this many times and is here to help."
+            },
+            {
+              "heading": "Almost never dangerous",
+              "text": "Hemorrhoids are not cancer and they do not turn into cancer. While they can be uncomfortable and sometimes worrying, they are a benign condition with many effective treatments."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "What causes hemorrhoids to flare up?",
+          "text": "Anything that puts extra pressure on the blood vessels in your lower rectum can cause hemorrhoids to swell. Common causes include straining during bowel movements, sitting on the toilet for long periods, chronic constipation or diarrhea, pregnancy, heavy lifting, and being overweight. As we age, the tissues that support hemorrhoids can weaken, which is why they become more common over time."
+        }
+      ]
+    },
+    {
+      "id": "symptoms",
+      "title": "Symptoms",
+      "subtitle": "What hemorrhoids can feel like — and why you should not worry",
+      "icon": "⚠️",
+      "color": "amber",
+      "summary": "Hemorrhoids can cause bleeding, itching, discomfort, or a lump near the anus. These symptoms are almost always harmless, but it is important to get them checked if they are new.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Many people with hemorrhoids have no symptoms at all. When symptoms do occur, they depend on whether the hemorrhoids are internal or external. It is completely normal to feel worried when you notice bleeding or a lump. The good news is that hemorrhoid symptoms are almost always benign and treatable."
+        },
+        {
+          "type": "key-points",
+          "heading": "Common hemorrhoid symptoms",
+          "points": [
+            {
+              "heading": "Bright red bleeding",
+              "text": "You may see blood on the toilet paper, in the toilet bowl, or on the surface of your stool. This is the most common symptom of internal hemorrhoids. The blood is usually bright red and painless."
+            },
+            {
+              "heading": "Itching or irritation",
+              "text": "The skin around the anus can become itchy or irritated, especially if there is mucus drainage from internal hemorrhoids."
+            },
+            {
+              "heading": "Pain or discomfort",
+              "text": "External hemorrhoids can be sore, especially if a blood clot forms. Internal hemorrhoids rarely cause pain unless they prolapse (slip outside the anus)."
+            },
+            {
+              "heading": "A lump near the anus",
+              "text": "You may feel a soft swelling near the opening. This can be an external hemorrhoid or an internal hemorrhoid that has prolapsed. It may go back inside on its own or with gentle pressure."
+            },
+            {
+              "heading": "Feeling of incomplete emptying",
+              "text": "Larger internal hemorrhoids can make you feel like you still need to go after a bowel movement, even when you are finished."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "You are not alone",
+          "text": "Many people feel embarrassed about hemorrhoid symptoms and put off seeing a doctor. Please know that hemorrhoids are one of the most common conditions we treat. There is nothing unusual or embarrassing about it. Getting checked early means faster relief."
+        }
+      ]
+    },
+    {
+      "id": "home-treatment",
+      "title": "Home Treatment",
+      "subtitle": "Simple steps that bring relief for most people",
+      "icon": "🏠",
+      "color": "emerald",
+      "summary": "Most hemorrhoids get better with simple home treatments. Fiber, sitz baths, staying hydrated, and over-the-counter products can make a big difference.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "The good news is that most hemorrhoid symptoms improve within a few days to a couple of weeks with simple home care. These steps are the first-line treatment recommended by gastroenterology guidelines. Even if you end up needing a procedure down the road, these habits will help prevent future flare-ups."
+        },
+        {
+          "type": "checklist",
+          "heading": "Home Treatment Action Plan",
+          "storageKey": "hemorrhoids-home-treatment-checklist",
+          "items": [
+            "Eat more fiber — aim for 25 to 35 grams per day from fruits, vegetables, whole grains, and legumes (or add a fiber supplement like psyllium / Metamucil)",
+            "Drink plenty of water — at least 6 to 8 glasses per day to keep stools soft",
+            "Take a sitz bath — sit in a few inches of warm water for 10 to 15 minutes, 2 to 3 times per day, especially after bowel movements",
+            "Use a stool softener like docusate (Colace) if your stools are hard",
+            "Apply an over-the-counter hemorrhoid cream or ointment containing hydrocortisone or witch hazel for itch and swelling",
+            "Do not strain or push hard during bowel movements — go when you feel the urge and do not hold it in",
+            "Limit time on the toilet — avoid reading or scrolling on your phone while sitting",
+            "Stay active — regular physical activity helps keep bowels regular"
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Why fiber is so important",
+          "text": "Fiber is the single most important home treatment for hemorrhoids. It works by making your stools softer and bulkier, so they pass more easily without straining. Straining is one of the main causes of hemorrhoid flare-ups. If you are not used to eating much fiber, add it gradually over a couple of weeks to avoid bloating and gas. A fiber supplement like psyllium (brand name Metamucil) taken daily with a full glass of water is a simple and effective option."
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "What is a sitz bath?",
+          "text": "A sitz bath is simply sitting in a few inches of warm (not hot) water. You can use your bathtub or buy an inexpensive sitz bath basin that fits over your toilet seat from any pharmacy. It helps soothe irritation, reduce swelling, and keep the area clean. No soap or additives are needed — plain warm water works well."
+        },
+        {
+          "type": "medication-table",
+          "heading": "Over-the-Counter Options",
+          "items": [
+            {
+              "med": "Psyllium fiber (Metamucil)",
+              "note": "Bulks and softens stool to reduce straining. Take daily with plenty of water. This is the foundation of hemorrhoid treatment."
+            },
+            {
+              "med": "Docusate (Colace)",
+              "note": "A gentle stool softener. Helpful if stools are hard despite fiber. Safe for regular use."
+            },
+            {
+              "med": "Hydrocortisone cream (Anusol-HC, Proctosedyl)",
+              "note": "Reduces swelling and itch. Apply to the outside area. Do not use for more than 7 days without talking to your doctor."
+            },
+            {
+              "med": "Witch hazel pads (Tucks)",
+              "note": "Cooling pads that soothe itching and irritation. Can be used as often as needed."
+            },
+            {
+              "med": "Acetaminophen (Tylenol) or Ibuprofen (Advil)",
+              "note": "For pain relief. Avoid Aspirin as it can increase bleeding."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "medical-procedures",
+      "title": "Medical Procedures",
+      "subtitle": "Options when home treatment is not enough",
+      "icon": "🏥",
+      "color": "blue",
+      "summary": "If home treatment does not bring enough relief, your doctor may suggest an office procedure or, rarely, surgery. Most procedures are quick and very effective.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Most people with hemorrhoids will improve with home treatment alone. But if symptoms keep coming back or are more severe, there are several safe and effective procedures your doctor can offer. These range from quick office-based treatments to surgery for the most stubborn cases. In Canada, these procedures are covered by your provincial health plan when recommended by your doctor."
+        },
+        {
+          "type": "key-points",
+          "heading": "Office-based procedures (no general anesthesia needed)",
+          "points": [
+            {
+              "heading": "Rubber band ligation (banding)",
+              "text": "The most common procedure for internal hemorrhoids. Your doctor places a tiny rubber band around the base of the hemorrhoid, which cuts off its blood supply. The hemorrhoid shrinks and falls off within a few days. It is done in the office and takes just a few minutes. You may feel pressure or mild discomfort for a day or two."
+            },
+            {
+              "heading": "Sclerotherapy",
+              "text": "Your doctor injects a chemical solution into the hemorrhoid tissue, causing it to shrink. This is a quick office procedure with minimal discomfort. It works best for smaller internal hemorrhoids."
+            },
+            {
+              "heading": "Infrared coagulation",
+              "text": "A device is used to apply heat to the hemorrhoid, which causes scar tissue to form and cuts off blood flow. This is another quick office option for smaller internal hemorrhoids."
+            }
+          ]
+        },
+        {
+          "type": "key-points",
+          "heading": "Surgical options (for more severe cases)",
+          "points": [
+            {
+              "heading": "Hemorrhoidectomy",
+              "text": "A surgical removal of large or severe hemorrhoids. This is the most effective treatment for advanced hemorrhoids but requires anesthesia and has a longer recovery (usually 2 to 4 weeks). It is typically reserved for cases that have not responded to other treatments."
+            },
+            {
+              "heading": "Stapled hemorrhoidopexy",
+              "text": "A procedure that uses a special stapling device to reposition prolapsed internal hemorrhoids. Recovery is generally faster than a traditional hemorrhoidectomy, though it may have a slightly higher chance of the hemorrhoids coming back."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "success",
+          "title": "Most people never need surgery",
+          "text": "The vast majority of hemorrhoid cases are managed successfully with home treatment or a simple office procedure like banding. Surgery is only needed for a small number of people with very large or persistent hemorrhoids."
+        },
+        {
+          "type": "steps",
+          "heading": "What to expect with rubber band ligation",
+          "steps": [
+            "The procedure is done in your doctor's office — no special preparation is needed",
+            "It takes just a few minutes and does not require sedation or anesthesia",
+            "You may feel a sensation of fullness or dull ache in the rectum for 1 to 2 days",
+            "Over-the-counter pain relievers and sitz baths can help with any discomfort",
+            "The banded hemorrhoid falls off on its own within about a week — you may not even notice",
+            "Avoid heavy lifting for a few days after the procedure",
+            "You can usually return to normal activities the same day or the next day"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Signs that you should see your doctor",
+      "icon": "🚨",
+      "color": "rose",
+      "summary": "Hemorrhoids are almost always harmless, but rectal bleeding should be checked by your doctor to make sure nothing else is going on.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "While hemorrhoids are the most common cause of rectal bleeding, other conditions can cause similar symptoms. It is important to see your doctor to confirm the diagnosis, especially if this is your first time having these symptoms. Do not assume rectal bleeding is \"just hemorrhoids\" without getting it checked. Your doctor can quickly put your mind at ease."
+        },
+        {
+          "type": "when-to-seek-help",
+          "heading": "See your doctor if you have any of the following",
+          "items": [
+            "Rectal bleeding that is new or that you have not had checked before",
+            "Bleeding that does not stop after a week of home treatment",
+            "Heavy bleeding or blood clots in your stool",
+            "A change in your bowel habits (new constipation, diarrhea, or thinner stools)",
+            "Pain that is severe or getting worse",
+            "A lump near the anus that is very painful, hard, or dark in colour (this may be a thrombosed hemorrhoid that needs treatment)",
+            "Dizziness, lightheadedness, or feeling faint along with bleeding",
+            "You are over 40 and have never had a colonoscopy to screen for colon cancer",
+            "A family history of colon cancer or inflammatory bowel disease"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Do not self-diagnose rectal bleeding",
+          "text": "Hemorrhoids are the most likely cause of bright red rectal bleeding, but other conditions — including polyps, fissures, and rarely colon cancer — can cause similar symptoms. A quick visit to your doctor or a simple examination is all it takes to get the right diagnosis. Early evaluation means peace of mind and appropriate treatment."
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to the questions patients ask most",
+      "icon": "❓",
+      "color": "amber",
+      "summary": "Got questions about hemorrhoids? Here are straightforward, honest answers to the most common ones.",
+      "content": [
+        {
+          "type": "knowledge-check",
+          "heading": "Test Your Understanding",
+          "items": [
+            {
+              "question": "What is the most important home treatment for hemorrhoids?",
+              "options": [
+                "Hemorrhoid cream",
+                "Increasing fiber and water intake",
+                "Sitting on a donut pillow",
+                "Taking pain medication"
+              ],
+              "correct": 1,
+              "explanation": "Fiber is the foundation of hemorrhoid treatment. It softens your stool so you do not have to strain, which is the main cause of hemorrhoid flare-ups. Aim for 25 to 35 grams of fiber per day and drink plenty of water."
+            },
+            {
+              "question": "When should you see a doctor about rectal bleeding?",
+              "options": [
+                "Only if the bleeding is very heavy",
+                "Only if you are over 50",
+                "Any time you have rectal bleeding that has not been evaluated before",
+                "Rectal bleeding is always from hemorrhoids and does not need evaluation"
+              ],
+              "correct": 2,
+              "explanation": "Any new rectal bleeding should be evaluated by your doctor. While hemorrhoids are the most common cause, your doctor needs to confirm the diagnosis and rule out other conditions."
+            },
+            {
+              "question": "Do hemorrhoids turn into cancer?",
+              "options": [
+                "Yes, if left untreated",
+                "Only external hemorrhoids can",
+                "No, hemorrhoids do not become cancer",
+                "Only in older adults"
+              ],
+              "correct": 2,
+              "explanation": "Hemorrhoids are benign swollen blood vessels and do not turn into cancer. However, rectal bleeding should still be evaluated because other conditions that cause bleeding may need attention."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "questions": [
+            {
+              "q": "Are hemorrhoids dangerous?",
+              "a": "No. Hemorrhoids are swollen blood vessels and are not dangerous. They do not turn into cancer. While they can be uncomfortable and sometimes alarming (especially when there is bleeding), they are a benign condition with many effective treatments. The main reason to see your doctor is to confirm the diagnosis and rule out other causes of bleeding."
+            },
+            {
+              "q": "I am embarrassed to talk to my doctor about this. Is that normal?",
+              "a": "Very normal — and you are not alone. Many people feel this way. But please know that hemorrhoids are one of the most common conditions your doctor sees. There is nothing unusual or embarrassing about it. Doctors and nurses deal with this every day and are there to help, not to judge. The sooner you bring it up, the sooner you will feel better."
+            },
+            {
+              "q": "Will hemorrhoids go away on their own?",
+              "a": "Mild hemorrhoid symptoms often improve on their own within a few days, especially with good home care like fiber, water, and sitz baths. However, hemorrhoids themselves do not fully disappear. They may shrink and stop causing symptoms, but they can flare up again if the underlying causes (like straining or low fiber intake) are not addressed."
+            },
+            {
+              "q": "Can hemorrhoids come back after treatment?",
+              "a": "Yes, hemorrhoids can come back, even after a procedure like banding or surgery. The best way to prevent recurrence is to keep your stools soft with daily fiber and plenty of water, avoid straining, and limit time sitting on the toilet."
+            },
+            {
+              "q": "Do I need a colonoscopy for hemorrhoids?",
+              "a": "Not always. If your doctor can see the hemorrhoids on examination and you are up to date on colon cancer screening, a colonoscopy may not be needed. However, if you have other symptoms (like a change in bowel habits or weight loss), a family history of colon cancer, or if you are due for screening, your doctor may recommend one to make sure nothing else is going on."
+            },
+            {
+              "q": "Is rectal bleeding always from hemorrhoids?",
+              "a": "No. While hemorrhoids are the most common cause of bright red rectal bleeding, other conditions can cause similar symptoms — including anal fissures, polyps, inflammatory bowel disease, and rarely colon cancer. This is why any new rectal bleeding should be evaluated by your doctor."
+            },
+            {
+              "q": "Can I exercise with hemorrhoids?",
+              "a": "Yes, and in fact regular exercise is encouraged. Physical activity helps keep your bowels regular and reduces constipation. However, you may want to avoid very heavy lifting, which can increase pressure in the area. Walking, swimming, and yoga are all good choices."
+            },
+            {
+              "q": "Are hemorrhoids common during pregnancy?",
+              "a": "Very common. The extra weight and pressure from pregnancy, along with hormonal changes that relax blood vessel walls, make hemorrhoids more likely. They often improve after delivery. Fiber, water, sitz baths, and safe topical treatments can help during pregnancy. Talk to your doctor or midwife about which options are right for you."
+            },
+            {
+              "q": "Should I use a donut pillow for hemorrhoids?",
+              "a": "Donut-shaped cushions are popular but may not actually help. Some experts believe they can increase pressure on the hemorrhoid area by spreading the buttocks apart. A regular soft cushion is usually a better choice if you need to sit for long periods."
+            },
+            {
+              "q": "What if my hemorrhoid is very painful and swollen?",
+              "a": "A very painful, hard lump near the anus may be a thrombosed hemorrhoid — this happens when a blood clot forms inside an external hemorrhoid. See your doctor promptly. If treated within the first 2 to 3 days, your doctor can make a small cut to remove the clot, which brings almost instant relief. After a few days, it will usually start to improve on its own with sitz baths and pain relief."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Guidelines and resources used in this guide",
+      "icon": "📚",
+      "color": "rose",
+      "summary": "This guide is based on current gastroenterology and surgical guidelines.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            {
+              "text": "American College of Gastroenterology — Clinical Guideline: Management of Benign Anorectal Disorders (2021)"
+            },
+            {
+              "text": "American Society of Colon and Rectal Surgeons — Clinical Practice Guidelines for the Management of Hemorrhoids (2018)"
+            },
+            {
+              "text": "Canadian Digestive Health Foundation — Hemorrhoids Patient Information"
+            },
+            {
+              "text": "World Journal of Gastroenterology — Hemorrhoids: From Basic Pathophysiology to Clinical Management (2020)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

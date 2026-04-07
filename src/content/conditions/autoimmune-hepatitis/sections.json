@@ -1,0 +1,403 @@
+{
+  "hero": {
+    "title": "Autoimmune Hepatitis",
+    "subtitle": "Your immune system and your liver",
+    "description": "Autoimmune hepatitis (AIH) happens when your body's immune system mistakenly attacks your own liver. With the right treatment, most people live full, active lives.",
+    "reassurance": "AIH is very treatable. Most patients respond well to medication and can keep their liver healthy for many years."
+  },
+  "sections": [
+    {
+      "id": "what-is-aih",
+      "title": "What Is Autoimmune Hepatitis?",
+      "subtitle": "Understanding how AIH affects your liver",
+      "icon": "🛡️",
+      "color": "purple",
+      "summary": "Your immune system normally fights germs, but in AIH it mistakenly attacks your liver. Treatment can stop this and protect your liver.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Your immune system is like a security guard that protects your body from germs. In autoimmune hepatitis, the security guard makes a mistake and attacks your own liver instead. This causes swelling (inflammation) in the liver. If left untreated, it can slowly damage the liver over time. The good news is that treatment works very well for most people."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            {
+              "heading": "Your immune system attacks your liver",
+              "text": "In AIH, your body's defense system gets confused and treats your liver as if it were a germ. This causes inflammation that can hurt liver cells over time."
+            },
+            {
+              "heading": "It is not contagious",
+              "text": "You cannot catch AIH from someone else or pass it on. It is not caused by a virus, alcohol, or anything you did wrong."
+            },
+            {
+              "heading": "It is very treatable",
+              "text": "Medications can calm down the immune system and stop it from attacking the liver. Most people respond well and can live normal lives."
+            },
+            {
+              "heading": "There are two main types",
+              "text": "Type 1 is the most common form and can happen at any age. Type 2 is less common and usually appears in children and young adults. Both types are treated in a similar way."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "success",
+          "title": "A treatable condition",
+          "text": "With proper treatment, most people with AIH achieve remission, meaning the liver inflammation goes away and stays away. Many patients live long, healthy lives."
+        }
+      ]
+    },
+    {
+      "id": "diagnosis",
+      "title": "Diagnosis",
+      "subtitle": "How doctors find out if you have AIH",
+      "icon": "🔬",
+      "color": "blue",
+      "summary": "Diagnosing AIH involves blood tests, imaging, and sometimes a liver biopsy. Your doctor will also check for related conditions.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "There is no single test that confirms autoimmune hepatitis on its own. Your doctor will use a combination of blood tests, imaging, and sometimes a small sample of liver tissue to make the diagnosis. This process helps rule out other causes and find the best treatment plan for you."
+        },
+        {
+          "type": "steps",
+          "heading": "Steps in the diagnostic process",
+          "steps": [
+            "Blood tests for autoantibodies — Your doctor checks for special markers like ANA (antinuclear antibody), SMA (smooth muscle antibody), or anti-LKM-1 (liver-kidney microsomal antibody). These suggest your immune system is targeting the liver.",
+            "IgG (immunoglobulin G) levels — High levels of this protein in your blood are a strong clue that AIH may be present.",
+            "Liver blood tests — Tests like ALT, AST, and bilirubin show how much inflammation or damage the liver has right now.",
+            "Imaging — An ultrasound or other scan lets doctors look at your liver and rule out blockages or other problems.",
+            "Liver biopsy — A tiny sample of liver tissue is taken with a thin needle. Looking at it under a microscope confirms how much inflammation there is and whether any scarring (fibrosis) has started."
+          ]
+        },
+        {
+          "type": "risk-table",
+          "heading": "Overlap syndromes to watch for",
+          "items": [
+            {
+              "name": "AIH–PBC overlap",
+              "risk": "Uncommon",
+              "description": "Some patients show features of both autoimmune hepatitis and primary biliary cholangitis. Your doctor checks for this with an AMA antibody test."
+            },
+            {
+              "name": "AIH–PSC overlap",
+              "risk": "Uncommon",
+              "description": "Features of both autoimmune hepatitis and primary sclerosing cholangitis can appear together, especially in younger patients. Special imaging of the bile ducts may be needed."
+            },
+            {
+              "name": "Drug-induced AIH-like injury",
+              "risk": "Must rule out",
+              "description": "Certain medications can cause liver inflammation that looks like AIH. Your doctor will review all your medications carefully."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Why a biopsy matters",
+          "text": "A liver biopsy is the most reliable way to confirm AIH and see how much inflammation or scarring is present. It helps your doctor choose the right strength of treatment."
+        }
+      ]
+    },
+    {
+      "id": "treatment",
+      "title": "Treatment",
+      "subtitle": "Medications that calm the immune system and protect your liver",
+      "icon": "💊",
+      "color": "teal",
+      "summary": "Treatment uses medications to reduce inflammation and bring the liver back to normal. Most patients do very well on these medicines.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "The goal of treatment is to stop your immune system from attacking your liver. This is called remission. Most people start with a steroid to bring inflammation down quickly, then add a second medicine for long-term control. Treatment is usually needed for several years, and sometimes for life, but it works well for most patients."
+        },
+        {
+          "type": "medication-table",
+          "heading": "Common medications for AIH",
+          "items": [
+            {
+              "med": "Prednisone",
+              "note": "A steroid that quickly reduces liver inflammation. Usually started at a higher dose and slowly lowered over weeks to months."
+            },
+            {
+              "med": "Azathioprine (Imuran)",
+              "note": "The most common long-term medicine for AIH. It keeps the immune system calm so the steroid dose can be lowered. A simple blood test (TPMT) is done first to make sure it is safe for you."
+            },
+            {
+              "med": "Budesonide",
+              "note": "A gentler steroid that may cause fewer side effects than prednisone. Used in patients without cirrhosis as an alternative first-line option."
+            },
+            {
+              "med": "Mycophenolate (CellCept)",
+              "note": "Used when azathioprine does not work well or causes side effects. It is another way to keep the immune system in check."
+            },
+            {
+              "med": "Tacrolimus",
+              "note": "A stronger immune-calming medicine reserved for patients who do not respond to standard treatment. Requires close monitoring of blood levels."
+            }
+          ],
+          "warning": "Never stop or change your medications without talking to your doctor first. Stopping suddenly can cause a serious flare of liver inflammation."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            {
+              "heading": "Most people respond well",
+              "text": "About 80 to 90 percent of patients see their liver tests improve within the first few months of treatment. Full remission is the goal."
+            },
+            {
+              "heading": "Remission is the goal",
+              "text": "Remission means your liver blood tests return to normal and the inflammation goes away. Your doctor will keep checking to make sure it stays that way."
+            },
+            {
+              "heading": "Treatment length varies",
+              "text": "Most patients stay on medication for at least 2 to 3 years before a trial off treatment is considered. Some people need lifelong therapy, and that is okay."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Never stop medications suddenly",
+          "text": "Stopping your AIH medications without your doctor's guidance can cause a dangerous flare. Even if you feel great, always talk to your care team before making changes."
+        },
+        {
+          "type": "checklist",
+          "heading": "Treatment checklist",
+          "storageKey": "aih-treatment",
+          "items": [
+            "I understand why I take each of my medications",
+            "I know the name and dose of my current medicines",
+            "I have had a TPMT test before starting azathioprine (if applicable)",
+            "I take my medications at the same time every day",
+            "I keep follow-up appointments for blood work",
+            "I contact my doctor before stopping or changing any medication",
+            "I carry a list of my medications in my wallet or phone"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "living-with-aih",
+      "title": "Living with AIH",
+      "subtitle": "Staying healthy day to day",
+      "icon": "🌿",
+      "color": "emerald",
+      "summary": "Small daily habits, regular monitoring, and open communication with your doctor help you live well with autoimmune hepatitis.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Living with autoimmune hepatitis is very manageable once treatment is working. Regular blood tests let your doctor catch any changes early. A healthy lifestyle supports your liver and your overall well-being. Here are practical tips and what to expect with ongoing monitoring."
+        },
+        {
+          "type": "checklist",
+          "heading": "Daily wellness checklist",
+          "storageKey": "aih-wellness",
+          "items": [
+            "Take my medications as prescribed every day",
+            "Avoid alcohol or limit it as my doctor advises",
+            "Eat a balanced diet with plenty of fruits and vegetables",
+            "Stay physically active with moderate exercise most days",
+            "Get my annual flu shot and stay up to date on vaccinations (check with my doctor first)",
+            "Tell every doctor, dentist, and pharmacist that I take immunosuppressive medication",
+            "Check in with my mental health — ask for support if I feel down or anxious",
+            "Keep a folder or app with my latest lab results"
+          ]
+        },
+        {
+          "type": "frequency-table",
+          "heading": "Monitoring schedule",
+          "items": [
+            {
+              "scenario": "First 6 months of treatment",
+              "interval": "Blood tests (ALT, AST, IgG) every 2 to 4 weeks"
+            },
+            {
+              "scenario": "Stable on treatment",
+              "interval": "Blood tests every 3 to 6 months"
+            },
+            {
+              "scenario": "After stopping medication (trial off treatment)",
+              "interval": "Blood tests monthly for the first 6 months, then every 3 months for at least 2 years"
+            },
+            {
+              "scenario": "Liver fibrosis or cirrhosis present",
+              "interval": "Liver ultrasound every 6 months to screen for liver cancer"
+            },
+            {
+              "scenario": "Bone health (if on long-term steroids)",
+              "interval": "Bone density scan (DEXA) every 1 to 2 years"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Pregnancy and AIH",
+          "text": "Many people with AIH have healthy pregnancies. However, planning ahead is important. Some medications, like mycophenolate, must be stopped before pregnancy because they can harm the baby. Azathioprine is generally considered safe during pregnancy and breastfeeding. Your doctor will adjust your treatment plan before you try to conceive. Flares can happen during pregnancy or after delivery, so closer monitoring is usually needed. Always discuss family planning with your hepatologist or gastroenterologist early."
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Signs that need prompt medical attention",
+      "icon": "🚨",
+      "color": "rose",
+      "summary": "Some symptoms mean you should contact your doctor or go to the emergency room right away.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "Yellowing of your skin or eyes (jaundice) — this may mean your liver inflammation is flaring",
+            "Severe or worsening fatigue that keeps you from daily activities",
+            "Dark brown or cola-colored urine",
+            "Pain or tenderness in the upper right side of your belly",
+            "Starting any new medication, supplement, or herbal product without checking with your doctor first — some can harm the liver or interact with your medicines",
+            "Fever, chills, or signs of infection (sore throat, cough, burning with urination) — immunosuppressive medications lower your body's ability to fight germs, so infections need quick attention"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common concerns about AIH",
+      "icon": "❓",
+      "color": "sky",
+      "summary": "Quick answers to the questions patients ask most often about autoimmune hepatitis.",
+      "content": [
+        {
+          "type": "faq",
+          "questions": [
+            {
+              "q": "Is autoimmune hepatitis contagious?",
+              "a": "No. AIH is not caused by a virus and you cannot spread it to others through contact, sharing food, or any other way."
+            },
+            {
+              "q": "Will I need treatment for the rest of my life?",
+              "a": "Many patients need long-term treatment, and some need it lifelong. After at least 2 to 3 years of normal liver tests, your doctor may try slowly stopping the medication. However, flares can come back, so ongoing monitoring is important either way."
+            },
+            {
+              "q": "Can I drink alcohol?",
+              "a": "It is best to avoid alcohol or drink very little. Alcohol adds extra stress to a liver that is already dealing with inflammation. Ask your doctor what is safe for your specific situation."
+            },
+            {
+              "q": "Will I need a liver transplant?",
+              "a": "Most people with AIH will never need a transplant. Transplant is only considered if the liver develops severe scarring (cirrhosis) that does not respond to treatment. Starting treatment early greatly lowers this risk."
+            },
+            {
+              "q": "Can I have a healthy pregnancy with AIH?",
+              "a": "Yes, many patients have successful pregnancies. Planning ahead is key because some medications need to be switched before conception. Work closely with your doctor to create a safe plan."
+            },
+            {
+              "q": "Can stress trigger a flare?",
+              "a": "Stress alone is unlikely to cause a flare, but it can affect your overall health and make it harder to stick to your treatment plan. Managing stress through exercise, sleep, and support is always a good idea."
+            },
+            {
+              "q": "Why do I need immunosuppressive medication?",
+              "a": "Your immune system is mistakenly attacking your liver. Immunosuppressive medicines calm the immune system down just enough to stop the attack while still letting your body fight infections."
+            },
+            {
+              "q": "What are the side effects of prednisone?",
+              "a": "Common side effects include weight gain, mood changes, trouble sleeping, higher blood sugar, and weaker bones over time. Your doctor will lower the dose as quickly as safely possible and may switch to a gentler option."
+            },
+            {
+              "q": "Is there a special diet I should follow?",
+              "a": "There is no specific AIH diet, but eating a balanced diet rich in fruits, vegetables, whole grains, and lean protein supports liver health. Limiting salt can help if you retain fluid. Avoid raw or undercooked shellfish."
+            },
+            {
+              "q": "Can autoimmune hepatitis be cured?",
+              "a": "AIH can be controlled very well, and many people reach full remission. However, it is considered a chronic condition because it can come back if treatment is stopped. Think of it as something you manage successfully, much like other chronic conditions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "knowledge-check",
+      "title": "Knowledge Check",
+      "subtitle": "Test what you have learned about AIH",
+      "icon": "✅",
+      "color": "indigo",
+      "summary": "A few quick questions to help you feel confident about your understanding of autoimmune hepatitis.",
+      "content": [
+        {
+          "type": "knowledge-check",
+          "items": [
+            {
+              "question": "What causes autoimmune hepatitis?",
+              "options": [
+                "A virus you catch from another person",
+                "Drinking too much alcohol",
+                "Your immune system mistakenly attacking your liver",
+                "Eating unhealthy food"
+              ],
+              "correct": 2,
+              "explanation": "In autoimmune hepatitis, the body's own immune system attacks the liver by mistake. It is not caused by a virus, alcohol, or diet."
+            },
+            {
+              "question": "Why is it important to never stop your AIH medication suddenly?",
+              "options": [
+                "The medication is addictive",
+                "Stopping suddenly can cause a dangerous flare of liver inflammation",
+                "It will make future medications less effective",
+                "Your insurance will not cover a restart"
+              ],
+              "correct": 1,
+              "explanation": "Stopping immunosuppressive medication without your doctor's guidance can cause a serious flare where the immune system attacks the liver again. Always taper under medical supervision."
+            },
+            {
+              "question": "Which blood test markers help diagnose AIH?",
+              "options": [
+                "Hemoglobin and platelets",
+                "ANA, SMA, or anti-LKM-1 antibodies and IgG levels",
+                "Blood sugar and cholesterol",
+                "Kidney function tests"
+              ],
+              "correct": 1,
+              "explanation": "Autoantibodies like ANA, SMA, and anti-LKM-1, along with elevated IgG levels, are key blood markers used to diagnose autoimmune hepatitis."
+            },
+            {
+              "question": "What does remission mean in AIH?",
+              "options": [
+                "The disease is completely cured and will never return",
+                "Liver tests return to normal and inflammation goes away with treatment",
+                "You no longer need to see your doctor",
+                "You can stop all medications immediately"
+              ],
+              "correct": 1,
+              "explanation": "Remission means your liver blood tests are normal and inflammation has resolved. It does not mean cured — ongoing monitoring and often continued medication are needed to keep it that way."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References & Guidelines",
+      "subtitle": "Evidence behind this information",
+      "icon": "📚",
+      "color": "amber",
+      "summary": "This content is based on current international guidelines for the diagnosis and management of autoimmune hepatitis.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            {
+              "text": "AASLD 2020 — Diagnosis and Management of Autoimmune Hepatitis in Adults and Children",
+              "url": "https://journals.lww.com/hep/fulltext/2020/08000/diagnosis_and_management_of_autoimmune_hepatitis.31.aspx"
+            },
+            {
+              "text": "EASL 2015 — Clinical Practice Guidelines on Autoimmune Hepatitis",
+              "url": "https://www.journal-of-hepatology.eu/article/S0168-8278(15)00465-2/fulltext"
+            },
+            {
+              "text": "BSG 2023 — Guidelines for the Management of Autoimmune Hepatitis",
+              "url": "https://gut.bmj.com/content/72/8/1411"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

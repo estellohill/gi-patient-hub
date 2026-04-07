@@ -1,0 +1,18 @@
+{
+  "slug": "upper-endoscopy",
+  "title": "Upper Endoscopy (EGD)",
+  "shortTitle": "Upper Endoscopy",
+  "subtitle": "What to expect before, during, and after your upper endoscopy",
+  "icon": "\ud83e\ude7a",
+  "color": "sky",
+  "description": "Clear, evidence-based information about upper endoscopy (EGD) \u2014 preparation, what to expect, and recovery. Created by a Canadian gastroenterologist.",
+  "category": "procedure",
+  "prevalence": "Very Common",
+  "lastReviewed": "2026-03-29",
+  "guidelines": [
+    { "society": "ASGE", "title": "American Society for Gastrointestinal Endoscopy Standards of Practice", "year": 2023 },
+    { "society": "CAG", "title": "Canadian Association of Gastroenterology Endoscopy Guidelines", "year": 2022 },
+    { "society": "BSG", "title": "British Society of Gastroenterology Quality Standards in Upper GI Endoscopy", "year": 2021 }
+  ],
+  "enabled": true
+}

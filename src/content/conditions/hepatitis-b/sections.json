@@ -1,0 +1,236 @@
+{
+  "hero": {
+    "title": "Hepatitis B",
+    "subtitle": "Understanding and managing chronic hepatitis B infection",
+    "description": "Everything you need to know about hepatitis B \u2014 what your blood tests mean, how treatment works, how to protect your family, and how to live well with the virus. Clear, trustworthy information from a gastroenterologist.",
+    "reassurance": "Hepatitis B is manageable. With modern antiviral therapy, the virus can be controlled and the risk of liver damage is dramatically reduced."
+  },
+  "sections": [
+    {
+      "id": "what-is-hepatitis-b",
+      "title": "What Is Hepatitis B?",
+      "subtitle": "A common liver virus that is treatable and preventable",
+      "icon": "\ud83e\udec1",
+      "color": "blue",
+      "summary": "Hepatitis B is a virus that infects the liver. It is spread through blood and body fluids, not through casual contact. With proper monitoring and treatment, most people live full, healthy lives.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Hepatitis B is a virus (called HBV) that infects the liver. When the infection lasts longer than six months, it is called chronic hepatitis B. Around the world, about 300 million people live with chronic hepatitis B. In Canada, it is most common in people who were born in countries where the virus is widespread, including parts of Asia, Africa, and Eastern Europe. Many people were infected at birth or in early childhood and may not know they carry the virus until it is found on a blood test."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            { "heading": "Not from casual contact", "text": "You cannot get hepatitis B from hugging, kissing, sharing food, coughing, sneezing, or using the same toilet. It is spread only through blood, unprotected sex, or from mother to baby during birth." },
+            { "heading": "Often has no symptoms", "text": "Most people with chronic hepatitis B feel completely well. The virus is usually found on a routine blood test, not because of symptoms." },
+            { "heading": "Treatable, not yet curable", "text": "There is no cure for hepatitis B yet, but antiviral medications can control the virus very effectively and protect your liver from damage." },
+            { "heading": "Vaccine preventable", "text": "The hepatitis B vaccine is one of the most effective vaccines ever made. It can protect your family and prevent new infections." }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "How is hepatitis B spread?",
+          "text": "Hepatitis B is spread through contact with infected blood or body fluids. The most common ways are: from an infected mother to her baby during birth, through unprotected sexual contact, through sharing needles or other equipment that breaks the skin, and through unsterilized medical or dental equipment (more common in some countries). It is important to know that hepatitis B is NOT spread by sharing meals, holding hands, hugging, breastfeeding (if the baby has been vaccinated), or through water or food. There is no reason to avoid normal social contact with someone who has hepatitis B."
+        }
+      ]
+    },
+    {
+      "id": "understanding-blood-tests",
+      "title": "Understanding Your Blood Tests",
+      "subtitle": "What your hepatitis B blood markers mean",
+      "icon": "\ud83e\ude78",
+      "color": "indigo",
+      "summary": "Hepatitis B involves several blood tests that can be confusing. This section explains what each test means and what phase of infection you may be in.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "When you are diagnosed with hepatitis B, your doctor will order several blood tests to understand how the virus is behaving in your body. These tests help your doctor decide whether you need treatment right now or just regular monitoring. It can feel overwhelming to see so many abbreviations, but each one gives an important piece of the puzzle."
+        },
+        {
+          "type": "risk-table",
+          "heading": "Hepatitis B Blood Marker Decoder",
+          "intro": "Here is what each test means and why it matters.",
+          "items": [
+            { "name": "HBsAg (surface antigen)", "risk": "Key marker", "description": "This is the main marker of hepatitis B infection. If HBsAg is positive, the virus is present in your body. If it stays positive for more than 6 months, you have chronic hepatitis B." },
+            { "name": "HBsAb / anti-HBs (surface antibody)", "risk": "Protective", "description": "This antibody means you are immune to hepatitis B, either from vaccination or from clearing a past infection. If positive, the virus cannot infect you." },
+            { "name": "HBeAg (e antigen)", "risk": "Activity marker", "description": "When positive, this usually means the virus is actively multiplying and you are more infectious. Some people clear HBeAg over time, which is a good sign." },
+            { "name": "HBV DNA (viral load)", "risk": "Activity marker", "description": "This measures the actual amount of virus in your blood. A high viral load may mean your liver is at greater risk. Treatment aims to make the viral load undetectable or very low." },
+            { "name": "ALT (liver enzyme)", "risk": "Liver health", "description": "ALT is a blood test that shows if your liver is inflamed. A normal ALT with a low viral load is reassuring. A rising ALT may mean the virus is causing liver damage and treatment should be considered." }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "The phases of chronic hepatitis B",
+          "text": "Chronic hepatitis B goes through different phases over a person's lifetime. In the immune-tolerant phase (common in young people infected at birth), the viral load is high but the liver is not inflamed, so treatment is usually not needed yet. In the immune-active phase, the body starts fighting the virus, ALT rises, and treatment is often started to prevent liver damage. In the inactive carrier phase, the viral load is low and the liver enzymes are normal \u2014 this is a good phase to be in, though monitoring continues. Some people enter a reactivation phase where the virus flares up again. Your doctor uses your blood tests to figure out which phase you are in and what you need."
+        }
+      ]
+    },
+    {
+      "id": "treatment",
+      "title": "Treatment",
+      "subtitle": "Antiviral medications that control the virus and protect your liver",
+      "icon": "\ud83d\udc8a",
+      "color": "blue",
+      "summary": "Not everyone with hepatitis B needs treatment right away, but when treatment is needed, modern antivirals are very effective at suppressing the virus and preventing liver damage.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "The goal of hepatitis B treatment is to suppress the virus to very low or undetectable levels in your blood. This protects your liver from ongoing damage and lowers the risk of serious complications like cirrhosis and liver cancer. Treatment does not cure hepatitis B, but it controls it very well \u2014 similar to how blood pressure medication controls high blood pressure."
+        },
+        {
+          "type": "medication-table",
+          "heading": "Antiviral Medications for Hepatitis B",
+          "items": [
+            { "med": "Entecavir (Baraclude)", "note": "A first-line antiviral pill taken once daily. Very effective at suppressing the virus with a very low risk of resistance. Generally well tolerated with few side effects." },
+            { "med": "Tenofovir disoproxil (TDF / Viread)", "note": "A first-line antiviral pill taken once daily. Very effective with no known resistance. Your doctor may monitor kidney function and bone density with long-term use." },
+            { "med": "Tenofovir alafenamide (TAF / Vemlidy)", "note": "A newer form of tenofovir that is easier on the kidneys and bones. Often preferred for patients with kidney concerns or bone thinning. Taken once daily." },
+            { "med": "Pegylated interferon (Pegasys)", "note": "An injection given weekly for a fixed course (usually 48 weeks). Can achieve a functional cure in some patients but has more side effects. Not the first choice for most people." }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Treatment is usually long-term",
+          "text": "Most people who start antiviral therapy for hepatitis B will take it for many years, and often indefinitely. This is because the virus is not fully eliminated \u2014 it is kept under control. Think of it like managing any other chronic condition. The medications are safe for long-term use, and taking them consistently is the key to keeping your liver healthy."
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Never stop your antiviral abruptly",
+          "text": "Stopping hepatitis B medication suddenly can cause a dangerous flare of the virus, leading to serious liver inflammation. Always talk to your doctor before making any changes to your medication. If you are having trouble affording or taking your medication, let your care team know \u2014 there are often solutions available."
+        }
+      ]
+    },
+    {
+      "id": "living-with-hep-b",
+      "title": "Living with Hep B",
+      "subtitle": "Practical steps for staying healthy every day",
+      "icon": "\ud83c\udf1f",
+      "color": "emerald",
+      "summary": "Living with hepatitis B means keeping up with regular monitoring, taking your medication if prescribed, and knowing that normal daily activities are safe for the people around you.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "A hepatitis B diagnosis can feel overwhelming, but the truth is that most people with chronic hepatitis B live full, active, and healthy lives. With regular medical care and, when needed, antiviral treatment, the virus can be kept under control. Here are the practical steps that matter most."
+        },
+        {
+          "type": "checklist",
+          "heading": "Hepatitis B Management Checklist",
+          "storageKey": "hep-b-management-checklist",
+          "items": [
+            "See your liver specialist (hepatologist or gastroenterologist) at least every 6 to 12 months",
+            "Get blood tests (HBV DNA, ALT, and liver function) as recommended by your doctor",
+            "Take your antiviral medication every day at the same time if you have been prescribed one",
+            "Get liver cancer screening (ultrasound) every 6 months if you are in a higher-risk group",
+            "Avoid or limit alcohol \u2014 alcohol adds extra stress to a liver already dealing with a virus",
+            "Get vaccinated against hepatitis A if you have not already \u2014 a second liver virus would be harder on your liver",
+            "Tell your doctor about all medications, supplements, and herbal products you take \u2014 some can harm the liver",
+            "Do not share razors, toothbrushes, nail clippers, or anything that might have blood on it",
+            "Make sure your sexual partners are vaccinated against hepatitis B",
+            "Talk to your family about getting tested and vaccinated"
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "You cannot spread hepatitis B through normal daily life",
+          "text": "This is one of the most important things to understand. You can safely share meals, hug, kiss, hold hands, play with children, and go about your daily routine without any risk of passing on the virus. Hepatitis B is not spread through saliva, sweat, tears, coughing, sneezing, or sharing a bathroom. Stigma around hepatitis B is based on misunderstanding, not science. You deserve the same respect and support as anyone else managing a health condition."
+        }
+      ]
+    },
+    {
+      "id": "family-screening",
+      "title": "Family Screening",
+      "subtitle": "Protecting your loved ones through testing and vaccination",
+      "icon": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66",
+      "color": "sky",
+      "summary": "Hepatitis B can be passed to close family members. Simple blood tests and the hepatitis B vaccine can protect everyone in your household.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "When you are diagnosed with hepatitis B, one of the most important steps is making sure your family members and close contacts are tested and protected. The hepatitis B vaccine is safe, effective, and widely available. Screening and vaccination can break the chain of transmission in your family."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            { "heading": "Who should be tested", "text": "All household members, sexual partners, and children of someone with hepatitis B should have a simple blood test (HBsAg and HBsAb) to check if they are infected or already immune." },
+            { "heading": "Vaccination works", "text": "The hepatitis B vaccine is over 95% effective. Anyone who tests negative (not infected and not immune) should be vaccinated right away. The standard schedule is 3 doses over 6 months." },
+            { "heading": "Protecting newborns", "text": "If you are pregnant and have hepatitis B, your baby can be protected. Your baby will receive the hepatitis B vaccine and a dose of HBIG (hepatitis B immune globulin) within 12 hours of birth. This prevents infection in over 95% of cases." },
+            { "heading": "Maternal screening", "text": "All pregnant women in Canada are screened for hepatitis B. If you are HBsAg positive and have a high viral load, your doctor may recommend antiviral treatment in the third trimester to further reduce the risk of passing the virus to your baby." },
+            { "heading": "Children should be checked", "text": "If you have children who were born before your diagnosis was known, have them tested. Children infected at birth have the highest risk of developing chronic infection, so early detection and follow-up are important." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Symptoms that should prompt a call to your doctor",
+      "icon": "\ud83d\udea8",
+      "color": "rose",
+      "summary": "Most people with chronic hepatitis B feel well, but certain symptoms could mean the virus or your liver needs urgent attention.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "Yellowing of your skin or the whites of your eyes (jaundice)",
+            "Dark brown or tea-colored urine that does not go away",
+            "Severe fatigue that is much worse than your usual level",
+            "Nausea, vomiting, or loss of appetite lasting more than a few days",
+            "Pain or swelling in the upper right side of your abdomen",
+            "Swelling of your abdomen or ankles",
+            "Easy bruising or bleeding that is new for you",
+            "Confusion, drowsiness, or personality changes (could be a sign of liver problems)",
+            "You have run out of your antiviral medication or missed several doses",
+            "You are planning to start a new medication, including over-the-counter drugs or supplements, and want to check it is safe for your liver"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common questions about hepatitis B",
+      "icon": "\u2753",
+      "color": "amber",
+      "summary": "Got questions about hepatitis B? Here are clear answers to the things patients ask most often.",
+      "content": [
+        {
+          "type": "faq",
+          "questions": [
+            { "q": "Is hepatitis B curable?", "a": "Not yet, but research is ongoing and a cure may be possible in the future. Right now, antiviral medications can control the virus very effectively, keeping your liver healthy and your viral load low or undetectable. Some patients on interferon treatment achieve what doctors call a functional cure, where the surface antigen (HBsAg) disappears, but this happens in a small number of cases." },
+            { "q": "Will I need to take medication forever?", "a": "Many people with hepatitis B take antiviral medication long-term, sometimes for life. This is because the virus is not completely eliminated from the body. However, in some cases, treatment can be safely stopped under careful medical supervision if certain goals are met. Never stop on your own \u2014 always discuss with your doctor." },
+            { "q": "Can I pass hepatitis B to my children?", "a": "Yes, hepatitis B can be passed from mother to baby during birth. However, this is almost entirely preventable. If you are pregnant and have hepatitis B, your baby will receive the hepatitis B vaccine and HBIG at birth, which prevents infection in over 95% of cases. If you have a high viral load, your doctor may also recommend antiviral treatment during the third trimester for extra protection." },
+            { "q": "Can I donate blood?", "a": "No. If you have chronic hepatitis B (HBsAg positive), you are not able to donate blood in Canada. This is a safety measure to protect the blood supply. You can still donate organs in some situations \u2014 discuss with your medical team if this applies to you." },
+            { "q": "Do I need a special diet?", "a": "There is no specific hepatitis B diet. Eating a balanced, healthy diet is the best approach. The most important dietary advice is to limit or avoid alcohol, as alcohol puts extra strain on a liver that is already managing a virus. If you have advanced liver disease, your doctor may give you more specific nutrition advice." },
+            { "q": "Is hepatitis B the same as hepatitis C?", "a": "No. Hepatitis B and hepatitis C are caused by different viruses. They both affect the liver, but they differ in how they are spread, how they behave, and how they are treated. Hepatitis C is now curable with a short course of pills. Hepatitis B is not yet curable but is very well controlled with medication. You can have one without the other, or in some cases, both." },
+            { "q": "Can I work, exercise, and live a normal life?", "a": "Absolutely. Hepatitis B does not limit your ability to work, travel, exercise, or enjoy life. You do not need to disclose your hepatitis B status to your employer or coworkers. There are no jobs that you cannot do because of hepatitis B. Stay active, eat well, and keep up with your medical appointments." },
+            { "q": "Do I need liver cancer screening?", "a": "Many people with chronic hepatitis B are recommended to have a liver ultrasound every 6 months to screen for liver cancer (hepatocellular carcinoma). This is especially important if you are male over age 40, female over age 50, have a family history of liver cancer, have cirrhosis, or are from a region where hepatitis B is very common. Early detection makes liver cancer much more treatable." },
+            { "q": "I was vaccinated as a child \u2014 can I still get hepatitis B?", "a": "If you completed the full vaccine series and developed immunity (confirmed by a positive HBsAb test), you are protected. The vaccine provides long-lasting immunity, and booster doses are generally not needed for healthy people. If you are unsure of your vaccine status, a simple blood test can check whether you are immune." },
+            { "q": "I feel ashamed about my diagnosis. Is that normal?", "a": "Many people feel this way, and it is completely understandable. Stigma around hepatitis B is common but based on misinformation. Hepatitis B is a medical condition, not a reflection of your character or lifestyle. It is most often acquired at birth or in early childhood through no fault of your own. You deserve compassionate care and support. If stigma is affecting your mental health, talk to your doctor or a counsellor. You are not alone." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Guidelines and resources used in this guide",
+      "icon": "\ud83d\udcda",
+      "color": "blue",
+      "summary": "This guide is based on current Canadian and international hepatology guidelines.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            { "text": "American Association for the Study of Liver Diseases \u2014 Hepatitis B Virus Guidance (2024)" },
+            { "text": "Canadian Association for the Study of the Liver \u2014 Hepatitis B Guideline (2023)" },
+            { "text": "European Association for the Study of the Liver \u2014 Clinical Practice Guidelines on Hepatitis B Virus Infection (2023)" },
+            { "text": "Public Health Agency of Canada \u2014 Hepatitis B Fact Sheet" },
+            { "text": "Canadian Liver Foundation \u2014 Hepatitis B Patient Information" },
+            { "text": "Hepatitis B Foundation \u2014 Patient Resources and Support" }
+          ]
+        }
+      ]
+    }
+  ]
+}

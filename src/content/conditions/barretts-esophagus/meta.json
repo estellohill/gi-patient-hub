@@ -1,0 +1,19 @@
+{
+  "slug": "barretts-esophagus",
+  "title": "Barrett's Esophagus",
+  "shortTitle": "Barrett's",
+  "subtitle": "Understanding Barrett's esophagus and your surveillance plan",
+  "icon": "\ud83d\udd2c",
+  "color": "purple",
+  "description": "Clear, evidence-based information about Barrett's esophagus \u2014 what it means, your actual cancer risk, surveillance schedules, and treatment options. Created by a Canadian gastroenterologist.",
+  "category": "upper-gi",
+  "prevalence": "Less Common",
+  "lastReviewed": "2026-03-29",
+  "guidelines": [
+    { "society": "ACG", "title": "American College of Gastroenterology Guideline on Barrett's Esophagus", "year": 2022 },
+    { "society": "AGA", "title": "AGA Clinical Practice Update on Barrett's Esophagus", "year": 2022 },
+    { "society": "BSG", "title": "British Society of Gastroenterology Guidelines on Barrett's Oesophagus", "year": 2023 },
+    { "society": "ASGE", "title": "ASGE Guideline on Screening and Surveillance of Barrett's Esophagus", "year": 2019 }
+  ],
+  "enabled": true
+}

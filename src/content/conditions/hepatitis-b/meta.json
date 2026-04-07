@@ -1,0 +1,18 @@
+{
+  "slug": "hepatitis-b",
+  "title": "Hepatitis B",
+  "shortTitle": "Hep B",
+  "subtitle": "Understanding and managing chronic hepatitis B infection",
+  "icon": "\ud83e\udec1",
+  "color": "blue",
+  "description": "Clear, evidence-based information about hepatitis B \u2014 blood test results, antiviral treatment, family screening, and living well with the virus. Created by a Canadian gastroenterologist.",
+  "category": "liver",
+  "prevalence": "Common",
+  "lastReviewed": "2026-03-29",
+  "guidelines": [
+    { "society": "AASLD", "title": "AASLD Hepatitis B Virus Guidance", "year": 2024 },
+    { "society": "CASL", "title": "Canadian Association for the Study of the Liver HBV Guideline", "year": 2023 },
+    { "society": "EASL", "title": "EASL Clinical Practice Guidelines on Hepatitis B Virus Infection", "year": 2023 }
+  ],
+  "enabled": true
+}

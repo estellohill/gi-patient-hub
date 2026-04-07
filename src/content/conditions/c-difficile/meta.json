@@ -1,0 +1,18 @@
+{
+  "slug": "c-difficile",
+  "title": "C. difficile Infection",
+  "shortTitle": "C. diff",
+  "subtitle": "Understanding and recovering from Clostridioides difficile infection",
+  "icon": "\ud83e\udda0",
+  "color": "teal",
+  "description": "Clear, evidence-based information about C. difficile infection \u2014 causes, symptoms, treatment options including fecal transplant, and how to prevent recurrence. Created by a Canadian gastroenterologist.",
+  "category": "lower-gi",
+  "prevalence": "Common",
+  "lastReviewed": "2026-03-29",
+  "guidelines": [
+    { "society": "ACG", "title": "ACG Clinical Guideline: Prevention, Diagnosis, and Treatment of Clostridioides difficile Infections", "year": 2021 },
+    { "society": "IDSA/SHEA", "title": "IDSA/SHEA Focused Update Guidelines on Management of Clostridioides difficile Infection in Adults", "year": 2021 },
+    { "society": "AMMI Canada", "title": "AMMI Canada Position Statement on Clostridioides difficile Infection", "year": 2021 }
+  ],
+  "enabled": true
+}

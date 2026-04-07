@@ -1,0 +1,342 @@
+{
+  "hero": {
+    "title": "Primary Biliary Cholangitis (PBC)",
+    "subtitle": "Understanding and managing primary biliary cholangitis",
+    "description": "Everything you need to know about PBC — what it is, how it is treated, and how to stay well. Clear, trustworthy information to help you take an active role in your care.",
+    "reassurance": "PBC caught early and treated with ursodiol has an excellent prognosis. Many patients treated early have a normal life expectancy."
+  },
+  "sections": [
+    {
+      "id": "what-is-pbc",
+      "title": "What Is PBC?",
+      "subtitle": "Understanding how PBC affects your liver",
+      "icon": "🫁",
+      "color": "amber",
+      "summary": "PBC is a condition where your immune system slowly damages the small bile ducts in your liver. With early treatment, most people do very well.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Primary biliary cholangitis (PBC) is a long-term liver condition. Your liver makes a fluid called bile that helps you digest fats and absorb vitamins. Bile travels through small tubes called bile ducts. In PBC, your immune system mistakenly attacks and damages these small bile ducts. Over time, this can cause bile to build up in the liver and lead to scarring. PBC used to be called primary biliary cirrhosis, but the name was changed because most people with PBC never develop cirrhosis, especially when treated early."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            {
+              "heading": "An autoimmune condition",
+              "text": "PBC happens because the immune system attacks the bile ducts by mistake. It is not caused by alcohol, diet, or anything you did. The exact cause is not fully understood, but genetics and environment may play a role."
+            },
+            {
+              "heading": "Mostly affects women",
+              "text": "About 9 out of 10 people with PBC are women. It is most often diagnosed between the ages of 40 and 60, but it can occur at any age."
+            },
+            {
+              "heading": "Name change explained",
+              "text": "The old name, primary biliary cirrhosis, worried many patients because cirrhosis means severe liver scarring. The name was changed to cholangitis (meaning inflammation of the bile ducts) because most people treated early never develop cirrhosis."
+            },
+            {
+              "heading": "Treatable and manageable",
+              "text": "When PBC is found early and treated with medication, most people live a normal, healthy life. Regular monitoring and taking your medication as prescribed are the keys to doing well."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "symptoms",
+      "title": "Symptoms",
+      "subtitle": "How PBC can feel — common and less obvious signs",
+      "icon": "⚠️",
+      "color": "amber",
+      "summary": "Many people with PBC have no symptoms at first. The most common symptoms are fatigue and itching. Knowing what to watch for helps you and your doctor stay ahead.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "PBC is often found through routine blood tests before any symptoms appear. When symptoms do develop, they can range from mild to severe. Two symptoms stand out as the most common and most impactful for people living with PBC."
+        },
+        {
+          "type": "key-points",
+          "heading": "Common PBC symptoms",
+          "points": [
+            {
+              "heading": "Fatigue",
+              "text": "Tiredness is the most common and often the most difficult symptom of PBC. It is not ordinary tiredness — many people describe it as a deep exhaustion that does not improve with rest. Fatigue can affect your work, daily activities, and quality of life. It does not always match how active your liver disease is."
+            },
+            {
+              "heading": "Itching (pruritus)",
+              "text": "Itching is the second most common symptom. It can be mild or severe and is often worse at night or in warm weather. The itching is caused by bile salts building up under the skin, not by a rash. It can affect any part of your body but is often worst on the arms, legs, and back."
+            },
+            {
+              "heading": "Dry eyes and dry mouth",
+              "text": "Many people with PBC also have dry eyes and a dry mouth, a condition called sicca syndrome. This happens because the immune system can also affect the glands that produce tears and saliva. Artificial tears and sipping water throughout the day can help."
+            },
+            {
+              "heading": "No symptoms at all",
+              "text": "Up to half of people with PBC have no symptoms when they are first diagnosed. The condition is often picked up because of an abnormal liver blood test (especially elevated alkaline phosphatase). Even without symptoms, treatment is important to protect your liver."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Fatigue in PBC",
+          "text": "PBC-related fatigue can be one of the hardest symptoms to manage. It does not mean your liver disease is getting worse. Talk to your doctor about strategies to cope, including pacing your activities, good sleep habits, and treating any other conditions (like thyroid problems or anemia) that can add to tiredness."
+        }
+      ]
+    },
+    {
+      "id": "treatment",
+      "title": "Treatment",
+      "subtitle": "Medications and strategies to protect your liver and manage symptoms",
+      "icon": "💊",
+      "color": "blue",
+      "summary": "Ursodiol (UDCA) is the most important treatment for PBC. Additional medications can help if needed, and there are effective ways to manage itching.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "The main goal of PBC treatment is to slow down or stop damage to your bile ducts and prevent scarring of the liver. Treatment also focuses on relieving symptoms like itching. The good news is that effective medications exist, and most people respond well to treatment."
+        },
+        {
+          "type": "medication-table",
+          "heading": "PBC Medications",
+          "items": [
+            {
+              "med": "Ursodiol (UDCA / Ursodeoxycholic acid)",
+              "note": "The first-line and most important treatment for PBC. It is a natural bile acid that helps move bile through the liver and protects liver cells from damage. Taken daily by mouth, usually at a dose of 13 to 15 mg per kg of body weight. Most people tolerate it very well. In Canada, ursodiol is covered by most provincial drug plans."
+            },
+            {
+              "med": "Obeticholic acid (Ocaliva)",
+              "note": "A second-line medication for people who do not respond fully to ursodiol alone. It works by reducing bile acid production and inflammation in the liver. It can cause itching as a side effect, so the dose is usually started low and increased slowly."
+            },
+            {
+              "med": "Fibrates (Bezafibrate)",
+              "note": "Originally used for cholesterol, fibrates are now used as an add-on treatment for PBC when ursodiol alone is not enough. Studies show they can improve liver blood tests and may slow disease progression. Your doctor may consider this option based on your response to ursodiol."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Why ursodiol matters so much",
+          "text": "Ursodiol is the backbone of PBC treatment. Studies show that people who take ursodiol and respond well to it have survival rates similar to the general population. It is important to take it every day as prescribed. Most people take it for life. If you are having trouble with the medication or have questions about the dose, talk to your doctor rather than stopping on your own."
+        },
+        {
+          "type": "key-points",
+          "heading": "Managing itching in PBC",
+          "points": [
+            {
+              "heading": "Cholestyramine (Questran)",
+              "text": "The first treatment tried for PBC-related itching. It is a powder mixed with water or juice, taken before meals. It works by binding bile salts in the gut so they are removed from the body. Take it at least 4 hours apart from ursodiol so it does not block its absorption."
+            },
+            {
+              "heading": "Rifampin",
+              "text": "If cholestyramine does not work well enough, rifampin is often the next option. It is a pill taken once or twice daily. It can be very effective for itching. Your doctor will monitor your liver tests while you take it."
+            },
+            {
+              "heading": "Naltrexone",
+              "text": "For itching that does not respond to cholestyramine or rifampin, naltrexone may be tried. It works on the opioid system in the brain, which plays a role in itch signaling. It is usually started at a low dose to avoid side effects."
+            },
+            {
+              "heading": "General itch relief tips",
+              "text": "Keep your skin moisturized, avoid hot baths and showers, wear loose cotton clothing, and keep your bedroom cool at night. Menthol-based creams may provide temporary relief. Talk to your doctor before trying any over-the-counter itch remedies."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Timing matters with cholestyramine",
+          "text": "Cholestyramine can block the absorption of many medications, including ursodiol. Always take cholestyramine at least 4 hours before or after your other medications. Your pharmacist can help you plan the best schedule."
+        }
+      ]
+    },
+    {
+      "id": "monitoring",
+      "title": "Monitoring",
+      "subtitle": "How your doctor tracks your progress",
+      "icon": "🔍",
+      "color": "indigo",
+      "summary": "Regular blood tests and other checks help your doctor make sure treatment is working and catch any changes early.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Once you start treatment for PBC, your doctor will check in regularly to see how well the medication is working and whether your liver is staying healthy. Monitoring is a key part of managing PBC well."
+        },
+        {
+          "type": "key-points",
+          "heading": "What your doctor monitors",
+          "points": [
+            {
+              "heading": "Alkaline phosphatase (ALP) response",
+              "text": "ALP is the most important blood test for tracking PBC. After starting ursodiol, your doctor will check whether your ALP level comes down. A good response — usually meaning your ALP drops to less than 1.67 times the upper limit of normal — is a strong sign that treatment is working and your outlook is excellent."
+            },
+            {
+              "heading": "Paris criteria and other response scores",
+              "text": "Doctors use scoring systems like the Paris criteria to judge how well you are responding to ursodiol. These combine your ALP, bilirubin, and other liver tests measured about one year after starting treatment. A good response means a very favorable long-term outlook."
+            },
+            {
+              "heading": "FibroScan (liver stiffness)",
+              "text": "FibroScan is a painless, non-invasive test that measures how stiff your liver is. Stiffness can be a sign of scarring (fibrosis). It is done in the clinic, takes about 10 minutes, and does not require needles. Your doctor may repeat it every one to two years to track changes over time."
+            },
+            {
+              "heading": "Bone density (DEXA scan)",
+              "text": "People with PBC have a higher risk of thinning bones (osteoporosis) because bile helps your body absorb vitamin D and calcium. Your doctor may recommend a bone density scan (DEXA) every two to three years. Taking vitamin D and calcium supplements as advised can help protect your bones."
+            }
+          ]
+        },
+        {
+          "type": "frequency-table",
+          "heading": "Typical Monitoring Schedule",
+          "items": [
+            { "scenario": "Liver blood tests (ALP, bilirubin, ALT)", "interval": "Every 3 to 6 months" },
+            { "scenario": "Assessment of treatment response (Paris criteria)", "interval": "At 1 year after starting ursodiol, then periodically" },
+            { "scenario": "FibroScan (liver stiffness)", "interval": "Every 1 to 2 years" },
+            { "scenario": "Bone density scan (DEXA)", "interval": "Every 2 to 3 years" },
+            { "scenario": "Thyroid function tests", "interval": "Yearly (autoimmune thyroid disease is more common in PBC)" },
+            { "scenario": "Fat-soluble vitamins (A, D, E, K)", "interval": "As needed, especially if cholestasis is worsening" }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Keep up with your appointments",
+          "text": "Regular monitoring is one of the most important things you can do for your health with PBC. Even if you feel well, blood tests can catch changes early so your doctor can adjust your treatment plan before problems develop."
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Symptoms that should prompt a call to your doctor",
+      "icon": "🚨",
+      "color": "rose",
+      "summary": "Most people with PBC do well on treatment, but certain changes should be discussed with your doctor promptly.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "New or worsening yellowing of your skin or eyes (jaundice)",
+            "Itching that is so severe it keeps you awake at night or affects your daily life",
+            "Swelling in your belly (ascites) or legs and ankles",
+            "Vomiting blood or passing black, tarry stools",
+            "New confusion or difficulty thinking clearly",
+            "Unintentional weight loss of more than 5 pounds",
+            "Fatigue that suddenly gets much worse",
+            "Dark urine or very pale stools that persist"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common questions about PBC",
+      "icon": "❓",
+      "color": "amber",
+      "summary": "Got questions about PBC? Here are clear answers to the things patients ask most often.",
+      "content": [
+        {
+          "type": "knowledge-check",
+          "heading": "Test Your Understanding",
+          "items": [
+            {
+              "question": "What is the most important medication for PBC?",
+              "options": [
+                "Cholestyramine",
+                "Ursodiol (UDCA)",
+                "Obeticholic acid",
+                "Rifampin"
+              ],
+              "correct": 1,
+              "explanation": "Ursodiol (UDCA) is the first-line and most important treatment for PBC. It protects the liver and improves long-term outcomes. The other medications are used to manage itching or as add-on therapy."
+            },
+            {
+              "question": "Why was the name changed from primary biliary cirrhosis to primary biliary cholangitis?",
+              "options": [
+                "A different part of the liver is affected",
+                "It is no longer considered an autoimmune disease",
+                "Most patients treated early never develop cirrhosis",
+                "The condition is now curable"
+              ],
+              "correct": 2,
+              "explanation": "The name was changed because the old name suggested that everyone with the condition would develop cirrhosis. In reality, most people treated early with ursodiol never develop severe liver scarring."
+            },
+            {
+              "question": "Which blood test is most important for tracking PBC treatment response?",
+              "options": [
+                "ALT",
+                "Albumin",
+                "Alkaline phosphatase (ALP)",
+                "Platelet count"
+              ],
+              "correct": 2,
+              "explanation": "Alkaline phosphatase (ALP) is the key blood test for monitoring how well ursodiol is working. A good drop in ALP after starting treatment is a strong sign of a favorable outcome."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "questions": [
+            {
+              "q": "Is PBC the same as other liver diseases?",
+              "a": "No. PBC is a specific autoimmune condition that targets the small bile ducts in the liver. It is different from hepatitis (caused by viruses), fatty liver disease (linked to weight and metabolism), and alcoholic liver disease. Your doctor diagnosed PBC based on specific blood tests and sometimes a liver biopsy."
+            },
+            {
+              "q": "Will I need a liver transplant?",
+              "a": "Most people with PBC who are treated early with ursodiol never need a liver transplant. Transplant is only considered in advanced cases where the liver has been severely damaged. This is becoming less common as more people are diagnosed and treated early."
+            },
+            {
+              "q": "Can I drink alcohol if I have PBC?",
+              "a": "It is best to limit or avoid alcohol. While PBC is not caused by alcohol, drinking can add extra stress to a liver that is already dealing with inflammation. Talk to your doctor about what is safe for you."
+            },
+            {
+              "q": "Is PBC hereditary? Will my children get it?",
+              "a": "PBC is not directly inherited, but family members of people with PBC have a slightly higher chance of developing it. The overall risk is still low. If your family members are concerned, they can ask their doctor about screening with a simple blood test."
+            },
+            {
+              "q": "Why am I so tired if my liver tests look fine?",
+              "a": "Fatigue in PBC does not always match your blood test results. It is thought to be related to how the immune system and brain interact, not just liver damage. This can be frustrating, but it is important to know that fatigue does not mean your liver disease is getting worse. Talk to your doctor about strategies to manage it."
+            },
+            {
+              "q": "Can PBC be cured?",
+              "a": "There is currently no cure for PBC, but ursodiol is very effective at slowing or stopping the disease. Many people treated early live a normal life span with excellent quality of life. Research into new treatments is ongoing and promising."
+            },
+            {
+              "q": "Do I need to follow a special diet?",
+              "a": "There is no specific PBC diet, but eating a balanced, healthy diet supports your overall liver health. Your doctor may recommend calcium and vitamin D supplements to protect your bones. If you have advanced disease with fat absorption problems, you may need extra fat-soluble vitamins (A, D, E, K)."
+            },
+            {
+              "q": "Is it safe to get pregnant with PBC?",
+              "a": "Many women with PBC have healthy pregnancies. Ursodiol is generally considered safe during pregnancy. However, itching can sometimes get worse during pregnancy. It is important to plan ahead with both your liver doctor and your obstetrician so they can monitor you closely."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Guidelines and resources used in this guide",
+      "icon": "📚",
+      "color": "amber",
+      "summary": "This guide is based on current international hepatology and gastroenterology guidelines.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            {
+              "text": "American Association for the Study of Liver Diseases (AASLD) — Practice Guidance on Primary Biliary Cholangitis (2019)"
+            },
+            {
+              "text": "European Association for the Study of the Liver (EASL) — Clinical Practice Guidelines on Primary Biliary Cholangitis (2017)"
+            },
+            {
+              "text": "British Society of Gastroenterology / UK-PBC — Guidelines for the Management of Primary Biliary Cholangitis (2018)"
+            },
+            {
+              "text": "Canadian Liver Foundation — Primary Biliary Cholangitis Patient Information"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "ulcerative-colitis",
+  "title": "Ulcerative Colitis",
+  "shortTitle": "UC",
+  "subtitle": "Understanding and managing ulcerative colitis",
+  "icon": "\ud83e\udec1",
+  "color": "rose",
+  "description": "Clear, evidence-based information about ulcerative colitis \u2014 what it is, how it is treated, living well with UC, and when to seek help. Created by a Canadian gastroenterologist.",
+  "category": "lower-gi",
+  "prevalence": "Common",
+  "lastReviewed": "2026-03-29",
+  "guidelines": [
+    { "society": "CAG", "title": "Canadian Association of Gastroenterology Ulcerative Colitis Clinical Practice Guideline", "year": 2023 },
+    { "society": "ACG", "title": "American College of Gastroenterology Ulcerative Colitis Guideline", "year": 2019 },
+    { "society": "AGA", "title": "AGA Clinical Practice Guideline on Management of Moderate-to-Severe Ulcerative Colitis", "year": 2020 },
+    { "society": "CCC", "title": "Crohn's and Colitis Canada \u2014 Patient Resources and Advocacy", "year": 2024 }
+  ],
+  "enabled": true
+}

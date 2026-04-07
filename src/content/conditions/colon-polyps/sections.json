@@ -1,0 +1,401 @@
+{
+  "hero": {
+    "title": "Colon Polyps (Post-Polypectomy Surveillance)",
+    "subtitle": "Understanding your polyps and when you need your next colonoscopy",
+    "description": "Everything you need to know after having polyps removed during a colonoscopy — what your results mean, when to come back, and how to lower your risk going forward. Clear, trustworthy information to help you stay on track.",
+    "reassurance": "Finding and removing polyps is actually good news — it means cancer was PREVENTED. Most polyps are not cancer and will never become cancer. Polyp removal is the whole point of colonoscopy, and it is one of the most effective ways to protect yourself."
+  },
+  "sections": [
+    {
+      "id": "what-are-colon-polyps",
+      "title": "What Are Colon Polyps?",
+      "subtitle": "The different types and what they mean for you",
+      "icon": "🔬",
+      "color": "teal",
+      "summary": "Colon polyps are small growths on the lining of your colon. Most are harmless, but some types can slowly turn into cancer over many years if left alone. Removing them stops that process.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "A colon polyp is a small growth on the inner lining of your large intestine (colon). Polyps are very common — about 1 in 4 adults over age 50 will have at least one polyp found during a colonoscopy. The good news is that most polyps are not cancer. They grow slowly, and by finding and removing them during colonoscopy, your doctor is preventing cancer before it ever has a chance to develop."
+        },
+        {
+          "type": "key-points",
+          "heading": "Types of Colon Polyps",
+          "points": [
+            {
+              "heading": "Tubular adenoma",
+              "text": "The most common type of polyp that can become cancer. These grow very slowly and are easily removed during colonoscopy. Most tubular adenomas, especially small ones, will never cause a problem."
+            },
+            {
+              "heading": "Villous adenoma (tubulovillous)",
+              "text": "A less common type of adenoma that has a slightly higher chance of becoming cancer compared to tubular adenomas. These are still very treatable when found and removed early."
+            },
+            {
+              "heading": "Sessile serrated polyp (SSP)",
+              "text": "A flat polyp that can be harder to see during colonoscopy. These follow a different pathway to cancer than adenomas. They are important to remove and follow up on, especially if they are large or have certain changes under the microscope."
+            },
+            {
+              "heading": "Hyperplastic polyp",
+              "text": "The most common type of polyp overall. These are almost always harmless and have very little cancer risk. Small hyperplastic polyps in the lower colon or rectum usually do not need any special follow-up."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "The adenoma-carcinoma sequence — how polyps become cancer",
+          "text": "Colon cancer does not appear overnight. In most cases, it starts as a small, harmless polyp that grows slowly over 10 to 15 years before becoming cancer. This is called the adenoma-carcinoma sequence. Because the process is so slow, there is a large window of time to find and remove polyps before they ever become dangerous. This is exactly why colonoscopy screening works so well — it catches polyps early and removes them, breaking the chain before cancer can develop."
+        },
+        {
+          "type": "info-callout",
+          "variant": "success",
+          "title": "Polyp removal = cancer prevention",
+          "text": "If your doctor removed polyps during your colonoscopy, that is a success. It means the system worked exactly as it should. Those polyps can no longer grow or cause problems. Your job now is simply to follow up with your next colonoscopy on schedule."
+        }
+      ]
+    },
+    {
+      "id": "pathology-report",
+      "title": "Understanding Your Pathology Report",
+      "subtitle": "What the lab results mean in plain language",
+      "icon": "📋",
+      "color": "blue",
+      "summary": "After polyps are removed, they are sent to a lab for testing. Your pathology report tells your doctor what type of polyps you had and whether any special follow-up is needed.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "After your colonoscopy, the polyps your doctor removed are sent to a pathology lab where a specialist examines them under a microscope. The pathology report tells your doctor what kind of polyps you had, how big they were, and whether there were any concerning features. This information is used to decide when you need your next colonoscopy."
+        },
+        {
+          "type": "key-points",
+          "heading": "Key Terms on Your Report",
+          "points": [
+            {
+              "heading": "Adenoma",
+              "text": "A polyp type that has the potential to become cancer over time. Finding and removing adenomas is the main goal of colonoscopy screening. Most adenomas are small and low-risk."
+            },
+            {
+              "heading": "Dysplasia (low-grade vs. high-grade)",
+              "text": "Dysplasia means the cells in the polyp look abnormal under the microscope. Low-grade dysplasia is very common in adenomas and is not a cause for alarm. High-grade dysplasia means the cells are more abnormal and closer to becoming cancer — but if the polyp was completely removed, the risk is addressed."
+            },
+            {
+              "heading": "Sessile serrated lesion (SSL or SSP)",
+              "text": "A flat polyp that follows a different pathway to cancer. If your report mentions 'dysplasia' in a sessile serrated polyp, your doctor will recommend closer follow-up."
+            },
+            {
+              "heading": "Complete removal (clear margins)",
+              "text": "This means the entire polyp was removed with a margin of normal tissue around it. This is the best result and means the polyp should not grow back."
+            }
+          ]
+        },
+        {
+          "type": "risk-table",
+          "heading": "High-Risk vs. Low-Risk Polyp Features",
+          "intro": "Your doctor uses these features to decide your surveillance schedule.",
+          "items": [
+            {
+              "name": "1-2 small tubular adenomas (less than 10 mm)",
+              "risk": "Low",
+              "description": "The most common finding. These are low-risk polyps and your next colonoscopy is typically in 7 to 10 years."
+            },
+            {
+              "name": "3-4 small tubular adenomas",
+              "risk": "Moderate",
+              "description": "Having several adenomas increases risk slightly. Your next colonoscopy is typically in 3 to 5 years."
+            },
+            {
+              "name": "5 or more adenomas",
+              "risk": "High",
+              "description": "A higher number of adenomas means closer surveillance is needed. Your next colonoscopy is typically in 3 years."
+            },
+            {
+              "name": "Adenoma 10 mm or larger",
+              "risk": "High",
+              "description": "Larger polyps carry more risk. These are considered advanced adenomas and need earlier follow-up."
+            },
+            {
+              "name": "Villous or tubulovillous features",
+              "risk": "High",
+              "description": "These cell patterns carry a slightly higher risk than tubular adenomas and call for closer follow-up."
+            },
+            {
+              "name": "High-grade dysplasia",
+              "risk": "High",
+              "description": "The cells looked very abnormal but had not yet become cancer. If completely removed, the risk is addressed, but closer follow-up is recommended."
+            },
+            {
+              "name": "Sessile serrated polyp 10 mm or larger, or with dysplasia",
+              "risk": "High",
+              "description": "Large serrated polyps or those with dysplasia need closer surveillance, typically in 3 years."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Size matters",
+          "text": "Polyp size is one of the most important factors in your risk level. Polyps smaller than 10 mm (about the size of a pencil eraser) are usually low-risk. Polyps 10 mm or larger are considered advanced and need closer follow-up. Your pathology report will include the size of each polyp that was removed."
+        }
+      ]
+    },
+    {
+      "id": "surveillance-schedule",
+      "title": "Surveillance Schedule",
+      "subtitle": "When you need your next colonoscopy",
+      "icon": "📅",
+      "color": "emerald",
+      "summary": "Your follow-up schedule depends on the type, size, and number of polyps found. Not everyone needs a colonoscopy every 5 years — many people can safely wait 7 to 10 years.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "After polyps are removed, you will need follow-up colonoscopies at regular intervals to check for new polyps. The timing depends on what was found during your last colonoscopy. Your gastroenterologist will recommend a schedule based on current guidelines. Here is a general overview."
+        },
+        {
+          "type": "frequency-table",
+          "heading": "Recommended Surveillance Intervals",
+          "items": [
+            {
+              "scenario": "Low-risk adenoma (1-2 tubular adenomas, each less than 10 mm)",
+              "interval": "7 to 10 years"
+            },
+            {
+              "scenario": "High-risk adenoma (adenoma 10 mm or larger, villous features, high-grade dysplasia, or 5+ adenomas)",
+              "interval": "3 years"
+            },
+            {
+              "scenario": "3-4 small tubular adenomas",
+              "interval": "3 to 5 years"
+            },
+            {
+              "scenario": "Sessile serrated polyp (SSP) less than 10 mm, no dysplasia",
+              "interval": "5 years"
+            },
+            {
+              "scenario": "Sessile serrated polyp 10 mm or larger, or SSP with dysplasia",
+              "interval": "3 years"
+            },
+            {
+              "scenario": "Hyperplastic polyps only (small, in rectum or sigmoid)",
+              "interval": "10 years (same as average-risk screening)"
+            },
+            {
+              "scenario": "Piecemeal removal of large polyp (removed in pieces)",
+              "interval": "6 months for first check, then based on findings"
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "These are guidelines, not rigid rules",
+          "text": "Your doctor may adjust your schedule based on your personal situation, including your family history, the quality of your bowel preparation, and whether all polyps were completely removed. Always follow the specific recommendation your gastroenterologist gives you."
+        },
+        {
+          "type": "text",
+          "heading": "What if my next colonoscopy is normal?",
+          "text": "If your follow-up colonoscopy shows no new polyps, your doctor may extend the interval before your next one. For example, if you had high-risk polyps and your 3-year follow-up is clear, your next colonoscopy might be in 5 years. The goal is to keep you safe while avoiding unnecessary procedures."
+        }
+      ]
+    },
+    {
+      "id": "reducing-your-risk",
+      "title": "Reducing Your Risk",
+      "subtitle": "Steps you can take to lower your chance of new polyps",
+      "icon": "🛡️",
+      "color": "indigo",
+      "summary": "Along with regular surveillance, healthy lifestyle choices can help lower your risk of developing new polyps.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "While follow-up colonoscopies are the most important tool for catching new polyps early, there are things you can do every day to lower your overall risk. Research shows that lifestyle factors play a real role in polyp and colon cancer prevention."
+        },
+        {
+          "type": "checklist",
+          "heading": "Risk Reduction Action Plan",
+          "storageKey": "colon-polyps-risk-checklist",
+          "items": [
+            "Stay physically active — aim for at least 150 minutes of moderate exercise per week (walking, cycling, swimming)",
+            "Eat a diet rich in fibre — fruits, vegetables, whole grains, and legumes",
+            "Limit red meat to 3 or fewer servings per week and avoid processed meats (bacon, hot dogs, deli meats)",
+            "Maintain a healthy weight — excess body fat increases polyp and colon cancer risk",
+            "If you drink alcohol, limit to 1 drink per day for women or 2 for men",
+            "If you smoke, talk to your doctor about quitting — smoking increases polyp risk",
+            "Keep up with your recommended colonoscopy schedule — this is the single most important step"
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "What about aspirin?",
+          "text": "There is some evidence that low-dose aspirin may help reduce the risk of new polyps and colorectal cancer in certain people. However, aspirin also carries risks, including stomach bleeding. It is not recommended for everyone. Talk to your doctor about whether aspirin makes sense for you based on your personal risk factors, heart health, and bleeding risk. Do not start aspirin on your own for polyp prevention."
+        },
+        {
+          "type": "text",
+          "heading": "Calcium and vitamin D",
+          "text": "Some studies suggest that adequate calcium and vitamin D intake may help reduce polyp risk. Most adults should aim for 1,000 to 1,200 mg of calcium per day (ideally from food sources like dairy, fortified plant milks, and leafy greens) and maintain healthy vitamin D levels. In Canada, where sunlight is limited for much of the year, many people benefit from a vitamin D supplement. Ask your doctor if testing your vitamin D level makes sense for you."
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Family matters",
+          "text": "If you have a first-degree relative (parent, sibling, or child) who was diagnosed with colon cancer or advanced polyps, your risk is higher. Make sure your doctor knows your family history — it may change when and how often you need surveillance."
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Symptoms that should prompt a call to your doctor",
+      "icon": "🚨",
+      "color": "rose",
+      "summary": "After polyp removal, most people feel completely fine. But some symptoms should be checked out.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "After having polyps removed, serious complications are rare. However, there are some symptoms you should know about, both in the days after the procedure and in the time between colonoscopies."
+        },
+        {
+          "type": "when-to-seek-help",
+          "heading": "Contact your doctor or go to the emergency department if you experience",
+          "items": [
+            "Significant rectal bleeding (more than a tablespoon of bright red blood, or bleeding that does not stop)",
+            "Severe abdominal pain that is getting worse rather than better",
+            "Fever or chills after a recent colonoscopy",
+            "Black, tarry stools at any time",
+            "A noticeable change in your bowel habits that lasts more than a few weeks (new constipation, diarrhea, or narrower stools)",
+            "Unintentional weight loss",
+            "New or worsening abdominal pain"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "After polyp removal",
+          "text": "It is normal to have a small amount of bleeding or mild cramping for 1 to 2 days after a polypectomy. Your doctor will give you specific instructions about what to watch for. If you are unsure whether something is normal, it is always better to call and ask."
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common questions about colon polyps",
+      "icon": "❓",
+      "color": "amber",
+      "summary": "Got questions about your polyps? Here are clear answers to the things patients ask most often.",
+      "content": [
+        {
+          "type": "knowledge-check",
+          "heading": "Test Your Understanding",
+          "items": [
+            {
+              "question": "What does it mean when polyps are found during a colonoscopy?",
+              "options": [
+                "You have colon cancer",
+                "Cancer was prevented by finding and removing the polyps",
+                "You need surgery right away",
+                "You can never eat red meat again"
+              ],
+              "correct": 1,
+              "explanation": "Finding and removing polyps is exactly what colonoscopy is designed to do. Polyp removal breaks the chain before cancer can develop. Most polyps are not cancer."
+            },
+            {
+              "question": "Which type of polyp has the LEAST cancer risk?",
+              "options": [
+                "Tubular adenoma",
+                "Villous adenoma",
+                "Sessile serrated polyp",
+                "Hyperplastic polyp"
+              ],
+              "correct": 3,
+              "explanation": "Hyperplastic polyps are the most common type and are almost always harmless. Small hyperplastic polyps in the lower colon usually need no special follow-up."
+            },
+            {
+              "question": "What is the most important thing you can do after polyp removal?",
+              "options": [
+                "Take a special medication every day",
+                "Follow your recommended colonoscopy surveillance schedule",
+                "Get a CT scan every year",
+                "Avoid all fibre in your diet"
+              ],
+              "correct": 1,
+              "explanation": "Keeping up with your recommended surveillance colonoscopies is the single most important step. This ensures any new polyps are caught and removed early."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "questions": [
+            {
+              "q": "Does having a polyp mean I have cancer?",
+              "a": "No. The vast majority of polyps are not cancer. Polyps are very common — about 25% of adults over 50 have them. Most polyps grow very slowly and will never become cancer. Even adenomas, which have the potential to become cancer, take 10 to 15 years to make that change. By removing them now, your doctor has prevented that from happening."
+            },
+            {
+              "q": "Why do different people get different follow-up intervals?",
+              "a": "Your follow-up schedule is based on the type, size, and number of polyps found, as well as your personal and family history. Someone with one small tubular adenoma has a very different risk level than someone with five large adenomas. The guidelines are designed to match your surveillance to your actual risk — close enough to stay safe, but not more often than necessary."
+            },
+            {
+              "q": "Can polyps grow back after removal?",
+              "a": "A polyp that has been completely removed should not grow back in the same spot. However, you can develop new polyps over time in other areas of your colon. This is why follow-up colonoscopies are important — they check for any new growths."
+            },
+            {
+              "q": "What if my bowel prep was not good enough?",
+              "a": "If your bowel preparation was poor, your doctor may not have been able to see the entire colon clearly. In that case, you may be asked to repeat the colonoscopy sooner than usual to make sure nothing was missed. A good prep is one of the most important things you can do to make your colonoscopy effective."
+            },
+            {
+              "q": "Should I tell my family about my polyps?",
+              "a": "Yes. If you had adenomas or advanced polyps, your first-degree relatives (parents, siblings, children) may need to start screening earlier than the general population — sometimes at age 40 or 10 years before your age at diagnosis, whichever is earlier. Sharing this information could save a family member's life."
+            },
+            {
+              "q": "Is colonoscopy the only way to check for polyps?",
+              "a": "Colonoscopy is the gold standard because it allows your doctor to both find and remove polyps in the same procedure. Other tests like FIT (fecal immunochemical test) can screen for colon cancer but cannot remove polyps. If you have had polyps before, colonoscopy is the recommended surveillance method."
+            },
+            {
+              "q": "Will I feel anything during polyp removal?",
+              "a": "No. Polyps are removed during colonoscopy while you are sedated. The inner lining of your colon does not have pain nerves, so the removal itself is painless. Most people do not even remember the procedure."
+            },
+            {
+              "q": "Do I need to change my diet after polyp removal?",
+              "a": "Your doctor may recommend a light diet for a day or two after the procedure. Long-term, eating a diet high in fibre and low in processed and red meat may help reduce your risk of new polyps. There is no special 'polyp diet,' but healthy eating habits are good for your overall colon health."
+            },
+            {
+              "q": "What does 'advanced adenoma' mean?",
+              "a": "An advanced adenoma is an adenoma that is 10 mm or larger, has villous features, or contains high-grade dysplasia. These polyps carry a higher risk of eventually becoming cancer if left alone. The important thing is that yours was found and removed. You will simply need closer follow-up — typically a colonoscopy in 3 years."
+            },
+            {
+              "q": "I am anxious about my results. Is that normal?",
+              "a": "Completely normal. Hearing that something was found in your colon can be scary. But remember — finding and removing polyps is a success story, not a failure. It means the screening worked exactly as it should. Your doctor removed the problem before it could become serious. Follow your surveillance schedule, make healthy choices, and know that you are doing everything right."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Guidelines and resources used in this guide",
+      "icon": "📚",
+      "color": "teal",
+      "summary": "This guide is based on current Canadian and international gastroenterology guidelines.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            {
+              "text": "US Multi-Society Task Force on Colorectal Cancer — Recommendations for Post-Polypectomy Colonoscopy Surveillance (2020)"
+            },
+            {
+              "text": "Canadian Association of Gastroenterology — Colorectal Cancer Screening Guideline (2024)"
+            },
+            {
+              "text": "American Gastroenterological Association — Clinical Practice Guideline on Post-Polypectomy and Post-Cancer Resection Surveillance (2024)"
+            },
+            {
+              "text": "Canadian Cancer Society — Colorectal Cancer Risk Factors and Prevention"
+            },
+            {
+              "text": "Canadian Task Force on Preventive Health Care — Colorectal Cancer Screening Recommendations"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

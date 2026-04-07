@@ -1,0 +1,403 @@
+{
+  "hero": {
+    "title": "Chronic Constipation",
+    "subtitle": "Understanding and managing chronic constipation",
+    "description": "Everything you need to know about chronic constipation — from understanding the causes to lifestyle changes, medications, and when to see your doctor. Clear, trustworthy information to help you feel better.",
+    "reassurance": "Chronic constipation is very common and very treatable. With the right approach, most people find significant relief."
+  },
+  "sections": [
+    {
+      "id": "what-is-chronic-constipation",
+      "title": "What Is Chronic Constipation?",
+      "subtitle": "Understanding what constipation means and when it becomes chronic",
+      "icon": "🧱",
+      "color": "amber",
+      "summary": "Chronic constipation means having difficult, infrequent, or incomplete bowel movements that last for months. It is very common and very treatable.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Constipation means having bowel movements that are hard, infrequent, or difficult to pass. Most people experience constipation once in a while, and that is normal. Chronic constipation is when these problems last for three months or longer and start to affect your daily life. It is one of the most common digestive complaints — affecting roughly 1 in 6 adults in Canada."
+        },
+        {
+          "type": "key-points",
+          "heading": "Rome IV Criteria for Functional Constipation",
+          "points": [
+            {
+              "heading": "Fewer than 3 bowel movements per week",
+              "text": "This is one of the most recognized signs of constipation. However, everyone's normal is different — some people go once a day, others go every other day."
+            },
+            {
+              "heading": "Straining during more than 1 in 4 bowel movements",
+              "text": "If you regularly have to push hard or spend a long time on the toilet, this counts as constipation even if you go frequently."
+            },
+            {
+              "heading": "Hard or lumpy stools",
+              "text": "Stools that look like small hard lumps or pebbles (Bristol Stool Chart types 1 and 2) are a sign that stool is moving too slowly through the colon."
+            },
+            {
+              "heading": "Feeling of incomplete emptying",
+              "text": "Feeling like you have not fully finished after a bowel movement is a common and frustrating symptom of constipation."
+            },
+            {
+              "heading": "Needing to help stool come out",
+              "text": "If you regularly need to use your fingers or press on your abdomen to help pass stool, this is something to discuss with your doctor."
+            },
+            {
+              "heading": "Symptoms for at least 3 months",
+              "text": "Constipation is considered chronic when it has been present for at least three months. Short episodes that come and go are usually not a concern."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "The Bristol Stool Chart — a helpful guide",
+          "text": "The Bristol Stool Chart is a simple visual tool that doctors use to describe stool shape and consistency. It ranges from Type 1 (hard, separate lumps like nuts) to Type 7 (entirely liquid). Types 3 and 4 — smooth, soft, sausage-shaped stools — are considered ideal. If your stools are regularly Type 1 or 2, this suggests constipation. Knowing your typical stool type can help you and your doctor track how well treatment is working."
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "There is no single \"normal\"",
+          "text": "Many people worry that they need to have a bowel movement every day. In fact, anywhere from three times a day to three times a week can be normal. What matters most is whether you are comfortable and your pattern has changed."
+        }
+      ]
+    },
+    {
+      "id": "causes",
+      "title": "Causes",
+      "subtitle": "Why constipation happens and what may be behind yours",
+      "icon": "🔎",
+      "color": "amber",
+      "summary": "Constipation can have many causes — from diet and medications to how quickly your colon moves stool or how well your pelvic floor muscles work.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Chronic constipation is not usually caused by one single thing. For many people, several factors add up. Understanding the possible causes can help you and your doctor figure out the best treatment plan."
+        },
+        {
+          "type": "key-points",
+          "heading": "Common causes of chronic constipation",
+          "points": [
+            {
+              "heading": "Low-fibre diet",
+              "text": "Not getting enough fibre is one of the most common reasons for constipation. Most Canadians eat only about half the recommended daily fibre intake."
+            },
+            {
+              "heading": "Not drinking enough fluids",
+              "text": "When you do not drink enough water, your colon absorbs more water from the stool, making it harder and more difficult to pass."
+            },
+            {
+              "heading": "Lack of physical activity",
+              "text": "Regular movement helps stimulate the muscles in your colon. A sedentary lifestyle can slow things down."
+            },
+            {
+              "heading": "Medications",
+              "text": "Many common medications can cause constipation, including opioid pain medications, iron supplements, certain blood pressure drugs, antidepressants, and antacids that contain calcium or aluminum."
+            },
+            {
+              "heading": "Slow transit constipation",
+              "text": "In some people, the muscles of the colon move stool through more slowly than usual. This is more common in women and can run in families."
+            },
+            {
+              "heading": "Pelvic floor dysfunction",
+              "text": "The muscles around the rectum and pelvic floor need to relax in a coordinated way to let stool pass. If these muscles tighten instead of relaxing, it can be very difficult to have a bowel movement, even when stool is soft. This is treatable with pelvic floor physiotherapy."
+            },
+            {
+              "heading": "Ignoring the urge to go",
+              "text": "Regularly putting off bowel movements — because of a busy schedule, travel, or discomfort using public washrooms — can train your body to reduce the urge over time."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Medical conditions to rule out",
+          "text": "In some cases, constipation can be related to an underactive thyroid, diabetes, or neurological conditions like Parkinson's disease. Your doctor can check for these with simple blood tests and a physical exam. Most of the time, no serious underlying cause is found."
+        }
+      ]
+    },
+    {
+      "id": "lifestyle-changes",
+      "title": "Lifestyle Changes That Work",
+      "subtitle": "Simple steps to get things moving again",
+      "icon": "🥗",
+      "color": "emerald",
+      "summary": "For many people, changes to diet, fluid intake, and activity are enough to bring real relief. Fibre is the foundation of treatment.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Lifestyle changes are the first step in treating chronic constipation. They are safe, effective, and form the foundation of every treatment plan. Even if you end up needing medication, these habits will help it work better."
+        },
+        {
+          "type": "text",
+          "heading": "Fibre — soluble vs. insoluble",
+          "text": "Fibre is the single most important dietary change for constipation. There are two main types, and knowing the difference matters. Soluble fibre dissolves in water and forms a soft gel. It is gentle on the gut and is the type most recommended for constipation. Good sources include psyllium (Metamucil), oats, ground flax seeds, chia seeds, barley, and fruits like apples and oranges. Insoluble fibre does not dissolve in water. It adds bulk to stool and can help things move along, but in some people — especially those with slow transit constipation — too much insoluble fibre can make bloating worse without improving bowel movements. Sources include wheat bran, whole wheat bread, raw vegetables, and the skins of fruits. The best approach is to start with soluble fibre, increase slowly, and see how your body responds."
+        },
+        {
+          "type": "checklist",
+          "heading": "Lifestyle Action Plan",
+          "storageKey": "constipation-lifestyle-checklist",
+          "items": [
+            "Add a soluble fibre supplement like psyllium (Metamucil) — start with 1 teaspoon per day and increase slowly to 1 tablespoon twice daily",
+            "Aim for 25 to 35 grams of total fibre per day from food and supplements combined",
+            "Drink 6 to 8 glasses of water per day — fibre works best when you are well hydrated",
+            "Get regular physical activity — even a 20 to 30 minute walk each day can help",
+            "Try to have a bowel movement at the same time each day, ideally after a meal, when your colon is most active",
+            "Do not ignore the urge to go — respond to it promptly when you feel it",
+            "Raise your feet on a small stool while sitting on the toilet to straighten the path and make it easier to go",
+            "Increase fibre gradually over 2 to 3 weeks to minimize bloating and gas"
+          ]
+        },
+        {
+          "type": "allowed-avoid",
+          "heading": "Foods That Help vs. Foods That Can Slow Things Down",
+          "allowed": [
+            "Psyllium husk (Metamucil) — the best-studied fibre supplement",
+            "Prunes or prune juice (a natural, evidence-based remedy)",
+            "Oats and oatmeal",
+            "Ground flax seeds and chia seeds",
+            "Fruits (apples, pears, kiwi, oranges)",
+            "Vegetables (broccoli, sweet potatoes, leafy greens)",
+            "Legumes (lentils, chickpeas, beans)",
+            "Water and warm fluids"
+          ],
+          "avoid": [
+            "Highly processed and fast foods",
+            "White bread and refined grains",
+            "Large amounts of cheese and dairy (for some people)",
+            "Excess caffeine (can dehydrate)",
+            "Alcohol (can dehydrate)",
+            "Unripe bananas"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "success",
+          "title": "Prunes really do work",
+          "text": "Prunes (dried plums) are one of the few natural remedies with good evidence behind them. Studies show that eating about 100 grams (roughly 10 prunes) per day can improve stool frequency and consistency. Prune juice works too. They contain fibre, sorbitol, and other compounds that help move things along."
+        }
+      ]
+    },
+    {
+      "id": "medications",
+      "title": "Medications for Constipation",
+      "subtitle": "What they do, how they work, and when they are used",
+      "icon": "💊",
+      "color": "blue",
+      "summary": "When lifestyle changes are not enough, several medications can help. Your doctor will start with the gentlest options and step up if needed.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "If fibre and lifestyle changes alone are not giving you enough relief after 4 to 6 weeks, your doctor may recommend a laxative or other medication. The goal is to find the gentlest option that works for you. Most constipation medications are safe for long-term use when taken as directed."
+        },
+        {
+          "type": "steps",
+          "heading": "Step-Up Approach to Constipation Medications",
+          "steps": [
+            "Step 1: Soluble fibre supplement (psyllium / Metamucil) — the foundation of treatment, taken daily with plenty of water",
+            "Step 2: Osmotic laxative — PEG 3350 (Lax-A-Day, RestoraLAX) is the first-choice osmotic laxative. It draws water into the colon to soften stool. Safe for daily use",
+            "Step 3: If PEG is not enough, your doctor may try lactulose — another osmotic laxative available by prescription, which works in a similar way",
+            "Step 4: Stimulant laxatives (bisacodyl or senna) — these stimulate the colon muscles to push stool along. Best used as a rescue option or short-term boost, not as the first choice",
+            "Step 5: Prescription medications — if over-the-counter options are not enough, your doctor may prescribe linaclotide (Constella), prucalopride (Resotran), or other targeted therapies"
+          ]
+        },
+        {
+          "type": "medication-table",
+          "heading": "Common Constipation Medications",
+          "items": [
+            {
+              "med": "PEG 3350 (Lax-A-Day, RestoraLAX)",
+              "note": "An osmotic laxative that draws water into the colon. Tasteless, mixes into any drink. Available over the counter. The most commonly recommended first-line laxative."
+            },
+            {
+              "med": "Lactulose",
+              "note": "A prescription osmotic laxative. Works similarly to PEG by drawing water into the colon. Can cause bloating and gas, especially at higher doses."
+            },
+            {
+              "med": "Bisacodyl (Dulcolax)",
+              "note": "A stimulant laxative that triggers the colon muscles to contract. Available over the counter. Best used as a rescue medication rather than daily."
+            },
+            {
+              "med": "Senna (Senokot)",
+              "note": "A natural stimulant laxative. Effective for occasional use. Can cause cramping in some people."
+            },
+            {
+              "med": "Linaclotide (Constella)",
+              "note": "A prescription medication that increases fluid in the intestine and speeds up transit. Especially helpful when constipation comes with bloating and abdominal pain. Taken on an empty stomach."
+            },
+            {
+              "med": "Prucalopride (Resotran)",
+              "note": "A prescription medication that stimulates the natural movement of the colon. Used when other treatments have not worked. Taken once daily. Generally well tolerated."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Stimulant laxatives are not harmful long-term",
+          "text": "There is an old myth that using stimulant laxatives like senna or bisacodyl will make your colon lazy or dependent on them. Current evidence does not support this. While osmotic laxatives are preferred as daily therapy, stimulant laxatives are safe when needed and should not be feared."
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Pelvic floor physiotherapy",
+          "text": "If your doctor suspects pelvic floor dysfunction (where the muscles around the rectum tighten instead of relaxing), they may refer you to a pelvic floor physiotherapist. This is a highly effective treatment — studies show it helps up to 70 to 80 percent of people with this type of constipation. In many provinces, referral through your doctor may be covered."
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Alarm features that should prompt a call to your doctor",
+      "icon": "🚨",
+      "color": "rose",
+      "summary": "Most constipation is not dangerous, but certain symptoms mean you should see your doctor sooner rather than later.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Chronic constipation is usually not a sign of something serious. However, there are some warning signs — called alarm features — that mean you should see your doctor promptly for further evaluation."
+        },
+        {
+          "type": "when-to-seek-help",
+          "heading": "Alarm Features — See Your Doctor Promptly",
+          "items": [
+            "Blood in your stool or on the toilet paper",
+            "Unintentional weight loss of more than 5 pounds",
+            "New constipation starting after age 50",
+            "A significant, sudden change in your bowel habits",
+            "Severe or worsening abdominal pain",
+            "Constipation that does not improve at all with fibre and laxatives",
+            "A family history of colon cancer or inflammatory bowel disease",
+            "Narrowing or thinning of your stools that is getting worse"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Constipation and colon cancer screening",
+          "text": "Constipation alone is usually not a sign of colon cancer. However, if you are over 50 (or over 45 with risk factors) and have not had colon cancer screening, talk to your doctor. In Canada, screening with a stool test (FIT) or colonoscopy is covered by your provincial health plan."
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common questions about chronic constipation",
+      "icon": "❓",
+      "color": "amber",
+      "summary": "Got questions about constipation? Here are clear answers to the things patients ask most often.",
+      "content": [
+        {
+          "type": "knowledge-check",
+          "heading": "Test Your Understanding",
+          "items": [
+            {
+              "question": "What is the best type of fibre supplement for most people with constipation?",
+              "options": [
+                "Wheat bran (insoluble fibre)",
+                "Psyllium / Metamucil (soluble fibre)",
+                "Fibre gummies",
+                "It does not matter — all fibre is the same"
+              ],
+              "correct": 1,
+              "explanation": "Psyllium (Metamucil) is a soluble fibre supplement and is the best-studied option for constipation. It forms a soft gel that makes stool easier to pass. Wheat bran can sometimes worsen bloating without improving symptoms."
+            },
+            {
+              "question": "What should you do if your constipation is not improving after 6 weeks of fibre and fluids?",
+              "options": [
+                "Just wait longer — it can take a year to work",
+                "Stop all fibre immediately",
+                "Talk to your doctor about adding a laxative like PEG 3350",
+                "Constipation that does not respond to fibre cannot be treated"
+              ],
+              "correct": 2,
+              "explanation": "If fibre and lifestyle changes alone are not enough after 4 to 6 weeks, your doctor can recommend adding an osmotic laxative like PEG 3350 (Lax-A-Day or RestoraLAX). There are many effective options available."
+            },
+            {
+              "question": "What does pelvic floor dysfunction mean?",
+              "options": [
+                "Your colon is not producing enough stool",
+                "The muscles around the rectum tighten instead of relaxing during a bowel movement",
+                "You are not eating enough fibre",
+                "Your colon has become dependent on laxatives"
+              ],
+              "correct": 1,
+              "explanation": "Pelvic floor dysfunction means the muscles that should relax to let stool pass are tightening instead. This can make bowel movements very difficult even when stool is soft. Pelvic floor physiotherapy is highly effective for this condition."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "questions": [
+            {
+              "q": "How often should I have a bowel movement?",
+              "a": "There is no single normal. Anywhere from three times a day to three times a week can be perfectly healthy. What matters is whether you are comfortable, your stools are soft and easy to pass, and your pattern has not changed significantly."
+            },
+            {
+              "q": "Will laxatives make my colon lazy?",
+              "a": "This is a common myth, but current evidence does not support it. Osmotic laxatives like PEG 3350 are safe for daily long-term use. Stimulant laxatives like senna and bisacodyl are also safe when used as directed. Your colon will not become dependent on them."
+            },
+            {
+              "q": "Is chronic constipation a sign of colon cancer?",
+              "a": "Constipation alone is usually not a sign of cancer. However, if you notice blood in your stool, unexplained weight loss, or a sudden change in bowel habits — especially after age 50 — see your doctor. Staying up to date with colon cancer screening is the best way to catch problems early."
+            },
+            {
+              "q": "Can I take PEG 3350 every day?",
+              "a": "Yes. PEG 3350 (Lax-A-Day, RestoraLAX) is safe for daily use and is one of the most commonly recommended long-term treatments for chronic constipation. It works by drawing water into the colon to soften stool. Talk to your doctor about the right dose for you."
+            },
+            {
+              "q": "Why do I feel bloated when I eat more fibre?",
+              "a": "Bloating and gas are common when you increase fibre too quickly. The key is to start low and go slow — increase your fibre intake gradually over 2 to 3 weeks. Soluble fibre (like psyllium) tends to cause less bloating than insoluble fibre (like wheat bran). Drinking plenty of water also helps."
+            },
+            {
+              "q": "What is the squatting position and does it help?",
+              "a": "Raising your feet on a small stool (about 15 to 20 centimetres high) while sitting on the toilet straightens the angle of the rectum and makes it easier to pass stool. This simple trick can make a real difference, especially if you strain frequently. It mimics a squatting position."
+            },
+            {
+              "q": "Do probiotics help with constipation?",
+              "a": "Some studies suggest certain probiotics may modestly improve stool frequency, but the evidence is not strong enough for routine recommendation. They are generally safe to try, but they should not replace proven treatments like fibre, fluids, and laxatives. Talk to your doctor before starting any supplement."
+            },
+            {
+              "q": "Can medications I take cause constipation?",
+              "a": "Yes. Many common medications can cause or worsen constipation, including opioid pain medications, iron supplements, certain blood pressure drugs, antidepressants, and calcium-containing antacids. Never stop a medication on your own — talk to your doctor about alternatives or adding a laxative."
+            },
+            {
+              "q": "When should I see a specialist?",
+              "a": "Your family doctor can manage most constipation. A referral to a gastroenterologist may be helpful if your constipation does not respond to standard treatments, if there are alarm features like blood in the stool or weight loss, or if your doctor suspects pelvic floor dysfunction or slow transit constipation."
+            },
+            {
+              "q": "Does drinking more water cure constipation?",
+              "a": "Drinking enough water is important — especially if you are taking fibre supplements — but drinking extra water beyond normal hydration will not cure constipation on its own. Think of water as a necessary partner to fibre, not a standalone treatment. Aim for 6 to 8 glasses per day."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Guidelines and resources used in this guide",
+      "icon": "📚",
+      "color": "amber",
+      "summary": "This guide is based on current Canadian and international gastroenterology guidelines.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            {
+              "text": "American College of Gastroenterology / Canadian Association of Gastroenterology — Clinical Guideline: Management of Chronic Idiopathic Constipation (2021)"
+            },
+            {
+              "text": "American Gastroenterological Association — Technical Review on Constipation (2013)"
+            },
+            {
+              "text": "Rome Foundation — Rome IV Diagnostic Criteria for Functional Constipation (2016)"
+            },
+            {
+              "text": "Canadian Digestive Health Foundation — Constipation Patient Information"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

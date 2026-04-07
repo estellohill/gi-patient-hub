@@ -1,0 +1,249 @@
+{
+  "hero": {
+    "title": "MASLD / Fatty Liver Disease",
+    "subtitle": "Understanding and managing metabolic dysfunction-associated steatotic liver disease",
+    "description": "Everything you need to know about fatty liver disease \u2014 what causes it, why lifestyle changes are the most powerful treatment, and how your doctor will monitor your liver health over time. Clear, trustworthy information to help you take control.",
+    "reassurance": "Fatty liver disease is very common and, in most cases, reversible. Lifestyle changes can significantly improve or even resolve the condition."
+  },
+  "sections": [
+    {
+      "id": "what-is-masld",
+      "title": "What Is MASLD?",
+      "subtitle": "Understanding fatty liver disease and what it means for you",
+      "icon": "\ud83e\udec1",
+      "color": "emerald",
+      "summary": "MASLD means extra fat has built up in your liver. It is extremely common, usually has no symptoms, and in most people it can be improved or reversed with lifestyle changes.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "MASLD stands for metabolic dysfunction-associated steatotic liver disease. You may also hear it called fatty liver disease. It means that extra fat has built up inside your liver cells. A healthy liver contains very little fat. When fat makes up more than 5% of the liver, it is called steatosis (the medical term for fatty liver). MASLD is linked to metabolic health issues like being overweight, having diabetes, or high cholesterol. It is now the most common liver condition in the world."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            { "heading": "Extremely common", "text": "About 1 in 4 adults worldwide has fatty liver disease. In Canada, rates are rising along with obesity and diabetes. You are far from alone." },
+            { "heading": "Usually no symptoms", "text": "Most people with MASLD feel perfectly fine. It is often found by accident on a blood test or ultrasound done for another reason." },
+            { "heading": "Often reversible", "text": "In the early stages, fatty liver can be completely reversed with lifestyle changes like weight loss, healthy eating, and regular exercise." },
+            { "heading": "A spectrum of severity", "text": "MASLD ranges from simple fat in the liver (steatosis) to inflammation (called MASH), to scarring (fibrosis), and in rare cases, cirrhosis. Most people stay at the mild end." }
+          ]
+        },
+        {
+          "type": "risk-table",
+          "heading": "Stages of Fatty Liver Disease",
+          "items": [
+            { "name": "Steatosis (simple fatty liver)", "risk": "Low", "description": "Fat is present in the liver but there is no inflammation or scarring. This is the most common and mildest stage. It usually does not cause any harm on its own." },
+            { "name": "MASH (steatohepatitis)", "risk": "Moderate", "description": "Fat in the liver has caused inflammation and some damage to liver cells. MASH can lead to scarring if not addressed. About 20% of people with fatty liver develop MASH." },
+            { "name": "Fibrosis", "risk": "Moderate", "description": "Repeated inflammation has caused scar tissue to form in the liver. The liver still works, but ongoing scarring can lead to more serious problems over time." },
+            { "name": "Cirrhosis", "risk": "High", "description": "Severe, widespread scarring that affects how the liver works. This stage is not easily reversed but can be managed. Only a small percentage of MASLD patients reach this stage." }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Why the name changed from NAFLD to MASLD",
+          "text": "You may have heard the older name NAFLD (non-alcoholic fatty liver disease). In 2023, liver specialists around the world agreed to rename it MASLD. The new name better reflects that this condition is caused by metabolic factors like weight, blood sugar, and cholesterol \u2014 not simply the absence of alcohol. If your doctor previously told you that you have NAFLD, it is the same condition, just with an updated name."
+        }
+      ]
+    },
+    {
+      "id": "risk-factors",
+      "title": "Risk Factors",
+      "subtitle": "What makes fatty liver disease more likely",
+      "icon": "\u26a0\ufe0f",
+      "color": "amber",
+      "summary": "MASLD is closely tied to metabolic health. Understanding your risk factors helps you know where to focus your efforts.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Fatty liver disease is closely linked to how your body handles sugar, fat, and energy. The more metabolic risk factors you have, the higher your chance of developing MASLD. The good news is that many of these risk factors are things you can improve with lifestyle changes."
+        },
+        {
+          "type": "key-points",
+          "heading": "Major risk factors for MASLD",
+          "points": [
+            { "heading": "Overweight or obesity", "text": "Carrying extra weight, especially around the belly, is the strongest risk factor. Even modest weight loss can make a big difference." },
+            { "heading": "Type 2 diabetes", "text": "Insulin resistance and high blood sugar drive fat into the liver. Up to 70% of people with type 2 diabetes have some degree of fatty liver." },
+            { "heading": "High cholesterol or triglycerides", "text": "Abnormal blood fat levels are very common in people with MASLD and contribute to fat buildup in the liver." },
+            { "heading": "High blood pressure", "text": "Hypertension often goes hand-in-hand with MASLD as part of the metabolic syndrome." },
+            { "heading": "Metabolic syndrome", "text": "Having a combination of high blood pressure, high blood sugar, excess belly fat, and abnormal cholesterol greatly increases your risk." },
+            { "heading": "Sedentary lifestyle", "text": "Lack of regular physical activity contributes to insulin resistance and weight gain, both of which promote fatty liver." },
+            { "heading": "Family history", "text": "Genetics play a role. If close family members have fatty liver or metabolic conditions, your risk may be higher." }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Can thin people get fatty liver?",
+          "text": "Yes. About 10 to 20% of people with MASLD are not overweight. This is sometimes called lean MASLD. It can happen in people who carry extra fat around their organs (visceral fat) even if their overall weight is normal. It can also be related to genetics or insulin resistance that is not yet obvious. If your doctor has found fatty liver on a test, the diagnosis is valid regardless of your weight, and the same lifestyle recommendations apply."
+        }
+      ]
+    },
+    {
+      "id": "treatment-lifestyle",
+      "title": "Treatment: Lifestyle Is Medicine",
+      "subtitle": "The most powerful treatment for fatty liver is in your hands",
+      "icon": "\ud83c\udf31",
+      "color": "emerald",
+      "summary": "There is no pill that cures fatty liver. Weight loss, healthy eating, and exercise are the most effective treatments \u2014 and they work remarkably well.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Right now, there is no widely approved medication that cures fatty liver disease. The most effective treatment is lifestyle change \u2014 and the evidence behind it is very strong. Weight loss in particular has a dramatic effect on the liver. Even small amounts of weight loss can reduce liver fat, calm inflammation, and in some cases reverse scarring. You do not need to reach a perfect weight. Every step forward counts."
+        },
+        {
+          "type": "stats",
+          "heading": "Weight Loss Milestones \u2014 What the Research Shows",
+          "items": [
+            "5% weight loss \u2014 Reduces liver fat significantly. This is the first goal and is achievable for most people.",
+            "7% weight loss \u2014 Can resolve MASH (the inflammatory stage) in many patients. Inflammation in the liver calms down.",
+            "10% weight loss \u2014 Can improve or even reverse fibrosis (scarring). This is the gold standard target for people with more advanced disease."
+          ]
+        },
+        {
+          "type": "checklist",
+          "heading": "Your Lifestyle Action Plan",
+          "storageKey": "masld-lifestyle-checklist",
+          "items": [
+            "Talk to your doctor about a realistic weight loss goal (even 5% makes a real difference)",
+            "Aim for at least 150 minutes of moderate exercise per week (brisk walking counts)",
+            "Include some resistance training (weights, bands, or bodyweight exercises) 2 to 3 times per week",
+            "Follow a Mediterranean-style diet rich in vegetables, whole grains, fish, nuts, and olive oil",
+            "Limit sugary drinks, fruit juices, and foods with added sugar",
+            "Reduce processed foods and refined carbohydrates (white bread, pastries, fast food)",
+            "Limit or avoid alcohol \u2014 discuss a safe amount with your doctor",
+            "Drink coffee if you enjoy it (2 to 3 cups per day is linked to liver protection)",
+            "Get your blood sugar and cholesterol checked and managed",
+            "Aim for 7 to 9 hours of sleep per night"
+          ]
+        },
+        {
+          "type": "allowed-avoid",
+          "heading": "Foods That Help vs. Foods to Limit",
+          "allowed": [
+            "Vegetables (leafy greens, broccoli, peppers, tomatoes)",
+            "Whole grains (oats, brown rice, quinoa, whole wheat bread)",
+            "Fish (especially oily fish like salmon, sardines, mackerel)",
+            "Nuts and seeds (walnuts, almonds, flaxseed)",
+            "Olive oil and avocado",
+            "Beans and lentils",
+            "Fruits in moderation (berries, apples, citrus)",
+            "Coffee (2 to 3 cups per day)"
+          ],
+          "avoid": [
+            "Sugary drinks (pop, juice, sweetened coffee drinks, energy drinks)",
+            "Processed and fast food",
+            "White bread, pastries, and refined carbohydrates",
+            "Fried foods",
+            "Foods high in added sugar (candy, baked goods, sweetened cereals)",
+            "Excessive red meat and processed meats",
+            "Alcohol (discuss a safe limit with your doctor)"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "success",
+          "title": "Coffee is your friend",
+          "text": "Research consistently shows that drinking 2 to 3 cups of coffee per day is associated with less liver fat, less inflammation, and even less fibrosis. This is one of the most replicated findings in liver research. If you enjoy coffee, keep drinking it. Both regular and decaf appear to be beneficial, though the effect is strongest with caffeinated coffee."
+        }
+      ]
+    },
+    {
+      "id": "monitoring",
+      "title": "Monitoring",
+      "subtitle": "How your doctor will track your liver health over time",
+      "icon": "\ud83d\udccb",
+      "color": "blue",
+      "summary": "Fatty liver disease is monitored with blood tests and specialized scans. Regular follow-up helps catch any changes early.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Because MASLD usually has no symptoms, monitoring is important to make sure the condition is stable or improving. Your doctor will use a combination of blood tests and imaging to keep an eye on your liver over time. How often you need testing depends on how advanced your fatty liver is."
+        },
+        {
+          "type": "frequency-table",
+          "heading": "Typical Monitoring Schedule",
+          "items": [
+            { "scenario": "Liver enzymes (ALT, AST)", "interval": "Every 6 to 12 months" },
+            { "scenario": "FibroScan or fibrosis score", "interval": "Every 1 to 2 years (depending on risk)" },
+            { "scenario": "Blood sugar (HbA1c) and fasting glucose", "interval": "Every 6 to 12 months" },
+            { "scenario": "Cholesterol and triglycerides (lipid panel)", "interval": "Every 6 to 12 months" },
+            { "scenario": "Weight and waist circumference", "interval": "Every visit" },
+            { "scenario": "Liver ultrasound", "interval": "As needed (if cirrhosis suspected, every 6 months for liver cancer screening)" }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "What is a FibroScan?",
+          "text": "A FibroScan is a painless, non-invasive test that measures liver stiffness. It works like an ultrasound and takes about 10 minutes. The stiffer your liver, the more scarring (fibrosis) is likely present. Your doctor uses the FibroScan result along with blood tests to assess how much scarring, if any, is in your liver. It is much easier than a liver biopsy and can be repeated over time to track changes. In Canada, FibroScan is available in most hepatology and GI clinics."
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Signs that you should contact your doctor",
+      "icon": "\ud83d\udea8",
+      "color": "rose",
+      "summary": "Fatty liver is usually silent, but certain symptoms or changes should prompt a visit to your doctor.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "New or worsening pain in the upper right side of your abdomen",
+            "Yellowing of your skin or eyes (jaundice)",
+            "Swelling in your abdomen or legs that was not there before",
+            "Unexplained fatigue that is getting worse over time",
+            "Easy bruising or bleeding that is new for you",
+            "Confusion or difficulty thinking clearly (a sign of advanced liver disease)",
+            "Dark urine or very pale stools",
+            "Unintentional weight loss that you cannot explain"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common questions about fatty liver disease",
+      "icon": "\u2753",
+      "color": "amber",
+      "summary": "Got questions about MASLD? Here are clear answers to the things patients ask most often.",
+      "content": [
+        {
+          "type": "faq",
+          "questions": [
+            { "q": "Is fatty liver disease reversible?", "a": "Yes, especially in the early stages. Simple fatty liver (steatosis) can be completely reversed with lifestyle changes like weight loss, healthy eating, and exercise. Even MASH (the inflammatory stage) can improve or resolve with a 7% or greater weight loss. Fibrosis (scarring) can also improve with sustained lifestyle changes, though this takes more time. The key is to start making changes now \u2014 the earlier you act, the better the outcome." },
+            { "q": "Do I need to stop drinking alcohol completely?", "a": "It depends on your situation. Alcohol adds extra stress to a liver that is already dealing with excess fat. For most people with MASLD, limiting alcohol is strongly recommended, and for those with more advanced disease (MASH or fibrosis), stopping completely is safest. Talk to your doctor about what amount, if any, is safe for you." },
+            { "q": "Why did the name change from NAFLD to MASLD?", "a": "In 2023, international liver societies agreed to rename NAFLD to MASLD. The old name focused on what the disease is not (non-alcoholic), which many patients and doctors found unhelpful and somewhat stigmatizing. The new name, MASLD, highlights what actually causes the condition \u2014 metabolic factors like weight, blood sugar, and cholesterol. If you were previously told you have NAFLD, it is the same condition with an updated, more accurate name." },
+            { "q": "Are there medications for fatty liver?", "a": "As of 2024, resmetirom (Rezdiffra) became the first medication specifically approved for MASH with fibrosis in the United States, though availability varies. For most people with MASLD, lifestyle changes remain the primary and most effective treatment. Your doctor may also treat related conditions like diabetes, high cholesterol, or high blood pressure with medications that can indirectly benefit your liver. Several other drugs are in clinical trials, so treatment options are expanding." },
+            { "q": "Is fatty liver disease serious?", "a": "For most people, fatty liver stays at a mild stage and does not cause major problems, especially if you make healthy lifestyle changes. However, in some people it can progress to MASH, fibrosis, and eventually cirrhosis. The key factors that increase the risk of progression are uncontrolled diabetes, ongoing weight gain, and not addressing metabolic risk factors. Regular monitoring and lifestyle improvements are the best way to keep it from becoming serious." },
+            { "q": "I have no symptoms \u2014 do I really need to worry?", "a": "MASLD is often called a silent disease because most people feel completely normal. The absence of symptoms does not mean nothing is happening. Fat and inflammation in the liver can quietly progress over years. That is why regular monitoring with your doctor is important, even when you feel fine. Think of it as an early warning \u2014 you have been given a chance to act before problems develop." },
+            { "q": "I am not overweight. How can I have fatty liver?", "a": "About 10 to 20% of people with MASLD are at a normal weight. This is called lean MASLD. It can be caused by visceral fat (fat around your organs that is not visible from the outside), genetics, or insulin resistance. The same lifestyle recommendations apply: a healthy diet, regular exercise, and managing blood sugar and cholesterol. Your doctor may look into additional causes as well." },
+            { "q": "How is fatty liver diagnosed?", "a": "Fatty liver is usually found on an abdominal ultrasound or through elevated liver enzymes on a blood test. Your doctor may then order a FibroScan (a painless scan that measures liver stiffness) or calculate a fibrosis score from your blood tests. In some cases, a liver biopsy may be recommended to get a more detailed picture. Most people do not need a biopsy." },
+            { "q": "Do liver supplements or detoxes help?", "a": "There is no good evidence that liver cleanses, detox teas, or most over-the-counter liver supplements improve fatty liver disease. Some can even be harmful. Milk thistle (silymarin) has been studied but has not shown clear benefit in high-quality trials. The best things you can do for your liver are to lose weight if needed, eat well, exercise, and drink coffee. Always talk to your doctor before starting any supplement." },
+            { "q": "Is fatty liver the same as cirrhosis?", "a": "No. Fatty liver and cirrhosis are very different stages. Simple fatty liver (steatosis) is the earliest and mildest form \u2014 it means there is extra fat in the liver but no significant damage. Cirrhosis is the most advanced stage, where severe scarring has changed the structure of the liver. Most people with MASLD never develop cirrhosis, especially if they make lifestyle changes early on." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Guidelines and resources used in this guide",
+      "icon": "\ud83d\udcda",
+      "color": "emerald",
+      "summary": "This guide is based on current international hepatology and gastroenterology guidelines.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            { "text": "American Association for the Study of Liver Diseases (AASLD) \u2014 Practice Guidance on MASLD (2023)" },
+            { "text": "European Association for the Study of the Liver (EASL) \u2014 Clinical Practice Guidelines on MASLD (2024)" },
+            { "text": "American Gastroenterological Association (AGA) \u2014 Clinical Practice Update on MASLD (2024)" },
+            { "text": "Rinella ME et al. \u2014 A multi-society Delphi consensus statement on new fatty liver disease nomenclature. Hepatology (2023)" },
+            { "text": "Canadian Liver Foundation \u2014 Fatty Liver Disease Patient Information" }
+          ]
+        }
+      ]
+    }
+  ]
+}

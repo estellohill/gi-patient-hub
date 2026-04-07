@@ -1,0 +1,390 @@
+{
+  "hero": {
+    "title": "Primary Sclerosing Cholangitis (PSC)",
+    "subtitle": "Understanding and managing PSC — a chronic bile duct condition",
+    "description": "Everything you need to know about PSC — what it is, how it connects to inflammatory bowel disease, what monitoring you need, and when to seek help. Clear, trustworthy information to help you take an active role in your care.",
+    "reassurance": "A PSC diagnosis can feel overwhelming, but you are not alone. Your medical team will work closely with you to monitor your health and manage symptoms. Many people with PSC live well for years with proper care."
+  },
+  "sections": [
+    {
+      "id": "what-is-psc",
+      "title": "What Is PSC?",
+      "subtitle": "Understanding how PSC affects your bile ducts and liver",
+      "icon": "🫁",
+      "color": "indigo",
+      "summary": "PSC is a long-term condition where the bile ducts inside and outside the liver become inflamed and scarred. It slowly gets worse over time, but the speed varies a lot from person to person.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Primary sclerosing cholangitis (PSC) is a chronic disease of the bile ducts. Your liver makes a fluid called bile that helps you digest fats and absorb certain vitamins. Bile flows through tubes called bile ducts. In PSC, these bile ducts become inflamed and gradually develop scar tissue. This scarring narrows the ducts, making it harder for bile to flow out of the liver. Over time, this can damage the liver itself. PSC can affect the large bile ducts, the small bile ducts, or both."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            {
+              "heading": "Affects the bile ducts",
+              "text": "PSC causes inflammation and scarring (fibrosis) of the bile ducts. When bile cannot flow freely, it builds up in the liver. This backup of bile can slowly damage liver cells and lead to more scarring over time."
+            },
+            {
+              "heading": "Strong link to inflammatory bowel disease (IBD)",
+              "text": "About 70 to 80 percent of people with PSC also have inflammatory bowel disease, most often ulcerative colitis. The link between the gut and the liver in PSC is one of the most active areas of research."
+            },
+            {
+              "heading": "No proven drug treatment yet",
+              "text": "Unlike some other liver diseases, there is currently no medication that has been proven to slow down or stop PSC. Treatment focuses on managing symptoms and complications. This is a major focus of ongoing research."
+            },
+            {
+              "heading": "Liver transplant for advanced disease",
+              "text": "For people whose PSC progresses to advanced liver disease, a liver transplant is the definitive treatment. Outcomes after transplant for PSC are generally very good, with most people doing well long-term."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Research is very active",
+          "text": "PSC is one of the most actively studied liver diseases in the world. Scientists are working on new medications, better ways to predict how the disease will behave, and improved screening tools. Several promising clinical trials are underway. There is real hope that effective treatments are on the horizon."
+        }
+      ]
+    },
+    {
+      "id": "ibd-connection",
+      "title": "The IBD Connection",
+      "subtitle": "Why PSC and inflammatory bowel disease are closely linked",
+      "icon": "🔗",
+      "color": "teal",
+      "summary": "Most people with PSC also have IBD, usually ulcerative colitis. This combination needs extra monitoring because the risk of colon cancer is higher.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "One of the most important things to understand about PSC is its close link to inflammatory bowel disease (IBD). About 70 to 80 percent of people with PSC also have IBD, and in most cases it is ulcerative colitis. Sometimes the IBD is discovered at the same time as PSC, and sometimes it is found later. Even if your bowel symptoms are mild, the combination of PSC and IBD needs careful, regular monitoring."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            {
+              "heading": "Higher colon cancer risk",
+              "text": "People who have both PSC and ulcerative colitis have a higher risk of developing colon cancer compared to people who have ulcerative colitis alone. This is why surveillance is so important, even if your bowel symptoms are mild or you feel well."
+            },
+            {
+              "heading": "Annual colonoscopy is needed",
+              "text": "Current guidelines recommend that people with PSC and IBD have a colonoscopy with biopsies every year. This is different from the usual colonoscopy schedule for IBD alone. Annual surveillance gives your doctor the best chance to find any concerning changes early."
+            },
+            {
+              "heading": "IBD can be mild but still needs watching",
+              "text": "In many people with PSC, the IBD is actually quite mild and may cause few or no symptoms. However, the cancer risk is related to having both conditions together, not to how severe your IBD symptoms are. Do not skip your colonoscopy just because you feel fine."
+            },
+            {
+              "heading": "IBD screening at diagnosis",
+              "text": "If you are diagnosed with PSC and have not been checked for IBD, your doctor will likely recommend a colonoscopy with biopsies. This is true even if you have no bowel symptoms, because IBD can sometimes be present without causing noticeable problems."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Annual colonoscopy is essential",
+          "text": "If you have PSC and IBD, an annual colonoscopy with biopsies is one of the most important things you can do to protect your health. Colon cancer found early through surveillance has a much better outcome than cancer found because of symptoms. Please keep up with this schedule even if you feel well."
+        }
+      ]
+    },
+    {
+      "id": "monitoring-and-screening",
+      "title": "Monitoring and Screening",
+      "subtitle": "Tests and check-ups to keep you healthy",
+      "icon": "🔍",
+      "color": "blue",
+      "summary": "Regular monitoring helps your doctor catch complications early. PSC requires several types of screening, from blood tests to imaging to colonoscopy.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Because PSC can lead to several different complications, your doctor will set up a regular monitoring plan. These tests help catch problems early when they are easier to treat. Staying on top of your appointments is one of the most important things you can do for your long-term health."
+        },
+        {
+          "type": "frequency-table",
+          "heading": "Typical Monitoring Schedule",
+          "items": [
+            { "scenario": "Liver blood tests (ALP, bilirubin, ALT, AST)", "interval": "Every 3 to 6 months" },
+            { "scenario": "MRCP (MRI of the bile ducts)", "interval": "Every 1 to 2 years, or if symptoms change" },
+            { "scenario": "Colonoscopy with biopsies (if IBD present)", "interval": "Every year" },
+            { "scenario": "Cholangiocarcinoma screening (CA 19-9 blood test and imaging)", "interval": "Every 6 to 12 months" },
+            { "scenario": "Bone density scan (DEXA)", "interval": "Every 2 to 3 years" },
+            { "scenario": "Fat-soluble vitamins (A, D, E, K)", "interval": "Every 1 to 2 years, or as needed" }
+          ]
+        },
+        {
+          "type": "risk-table",
+          "heading": "Possible Complications of PSC",
+          "items": [
+            {
+              "name": "Dominant stricture",
+              "risk": "Moderate",
+              "description": "A tight narrowing in one of the main bile ducts that blocks bile flow. It can cause worsening jaundice, itching, or infections. It is often treated with ERCP, a procedure that stretches the narrowed area."
+            },
+            {
+              "name": "Cholangiocarcinoma (bile duct cancer)",
+              "risk": "Low but important",
+              "description": "People with PSC have a higher lifetime risk of bile duct cancer than the general population. Regular screening with blood tests and imaging helps find it early. Any new or sudden worsening of symptoms should be reported to your doctor."
+            },
+            {
+              "name": "Cirrhosis",
+              "risk": "Variable",
+              "description": "Over many years, ongoing scarring can lead to cirrhosis (severe liver scarring). The speed of progression varies greatly from person to person. Regular monitoring helps your doctor track this."
+            },
+            {
+              "name": "Osteoporosis (thin bones)",
+              "risk": "Moderate",
+              "description": "Reduced bile flow can make it harder for your body to absorb vitamin D and calcium, which weakens bones over time. Bone density scans and supplements help manage this risk."
+            },
+            {
+              "name": "Fat-soluble vitamin deficiency",
+              "risk": "Moderate",
+              "description": "When bile flow is reduced, your body may have trouble absorbing vitamins A, D, E, and K. Your doctor can check your levels and prescribe supplements if needed."
+            }
+          ]
+        },
+        {
+          "type": "checklist",
+          "heading": "My PSC Monitoring Checklist",
+          "storageKey": "psc-monitoring",
+          "items": [
+            "Schedule liver blood tests every 3 to 6 months",
+            "Book MRCP imaging as recommended by my doctor",
+            "Schedule annual colonoscopy if I have IBD",
+            "Ask about cholangiocarcinoma screening (CA 19-9 and imaging)",
+            "Get a bone density scan (DEXA) every 2 to 3 years",
+            "Have fat-soluble vitamin levels checked",
+            "Keep a list of questions for my next appointment",
+            "Report any new symptoms (jaundice, fever, worsening itch) promptly"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "treatment",
+      "title": "Treatment",
+      "subtitle": "Managing symptoms and complications of PSC",
+      "icon": "💊",
+      "color": "emerald",
+      "summary": "There is no proven medication to slow PSC itself, but there are effective ways to manage symptoms and treat complications. Liver transplant is an option for advanced disease.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Currently, no medication has been proven to slow down or stop the scarring caused by PSC. However, there are treatments to help manage symptoms like itching, deal with complications like bile duct infections, and replace vitamins your body may not be absorbing well. For people with advanced liver disease, liver transplant offers excellent results."
+        },
+        {
+          "type": "medication-table",
+          "heading": "Medications Used in PSC",
+          "items": [
+            {
+              "med": "Ursodiol (UDCA / Ursodeoxycholic acid)",
+              "note": "Ursodiol is commonly prescribed in PSC, but its role is debated. Low to moderate doses may improve liver blood tests, but studies have not clearly shown that it slows disease progression. High doses (28 to 30 mg/kg) were actually found to be harmful and should be avoided. Your doctor will discuss whether ursodiol is right for you."
+            },
+            {
+              "med": "Cholestyramine (Questran)",
+              "note": "Used to treat itching caused by bile salt buildup. It is a powder mixed with water or juice, taken before meals. It works by binding bile salts in the gut. Take it at least 4 hours apart from other medications so it does not block their absorption."
+            },
+            {
+              "med": "Antibiotics (for cholangitis episodes)",
+              "note": "If bacteria infect the bile ducts (a condition called cholangitis), antibiotics are needed. Symptoms include fever, chills, jaundice, and right-sided belly pain. This is a medical emergency that needs prompt treatment."
+            },
+            {
+              "med": "Fat-soluble vitamin supplements (A, D, E, K)",
+              "note": "When bile flow is reduced, your body has trouble absorbing these vitamins. Your doctor may check your levels and prescribe supplements to prevent deficiency and protect your bones and overall health."
+            }
+          ],
+          "warning": "Never start, stop, or change the dose of any medication without talking to your doctor first. Some medications can interact with each other or may not be right for your situation."
+        },
+        {
+          "type": "key-points",
+          "heading": "Procedures and Advanced Treatment",
+          "points": [
+            {
+              "heading": "ERCP for dominant strictures",
+              "text": "If a major bile duct becomes tightly narrowed (a dominant stricture), a procedure called ERCP can stretch the narrowing open and sometimes place a temporary stent. This can relieve jaundice, itching, and reduce the risk of infections. Biopsies are usually taken during ERCP to check for any concerning changes."
+            },
+            {
+              "heading": "Liver transplant evaluation",
+              "text": "For people whose PSC progresses to advanced liver disease, liver transplant is the most effective treatment. Transplant outcomes for PSC are among the best of all liver diseases. Your doctor will refer you to a transplant center when the time is right. It is important to know that PSC can sometimes come back in the new liver, but this is usually manageable."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Clinical trials offer hope",
+          "text": "Because there is no proven drug treatment for PSC yet, clinical trials are extremely important. Several promising medications are being tested right now. Ask your doctor whether you might be eligible for a clinical trial. Taking part in a trial can give you access to new treatments and helps advance care for everyone with PSC."
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Symptoms that need prompt medical attention",
+      "icon": "🚨",
+      "color": "rose",
+      "summary": "Certain symptoms in PSC need urgent attention. Knowing what to watch for can help you get care quickly when it matters most.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "Fever with yellowing of your skin or eyes (jaundice) — this may be cholangitis, a bile duct infection that needs emergency treatment",
+            "Shaking chills with belly pain — another sign of possible cholangitis",
+            "Worsening or new itching that is hard to control",
+            "New jaundice (yellow skin or eyes) without fever",
+            "Right upper belly pain that is new or getting worse",
+            "Unexplained weight loss of more than 5 pounds",
+            "Swelling in your belly or legs and ankles",
+            "Vomiting blood or passing black, tarry stools",
+            "New confusion or difficulty thinking clearly — this may be a sign of advanced liver problems"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common questions about PSC",
+      "icon": "❓",
+      "color": "amber",
+      "summary": "Got questions about PSC? Here are clear answers to the things patients ask most often.",
+      "content": [
+        {
+          "type": "faq",
+          "questions": [
+            {
+              "q": "Will I need a liver transplant?",
+              "a": "Not everyone with PSC needs a transplant. The disease progresses at very different speeds in different people. Some people live for decades without needing one. Transplant is considered when the liver is severely damaged and other treatments are no longer enough. Your doctor will monitor you regularly and discuss transplant if and when it becomes appropriate."
+            },
+            {
+              "q": "Why is there no cure for PSC?",
+              "a": "PSC is a complex disease and researchers do not yet fully understand what causes it. The immune system, gut bacteria, genetics, and bile acids all seem to play a role. Many medications have been tested, but none has been proven to stop the disease. The good news is that research is very active and several promising new treatments are being studied in clinical trials right now."
+            },
+            {
+              "q": "Why do I need a colonoscopy every year if I feel fine?",
+              "a": "People with PSC and IBD have a higher risk of colon cancer, even when their bowel symptoms are mild or absent. Annual colonoscopy with biopsies is the best way to find early changes before they become dangerous. Cancer found early through screening has a much better outlook than cancer found because of symptoms."
+            },
+            {
+              "q": "Is ursodiol helpful in PSC?",
+              "a": "This is one of the most debated questions in PSC. Low to moderate doses of ursodiol can improve liver blood tests, but studies have not proven that it slows down liver damage or improves long-term outcomes. High doses have been shown to be harmful. Some doctors still prescribe it at moderate doses, while others do not. Talk to your doctor about what makes sense for you."
+            },
+            {
+              "q": "Is PSC genetic? Will my children get it?",
+              "a": "PSC is not directly inherited in a simple way, but genetics do play a role. Family members of people with PSC have a slightly higher chance of developing it, but the overall risk is still quite low. If your family members are concerned, they can speak with their doctor."
+            },
+            {
+              "q": "What is the long-term outlook for PSC?",
+              "a": "The outlook varies widely from person to person. Some people have very slow disease that stays stable for many years. Others may progress faster. On average, the time from diagnosis to needing a transplant or developing advanced liver disease is about 15 to 20 years, but many people do better than this average. Regular monitoring helps your doctor adjust your care as needed."
+            },
+            {
+              "q": "Do I need to follow a special diet?",
+              "a": "There is no specific PSC diet, but eating a balanced, healthy diet supports your overall health. Your doctor may recommend vitamin D and calcium supplements to protect your bones. If you have trouble absorbing fats, you may need other fat-soluble vitamin supplements. Limit alcohol, as it adds extra stress to the liver."
+            },
+            {
+              "q": "Can PSC come back after a liver transplant?",
+              "a": "Yes, PSC can return in the new liver. This is called recurrent PSC and happens in about 20 to 25 percent of transplant patients over time. However, recurrent PSC usually progresses slowly and can often be managed. Transplant outcomes for PSC remain excellent overall."
+            },
+            {
+              "q": "Is it safe to get pregnant with PSC?",
+              "a": "Many women with PSC have healthy pregnancies, especially if their liver disease is well-controlled. Pregnancy should be planned in advance with both your liver doctor and your obstetrician. Some symptoms like itching may get worse during pregnancy, and your team will monitor you closely. Certain medications may need to be adjusted."
+            },
+            {
+              "q": "How can I find out about clinical trials?",
+              "a": "Ask your gastroenterologist or hepatologist about trials that may be available to you. You can also search ClinicalTrials.gov for studies recruiting patients with PSC. Taking part in a clinical trial is one of the best ways to access new treatments and help advance care for everyone with this condition."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "knowledge-check",
+      "title": "Knowledge Check",
+      "subtitle": "Test your understanding of PSC",
+      "icon": "🧠",
+      "color": "purple",
+      "summary": "Check what you have learned about PSC with these quick questions.",
+      "content": [
+        {
+          "type": "knowledge-check",
+          "items": [
+            {
+              "question": "What percentage of people with PSC also have inflammatory bowel disease (IBD)?",
+              "options": [
+                "About 10 to 20 percent",
+                "About 30 to 40 percent",
+                "About 70 to 80 percent",
+                "About 95 percent"
+              ],
+              "correct": 2,
+              "explanation": "About 70 to 80 percent of people with PSC also have IBD, most often ulcerative colitis. This strong connection is why regular colonoscopy surveillance is so important."
+            },
+            {
+              "question": "How often should someone with PSC and IBD have a colonoscopy?",
+              "options": [
+                "Every 5 years",
+                "Every 3 years",
+                "Every 2 years",
+                "Every year"
+              ],
+              "correct": 3,
+              "explanation": "Current guidelines recommend annual colonoscopy with biopsies for people who have both PSC and IBD. This is because of the higher risk of colon cancer in this group."
+            },
+            {
+              "question": "What is the definitive treatment for advanced PSC?",
+              "options": [
+                "High-dose ursodiol",
+                "Antibiotics",
+                "Liver transplant",
+                "Cholestyramine"
+              ],
+              "correct": 2,
+              "explanation": "Liver transplant is the definitive treatment for advanced PSC. Transplant outcomes for PSC are among the best of all liver diseases. There is currently no medication proven to stop the disease."
+            },
+            {
+              "question": "Why is cholangiocarcinoma screening important in PSC?",
+              "options": [
+                "Cholangiocarcinoma is the most common cancer worldwide",
+                "People with PSC have a higher lifetime risk of bile duct cancer",
+                "It is required before starting ursodiol",
+                "It replaces the need for colonoscopy"
+              ],
+              "correct": 1,
+              "explanation": "People with PSC have a higher lifetime risk of cholangiocarcinoma (bile duct cancer) compared to the general population. Regular screening with blood tests (like CA 19-9) and imaging helps catch it early when treatment is more effective."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Guidelines and resources used in this guide",
+      "icon": "📚",
+      "color": "sky",
+      "summary": "This guide is based on current international hepatology and gastroenterology guidelines.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            {
+              "text": "American Association for the Study of Liver Diseases (AASLD) — Practice Guidance on Primary Sclerosing Cholangitis (2023)",
+              "url": "https://journals.lww.com/hep/fulltext/2023/02010/aasld_practice_guidance_on_primary_sclerosing.25.aspx"
+            },
+            {
+              "text": "European Association for the Study of the Liver (EASL) — Clinical Practice Guidelines on Sclerosing Cholangitis (2023)",
+              "url": "https://www.journal-of-hepatology.eu/article/S0168-8278(22)00326-X/fulltext"
+            },
+            {
+              "text": "American College of Gastroenterology (ACG) — Clinical Guideline: Primary Sclerosing Cholangitis (2023)",
+              "url": "https://journals.lww.com/ajg/fulltext/2023/01000/acg_clinical_guideline__primary_sclerosing.17.aspx"
+            },
+            {
+              "text": "Canadian Liver Foundation — Primary Sclerosing Cholangitis Patient Information",
+              "url": "https://www.liver.ca/patients-caregivers/liver-diseases/primary-sclerosing-cholangitis/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

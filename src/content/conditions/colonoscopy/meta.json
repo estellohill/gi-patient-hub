@@ -1,0 +1,17 @@
+{
+  "slug": "colonoscopy",
+  "title": "Colonoscopy",
+  "shortTitle": "Colonoscopy",
+  "subtitle": "Your friendly guide to understanding and preparing for your colonoscopy",
+  "icon": "🔬",
+  "color": "teal",
+  "description": "Clear, evidence-based information to help you understand and prepare for your colonoscopy. Created by a Canadian gastroenterologist.",
+  "category": "procedure",
+  "prevalence": "Very Common",
+  "lastReviewed": "2026-03-28",
+  "guidelines": [
+    { "society": "CAG", "title": "Canadian Association of Gastroenterology Guidelines", "year": 2024 },
+    { "society": "BC Cancer", "title": "BC Colon Screening Program", "year": 2024 }
+  ],
+  "enabled": true
+}

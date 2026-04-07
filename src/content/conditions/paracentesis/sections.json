@@ -1,0 +1,408 @@
+{
+  "hero": {
+    "title": "Paracentesis Guide",
+    "subtitle": "Your guide to understanding abdominal fluid drainage",
+    "description": "Everything you need to know about paracentesis — why it's done, how to prepare, what to expect, and how to recover. Clear, trustworthy information from a gastroenterologist.",
+    "reassurance": "Paracentesis is a safe, common procedure that usually brings fast relief from uncomfortable abdominal swelling."
+  },
+  "sections": [
+    {
+      "id": "what-is-paracentesis",
+      "title": "What Is Paracentesis?",
+      "subtitle": "A simple look at the procedure",
+      "icon": "💉",
+      "color": "blue",
+      "summary": "Paracentesis is a procedure where a doctor uses a thin needle to drain extra fluid from your abdomen. It is safe, done at the bedside, and usually takes 30 to 60 minutes.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Paracentesis is a procedure where a doctor inserts a thin needle through the skin of your abdomen to remove fluid that has built up. This fluid is called ascites. The procedure is done at the bedside or in a clinic, and most people feel much better afterward."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            {
+              "heading": "A needle drains the fluid",
+              "text": "A thin needle or small tube is placed through the skin into the fluid space in your abdomen. The fluid drains out on its own through tubing into collection bottles."
+            },
+            {
+              "heading": "Ultrasound guides the way",
+              "text": "Your doctor uses an ultrasound machine to find the safest spot to insert the needle. This helps avoid nearby organs and makes the procedure safer."
+            },
+            {
+              "heading": "You stay awake and comfortable",
+              "text": "A local anesthetic (freezing) is injected into the skin so you should not feel pain. You do not need general anesthesia or sedation for this procedure."
+            },
+            {
+              "heading": "It takes 30 to 60 minutes",
+              "text": "Small amounts of fluid can be drained in just a few minutes. When a large volume needs to come out, the draining process may take 30 to 60 minutes."
+            },
+            {
+              "heading": "Relief is often immediate",
+              "text": "Many people notice that their belly feels lighter and breathing becomes easier right after the fluid is removed."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "A bedside procedure",
+          "text": "Paracentesis does not require an operating room. It is usually done right at your hospital bed or in an outpatient clinic. You can go home the same day in most cases."
+        }
+      ]
+    },
+    {
+      "id": "why-you-might-need-one",
+      "title": "Why You Might Need One",
+      "subtitle": "Common reasons for paracentesis",
+      "icon": "🩺",
+      "color": "indigo",
+      "summary": "Paracentesis is done for two main reasons: to test the fluid for infection or other problems, or to drain a large amount of fluid to relieve pressure and help you breathe more easily.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Your doctor may recommend paracentesis to find out why fluid has built up in your abdomen, or to drain a large amount of fluid that is causing discomfort. Sometimes both are done at the same time."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            {
+              "heading": "Diagnostic — finding the cause",
+              "text": "When ascites appears for the first time, a small sample of fluid is tested in the lab. This helps your doctor figure out why the fluid is there and check for infection, including a serious condition called spontaneous bacterial peritonitis (SBP)."
+            },
+            {
+              "heading": "Therapeutic — relieving symptoms",
+              "text": "When a large amount of fluid causes a swollen belly, trouble breathing, loss of appetite, or discomfort, draining the fluid (called large-volume paracentesis) can bring fast relief."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "What causes ascites?",
+          "text": "The most common cause of ascites is cirrhosis (scarring of the liver). When the liver is scarred, pressure builds up in the blood vessels around it, and fluid leaks into the abdomen. Other causes include heart failure, cancer, kidney disease, and infections. Your doctor will use the fluid sample and other tests to determine the exact cause in your case."
+        }
+      ]
+    },
+    {
+      "id": "preparation",
+      "title": "Preparation",
+      "subtitle": "Getting ready for your procedure",
+      "icon": "📋",
+      "color": "amber",
+      "summary": "Preparation is straightforward. You may need blood work beforehand, and you should tell your care team about every medication you take.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Getting ready for a paracentesis is simple. Your doctor may order blood tests before the procedure, and will ask about your medications. Here is a checklist to help you prepare."
+        },
+        {
+          "type": "checklist",
+          "heading": "Preparation checklist",
+          "storageKey": "para-prep",
+          "items": [
+            "Tell your doctor about ALL medications, vitamins, and supplements you take",
+            "Ask whether you need any blood tests before the procedure",
+            "Empty your bladder before the procedure begins",
+            "Wear comfortable, loose-fitting clothing",
+            "Arrange a ride home if you are having the procedure as an outpatient",
+            "Ask your doctor if you should eat or drink anything before arriving"
+          ]
+        },
+        {
+          "type": "medication-table",
+          "heading": "Medications to discuss with your team",
+          "items": [
+            { "med": "Blood thinners (warfarin, apixaban, rivarelbaan, etc.)", "note": "In most cases, blood thinners do NOT need to be stopped before paracentesis. Your doctor will advise you based on your situation." },
+            { "med": "Aspirin or anti-inflammatory drugs (ibuprofen, naproxen)", "note": "Let your doctor know. These are usually fine to continue, but your team will confirm." },
+            { "med": "Albumin (IV)", "note": "If a large volume of fluid is being drained (more than 5 litres), you will receive albumin through an IV during or after the procedure to support your blood pressure." },
+            { "med": "Diuretics (spironolactone, furosemide)", "note": "Your doctor may adjust your water pill doses around the time of the procedure." }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Tell your team about all medications",
+          "text": "It is very important to let your care team know about every medication you take, including over-the-counter drugs, herbal supplements, and vitamins. This helps them keep you safe during the procedure."
+        }
+      ]
+    },
+    {
+      "id": "what-to-expect",
+      "title": "What to Expect",
+      "subtitle": "Before, during, and after the procedure",
+      "icon": "🏥",
+      "color": "teal",
+      "summary": "You will lie on your back or slightly to one side. Your doctor will use ultrasound to find the best spot, numb the area, insert a thin needle, and let the fluid drain. Most people feel much better right away.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Knowing what will happen step by step can help you feel more at ease. Here is what a typical paracentesis looks like from start to finish."
+        },
+        {
+          "type": "phases",
+          "phases": [
+            {
+              "phase": "Before the procedure",
+              "icon": "📝",
+              "items": [
+                "You will be positioned on your back, sometimes tilted slightly to one side",
+                "The doctor uses ultrasound to find the safest pocket of fluid",
+                "The skin on your abdomen is cleaned with antiseptic solution",
+                "Sterile drapes are placed around the area"
+              ]
+            },
+            {
+              "phase": "During the procedure",
+              "icon": "💉",
+              "items": [
+                "A local anesthetic (freezing) is injected to numb the skin — you may feel a brief sting",
+                "A thin needle or catheter is inserted through the numb skin into the fluid",
+                "The fluid drains through tubing into collection bottles",
+                "For large-volume drainage, this may take 30 to 60 minutes — you can relax, read, or listen to music",
+                "If needed, fluid samples are sent to the lab for testing"
+              ]
+            },
+            {
+              "phase": "After the procedure",
+              "icon": "✅",
+              "items": [
+                "The needle is removed and a small bandage is placed over the site",
+                "Your blood pressure and heart rate are checked",
+                "If a large volume was drained, you may receive albumin through your IV",
+                "You will be monitored for a short time before going home or back to your room"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "The procedure step by step",
+          "steps": [
+            "You lie on your back or slightly tilted to one side",
+            "Ultrasound is used to mark the best spot for the needle",
+            "The skin is cleaned and draped in a sterile fashion",
+            "Local anesthetic is injected to numb the area",
+            "A thin needle or catheter is inserted into the fluid pocket",
+            "Fluid drains through tubing into collection bottles",
+            "Samples may be taken and sent to the lab",
+            "The needle is removed and a bandage is applied",
+            "You are monitored before being discharged or returned to your room"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Most people feel much better right away",
+          "text": "Once the extra fluid is drained, many patients notice that their belly feels lighter, their appetite improves, and they can breathe more easily. The relief can be dramatic, especially if a large volume of fluid was removed."
+        }
+      ]
+    },
+    {
+      "id": "risks",
+      "title": "Risks",
+      "subtitle": "Understanding the possible complications",
+      "icon": "⚠️",
+      "color": "red",
+      "summary": "Paracentesis is a very safe procedure. Serious complications are rare. The most common issue is mild discomfort at the needle site.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "All procedures carry some risk, but paracentesis is considered very safe — even in patients with abnormal blood clotting, which is common in liver disease. Your doctor would not recommend it unless the benefits clearly outweigh the risks."
+        },
+        {
+          "type": "risk-table",
+          "heading": "Possible risks",
+          "items": [
+            {
+              "name": "Pain or discomfort at the needle site",
+              "risk": "Common",
+              "description": "Mild soreness or bruising where the needle went in. This usually goes away within a day or two."
+            },
+            {
+              "name": "Persistent fluid leak from the puncture site",
+              "risk": "Occasional",
+              "description": "Sometimes fluid continues to ooze from the needle site for a day or two. A dressing change or a single stitch may be needed."
+            },
+            {
+              "name": "Infection",
+              "risk": "Less than 1%",
+              "description": "Infection at the needle site or in the abdominal fluid is very uncommon because sterile technique is used throughout the procedure."
+            },
+            {
+              "name": "Bleeding",
+              "risk": "Less than 1%",
+              "description": "Significant bleeding is rare. Ultrasound guidance helps avoid blood vessels."
+            },
+            {
+              "name": "Bowel perforation",
+              "risk": "Very rare",
+              "description": "Accidentally puncturing the bowel is extremely uncommon, especially with ultrasound guidance."
+            },
+            {
+              "name": "Post-paracentesis circulatory dysfunction",
+              "risk": "Preventable",
+              "description": "When a large volume of fluid is drained (more than 5 litres), blood pressure can drop. This is prevented by giving albumin through your IV during or after the procedure."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Safe even with abnormal clotting",
+          "text": "Many patients who need paracentesis have liver disease, which can affect how their blood clots. Studies show that paracentesis is still very safe in these patients. Routine blood product transfusions before paracentesis are not usually needed."
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Warning signs to watch for after the procedure",
+      "icon": "🚨",
+      "color": "rose",
+      "summary": "Most people recover quickly, but contact your care team right away if you notice fever, increasing pain, persistent leaking, dizziness, or signs of infection at the site.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "Fever or chills after the procedure",
+            "Increasing abdominal pain that is getting worse, not better",
+            "Persistent fluid leaking from the puncture site that does not stop with gentle pressure",
+            "Dizziness, lightheadedness, or feeling faint",
+            "Redness, swelling, or warmth around the needle site",
+            "Bloody drainage from the puncture site"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common concerns",
+      "icon": "❓",
+      "color": "violet",
+      "summary": "Answers to the questions patients ask most about paracentesis, from how it feels to how often it may be needed.",
+      "content": [
+        {
+          "type": "faq",
+          "questions": [
+            {
+              "q": "Is paracentesis painful?",
+              "a": "Most people feel only a brief sting when the local anesthetic (freezing) is injected. After that, the area is numb and you should not feel pain during the procedure. Some people feel a sense of pressure or pulling as the fluid drains, but this is usually not painful."
+            },
+            {
+              "q": "How often will I need paracentesis?",
+              "a": "It depends on your condition. Some people need it only once for diagnosis. Others, especially those with ongoing liver disease, may need it every few weeks if fluid keeps building up. Your doctor will work with you to find the best plan, including medications to slow the fluid buildup."
+            },
+            {
+              "q": "Is paracentesis a permanent fix for ascites?",
+              "a": "No. Paracentesis removes the fluid that has already collected, but it does not treat the underlying cause. Your doctor will also work on managing the root problem — such as liver disease — with medications and other treatments to slow the fluid from coming back."
+            },
+            {
+              "q": "Why do I need albumin after the procedure?",
+              "a": "When a large amount of fluid (more than 5 litres) is drained, your blood pressure can drop because the fluid shift changes how blood flows in your body. Albumin is a protein given through your IV that helps keep your blood volume and pressure stable. It is an important safety step."
+            },
+            {
+              "q": "Do I need to stop my blood thinners before paracentesis?",
+              "a": "In most cases, no. Studies have shown that paracentesis is safe even for patients on blood thinners or those with abnormal clotting from liver disease. Your doctor will review your specific situation and let you know if any changes are needed."
+            },
+            {
+              "q": "How much fluid will be removed?",
+              "a": "It depends on the reason for the procedure. For a diagnostic paracentesis, only a small sample (about 50 to 100 mL) is needed. For a therapeutic (large-volume) paracentesis, anywhere from 4 to 10 litres or even more may be safely drained in one session."
+            },
+            {
+              "q": "What is SBP and how is it detected?",
+              "a": "SBP stands for spontaneous bacterial peritonitis. It is an infection of the fluid in your abdomen that can happen in people with ascites, especially those with liver disease. It is detected by testing a sample of your ascites fluid. If SBP is found, it is treated with antibiotics right away."
+            },
+            {
+              "q": "Can I prevent ascites from coming back?",
+              "a": "You can help slow the buildup of fluid by following a low-sodium (low-salt) diet, taking your diuretic (water pill) medications as prescribed, avoiding alcohol, and keeping your regular follow-up appointments. In some cases, a procedure called TIPS may be considered to reduce the pressure that causes ascites."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "knowledge-check",
+      "title": "Knowledge Check",
+      "subtitle": "Test your understanding",
+      "icon": "🧠",
+      "color": "emerald",
+      "summary": "A few quick questions to make sure you feel confident about what you've learned.",
+      "content": [
+        {
+          "type": "knowledge-check",
+          "items": [
+            {
+              "question": "What is the main purpose of giving albumin after a large-volume paracentesis?",
+              "options": [
+                "To prevent infection",
+                "To help keep blood pressure stable",
+                "To dissolve the remaining fluid",
+                "To help you sleep during the procedure"
+              ],
+              "correct": 1,
+              "explanation": "When more than 5 litres of fluid are drained, albumin is given through an IV to prevent a drop in blood pressure called post-paracentesis circulatory dysfunction."
+            },
+            {
+              "question": "Do blood thinners usually need to be stopped before paracentesis?",
+              "options": [
+                "Yes, always",
+                "Only if you are on aspirin",
+                "No, paracentesis is generally safe even on blood thinners",
+                "Only if more than 2 litres are drained"
+              ],
+              "correct": 2,
+              "explanation": "Studies show that paracentesis is safe even for patients taking blood thinners or those with abnormal clotting from liver disease. Routine stopping of blood thinners is not usually required."
+            },
+            {
+              "question": "What is the most common cause of ascites (fluid buildup in the abdomen)?",
+              "options": [
+                "Kidney failure",
+                "Heart disease",
+                "Cirrhosis (liver scarring)",
+                "Pancreatic cancer"
+              ],
+              "correct": 2,
+              "explanation": "Cirrhosis is by far the most common cause of ascites. Liver scarring increases pressure in the blood vessels around the liver, which causes fluid to leak into the abdomen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Evidence behind this guide",
+      "icon": "📚",
+      "color": "gray",
+      "summary": "The clinical guidelines and key studies that inform this patient education content.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            {
+              "text": "Biggins SW, Angeli P, Garcia-Tsao G, et al. Diagnosis, Evaluation, and Management of Ascites, Spontaneous Bacterial Peritonitis and Hepatorenal Syndrome: 2021 Practice Guidance by the AASLD. Hepatology. 2021;74(2):1014-1048.",
+              "url": "https://doi.org/10.1002/hep.31884"
+            },
+            {
+              "text": "European Association for the Study of the Liver. EASL Clinical Practice Guidelines for the management of patients with decompensated cirrhosis. J Hepatol. 2018;69(2):406-460.",
+              "url": "https://doi.org/10.1016/j.jhep.2018.03.024"
+            },
+            {
+              "text": "Aithal GP, Palaniyappan N, China L, et al. Guidelines on the management of ascites in cirrhosis. Gut. 2021;70(1):9-29.",
+              "url": "https://doi.org/10.1136/gutjnl-2020-321790"
+            },
+            {
+              "text": "Runyon BA. Introduction to the revised American Association for the Study of Liver Diseases Practice Guideline management of adult patients with ascites due to cirrhosis 2012. Hepatology. 2013;57(4):1651-1653.",
+              "url": "https://doi.org/10.1002/hep.26359"
+            },
+            {
+              "text": "Bernardi M, Caraceni P, Navickis RJ, Wilkes MM. Albumin infusion in patients undergoing large-volume paracentesis: a meta-analysis of randomized trials. Hepatology. 2012;55(4):1172-1181.",
+              "url": "https://doi.org/10.1002/hep.24786"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,454 @@
+{
+  "hero": {
+    "title": "Diverticulosis / Diverticulitis",
+    "subtitle": "Understanding diverticulosis and diverticulitis — what they mean and how to stay well",
+    "description": "Everything you need to know about diverticular disease — the difference between diverticulosis and diverticulitis, symptoms, treatment options, diet and lifestyle advice, and when to see your doctor. Clear, trustworthy information to help you feel confident about your health.",
+    "reassurance": "Diverticulosis is extremely common and most people never have problems. Even diverticulitis is usually mild and treatable."
+  },
+  "sections": [
+    {
+      "id": "what-is-diverticular-disease",
+      "title": "What Is Diverticular Disease?",
+      "subtitle": "The difference between diverticulosis and diverticulitis",
+      "icon": "🫘",
+      "color": "orange",
+      "summary": "Diverticulosis means small pouches have formed in the wall of the colon. This is very common and usually harmless. Diverticulitis happens when one or more of those pouches become inflamed or infected.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Your colon (large intestine) is a long, muscular tube that absorbs water and moves waste out of your body. As you get older, small bulging pouches called diverticula can form in weak spots along the colon wall. Having these pouches is called diverticulosis. It is extremely common — by age 60, about half of all people have them. Most people never know they are there. Diverticulitis happens when one or more of those pouches become inflamed or infected. This causes pain, usually in the lower left side of the belly. Diverticulitis is less common than diverticulosis, and most cases are mild and treatable."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            {
+              "heading": "Diverticulosis is not a disease",
+              "text": "Having diverticula is a normal part of aging for many people. It does not mean something is wrong. Most people with diverticulosis never have any symptoms or problems."
+            },
+            {
+              "heading": "Diverticulitis is different",
+              "text": "Diverticulitis means a pouch has become inflamed or infected. It causes symptoms like belly pain, fever, and changes in bowel habits. It needs medical attention."
+            },
+            {
+              "heading": "Very common",
+              "text": "About 50% of people over age 60 have diverticulosis. Only about 5% of people with diverticulosis will ever develop diverticulitis."
+            },
+            {
+              "heading": "Highly treatable",
+              "text": "Most cases of diverticulitis are uncomplicated and get better with rest, diet changes, and sometimes antibiotics. Surgery is rarely needed."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Why do diverticula form?",
+          "text": "Diverticula form when weak spots in the colon wall give way under pressure. This happens more as we age because the colon wall naturally becomes less elastic over time. A low-fibre diet, lack of physical activity, and obesity may increase the chance of developing them. Diverticula are most common in the left side of the colon (the sigmoid colon), which is why diverticulitis pain is usually felt on the lower left side of the belly."
+        }
+      ]
+    },
+    {
+      "id": "symptoms",
+      "title": "Symptoms",
+      "subtitle": "How to recognize diverticulosis and diverticulitis",
+      "icon": "⚠️",
+      "color": "amber",
+      "summary": "Diverticulosis usually has no symptoms. Diverticulitis causes belly pain, fever, and changes in bowel habits. Knowing the difference helps you respond the right way.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Diverticulosis on its own rarely causes any symptoms. Most people find out they have it by chance during a colonoscopy or imaging done for another reason. When symptoms do occur, they are usually from diverticulitis — an episode of inflammation or infection in one or more pouches."
+        },
+        {
+          "type": "key-points",
+          "heading": "Diverticulitis symptoms",
+          "points": [
+            {
+              "heading": "Belly pain",
+              "text": "Pain is usually in the lower left side of the belly. It may start mild and get worse over hours to days. It can be constant or crampy."
+            },
+            {
+              "heading": "Fever and chills",
+              "text": "A low-grade fever is common with diverticulitis. A high fever may suggest a more serious case that needs prompt attention."
+            },
+            {
+              "heading": "Changes in bowel habits",
+              "text": "You may notice constipation, diarrhea, or both. Some people feel bloated or have more gas than usual."
+            },
+            {
+              "heading": "Nausea or vomiting",
+              "text": "Some people feel sick to their stomach during an episode, especially if the inflammation is more severe."
+            },
+            {
+              "heading": "Urinary symptoms",
+              "text": "Occasionally, an inflamed pouch near the bladder can cause pain with urination or a feeling of needing to urinate more often."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "What about diverticular bleeding?",
+          "text": "Sometimes a blood vessel near a diverticulum can bleed, causing painless, bright red or maroon blood in your stool. This is called diverticular bleeding. It can look alarming, but it usually stops on its own. If you have significant rectal bleeding, go to the emergency department to be assessed."
+        }
+      ]
+    },
+    {
+      "id": "treatment",
+      "title": "Treatment",
+      "subtitle": "How diverticulitis is managed — from mild to more serious cases",
+      "icon": "💊",
+      "color": "blue",
+      "summary": "Most diverticulitis is uncomplicated and can be treated at home with rest and diet changes. Antibiotics are not always needed. Complicated cases may need hospital care or, rarely, surgery.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Treatment for diverticulitis depends on how severe the episode is. Doctors divide it into two categories: uncomplicated (mild) and complicated (more serious). The good news is that most cases are uncomplicated and can be managed at home."
+        },
+        {
+          "type": "tabs",
+          "heading": "Treatment by Severity",
+          "tabs": [
+            {
+              "label": "Uncomplicated",
+              "icon": "✅",
+              "blocks": [
+                {
+                  "type": "text",
+                  "heading": "What does uncomplicated mean?",
+                  "text": "Uncomplicated diverticulitis means there is inflammation but no abscess, perforation, or other serious problem. This is the most common type and accounts for about 75% of all diverticulitis cases."
+                },
+                {
+                  "type": "steps",
+                  "heading": "Typical treatment plan",
+                  "steps": [
+                    "Rest at home and reduce your activity level for a few days",
+                    "Start with clear liquids (water, broth, plain gelatin) for 1 to 2 days, then slowly add soft, low-fibre foods as you feel better",
+                    "Take over-the-counter pain relief such as acetaminophen (Tylenol) — avoid ibuprofen and other anti-inflammatory drugs, as they may worsen things",
+                    "Your doctor will decide whether antibiotics are needed (see below)",
+                    "Gradually return to a normal, high-fibre diet over the next few weeks as symptoms improve"
+                  ]
+                },
+                {
+                  "type": "info-callout",
+                  "variant": "info",
+                  "title": "The antibiotics debate",
+                  "text": "Antibiotics used to be given to everyone with diverticulitis. Recent high-quality studies have shown that many people with uncomplicated diverticulitis get better just as well without antibiotics. Current guidelines say your doctor may choose to skip antibiotics if your case is mild, you have no fever, your blood tests are only slightly abnormal, and you are otherwise healthy. This is a shared decision between you and your doctor — both approaches are safe and supported by evidence."
+                }
+              ]
+            },
+            {
+              "label": "Complicated",
+              "icon": "🏥",
+              "blocks": [
+                {
+                  "type": "text",
+                  "heading": "What does complicated mean?",
+                  "text": "Complicated diverticulitis means there is a complication such as an abscess (collection of pus), a perforation (hole in the colon wall), a fistula (an abnormal connection between the colon and another organ), or a blockage. These cases are less common but need closer medical attention."
+                },
+                {
+                  "type": "key-points",
+                  "heading": "How complicated cases are treated",
+                  "points": [
+                    {
+                      "heading": "Abscess",
+                      "text": "Small abscesses often heal with antibiotics alone. Larger abscesses may need to be drained with a needle guided by a CT scan."
+                    },
+                    {
+                      "heading": "Perforation",
+                      "text": "A hole in the colon wall is a serious situation that usually requires surgery. This is uncommon."
+                    },
+                    {
+                      "heading": "Fistula",
+                      "text": "An abnormal connection between the colon and bladder or other organ may need surgery to repair, usually after the inflammation has settled."
+                    },
+                    {
+                      "heading": "Blockage (obstruction)",
+                      "text": "Repeated episodes of inflammation can cause scarring that narrows the colon. This may need surgery if it causes significant blockage."
+                    }
+                  ]
+                },
+                {
+                  "type": "info-callout",
+                  "variant": "warning",
+                  "title": "Surgery is rarely needed",
+                  "text": "Only about 15 to 20% of people hospitalized with diverticulitis need surgery. When surgery is needed, it usually involves removing the affected section of the colon. Most people recover well and go on to live normally."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Do I need a colonoscopy after diverticulitis?",
+          "text": "Your doctor will usually recommend a colonoscopy about 6 to 8 weeks after an episode of diverticulitis, especially if you have not had one recently. This is to confirm the diagnosis and make sure nothing else (such as a polyp or other condition) is causing your symptoms. In Canada, this colonoscopy is covered by your provincial health plan."
+        }
+      ]
+    },
+    {
+      "id": "diet-and-lifestyle",
+      "title": "Diet and Lifestyle",
+      "subtitle": "What to eat, what to skip, and myths you can ignore",
+      "icon": "🥗",
+      "color": "emerald",
+      "summary": "A high-fibre diet is the single most important thing you can do to keep your colon healthy and reduce the risk of diverticulitis. And yes — you can eat seeds, nuts, and popcorn.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "For years, people with diverticulosis were told to avoid seeds, nuts, and popcorn. This advice was based on the idea that small particles could get stuck in the pouches and cause inflammation. Research has now shown this is simply not true. In fact, people who eat nuts and popcorn may actually have a lower risk of diverticulitis. The real key to a healthy colon is a high-fibre diet."
+        },
+        {
+          "type": "info-callout",
+          "variant": "success",
+          "title": "Myth busted: seeds, nuts, and popcorn are safe",
+          "text": "Multiple large studies, including one that followed over 47,000 men for 18 years, found no increased risk of diverticulitis from eating nuts, corn, or popcorn. All major gastroenterology guidelines now agree: there is no reason to avoid these foods. Enjoy them as part of a healthy, high-fibre diet."
+        },
+        {
+          "type": "allowed-avoid",
+          "heading": "Foods for a Healthy Colon",
+          "allowed": [
+            "Vegetables (broccoli, carrots, squash, leafy greens)",
+            "Fruits (apples, pears, berries, bananas)",
+            "Whole grains (oats, brown rice, whole wheat bread, bran cereal)",
+            "Legumes (lentils, chickpeas, black beans)",
+            "Nuts and seeds (almonds, chia seeds, sunflower seeds)",
+            "Popcorn (a great high-fibre snack)",
+            "Plenty of water (fibre works best when you drink enough fluids)"
+          ],
+          "avoid": [
+            "Highly processed foods (white bread, chips, fast food)",
+            "Red meat in large amounts (linked to higher diverticulitis risk in studies)",
+            "Sugary drinks and excess alcohol",
+            "Low-fibre refined grains (white rice, regular pasta in excess)"
+          ]
+        },
+        {
+          "type": "checklist",
+          "heading": "Lifestyle Action Plan",
+          "storageKey": "diverticular-lifestyle-checklist",
+          "items": [
+            "Aim for 25 to 35 grams of fibre per day — increase gradually to avoid gas and bloating",
+            "Drink at least 6 to 8 glasses of water per day (fibre needs fluid to work well)",
+            "Get regular physical activity — at least 30 minutes of moderate exercise most days",
+            "Maintain a healthy weight — obesity is a risk factor for diverticulitis",
+            "If you smoke, talk to your doctor about quitting — smoking increases the risk of complications",
+            "Limit red meat — try replacing some red meat meals with fish, chicken, or plant-based protein",
+            "Avoid routine use of NSAIDs (ibuprofen, naproxen) when possible — they may increase diverticulitis risk"
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "How to Increase Fibre Gradually",
+          "steps": [
+            "Start by adding one extra serving of vegetables or fruit per day for the first week",
+            "In week two, switch one refined grain (white bread, white rice) to a whole grain option",
+            "In week three, add a serving of legumes (lentils, beans, chickpeas) two to three times per week",
+            "Keep increasing slowly over 4 to 6 weeks until you reach 25 to 35 grams per day",
+            "Drink extra water as you add fibre — this prevents constipation and bloating"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prevention",
+      "title": "Prevention",
+      "subtitle": "Steps you can take to lower your risk of diverticulitis",
+      "icon": "🛡️",
+      "color": "teal",
+      "summary": "You cannot reverse diverticulosis once you have it, but you can significantly lower your risk of developing diverticulitis with simple lifestyle habits.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Once diverticula have formed, they do not go away. But that is okay — remember, most people with diverticulosis never have problems. The goal is to keep your colon healthy and reduce the chance of inflammation. The following habits are well supported by research."
+        },
+        {
+          "type": "key-points",
+          "heading": "Evidence-based prevention strategies",
+          "points": [
+            {
+              "heading": "High-fibre diet",
+              "text": "This is the single most effective thing you can do. Fibre keeps stool soft and moving through the colon, which reduces pressure on the colon wall. Aim for 25 to 35 grams per day from food sources."
+            },
+            {
+              "heading": "Regular exercise",
+              "text": "Physical activity helps keep your bowels moving and reduces inflammation throughout the body. Studies show that vigorous activity like jogging or brisk walking can lower diverticulitis risk by up to 25%."
+            },
+            {
+              "heading": "Healthy weight",
+              "text": "Obesity, especially around the waist, is linked to a higher risk of diverticulitis and complications. Even a modest amount of weight loss can help."
+            },
+            {
+              "heading": "Limit red meat",
+              "text": "A large study found that men who ate the most red meat had a significantly higher risk of diverticulitis compared to those who ate less. Try swapping some red meat meals for fish, chicken, or plant-based options."
+            },
+            {
+              "heading": "Avoid smoking",
+              "text": "Smoking is linked to a higher risk of diverticulitis complications, including perforation. Quitting reduces this risk."
+            },
+            {
+              "heading": "Use NSAIDs carefully",
+              "text": "Anti-inflammatory painkillers like ibuprofen (Advil) and naproxen (Aleve) may increase the risk of diverticulitis. Use acetaminophen (Tylenol) when you need a pain reliever, and talk to your doctor about alternatives if you take NSAIDs regularly."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "What about probiotics and fibre supplements?",
+          "text": "There is some interest in whether probiotics or specific fibre supplements (like psyllium) can help prevent diverticulitis. The evidence is still limited. A high-fibre diet from whole foods is the best-supported approach. If you are considering supplements, talk to your doctor or pharmacist first."
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Symptoms that should prompt a call to your doctor or a visit to the ER",
+      "icon": "🚨",
+      "color": "rose",
+      "summary": "Most episodes of diverticulitis are mild, but some symptoms need prompt medical attention.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "New or worsening pain in the lower left belly that lasts more than a few hours",
+            "Fever above 38.5 C (101.3 F), especially with belly pain",
+            "Significant rectal bleeding (more than a small amount of blood)",
+            "Persistent vomiting or inability to keep fluids down",
+            "Belly pain that is getting worse instead of better despite treatment",
+            "Feeling very unwell, lightheaded, or faint",
+            "Symptoms not improving after 2 to 3 days of treatment prescribed by your doctor"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "When to go to the emergency department",
+          "text": "Go to the emergency department right away if you have severe belly pain with a high fever, if your belly feels hard or very tender to touch, or if you have heavy rectal bleeding that is not stopping. These could be signs of a complication that needs urgent care."
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to the most common questions about diverticular disease",
+      "icon": "❓",
+      "color": "amber",
+      "summary": "Got questions about diverticulosis or diverticulitis? Here are clear answers to the things patients ask most often.",
+      "content": [
+        {
+          "type": "knowledge-check",
+          "heading": "Test Your Understanding",
+          "items": [
+            {
+              "question": "Can you eat seeds, nuts, and popcorn if you have diverticulosis?",
+              "options": [
+                "No — they will get stuck in the pouches and cause infection",
+                "Yes — research shows they are safe and may even be protective",
+                "Only if your doctor gives you permission",
+                "Only seeds, but not nuts or popcorn"
+              ],
+              "correct": 1,
+              "explanation": "This is one of the most common myths in gastroenterology. Multiple large studies have shown that seeds, nuts, and popcorn do not increase the risk of diverticulitis. All major guidelines now agree they are safe to eat."
+            },
+            {
+              "question": "What is the most important thing you can do to prevent diverticulitis?",
+              "options": [
+                "Take antibiotics regularly",
+                "Avoid all spicy foods",
+                "Eat a high-fibre diet",
+                "Get a colonoscopy every year"
+              ],
+              "correct": 2,
+              "explanation": "A high-fibre diet is the best-supported way to keep your colon healthy and reduce the risk of diverticulitis. Aim for 25 to 35 grams of fibre per day from fruits, vegetables, whole grains, and legumes."
+            },
+            {
+              "question": "Does everyone with diverticulitis need antibiotics?",
+              "options": [
+                "Yes — antibiotics are always required",
+                "No — mild uncomplicated cases may get better without antibiotics",
+                "Only if you are over 60",
+                "Only if you have had diverticulitis before"
+              ],
+              "correct": 1,
+              "explanation": "Recent research shows that many people with mild, uncomplicated diverticulitis recover just as well without antibiotics. Your doctor will decide based on how severe your symptoms are and your overall health."
+            }
+          ]
+        },
+        {
+          "type": "faq",
+          "questions": [
+            {
+              "q": "I was told I have diverticulosis on my colonoscopy report. Should I be worried?",
+              "a": "Not at all. Diverticulosis is very common, especially as we get older. It simply means small pouches have formed in your colon wall. Most people with diverticulosis never develop any symptoms or problems. Focus on a high-fibre diet and healthy lifestyle, and you are doing everything you can."
+            },
+            {
+              "q": "Can I really eat seeds, nuts, and popcorn?",
+              "a": "Yes. The old advice to avoid these foods has been proven wrong by solid research. A major study of over 47,000 men found no link between eating nuts, popcorn, or corn and developing diverticulitis. In fact, people who ate more nuts and popcorn had a slightly lower risk. All major guidelines, including the AGA and ACG, now agree there is no reason to avoid them."
+            },
+            {
+              "q": "Will diverticulitis keep coming back?",
+              "a": "Some people have only one episode and never have another. About 20 to 35% of people who have had diverticulitis will have another episode at some point. Eating a high-fibre diet, staying active, and maintaining a healthy weight can help lower the chance of it coming back."
+            },
+            {
+              "q": "Do I need surgery?",
+              "a": "Most people with diverticulitis never need surgery. Surgery is usually only considered if you have a serious complication like a perforation, or if you have repeated episodes that are affecting your quality of life. The decision is made together with your doctor or surgeon."
+            },
+            {
+              "q": "Is diverticulitis the same as irritable bowel syndrome (IBS)?",
+              "a": "No. They are different conditions, although they can have some overlapping symptoms like belly pain and changes in bowel habits. Diverticulitis involves actual inflammation of the colon pouches, while IBS is a functional condition without visible inflammation. Some people can have both conditions."
+            },
+            {
+              "q": "Can diverticulitis cause cancer?",
+              "a": "Diverticulitis does not turn into cancer. However, the symptoms of diverticulitis and colon cancer can sometimes overlap, which is why your doctor may recommend a colonoscopy after your episode has settled — to make sure nothing else is going on."
+            },
+            {
+              "q": "Why do I need to avoid ibuprofen?",
+              "a": "Non-steroidal anti-inflammatory drugs (NSAIDs) like ibuprofen (Advil) and naproxen (Aleve) have been linked to an increased risk of diverticulitis and diverticular bleeding. Acetaminophen (Tylenol) is a safer choice for pain relief if you have diverticular disease. Talk to your doctor if you take NSAIDs regularly for another condition."
+            },
+            {
+              "q": "How much fibre should I eat?",
+              "a": "Aim for 25 to 35 grams of fibre per day. Most Canadians get only about 15 grams. Increase gradually over 4 to 6 weeks to avoid bloating and gas, and make sure to drink plenty of water. Good sources include vegetables, fruits, whole grains, legumes, nuts, and seeds."
+            },
+            {
+              "q": "Should I take a fibre supplement?",
+              "a": "Getting fibre from food is the best approach. If you find it hard to reach 25 to 35 grams per day through diet alone, a supplement like psyllium (Metamucil) can help. Start with a small amount and increase slowly. Always drink plenty of water with fibre supplements. Check with your doctor or pharmacist first."
+            },
+            {
+              "q": "Is diverticular disease hereditary?",
+              "a": "There does seem to be a genetic component. If a close family member has diverticular disease, your risk may be somewhat higher. However, lifestyle factors like diet, exercise, and weight have a bigger influence on your overall risk. Focusing on a high-fibre diet and healthy habits is the best thing you can do regardless of your family history."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Guidelines and resources used in this guide",
+      "icon": "📚",
+      "color": "orange",
+      "summary": "This guide is based on current Canadian and international gastroenterology guidelines.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            {
+              "text": "American Gastroenterological Association — Clinical Practice Guideline on the Management of Acute Diverticulitis (2021)"
+            },
+            {
+              "text": "American College of Gastroenterology — Clinical Guideline: Diverticular Disease (2024)"
+            },
+            {
+              "text": "Canadian Medical Association — Practice Guidelines: Diverticular Disease (2023)"
+            },
+            {
+              "text": "Strate LL et al. — Nut, Corn, and Popcorn Consumption and the Incidence of Diverticular Disease. JAMA (2008)"
+            },
+            {
+              "text": "Canadian Digestive Health Foundation — Diverticular Disease Patient Information"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

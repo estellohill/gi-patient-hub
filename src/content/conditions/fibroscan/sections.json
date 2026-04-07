@@ -1,0 +1,379 @@
+{
+  "hero": {
+    "title": "FibroScan (Transient Elastography)",
+    "subtitle": "A quick, painless scan to check your liver health",
+    "description": "A FibroScan is a special ultrasound that measures how stiff your liver is. Liver stiffness tells your doctor if there is scarring (fibrosis) or fat in your liver. The test is fast, painless, and does not require any needles.",
+    "reassurance": "This is one of the easiest tests in medicine. It feels like a regular ultrasound and is over in about 10 minutes."
+  },
+  "sections": [
+    {
+      "id": "what-is-fibroscan",
+      "title": "What Is a FibroScan?",
+      "subtitle": "Understanding this simple liver test",
+      "icon": "🔍",
+      "color": "emerald",
+      "summary": "A FibroScan is a painless, ultrasound-like test that checks for liver scarring and fat without needles or surgery.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "A FibroScan uses sound waves to measure how stiff your liver is. A stiffer liver may have more scarring. The test also measures how much fat is in your liver. It is safe, quick, and completely painless."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            {
+              "heading": "Painless ultrasound-like test",
+              "text": "The test uses a small probe placed on your skin, just like a regular ultrasound. You may feel a gentle vibration, but there is no pain."
+            },
+            {
+              "heading": "Measures liver stiffness and scarring",
+              "text": "The probe sends a gentle wave through your liver. How fast that wave travels tells your doctor how stiff (or scarred) your liver is. The result is given in kilopascals (kPa)."
+            },
+            {
+              "heading": "Also measures liver fat (CAP score)",
+              "text": "At the same time, the FibroScan measures the Controlled Attenuation Parameter (CAP), which tells your doctor how much fat is stored in your liver."
+            },
+            {
+              "heading": "No needles or injections",
+              "text": "Unlike a liver biopsy, there are no needles involved. The probe sits on the outside of your body over your rib cage."
+            },
+            {
+              "heading": "Takes about 10 minutes",
+              "text": "The entire test usually takes 5 to 10 minutes. You can go back to your normal activities right away."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "success",
+          "title": "A painless alternative to liver biopsy",
+          "text": "FibroScan can often replace the need for a liver biopsy, which involves a needle. While biopsy is still needed in some cases, FibroScan gives your doctor a great picture of your liver health without any invasive procedure."
+        }
+      ]
+    },
+    {
+      "id": "how-to-prepare",
+      "title": "How to Prepare",
+      "subtitle": "Simple steps before your appointment",
+      "icon": "📋",
+      "color": "blue",
+      "summary": "Preparation is easy — just fast for a few hours, skip alcohol, and wear comfortable clothing.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Getting ready for a FibroScan is simple. A few small steps will help make sure your results are as accurate as possible."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            {
+              "heading": "Fast for 2 to 3 hours before the test",
+              "text": "Do not eat or drink anything (except water) for at least 2 to 3 hours before your appointment. Eating can temporarily change your liver stiffness reading."
+            },
+            {
+              "heading": "No alcohol for 24 to 48 hours",
+              "text": "Avoid all alcohol for at least 24 hours (ideally 48 hours) before the test. Even a small amount of alcohol can make your liver appear stiffer than it really is."
+            },
+            {
+              "heading": "Avoid a heavy meal beforehand",
+              "text": "A large or fatty meal can affect your results. If you need to eat, keep it very light."
+            },
+            {
+              "heading": "Wear loose, comfortable clothing",
+              "text": "You will need to expose the right side of your abdomen. A loose-fitting top makes this easier. You may be asked to change into a gown."
+            }
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "What happens during the test",
+          "steps": [
+            "You lie on your back on an exam table and place your right arm above your head.",
+            "The technician applies a small amount of gel to your right side, between your ribs.",
+            "A probe (about the size of a TV remote) is pressed gently against your skin.",
+            "You feel a mild vibration or flick as the probe sends a painless wave through your liver.",
+            "The technician takes about 10 readings. Each one takes only a second or two.",
+            "The whole process takes about 5 to 10 minutes, and you are done.",
+            "You can eat, drink, drive, and return to all normal activities right away."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "understanding-results",
+      "title": "Understanding Your Results",
+      "subtitle": "What the numbers mean for your liver",
+      "icon": "📈",
+      "color": "violet",
+      "summary": "Your results include a stiffness score (kPa) and a fat score (CAP). Your doctor will explain what they mean for you.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Your FibroScan gives two main numbers: a liver stiffness score (measured in kPa) and a CAP score for liver fat (measured in dB/m). Here is a general guide to what these numbers mean. Remember, your doctor will interpret your results based on your full medical history."
+        },
+        {
+          "type": "risk-table",
+          "heading": "Liver Stiffness (kPa) — Fibrosis Ranges",
+          "items": [
+            {
+              "name": "Less than 7 kPa",
+              "risk": "Normal",
+              "description": "Your liver stiffness is in the normal range. There is little or no scarring."
+            },
+            {
+              "name": "7 to 9.5 kPa",
+              "risk": "Mild fibrosis",
+              "description": "There may be a small amount of scarring. Your doctor may recommend lifestyle changes and monitoring."
+            },
+            {
+              "name": "9.5 to 12.5 kPa",
+              "risk": "Significant fibrosis",
+              "description": "There is a moderate amount of scarring. Your doctor will likely want to investigate further and discuss treatment options."
+            },
+            {
+              "name": "Greater than 12.5 kPa",
+              "risk": "Cirrhosis range",
+              "description": "This level of stiffness suggests advanced scarring (cirrhosis). Your doctor will order additional tests and create a care plan."
+            }
+          ]
+        },
+        {
+          "type": "risk-table",
+          "heading": "CAP Score (dB/m) — Liver Fat Ranges",
+          "items": [
+            {
+              "name": "Less than 238 dB/m",
+              "risk": "Normal",
+              "description": "Little or no excess fat in the liver."
+            },
+            {
+              "name": "238 to 280 dB/m",
+              "risk": "Mild steatosis",
+              "description": "A small amount of extra fat is present. Lifestyle changes like diet and exercise can help."
+            },
+            {
+              "name": "280 to 320 dB/m",
+              "risk": "Moderate steatosis",
+              "description": "A moderate amount of fat is in the liver. Your doctor will discuss ways to reduce it."
+            },
+            {
+              "name": "Greater than 320 dB/m",
+              "risk": "Severe steatosis",
+              "description": "A large amount of fat is stored in the liver. Active management with diet, exercise, and possibly medication is important."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Results are always interpreted in context",
+          "text": "These ranges are general guides. Your doctor considers your specific liver condition, other blood tests, imaging results, and your overall health before making any decisions. A single number does not tell the whole story."
+        },
+        {
+          "type": "text",
+          "heading": "Tracking changes over time matters most",
+          "text": "One FibroScan result is helpful, but the real power of this test is watching the trend over time. If your stiffness score goes down, it usually means your liver is getting healthier. If it goes up, your doctor may adjust your treatment plan. Many patients have repeat scans every 6 to 12 months to track their progress."
+        }
+      ]
+    },
+    {
+      "id": "why-ordered",
+      "title": "Why Your Doctor Ordered This",
+      "subtitle": "Common reasons for a FibroScan",
+      "icon": "🩺",
+      "color": "amber",
+      "summary": "FibroScan is used to check liver health in many common conditions, from fatty liver disease to hepatitis.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Your doctor may order a FibroScan for many reasons. It is one of the best non-invasive ways to check how healthy your liver is. Here are the most common reasons."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            {
+              "heading": "Fatty liver disease (MASLD) monitoring",
+              "text": "Fatty liver disease is very common. FibroScan helps your doctor see if fat in the liver is causing scarring, and whether it is getting better or worse over time."
+            },
+            {
+              "heading": "Hepatitis B or C staging",
+              "text": "If you have hepatitis B or C, FibroScan helps your doctor understand how much the virus has affected your liver without needing a biopsy."
+            },
+            {
+              "heading": "Alcohol-related liver disease",
+              "text": "Long-term heavy alcohol use can scar the liver. FibroScan shows your doctor how much scarring is present and helps guide treatment decisions."
+            },
+            {
+              "heading": "Autoimmune liver disease",
+              "text": "Conditions like autoimmune hepatitis or primary biliary cholangitis can cause liver scarring. FibroScan helps monitor how well treatment is working."
+            },
+            {
+              "heading": "Post-treatment monitoring",
+              "text": "After treatment for hepatitis C or other liver conditions, FibroScan tracks whether liver scarring is improving over time."
+            },
+            {
+              "heading": "Screening tool for at-risk patients",
+              "text": "If you have risk factors like diabetes, obesity, or metabolic syndrome, your doctor may use FibroScan as a screening tool to catch liver problems early."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Symptoms to tell your doctor about",
+      "icon": "🚨",
+      "color": "red",
+      "summary": "FibroScan is a test, not a treatment. Contact your doctor if you notice any of these warning signs.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "A FibroScan is just a test — it does not cause any side effects or complications. However, if you are living with a liver condition, there are some symptoms you should always tell your doctor about, whether or not they are related to your FibroScan results."
+        },
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "Yellowing of your skin or the whites of your eyes (jaundice)",
+            "Swelling in your belly (abdomen) that is new or getting worse",
+            "Confusion, forgetfulness, or feeling very drowsy for no clear reason",
+            "Unexplained weight loss that you did not intend",
+            "Dark brown or cola-colored urine that does not go away",
+            "Easy bruising or bleeding that is unusual for you",
+            "Persistent pain or discomfort in the upper right side of your belly"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common questions about FibroScan",
+      "icon": "❓",
+      "color": "sky",
+      "summary": "Quick answers to the questions patients ask most often about FibroScan.",
+      "content": [
+        {
+          "type": "faq",
+          "questions": [
+            {
+              "q": "Is a FibroScan painful?",
+              "a": "No. Most people feel only a gentle vibration or a light flick on their skin. The test is completely painless and does not require any anesthesia or sedation."
+            },
+            {
+              "q": "How accurate is a FibroScan?",
+              "a": "FibroScan is very accurate for detecting advanced fibrosis and cirrhosis, with reliability rates above 85-90%. It is most useful when combined with your blood tests and medical history."
+            },
+            {
+              "q": "Can a FibroScan replace a liver biopsy?",
+              "a": "In many cases, yes. FibroScan can often give your doctor enough information without a biopsy. However, a biopsy may still be needed in some situations where more detail is required, such as diagnosing the specific type of liver disease."
+            },
+            {
+              "q": "How often will I need a FibroScan?",
+              "a": "This depends on your condition. Many patients have a FibroScan every 6 to 12 months to track changes over time. Your doctor will recommend the right schedule for you."
+            },
+            {
+              "q": "Can eating before the test affect my results?",
+              "a": "Yes. Eating can temporarily increase liver stiffness and make your results less accurate. That is why you are asked to fast for at least 2 to 3 hours before the test."
+            },
+            {
+              "q": "Does my body weight or BMI affect the results?",
+              "a": "It can. In patients with a higher BMI, the standard probe may not get reliable readings. In these cases, the technician will use a larger XL probe, which is designed to work better through thicker body tissue. Your clinic will choose the right probe for you."
+            },
+            {
+              "q": "Will I get my results the same day?",
+              "a": "The technician can usually see the numbers right after the test. However, your doctor will review and interpret the results before discussing them with you, which may happen at a follow-up appointment."
+            },
+            {
+              "q": "Can I drive after a FibroScan?",
+              "a": "Yes. There is no sedation, no needles, and no recovery time. You can drive yourself home and return to all of your normal activities right away."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "knowledge-check",
+      "title": "Knowledge Check",
+      "subtitle": "Test what you have learned",
+      "icon": "🧠",
+      "color": "indigo",
+      "summary": "A few quick questions to make sure you feel confident about your FibroScan.",
+      "content": [
+        {
+          "type": "knowledge-check",
+          "items": [
+            {
+              "question": "What does a FibroScan measure?",
+              "options": [
+                "Blood flow to the liver",
+                "Liver stiffness and fat",
+                "Liver enzyme levels",
+                "The size of your gallbladder"
+              ],
+              "correct": 1,
+              "explanation": "A FibroScan measures liver stiffness (which indicates scarring) and liver fat (the CAP score). It does not measure blood flow, enzymes, or gallbladder size."
+            },
+            {
+              "question": "How should you prepare for a FibroScan?",
+              "options": [
+                "Eat a large meal 1 hour before",
+                "Take a sedative before arriving",
+                "Fast for 2 to 3 hours and avoid alcohol for 24 to 48 hours",
+                "No preparation is needed"
+              ],
+              "correct": 2,
+              "explanation": "You should fast for 2 to 3 hours and avoid alcohol for at least 24 hours before the test. Eating and alcohol can temporarily change your liver stiffness and make the results less accurate."
+            },
+            {
+              "question": "A liver stiffness result of less than 7 kPa generally means:",
+              "options": [
+                "Severe cirrhosis",
+                "Significant fibrosis",
+                "Normal — little or no scarring",
+                "The test was not done correctly"
+              ],
+              "correct": 2,
+              "explanation": "A stiffness score below 7 kPa is generally in the normal range, meaning there is little or no scarring in the liver."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Evidence and guidelines behind this information",
+      "icon": "📚",
+      "color": "gray",
+      "summary": "Trusted medical sources used to create this page.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            {
+              "text": "EASL Clinical Practice Guidelines on Non-Invasive Tests for Evaluation of Liver Disease Severity and Prognosis (2021)",
+              "url": "https://doi.org/10.1016/j.jhep.2021.05.025"
+            },
+            {
+              "text": "AASLD Practice Guidance on Clinical Assessment and Management of Nonalcoholic Fatty Liver Disease (2023)",
+              "url": "https://doi.org/10.1002/hep.32801"
+            },
+            {
+              "text": "Canadian Association of Gastroenterology Position Statement on Liver Elastography (2022)",
+              "url": "https://www.cag-acg.org/publications"
+            },
+            {
+              "text": "Baveno VII — Renewing Consensus in Portal Hypertension (2022)",
+              "url": "https://doi.org/10.1016/j.jhep.2021.12.022"
+            },
+            {
+              "text": "Echosens FibroScan Clinical Resources — Understanding Liver Stiffness Measurement",
+              "url": "https://www.echosens.com/clinical-resources"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

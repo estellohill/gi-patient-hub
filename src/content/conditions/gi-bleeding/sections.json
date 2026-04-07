@@ -1,0 +1,224 @@
+{
+  "hero": {
+    "title": "GI Bleeding",
+    "subtitle": "Understanding gastrointestinal bleeding and what to expect",
+    "description": "Everything you need to know about GI bleeding \u2014 what the different signs mean, common causes, how your medical team investigates the source, and what happens after an episode. Clear, trustworthy information to help you feel informed and prepared.",
+    "reassurance": "GI bleeding is understandably frightening, but most causes are treatable, and your medical team can identify and stop the source."
+  },
+  "sections": [
+    {
+      "id": "what-is-gi-bleeding",
+      "title": "What Is GI Bleeding?",
+      "subtitle": "Types of bleeding and what they look like",
+      "icon": "\ud83e\ude78",
+      "color": "rose",
+      "summary": "GI bleeding means bleeding somewhere in your digestive tract. The way the blood looks can tell your doctor a lot about where it is coming from.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Gastrointestinal (GI) bleeding means bleeding from anywhere in your digestive tract \u2014 from the esophagus (the tube connecting your mouth to your stomach) all the way down to the rectum. GI bleeding can range from very small amounts that you cannot see, to larger amounts that are obvious. The way the blood looks gives your doctor important clues about where the bleeding is coming from. Most causes of GI bleeding are not cancer, and many are very treatable."
+        },
+        {
+          "type": "risk-table",
+          "heading": "Blood Appearance Decoder \u2014 What It May Mean",
+          "intro": "The color and form of the blood can help point to the source. This is a general guide \u2014 your doctor will do a full assessment.",
+          "items": [
+            { "name": "Vomiting bright red blood (hematemesis)", "risk": "Upper GI", "description": "Usually means active bleeding from the esophagus, stomach, or upper small intestine. Needs urgent medical attention." },
+            { "name": "Vomiting dark, coffee-ground material", "risk": "Upper GI", "description": "Blood that has been in the stomach for a while turns dark and grainy. This also suggests an upper GI source." },
+            { "name": "Black, tarry, sticky stools (melena)", "risk": "Upper GI", "description": "Blood that travels through the full digestive tract turns black and has a strong smell. This usually points to a source in the stomach or upper intestine." },
+            { "name": "Bright red or maroon blood in the stool (hematochezia)", "risk": "Lower GI", "description": "Usually comes from the colon or rectum. Common causes include hemorrhoids, diverticulosis, and polyps." },
+            { "name": "Blood only on the toilet paper or in the bowl", "risk": "Lower GI", "description": "Often caused by hemorrhoids or a small tear (anal fissure) near the opening of the rectum. Usually not dangerous." },
+            { "name": "No visible blood (occult bleeding)", "risk": "Either", "description": "Sometimes bleeding is so small it can only be found with a stool test or blood work showing low iron. Your doctor may investigate with an endoscopy or colonoscopy." }
+          ]
+        },
+        {
+          "type": "key-points",
+          "heading": "Key facts about GI bleeding",
+          "points": [
+            { "heading": "Most causes are not cancer", "text": "The most common causes of GI bleeding are ulcers, hemorrhoids, and small blood vessel problems \u2014 all of which are treatable." },
+            { "heading": "Color is a clue", "text": "The color and appearance of the blood helps your doctor figure out where the bleeding is coming from and how urgently it needs to be treated." },
+            { "heading": "It can be obvious or hidden", "text": "Some bleeding is easy to see (in vomit or stool), while other bleeding is only found through lab tests. Both are important to investigate." },
+            { "heading": "Treatment is usually effective", "text": "Most GI bleeding can be stopped with medications, endoscopic procedures, or a combination of both. Your medical team has many tools to help." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "common-causes",
+      "title": "Common Causes",
+      "subtitle": "Upper and lower GI sources of bleeding",
+      "icon": "\ud83d\udd0d",
+      "color": "indigo",
+      "summary": "GI bleeding has many possible causes. The source is usually divided into upper GI (esophagus, stomach, upper small intestine) and lower GI (colon and rectum).",
+      "content": [
+        {
+          "type": "intro",
+          "text": "There are many possible causes of GI bleeding. Doctors divide them into upper GI causes (from the esophagus, stomach, or first part of the small intestine) and lower GI causes (from the colon or rectum). The tables below list the most common causes in each group. Your doctor will use the appearance of the bleeding, your symptoms, and test results to narrow down the source."
+        },
+        {
+          "type": "risk-table",
+          "heading": "Common Upper GI Causes",
+          "items": [
+            { "name": "Stomach or duodenal ulcers", "risk": "Very Common", "description": "Open sores in the stomach or upper intestine, often caused by H. pylori infection or anti-inflammatory medications (NSAIDs like ibuprofen). The most common cause of upper GI bleeding." },
+            { "name": "Erosive esophagitis", "risk": "Common", "description": "Irritation and small breaks in the lining of the esophagus, usually from acid reflux (GERD). Can cause slow or sudden bleeding." },
+            { "name": "Gastritis (stomach inflammation)", "risk": "Common", "description": "Inflammation of the stomach lining from medications, alcohol, or infection. Can cause slow blood loss over time." },
+            { "name": "Esophageal varices", "risk": "Less Common", "description": "Swollen veins in the esophagus, usually related to liver disease. Can bleed heavily and needs urgent treatment." },
+            { "name": "Mallory-Weiss tear", "risk": "Less Common", "description": "A small tear at the junction of the esophagus and stomach, often from forceful vomiting or retching. Usually heals on its own." }
+          ]
+        },
+        {
+          "type": "risk-table",
+          "heading": "Common Lower GI Causes",
+          "items": [
+            { "name": "Hemorrhoids", "risk": "Very Common", "description": "Swollen blood vessels in or around the rectum. The most common cause of bright red blood on the toilet paper or in the bowl. Usually not dangerous." },
+            { "name": "Diverticulosis", "risk": "Common", "description": "Small pouches in the colon wall that can occasionally bleed. Bleeding is usually painless, can be heavy, but often stops on its own." },
+            { "name": "Colon polyps", "risk": "Common", "description": "Small growths on the inside of the colon. Most polyps are not cancer, but some can bleed. Polyps are removed during colonoscopy." },
+            { "name": "Anal fissure", "risk": "Common", "description": "A small tear in the lining of the anus, often from hard stools. Causes bright red blood and pain with bowel movements." },
+            { "name": "Inflammatory bowel disease (IBD)", "risk": "Less Common", "description": "Conditions like Crohn's disease and ulcerative colitis can cause inflammation and bleeding in the colon." },
+            { "name": "Angiodysplasia", "risk": "Less Common", "description": "Fragile, abnormal blood vessels in the colon wall, more common in older adults. Can cause slow or intermittent bleeding." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "investigation",
+      "title": "Investigation",
+      "subtitle": "How your medical team finds the source",
+      "icon": "\ud83c\udfe5",
+      "color": "sky",
+      "summary": "Your medical team will use blood tests, imaging, and endoscopy to find the source of bleeding and decide on the best treatment.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "When you have GI bleeding, your medical team will work quickly to find out where the blood is coming from and how to stop it. The investigation usually follows a step-by-step approach, starting with basic tests and moving to more detailed procedures as needed. Here is what you can expect."
+        },
+        {
+          "type": "steps",
+          "heading": "How GI Bleeding Is Investigated",
+          "steps": [
+            "Assessment and stabilization \u2014 Your vital signs (heart rate, blood pressure) are checked and an IV is placed. If the bleeding is significant, fluids or blood transfusions may be given to keep you stable.",
+            "Blood tests \u2014 A complete blood count (CBC) checks your hemoglobin level to see how much blood you have lost. Other tests check your clotting, kidney function, and liver function.",
+            "History and physical exam \u2014 Your doctor will ask about the color and amount of bleeding, any medications you take (especially blood thinners and anti-inflammatory drugs), and your medical history.",
+            "Upper endoscopy (EGD) \u2014 If upper GI bleeding is suspected, a thin camera is passed through your mouth to examine your esophagus, stomach, and upper intestine. This is often done within 24 hours. Treatment can often be given during the same procedure.",
+            "Colonoscopy \u2014 If lower GI bleeding is suspected, a camera is used to examine the inside of your colon. A bowel preparation (drink) may be needed first. Bleeding sources can often be treated during the procedure.",
+            "Additional tests if needed \u2014 In rare cases where the source is not found by endoscopy or colonoscopy, other tests such as a CT angiogram (a special scan of blood vessels) or capsule endoscopy (a tiny camera you swallow) may be used."
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "What about blood thinners?",
+          "text": "If you take blood thinners (such as warfarin, apixaban, rivaroxaban, or clopidogrel) or anti-inflammatory medications (such as ibuprofen or naproxen), tell your medical team right away. These medications can contribute to bleeding and may need to be paused temporarily. Never stop a blood thinner on your own without medical advice \u2014 your doctor will weigh the risk of bleeding against the reason you are taking the medication and decide the safest approach."
+        }
+      ]
+    },
+    {
+      "id": "after-the-episode",
+      "title": "After the Episode",
+      "subtitle": "Follow-up care and preventing recurrence",
+      "icon": "\u2705",
+      "color": "emerald",
+      "summary": "Once the bleeding has stopped, follow-up care is important to treat the underlying cause and prevent it from happening again.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "After a GI bleeding episode, the most important step is treating the underlying cause and reducing the chance of it happening again. Your doctor will create a follow-up plan based on what was found. Here is a general guide to what you can expect."
+        },
+        {
+          "type": "checklist",
+          "heading": "Post-Episode Follow-Up Checklist",
+          "storageKey": "gi-bleeding-followup-checklist",
+          "items": [
+            "Attend your follow-up appointment with your gastroenterologist (usually within 2 to 4 weeks)",
+            "If an ulcer was found, complete your full course of PPI (acid-suppressing medication) as prescribed",
+            "If H. pylori was detected, complete your full course of antibiotics and confirm the infection is cleared",
+            "Have your hemoglobin and iron levels rechecked as recommended by your doctor",
+            "If you were started on iron supplements, take them as directed \u2014 it may take several weeks to feel your energy return",
+            "Review all your medications with your doctor, especially blood thinners and anti-inflammatory drugs",
+            "If a colonoscopy or repeat endoscopy was recommended, schedule it within the timeframe your doctor suggested"
+          ]
+        },
+        {
+          "type": "medication-table",
+          "heading": "Medications You May Be Prescribed After a Bleeding Episode",
+          "items": [
+            { "med": "PPI (Omeprazole, Pantoprazole)", "note": "Reduces stomach acid to help ulcers and erosions heal. Usually taken once daily before breakfast for 4 to 8 weeks, sometimes longer." },
+            { "med": "Iron supplements (Ferrous fumarate, Ferrous sulfate)", "note": "Replaces iron lost from bleeding. Take on an empty stomach if tolerated. May cause dark stools and constipation \u2014 this is normal." },
+            { "med": "H. pylori treatment (antibiotics + PPI)", "note": "If H. pylori infection was found, a combination of antibiotics and a PPI is taken for 14 days to clear the infection." },
+            { "med": "Blood thinner adjustments", "note": "Your doctor may temporarily pause, adjust, or restart blood thinners based on the cause and severity of bleeding. Never change these medications on your own." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Warning signs that need immediate attention",
+      "icon": "\ud83d\udea8",
+      "color": "rose",
+      "summary": "Some signs of GI bleeding need urgent medical attention. Know when to call your doctor and when to call 911.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "Vomiting blood or material that looks like coffee grounds",
+            "Black, tarry stools with a strong smell",
+            "Large amounts of bright red blood in the stool",
+            "Feeling dizzy, lightheaded, or faint",
+            "Rapid heartbeat or feeling like your heart is racing",
+            "Shortness of breath or extreme weakness",
+            "Passing out or nearly passing out",
+            "Signs of bleeding that return after a previous episode"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "When to call 911",
+          "text": "Call 911 or go to the nearest emergency department right away if you are vomiting large amounts of blood, passing out, or feel extremely dizzy and weak. Heavy GI bleeding can cause a dangerous drop in blood pressure. Do not drive yourself \u2014 call for help."
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common questions about GI bleeding",
+      "icon": "\u2753",
+      "color": "amber",
+      "summary": "Got questions about GI bleeding? Here are clear answers to the things patients ask most often.",
+      "content": [
+        {
+          "type": "faq",
+          "questions": [
+            { "q": "Does GI bleeding mean I have cancer?", "a": "In most cases, no. The most common causes of GI bleeding are ulcers, hemorrhoids, and diverticulosis \u2014 none of which are cancer. However, your doctor may recommend tests like an endoscopy or colonoscopy to check for any concerning findings and give you peace of mind. Finding the cause is the best way to put your mind at ease." },
+            { "q": "Does black stool always mean bleeding?", "a": "Not always. Certain medications (like iron supplements and bismuth/Pepto-Bismol) and foods (like blueberries and black licorice) can turn your stool dark or black. However, black, tarry, sticky stools with a strong smell (called melena) are a sign of bleeding in the upper digestive tract and should be checked by a doctor." },
+            { "q": "How much bleeding is dangerous?", "a": "Any amount of GI bleeding is worth mentioning to your doctor. However, signs that bleeding may be more serious include feeling dizzy or lightheaded, a racing heartbeat, passing large amounts of blood, or blood that does not stop. If you have any of these symptoms, seek medical care right away." },
+            { "q": "Will I need a blood transfusion?", "a": "It depends on how much blood you have lost. Your doctor will check your hemoglobin level with a blood test. If your levels are low enough to cause symptoms (like fatigue, dizziness, or shortness of breath), a transfusion may be recommended to help you recover faster. Transfusions are safe and very commonly given." },
+            { "q": "Can ibuprofen or aspirin cause GI bleeding?", "a": "Yes. Non-steroidal anti-inflammatory drugs (NSAIDs) like ibuprofen, naproxen, and aspirin can irritate the stomach lining and increase the risk of ulcers and bleeding, especially with regular use. If you have had a GI bleed, talk to your doctor before taking these medications again. Acetaminophen (Tylenol) is usually a safer alternative for pain relief." },
+            { "q": "What if I take blood thinners \u2014 do I have to stop them?", "a": "Not necessarily. Blood thinners are often prescribed for important reasons like preventing strokes or blood clots. Your doctor will carefully weigh the risk of bleeding against the risk of stopping the blood thinner. In some cases, the medication is temporarily paused, but this decision is always made by your medical team. Never stop blood thinners on your own." },
+            { "q": "Are hemorrhoids something to worry about?", "a": "Hemorrhoids are very common and are not dangerous. They are the most frequent cause of bright red blood on the toilet paper or in the bowl. However, you should not assume that bleeding is just from hemorrhoids without seeing your doctor, especially if you are over 45 or have other symptoms like weight loss or a change in bowel habits." },
+            { "q": "Will the bleeding come back?", "a": "It depends on the cause. Once the underlying problem is treated (for example, an ulcer is healed, a polyp is removed, or H. pylori is cleared), the risk of recurrence goes down significantly. Following your doctor's treatment plan, attending follow-up appointments, and avoiding medications that increase bleeding risk are the best ways to prevent a repeat episode." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Guidelines and resources used in this guide",
+      "icon": "\ud83d\udcda",
+      "color": "rose",
+      "summary": "This guide is based on current Canadian and international gastroenterology guidelines.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            { "text": "American College of Gastroenterology \u2014 Clinical Guideline on Upper GI Bleeding (2021)" },
+            { "text": "American College of Gastroenterology \u2014 Clinical Guideline on Lower GI Bleeding (2023)" },
+            { "text": "ASGE Standards of Practice \u2014 Role of Endoscopy in the Management of GI Bleeding (2021)" },
+            { "text": "Canadian Association of Gastroenterology \u2014 GI Bleeding Patient Information" }
+          ]
+        }
+      ]
+    }
+  ]
+}

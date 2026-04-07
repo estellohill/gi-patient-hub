@@ -1,0 +1,18 @@
+{
+  "slug": "hemochromatosis",
+  "title": "Hemochromatosis",
+  "shortTitle": "Hemochromatosis",
+  "subtitle": "Understanding hereditary iron overload and how it is treated",
+  "icon": "🩸",
+  "color": "emerald",
+  "description": "Clear, evidence-based information about hemochromatosis (hereditary iron overload) — symptoms, diagnosis, phlebotomy treatment, and family screening. Created by a Canadian gastroenterologist.",
+  "category": "liver",
+  "prevalence": "Common",
+  "lastReviewed": "2026-03-29",
+  "guidelines": [
+    { "society": "AASLD", "title": "AASLD Practice Guideline — Iron Overload", "year": 2011 },
+    { "society": "EASL", "title": "EASL Clinical Practice Guidelines on Hemochromatosis", "year": 2022 },
+    { "society": "CMA", "title": "CMA Hemochromatosis Guidelines", "year": 2023 }
+  ],
+  "enabled": true
+}

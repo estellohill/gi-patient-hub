@@ -1,0 +1,18 @@
+{
+  "slug": "chronic-diarrhea",
+  "title": "Chronic Diarrhea",
+  "shortTitle": "Chronic Diarrhea",
+  "subtitle": "Understanding and investigating persistent loose stools",
+  "icon": "💧",
+  "color": "amber",
+  "description": "Clear, evidence-based information about chronic diarrhea — common causes, how it is investigated, and treatments that work. Created by a Canadian gastroenterologist.",
+  "category": "lower-gi",
+  "prevalence": "Common",
+  "lastReviewed": "2026-03-29",
+  "guidelines": [
+    { "society": "ACG", "title": "American College of Gastroenterology Guideline on Chronic Diarrhea", "year": 2019 },
+    { "society": "AGA", "title": "AGA Clinical Practice Guidelines on the Laboratory Evaluation of Chronic Diarrhea", "year": 2019 },
+    { "society": "BSG", "title": "British Society of Gastroenterology Guidelines on Chronic Diarrhea", "year": 2018 }
+  ],
+  "enabled": true
+}

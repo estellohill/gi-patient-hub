@@ -1,0 +1,205 @@
+{
+  "hero": {
+    "title": "Barrett's Esophagus",
+    "subtitle": "Understanding Barrett's esophagus and your surveillance plan",
+    "description": "Everything you need to know about Barrett's esophagus \u2014 what it is, why your cancer risk is actually very low, how often you need check-ups, and what treatment looks like. Clear, trustworthy information to help you feel informed and reassured.",
+    "reassurance": "Barrett's esophagus sounds frightening, but the actual risk of developing cancer is very low \u2014 less than 0.5% per year. With proper surveillance, it is safely monitored."
+  },
+  "sections": [
+    {
+      "id": "what-is-barretts",
+      "title": "What Is Barrett's?",
+      "subtitle": "How it develops and what it looks like",
+      "icon": "\ud83d\udd2c",
+      "color": "purple",
+      "summary": "Barrett's esophagus is a change in the lining of your esophagus caused by long-term acid reflux. It is not cancer, and for most people it never becomes cancer.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Barrett's esophagus is a condition where the normal lining of the lower esophagus (the tube that carries food from your mouth to your stomach) changes to a different type of tissue. This change happens because of long-term exposure to stomach acid, usually from years of acid reflux (GERD). Your doctor likely found Barrett's during an upper endoscopy \u2014 a camera test that looks inside your esophagus and stomach. During the procedure, the doctor saw an area where the normal pale pink lining had changed to a salmon-colored lining. Small tissue samples (biopsies) were taken to confirm the diagnosis under a microscope."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            { "heading": "Not cancer", "text": "Barrett's esophagus is not cancer. It is a change in the type of cells lining your esophagus. Most people with Barrett's never develop cancer." },
+            { "heading": "Very low cancer risk", "text": "The risk of Barrett's turning into esophageal cancer is less than 0.5% per year. That means more than 99 out of 100 people with Barrett's will not develop cancer in any given year." },
+            { "heading": "Caused by acid reflux", "text": "Barrett's develops when stomach acid repeatedly washes into the lower esophagus over many years. The cells change as a way of protecting themselves from the acid." },
+            { "heading": "Found during endoscopy", "text": "Barrett's is usually discovered during an upper endoscopy done for reflux symptoms. It looks like a salmon-colored patch in the normally pale pink esophagus." },
+            { "heading": "Safely monitored", "text": "Once Barrett's is found, your doctor will set up a surveillance plan with regular endoscopies to watch for any changes. This is how we keep you safe." }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Why does this happen?",
+          "text": "When stomach acid flows back into the esophagus over and over again, the cells in the lower esophagus can change to become more like the cells that line the intestine. This is the body's way of trying to protect itself from the acid. Doctors call this change \"intestinal metaplasia.\" It is a slow process that happens over many years. Having Barrett's means your body has been dealing with acid reflux for a long time, even if you did not always have symptoms."
+        }
+      ]
+    },
+    {
+      "id": "understanding-your-risk",
+      "title": "Understanding Your Risk",
+      "subtitle": "What dysplasia means and why your risk is very low",
+      "icon": "\ud83d\udcca",
+      "color": "purple",
+      "summary": "The key factor that determines your cancer risk is whether there is dysplasia (abnormal cells) in your biopsies. Most people with Barrett's have no dysplasia, which means their risk is very low.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "When your doctor takes biopsies during an endoscopy, a pathologist looks at the tissue under a microscope to check for dysplasia. Dysplasia means the cells have started to look slightly abnormal. It is not cancer, but it tells your doctor how closely to watch you. The vast majority of people with Barrett's have no dysplasia at all, and their cancer risk is very low."
+        },
+        {
+          "type": "risk-table",
+          "heading": "Dysplasia Classification and Annual Cancer Risk",
+          "intro": "This table shows the different levels of dysplasia and what they mean for your cancer risk each year. Most Barrett's patients fall into the first category.",
+          "items": [
+            { "name": "No dysplasia", "risk": "Very Low (0.1\u20130.3% per year)", "description": "The cells look normal under the microscope. This is the most common finding. Your risk of cancer is extremely low. Routine surveillance is all that is needed." },
+            { "name": "Indefinite for dysplasia", "risk": "Very Low", "description": "The pathologist sees some changes but cannot tell if they are truly abnormal. This can happen when there is inflammation from acid. Your doctor will optimize your reflux treatment and repeat the endoscopy." },
+            { "name": "Low-grade dysplasia (LGD)", "risk": "Low (0.5\u20131% per year)", "description": "Mild cell changes are present. Your doctor will have a second expert pathologist review the biopsies to confirm. You may be offered closer surveillance or treatment." },
+            { "name": "High-grade dysplasia (HGD)", "risk": "Moderate (5\u20138% per year)", "description": "More significant cell changes are present but it is still not cancer. Treatment is usually recommended at this stage. Effective endoscopic treatments are available." }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "success",
+          "title": "The big picture: cancer is rare",
+          "text": "The overwhelming majority of people with Barrett's esophagus never develop cancer. The lifetime risk for someone with Barrett's and no dysplasia is estimated at around 5%. With a proper surveillance program, even the small number of people who do develop changes can be caught and treated early \u2014 often with a simple endoscopic procedure, not surgery."
+        }
+      ]
+    },
+    {
+      "id": "surveillance-plan",
+      "title": "Surveillance Plan",
+      "subtitle": "How often you need an endoscopy and what to expect",
+      "icon": "\ud83d\udcc5",
+      "color": "purple",
+      "summary": "Your surveillance schedule depends on your biopsy results. Most people with no dysplasia only need an endoscopy every 3 to 5 years.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Surveillance means having regular upper endoscopies to check your Barrett's tissue for any changes. Your doctor will take multiple biopsies following a method called the Seattle protocol \u2014 this means taking small tissue samples every 1 to 2 centimeters along the Barrett's segment, as well as from any areas that look unusual. This systematic approach helps make sure nothing is missed."
+        },
+        {
+          "type": "frequency-table",
+          "heading": "Recommended Surveillance Intervals",
+          "items": [
+            { "scenario": "No dysplasia (short segment, less than 3 cm)", "interval": "Every 5 years" },
+            { "scenario": "No dysplasia (long segment, 3 cm or more)", "interval": "Every 3 years" },
+            { "scenario": "Indefinite for dysplasia", "interval": "Repeat in 6 months after optimizing acid control" },
+            { "scenario": "Low-grade dysplasia (confirmed)", "interval": "Every 6 to 12 months, or consider treatment" },
+            { "scenario": "High-grade dysplasia", "interval": "Treatment recommended (endoscopic eradication therapy)" }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "What is the Seattle protocol?",
+          "text": "The Seattle protocol is the standard approach used during Barrett's surveillance. Your doctor uses the endoscope camera to carefully examine the Barrett's tissue, then takes four biopsies (one from each quadrant of the esophagus) at regular intervals along the entire Barrett's segment. This method gives the pathologist the best chance of finding any early changes. The biopsies are small and the procedure is similar to a regular endoscopy \u2014 you will be sedated and it typically takes about 15 to 20 minutes."
+        }
+      ]
+    },
+    {
+      "id": "treatment",
+      "title": "Treatment",
+      "subtitle": "Acid control, lifestyle changes, and endoscopic options",
+      "icon": "\ud83d\udc8a",
+      "color": "blue",
+      "summary": "Treatment for Barrett's focuses on controlling acid reflux with medication and lifestyle changes. If dysplasia develops, safe and effective endoscopic treatments are available.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "The foundation of Barrett's treatment is controlling your acid reflux. This means taking a daily proton pump inhibitor (PPI) and making lifestyle changes to reduce acid exposure. For most people with Barrett's and no dysplasia, this is all that is needed. If dysplasia is found, your doctor may recommend endoscopic treatment to remove the abnormal tissue."
+        },
+        {
+          "type": "medication-table",
+          "heading": "Medications for Barrett's Esophagus",
+          "items": [
+            { "med": "PPIs (Omeprazole, Pantoprazole, Esomeprazole)", "note": "The cornerstone of Barrett's treatment. Taken once or twice daily to suppress stomach acid. This protects the esophagus and may reduce the risk of further changes." },
+            { "med": "H2 blockers (Famotidine)", "note": "Sometimes added at bedtime for extra nighttime acid control, especially if you have symptoms at night." }
+          ]
+        },
+        {
+          "type": "key-points",
+          "heading": "Endoscopic Treatment Options (for dysplasia)",
+          "points": [
+            { "heading": "Radiofrequency ablation (RFA)", "text": "A thin balloon or paddle delivers heat energy to destroy the Barrett's tissue. This is the most common and well-studied treatment. It is done during an endoscopy and most people go home the same day." },
+            { "heading": "Endoscopic mucosal resection (EMR)", "text": "A technique to remove small raised areas or nodules in the Barrett's tissue. It is often used together with RFA when there is a visible bump that needs to be removed and examined." },
+            { "heading": "Cryotherapy", "text": "Uses extreme cold (freezing) to destroy abnormal tissue. This is sometimes used when RFA is not suitable or as an alternative approach." }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Most people do not need endoscopic treatment",
+          "text": "Endoscopic treatments like RFA are only needed if dysplasia is found. If your biopsies show no dysplasia, your treatment is simply a daily PPI, healthy lifestyle changes, and regular surveillance. These endoscopic treatments are very effective when needed \u2014 they eliminate dysplasia in over 90% of patients."
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Symptoms that should prompt a call to your doctor",
+      "icon": "\ud83d\udea8",
+      "color": "rose",
+      "summary": "Barrett's itself rarely causes symptoms, but certain new or worsening signs should be discussed with your doctor.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "New or worsening difficulty swallowing",
+            "Food feeling stuck in your chest or throat",
+            "Unintentional weight loss of more than 5 pounds",
+            "Vomiting blood or material that looks like coffee grounds",
+            "Black, tarry stools",
+            "Chest pain that feels different from your usual reflux",
+            "Reflux symptoms getting worse despite taking your PPI",
+            "Any new symptoms that concern you \u2014 it is always okay to call and ask"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common questions about Barrett's esophagus",
+      "icon": "\u2753",
+      "color": "amber",
+      "summary": "Got questions about Barrett's? Here are clear answers to the things patients ask most often.",
+      "content": [
+        {
+          "type": "faq",
+          "questions": [
+            { "q": "Does Barrett's esophagus mean I have cancer?", "a": "No. Barrett's esophagus is not cancer. It is a change in the lining of your esophagus caused by acid reflux. The risk of it ever becoming cancer is very low \u2014 less than 0.5% per year for people without dysplasia. Most people with Barrett's never develop cancer." },
+            { "q": "Will I need to take a PPI forever?", "a": "In most cases, yes. A daily PPI is the main treatment for Barrett's esophagus because it keeps stomach acid under control and protects your esophagus. PPIs are well-studied, safe for long-term use, and the benefits for Barrett's patients clearly outweigh any small risks. Your doctor will review this with you regularly." },
+            { "q": "Can Barrett's go away on its own?", "a": "Barrett's esophagus does not usually go away on its own. In rare cases, the tissue may partially revert with good acid control, but this is not common or expected. The goal of treatment is to control acid, prevent progression, and monitor for changes \u2014 not necessarily to reverse the Barrett's itself." },
+            { "q": "Why do I need repeated endoscopies?", "a": "Regular endoscopies with biopsies are the best way to check for early changes in the Barrett's tissue. Because any changes happen slowly over time, your doctor needs to look periodically. The intervals are based on your biopsy results \u2014 most people only need one every 3 to 5 years. Think of it as a safety net that catches problems early when they are easiest to treat." },
+            { "q": "Is the cancer risk really that low?", "a": "Yes. Research consistently shows that the annual risk of cancer in people with Barrett's and no dysplasia is between 0.1% and 0.3% per year. To put it another way, more than 99 out of 100 people with Barrett's will not develop cancer in any given year. Surveillance programs make the risk even lower because they catch changes at the earliest, most treatable stage." },
+            { "q": "Should my family members be screened?", "a": "Barrett's itself is not directly inherited, but a tendency toward GERD can run in families. Current guidelines suggest screening first-degree relatives only if there is a strong family history of Barrett's or esophageal cancer. Talk to your doctor if you are concerned about family members." },
+            { "q": "Can I still drink coffee or alcohol?", "a": "Moderate coffee and alcohol intake are generally acceptable, but both can worsen acid reflux symptoms in some people. Pay attention to how your body reacts. If coffee or alcohol makes your reflux worse, consider cutting back. There is no strong evidence that coffee or alcohol directly makes Barrett's worse, but good acid control is important." },
+            { "q": "What is radiofrequency ablation (RFA) like?", "a": "RFA is done during a regular upper endoscopy while you are sedated. A thin device is passed through the endoscope and delivers heat energy to the Barrett's tissue. The procedure itself takes about 15 to 30 minutes. You may have some chest discomfort or difficulty swallowing for a few days afterward, but most people recover quickly. Several sessions may be needed, spaced about 3 months apart." },
+            { "q": "Will I always need surveillance endoscopies?", "a": "For most patients, surveillance continues long-term because Barrett's tissue can still be present even when biopsies look normal. However, the intervals are usually quite spread out \u2014 every 3 to 5 years for people without dysplasia. If you have had successful endoscopic treatment and Barrett's has been completely eliminated, your doctor will discuss whether continued surveillance is still needed." },
+            { "q": "Should I take aspirin to prevent cancer?", "a": "Some studies have suggested that aspirin may have a small protective effect against esophageal cancer, but current guidelines do not recommend taking aspirin specifically for Barrett's. Aspirin carries its own risks, including stomach bleeding. Do not start aspirin for this purpose unless your doctor specifically recommends it for you." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Guidelines and resources used in this guide",
+      "icon": "\ud83d\udcda",
+      "color": "purple",
+      "summary": "This guide is based on current international gastroenterology guidelines for Barrett's esophagus.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            { "text": "American College of Gastroenterology \u2014 Clinical Guideline on Barrett's Esophagus (2022)" },
+            { "text": "AGA Clinical Practice Update on Barrett's Esophagus (2022)" },
+            { "text": "British Society of Gastroenterology \u2014 Guidelines on Barrett's Oesophagus (2023)" },
+            { "text": "ASGE Guideline on Screening and Surveillance of Barrett's Esophagus (2019)" },
+            { "text": "Canadian Association of Gastroenterology \u2014 GERD Consensus Statement (2024)" }
+          ]
+        }
+      ]
+    }
+  ]
+}

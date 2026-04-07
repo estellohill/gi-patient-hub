@@ -1,0 +1,18 @@
+{
+  "slug": "microscopic-colitis",
+  "title": "Microscopic Colitis",
+  "shortTitle": "Microscopic Colitis",
+  "subtitle": "Understanding and managing this common cause of chronic watery diarrhea",
+  "icon": "🔬",
+  "color": "sky",
+  "description": "Clear, evidence-based information about microscopic colitis — what it is, why biopsies matter, treatment options, and how to manage flares. Created by a Canadian gastroenterologist.",
+  "category": "lower-gi",
+  "prevalence": "Common",
+  "lastReviewed": "2026-03-29",
+  "guidelines": [
+    { "society": "AGA", "title": "AGA Clinical Practice Guidelines on the Management of Microscopic Colitis", "year": 2016 },
+    { "society": "ACG", "title": "ACG Clinical Guideline on Microscopic Colitis", "year": 2024 },
+    { "society": "EMCG", "title": "European Microscopic Colitis Group Consensus Statements", "year": 2021 }
+  ],
+  "enabled": true
+}

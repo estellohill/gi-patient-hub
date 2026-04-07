@@ -1,0 +1,18 @@
+{
+  "slug": "crohns-disease",
+  "title": "Crohn's Disease",
+  "shortTitle": "Crohn's",
+  "subtitle": "Understanding and managing Crohn's disease",
+  "icon": "\ud83e\udec1",
+  "color": "indigo",
+  "description": "Clear, evidence-based information about Crohn's disease \u2014 symptoms, treatments, nutrition, monitoring, and living well. Created by a Canadian gastroenterologist.",
+  "category": "lower-gi",
+  "prevalence": "Common",
+  "lastReviewed": "2026-03-29",
+  "guidelines": [
+    { "society": "CAG", "title": "Canadian Association of Gastroenterology IBD Clinical Practice Guideline", "year": 2023 },
+    { "society": "ACG", "title": "American College of Gastroenterology Crohn's Disease Guideline", "year": 2018 },
+    { "society": "AGA", "title": "AGA Clinical Practice Guideline on Management of Moderate-to-Severe Crohn's Disease", "year": 2021 }
+  ],
+  "enabled": true
+}

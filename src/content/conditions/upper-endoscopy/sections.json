@@ -1,0 +1,247 @@
+{
+  "hero": {
+    "title": "Upper Endoscopy (EGD)",
+    "subtitle": "What to expect before, during, and after your upper endoscopy",
+    "description": "Everything you need to know about your upcoming upper endoscopy \u2014 how to prepare, what happens during the procedure, and what to expect afterward. Clear, trustworthy information to help you feel ready and at ease.",
+    "reassurance": "An upper endoscopy is a safe, quick procedure \u2014 similar to a colonoscopy but even faster. You will be asleep and it takes about 10 minutes."
+  },
+  "sections": [
+    {
+      "id": "what-is-egd",
+      "title": "What Is an EGD?",
+      "subtitle": "A simple camera test to look at your upper digestive tract",
+      "icon": "\ud83d\udd0d",
+      "color": "sky",
+      "summary": "An upper endoscopy (EGD) is a quick, safe procedure where a thin, flexible camera is used to look at your esophagus, stomach, and the first part of your small intestine.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "An upper endoscopy \u2014 also called an EGD (esophagogastroduodenoscopy) \u2014 is a procedure where a gastroenterologist uses a thin, flexible tube with a tiny camera on the end to look at the inside of your esophagus (the tube that carries food from your mouth to your stomach), your stomach, and the first part of your small intestine (the duodenum). The camera sends pictures to a screen so your doctor can see the lining of your upper digestive tract in detail. If needed, your doctor can also take small tissue samples (biopsies) or treat certain problems during the same procedure."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            { "heading": "Quick and common", "text": "An upper endoscopy usually takes about 10 minutes. It is one of the most commonly performed procedures in gastroenterology." },
+            { "heading": "You will be asleep", "text": "You will receive sedation (medication through an IV) so you are asleep and comfortable during the procedure. Most people do not remember it at all." },
+            { "heading": "Simpler than a colonoscopy", "text": "Unlike a colonoscopy, there is no bowel prep \u2014 no drinking large volumes of laxative solution. Preparation is much simpler: you just need to stop eating and drinking before the procedure." },
+            { "heading": "Very safe", "text": "Serious complications are very rare. Upper endoscopy has been performed safely on millions of patients worldwide." }
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "How the Procedure Works",
+          "steps": [
+            "You arrive at the endoscopy unit and change into a hospital gown",
+            "A nurse places an IV line in your arm and connects monitoring equipment (heart rate, blood pressure, oxygen level)",
+            "You lie on your left side and receive sedation through the IV \u2014 you fall asleep within seconds",
+            "The doctor gently passes the thin, flexible scope through your mouth and into your esophagus, stomach, and duodenum",
+            "The camera sends live images to a screen so the doctor can examine the lining in detail",
+            "If needed, the doctor takes small biopsies (painless tissue samples) or performs treatments",
+            "The scope is removed and you are moved to a recovery area to wake up"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "why-you-might-need-one",
+      "title": "Why You Might Need One",
+      "subtitle": "Common reasons your doctor may recommend an upper endoscopy",
+      "icon": "\ud83d\udccb",
+      "color": "sky",
+      "summary": "There are many reasons your doctor may recommend an upper endoscopy. It is used to investigate symptoms, screen for problems, and sometimes treat conditions directly.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Your doctor may recommend an upper endoscopy for a variety of reasons. It is one of the best tools we have to look directly at the upper digestive tract and figure out what may be causing your symptoms. In some cases, it is also used for screening or to follow up on a known condition."
+        },
+        {
+          "type": "key-points",
+          "heading": "Common reasons for an EGD",
+          "points": [
+            { "heading": "Heartburn or GERD not responding to treatment", "text": "If acid reflux symptoms persist despite medication, your doctor may want to look for irritation, narrowing, or changes in the esophagus lining." },
+            { "heading": "Difficulty swallowing", "text": "If food feels like it is getting stuck or if swallowing is painful, an endoscopy can check for narrowing, inflammation, or other causes." },
+            { "heading": "Unexplained stomach pain or indigestion", "text": "Persistent upper abdominal pain or nausea that is not improving may need a closer look to find the cause." },
+            { "heading": "Screening for Barrett's esophagus", "text": "If you have had long-standing acid reflux, your doctor may want to check for changes in the esophagus lining called Barrett's esophagus." },
+            { "heading": "Celiac disease investigation", "text": "Small intestine biopsies taken during an upper endoscopy are an important step in diagnosing celiac disease." },
+            { "heading": "Anemia or iron deficiency", "text": "When the cause of low iron or anemia is not clear, your doctor may check for bleeding or other problems in the upper digestive tract." },
+            { "heading": "Monitoring a known condition", "text": "If you have been diagnosed with Barrett's esophagus, gastric ulcers, or certain other conditions, regular endoscopies help your doctor keep an eye on things." },
+            { "heading": "Nausea, vomiting, or weight loss", "text": "Persistent or unexplained nausea, vomiting, or weight loss may prompt your doctor to investigate with an upper endoscopy." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "preparation",
+      "title": "Preparation",
+      "subtitle": "Getting ready for your upper endoscopy \u2014 it is simpler than you think",
+      "icon": "\u2705",
+      "color": "emerald",
+      "summary": "Preparing for an upper endoscopy is straightforward. There is no bowel prep \u2014 you mainly just need to stop eating and drinking ahead of time and check on a few medications.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "One of the biggest differences between an upper endoscopy and a colonoscopy is the preparation. For an upper endoscopy, there is no bowel prep \u2014 no drinking large volumes of laxative solution. The preparation is simple and quick. Your endoscopy unit will give you specific instructions, but here is what to expect in general."
+        },
+        {
+          "type": "checklist",
+          "heading": "Pre-Procedure Checklist",
+          "storageKey": "egd-prep-checklist",
+          "items": [
+            "Stop eating solid food at least 8 hours before your procedure (usually nothing after midnight the night before)",
+            "Stop drinking clear liquids at least 2 hours before your procedure (water, apple juice, black coffee or tea without milk)",
+            "Arrange a ride home \u2014 you cannot drive for 24 hours after sedation",
+            "Arrange for someone to stay with you for the rest of the day after the procedure",
+            "Ask your doctor about your regular medications \u2014 some may need to be adjusted",
+            "Bring your health card and a list of your current medications",
+            "Wear comfortable, loose-fitting clothing"
+          ]
+        },
+        {
+          "type": "medication-table",
+          "heading": "Medications to Discuss with Your Doctor",
+          "items": [
+            { "med": "Blood thinners (Warfarin, Eliquis, Xarelto, Plavix)", "note": "Your doctor will tell you if and when to stop these before the procedure. Do NOT stop them on your own without being told to." },
+            { "med": "Diabetes medications (Insulin, Metformin)", "note": "You may need to adjust your dose since you will be fasting. Ask your doctor for specific instructions." },
+            { "med": "Blood pressure and heart medications", "note": "Most can be taken the morning of the procedure with a small sip of water. Confirm with your endoscopy unit." }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "success",
+          "title": "No bowel prep needed",
+          "text": "Unlike a colonoscopy, an upper endoscopy does not require any bowel preparation. You do not need to drink laxative solution. Just follow the fasting instructions and you are all set."
+        }
+      ]
+    },
+    {
+      "id": "what-to-expect",
+      "title": "What to Expect",
+      "subtitle": "Before, during, and after your procedure",
+      "icon": "\ud83c\udfe5",
+      "color": "blue",
+      "summary": "Knowing what to expect on the day of your procedure can help ease any nervousness. Here is a step-by-step walkthrough of your experience.",
+      "content": [
+        {
+          "type": "phases",
+          "phases": [
+            {
+              "phase": "Before the Procedure",
+              "icon": "\ud83d\udccb",
+              "items": [
+                "You will check in at the endoscopy unit and change into a hospital gown",
+                "A nurse will review your medical history, allergies, and medications",
+                "An IV line will be placed in your arm for sedation and fluids",
+                "Monitoring equipment will be attached to track your heart rate, blood pressure, and oxygen level",
+                "You will have a chance to ask your doctor any last questions before the procedure begins",
+                "A small mouth guard may be placed between your teeth to protect them and the scope"
+              ]
+            },
+            {
+              "phase": "During the Procedure (about 10 minutes)",
+              "icon": "\ud83e\ude7a",
+              "items": [
+                "Sedation is given through your IV \u2014 you will fall asleep quickly and comfortably",
+                "The doctor gently passes the thin, flexible scope through your mouth",
+                "You will not feel pain \u2014 the sedation keeps you comfortable throughout",
+                "The camera shows detailed images of your esophagus, stomach, and duodenum on a screen",
+                "Biopsies (tiny tissue samples) may be taken \u2014 this is painless",
+                "The entire procedure usually takes about 10 minutes"
+              ]
+            },
+            {
+              "phase": "After the Procedure",
+              "icon": "\u2615",
+              "items": [
+                "You will rest in a recovery area for 30 to 60 minutes while the sedation wears off",
+                "Your doctor or nurse will share the initial findings with you before you leave",
+                "A mild sore throat or bloating is normal and usually goes away within a day",
+                "You can eat and drink normally once you feel ready \u2014 start with something light",
+                "You must not drive, operate machinery, or make important decisions for 24 hours after sedation",
+                "Biopsy results, if any were taken, usually come back in 1 to 2 weeks"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "A sore throat is normal",
+          "text": "It is very common to have a mild sore throat for a day or two after the procedure. This is normal and goes away on its own. Warm drinks and throat lozenges can help."
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Rare symptoms that need prompt medical attention",
+      "icon": "\ud83d\udea8",
+      "color": "rose",
+      "summary": "Complications after an upper endoscopy are very rare, but it is important to know the warning signs just in case.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "Severe or worsening throat, chest, or abdominal pain",
+            "Difficulty swallowing that gets worse instead of better",
+            "Fever or chills after the procedure",
+            "Vomiting blood or material that looks like coffee grounds",
+            "Black, tarry stools",
+            "Persistent bleeding from the mouth or throat",
+            "Shortness of breath or difficulty breathing"
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Complications are very rare",
+          "text": "Serious complications from an upper endoscopy happen in fewer than 1 in 1,000 procedures. The most common issue is a mild sore throat. If you do notice any of the warning signs listed above, contact your endoscopy unit or go to your nearest emergency department."
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common questions about upper endoscopy",
+      "icon": "\u2753",
+      "color": "amber",
+      "summary": "Got questions about your upcoming upper endoscopy? Here are clear answers to the things patients ask most often.",
+      "content": [
+        {
+          "type": "faq",
+          "questions": [
+            { "q": "Will I gag during the procedure?", "a": "No. You will be given sedation through an IV, which puts you to sleep before the scope is passed. You will not gag, and most patients do not remember the procedure at all. The sedation works very quickly and keeps you comfortable throughout." },
+            { "q": "Will I feel any pain?", "a": "The vast majority of patients feel no pain at all. You are asleep during the procedure, and the scope is thin and flexible. Afterward, a mild sore throat or slight bloating is common but goes away quickly. Most people say it was much easier than they expected." },
+            { "q": "How is an upper endoscopy different from a colonoscopy?", "a": "An upper endoscopy looks at the top of your digestive tract (esophagus, stomach, and the first part of the small intestine), while a colonoscopy looks at the lower part (the large intestine). The biggest practical difference for you is that an upper endoscopy has no bowel prep \u2014 you just fast overnight. It is also faster, usually about 10 minutes compared to 20 to 30 minutes for a colonoscopy." },
+            { "q": "Do I need to drink a prep solution?", "a": "No. Unlike a colonoscopy, an upper endoscopy does not require any bowel preparation or laxative drinks. You simply need to stop eating solid food at least 8 hours before the procedure and stop drinking clear liquids at least 2 hours before. That is all." },
+            { "q": "Can the doctor treat problems during the procedure?", "a": "Yes. One of the advantages of an upper endoscopy is that your doctor can often treat problems at the same time. This includes stretching a narrowed area (dilation), stopping a source of bleeding, or removing small growths (polyps). This means you may avoid needing a separate procedure." },
+            { "q": "When will I get my results?", "a": "Your doctor will usually share the initial findings with you right after the procedure, before you leave the unit. If biopsies were taken, those results typically come back in 1 to 2 weeks. Your doctor's office will contact you with biopsy results and any follow-up plan." },
+            { "q": "Is the procedure covered by my provincial health plan?", "a": "Yes. In Canada, an upper endoscopy ordered by your doctor is covered by your provincial health plan (such as OHIP, MSP, or RAMQ). There is no cost to you. If you have questions about coverage, your doctor's office or the endoscopy unit can help." },
+            { "q": "Can I go back to work the next day?", "a": "Most people feel back to normal by the next day and can return to work. The day of the procedure, you should plan to rest at home because of the sedation. Avoid driving, operating heavy machinery, or making important decisions for 24 hours after sedation." },
+            { "q": "What should I do about my dentures or dental work?", "a": "Remove any dentures, partial plates, or removable dental work before the procedure. Let your endoscopy team know about any loose teeth or dental concerns. A soft mouth guard is placed to protect your teeth and the scope during the procedure." },
+            { "q": "What if they find something?", "a": "Try not to worry. Most upper endoscopies show either normal findings or minor issues that are easily treated. If your doctor finds something that needs attention \u2014 such as an ulcer, inflammation, or an area that needs biopsy \u2014 they will explain what it means and what the next steps are. Finding a problem early is actually a good thing, because it allows treatment to start sooner." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Guidelines and resources used in this guide",
+      "icon": "\ud83d\udcda",
+      "color": "sky",
+      "summary": "This guide is based on current Canadian and international gastroenterology guidelines.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            { "text": "American Society for Gastrointestinal Endoscopy \u2014 Standards of Practice: Sedation and Monitoring During GI Endoscopy (2023)" },
+            { "text": "Canadian Association of Gastroenterology \u2014 Endoscopy Quality and Safety Guidelines (2022)" },
+            { "text": "British Society of Gastroenterology \u2014 Quality Standards in Upper GI Endoscopy (2021)" },
+            { "text": "ASGE \u2014 The Role of Endoscopy in the Management of GERD (2023)" },
+            { "text": "Canadian Digestive Health Foundation \u2014 Patient Information on Upper Endoscopy" }
+          ]
+        }
+      ]
+    }
+  ]
+}

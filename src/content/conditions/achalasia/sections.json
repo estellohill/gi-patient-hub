@@ -1,0 +1,345 @@
+{
+  "hero": {
+    "title": "Achalasia",
+    "subtitle": "Understanding and treating this rare swallowing disorder",
+    "description": "Everything you need to know about achalasia — why it happens, how it is diagnosed, and the treatments that can help you eat comfortably again. Clear, trustworthy information from a Canadian gastroenterologist.",
+    "reassurance": "Achalasia is a rare condition, but treatment is very effective. Most people regain the ability to eat comfortably after treatment."
+  },
+  "sections": [
+    {
+      "id": "what-is-achalasia",
+      "title": "What Is Achalasia?",
+      "subtitle": "A rare condition that affects how your esophagus moves food",
+      "icon": "🔬",
+      "color": "indigo",
+      "summary": "Achalasia is a rare disorder where the valve at the bottom of the esophagus does not open properly and the esophagus loses its ability to push food down. Treatment works well for most people.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Achalasia is a rare swallowing disorder that affects the esophagus, the tube that carries food from your mouth to your stomach. At the bottom of the esophagus, there is a ring of muscle called the lower esophageal sphincter (LES). In a healthy esophagus, the LES opens when you swallow to let food pass into your stomach, and the esophagus squeezes in a coordinated wave to push food down. In achalasia, two things go wrong: the LES does not relax properly when you swallow, and the esophagus loses its ability to squeeze food downward. This means food and liquid can get stuck in the esophagus instead of moving into the stomach."
+        },
+        {
+          "type": "key-points",
+          "points": [
+            {
+              "heading": "A rare condition",
+              "text": "Achalasia affects about 1 in 100,000 people each year. It can happen at any age but is most often diagnosed in adults between 25 and 60."
+            },
+            {
+              "heading": "The valve does not open",
+              "text": "The lower esophageal sphincter stays too tight and does not relax when you swallow. This traps food and liquid above the stomach."
+            },
+            {
+              "heading": "The esophagus stops squeezing",
+              "text": "Normally, the esophagus moves food down with coordinated muscle contractions. In achalasia, these contractions are weak or absent."
+            },
+            {
+              "heading": "Three types",
+              "text": "Doctors classify achalasia into three types based on how the esophagus behaves on testing. Type I has no significant contractions, Type II has pressurization of the entire esophagus, and Type III has spastic contractions. The type helps your doctor choose the best treatment."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "What causes achalasia?",
+          "text": "The exact cause of achalasia is not fully understood. It happens when the nerve cells in the wall of the esophagus are gradually lost. These nerves normally control the relaxation of the LES and the coordinated squeezing of the esophagus. When they are damaged, the muscles can no longer work properly. This nerve loss may be caused by the body's own immune system attacking these cells, but researchers are still learning more. Achalasia is not caused by anything you did or ate, and it is not contagious."
+        }
+      ]
+    },
+    {
+      "id": "symptoms",
+      "title": "Symptoms",
+      "subtitle": "How achalasia can feel and what to watch for",
+      "icon": "⚠️",
+      "color": "amber",
+      "summary": "The main symptoms of achalasia are difficulty swallowing both solids and liquids, regurgitation of undigested food, chest pain, and weight loss.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Achalasia symptoms usually develop gradually over months or years. Many people adjust their eating habits without realizing it, such as eating more slowly, drinking extra water with meals, or avoiding certain foods. Because the symptoms come on slowly, it can take time before the condition is recognized."
+        },
+        {
+          "type": "key-points",
+          "heading": "Common symptoms of achalasia",
+          "points": [
+            {
+              "heading": "Difficulty swallowing (dysphagia)",
+              "text": "This is the most common symptom. Unlike other swallowing problems that mainly affect solid foods, achalasia causes trouble swallowing both solids and liquids. You may feel like food is getting stuck in your chest."
+            },
+            {
+              "heading": "Regurgitation",
+              "text": "Undigested food or liquid that has been sitting in the esophagus can come back up, especially when bending over or lying down. This is different from acid reflux because the food has not reached the stomach."
+            },
+            {
+              "heading": "Chest pain",
+              "text": "Some people feel pressure or pain in the chest, especially during or after meals. This is caused by the esophagus trying to push food through the tight valve."
+            },
+            {
+              "heading": "Weight loss",
+              "text": "Over time, difficulty eating can lead to weight loss. Some people eat less because swallowing is uncomfortable or because they are worried about food getting stuck."
+            },
+            {
+              "heading": "Coughing or choking at night",
+              "text": "Food or liquid sitting in the esophagus can be regurgitated while lying down, sometimes causing coughing, choking, or even aspiration (food entering the lungs)."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "A key clue: trouble with solids AND liquids",
+          "text": "Many swallowing problems affect solid foods only. If you have difficulty swallowing both solids and liquids from the start, this is an important clue that achalasia may be the cause. Be sure to mention this to your doctor."
+        }
+      ]
+    },
+    {
+      "id": "diagnosis",
+      "title": "Diagnosis",
+      "subtitle": "How achalasia is found and confirmed",
+      "icon": "🔍",
+      "color": "blue",
+      "summary": "Achalasia is diagnosed using a combination of barium swallow, high-resolution manometry (the gold standard), and endoscopy to rule out other causes.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "Because achalasia is rare and symptoms develop slowly, it can sometimes take time to get the right diagnosis. Several tests work together to confirm achalasia and rule out other conditions. In Canada, these tests are covered by your provincial health plan when ordered by your doctor."
+        },
+        {
+          "type": "key-points",
+          "heading": "Tests used to diagnose achalasia",
+          "points": [
+            {
+              "heading": "Barium swallow",
+              "text": "You drink a chalky liquid called barium while X-rays are taken. In achalasia, this test often shows a classic \"bird's beak\" shape where the esophagus narrows sharply at the LES. The esophagus above this point may look widened because food has been collecting there."
+            },
+            {
+              "heading": "High-resolution manometry (the gold standard)",
+              "text": "This is the most important test for confirming achalasia. A thin, flexible tube is passed through your nose into the esophagus. It measures the pressure and coordination of the esophageal muscles as you swallow. This test tells your doctor the type of achalasia you have, which helps guide treatment."
+            },
+            {
+              "heading": "Upper endoscopy (gastroscopy)",
+              "text": "A flexible camera is passed through your mouth into the esophagus and stomach. This test is important to rule out pseudoachalasia, a condition where a tumour or other blockage at the bottom of the esophagus mimics the symptoms of achalasia. It also checks for food sitting in the esophagus."
+            },
+            {
+              "heading": "Timed barium esophagram",
+              "text": "Similar to a barium swallow, but X-rays are taken at set time intervals (for example, at 1, 2, and 5 minutes) to see how quickly the barium empties from the esophagus. This test can be useful for measuring how well treatment is working over time."
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "warning",
+          "title": "Ruling out pseudoachalasia",
+          "text": "In a small number of cases, a tumour at the junction of the esophagus and stomach can cause symptoms that look exactly like achalasia. This is called pseudoachalasia. An endoscopy and sometimes a CT scan are used to rule this out, especially in patients over 50 or those with rapid weight loss."
+        }
+      ]
+    },
+    {
+      "id": "treatment",
+      "title": "Treatment Options",
+      "subtitle": "Effective treatments that help most people eat comfortably again",
+      "icon": "💊",
+      "color": "emerald",
+      "summary": "Achalasia cannot be cured, but several treatments can open the tight valve and relieve symptoms. The main options are the POEM procedure, Heller myotomy, and pneumatic dilation.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "There is no cure for achalasia because the lost nerve cells cannot be replaced. However, treatment focuses on opening the lower esophageal sphincter so food and liquid can pass through more easily. The results are very good — most people experience significant improvement in their swallowing and quality of life after treatment."
+        },
+        {
+          "type": "tabs",
+          "heading": "Treatment Options",
+          "tabs": [
+            {
+              "label": "POEM Procedure",
+              "icon": "🔧",
+              "blocks": [
+                {
+                  "type": "text",
+                  "heading": "POEM (Peroral Endoscopic Myotomy)",
+                  "text": "POEM is a newer, minimally invasive procedure done through the mouth using an endoscope (a flexible camera). The doctor creates a small tunnel inside the wall of the esophagus and cuts the tight muscle fibers of the LES from the inside. There are no incisions on the outside of the body. POEM is very effective, with success rates above 90%. It is especially good for Type III achalasia. Recovery is usually quick, and most people go home within 1 to 2 days. POEM is available at specialized centres in Canada."
+                }
+              ]
+            },
+            {
+              "label": "Heller Myotomy",
+              "icon": "🏥",
+              "blocks": [
+                {
+                  "type": "text",
+                  "heading": "Laparoscopic Heller Myotomy",
+                  "text": "This is a well-established surgical procedure done through small incisions in the abdomen using a camera (laparoscopic surgery). The surgeon cuts the muscle fibers of the LES from the outside. It is usually combined with a partial fundoplication, a procedure that wraps part of the stomach around the lower esophagus to help prevent acid reflux after the myotomy. Success rates are above 85%. Hospital stay is typically 1 to 2 days."
+                }
+              ]
+            },
+            {
+              "label": "Pneumatic Dilation",
+              "icon": "🎈",
+              "blocks": [
+                {
+                  "type": "text",
+                  "heading": "Pneumatic (Balloon) Dilation",
+                  "text": "A specially designed balloon is placed across the LES during an endoscopy and inflated to stretch and partially tear the tight muscle. This is an effective non-surgical option, especially for patients who are not good candidates for surgery. It may need to be repeated over time if symptoms return. Success rates range from 70 to 90% depending on how many sessions are needed. The main risk is a small chance of a tear in the esophagus (perforation), which occurs in about 2 to 5% of cases."
+                }
+              ]
+            },
+            {
+              "label": "Botox",
+              "icon": "💉",
+              "blocks": [
+                {
+                  "type": "text",
+                  "heading": "Botulinum Toxin (Botox) Injection",
+                  "text": "Botox can be injected into the LES during an endoscopy to temporarily relax the muscle. This is the least invasive option and provides quick relief. However, the effect is temporary, usually lasting only 3 to 12 months, and repeat injections become less effective over time. Botox is best suited for patients who cannot undergo other treatments due to age or other health conditions."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "info-callout",
+          "variant": "info",
+          "title": "Which treatment is right for you?",
+          "text": "Your doctor will recommend a treatment based on your type of achalasia, your age, your overall health, and what is available at your local centre. All of the main treatments have good results. The most important thing is that you are treated by a team with experience in achalasia."
+        }
+      ]
+    },
+    {
+      "id": "living-with-achalasia",
+      "title": "Living with Achalasia",
+      "subtitle": "Practical tips for daily life after diagnosis",
+      "icon": "🥗",
+      "color": "teal",
+      "summary": "With the right habits and follow-up, most people with achalasia can eat well and live a full life.",
+      "content": [
+        {
+          "type": "intro",
+          "text": "After treatment, most people notice a big improvement in swallowing. Some simple habits can help you get the most out of your treatment and stay comfortable at mealtimes. Long-term follow-up with your gastroenterologist is important to make sure treatment continues to work well."
+        },
+        {
+          "type": "checklist",
+          "heading": "Eating Tips for Achalasia",
+          "storageKey": "achalasia-eating-checklist",
+          "items": [
+            "Eat slowly and chew your food very well before swallowing",
+            "Take small bites and sips",
+            "Drink water or other liquids with your meals to help food pass through",
+            "Sit upright while eating and stay upright for at least 30 to 60 minutes after meals",
+            "Avoid eating within 3 hours of bedtime to reduce nighttime regurgitation",
+            "Elevate the head of your bed 6 to 8 inches if you have nighttime symptoms",
+            "Choose softer foods when your symptoms are more active",
+            "Avoid very dry or tough foods that are harder to swallow (like bread or steak)"
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Long-term monitoring",
+          "text": "Achalasia is a lifelong condition that needs ongoing follow-up. Your gastroenterologist will want to see you regularly to check how well your treatment is working. This may include repeat barium swallow or manometry tests. Over time, some people may need a second treatment if symptoms return. There is also a small long-term risk of esophageal cancer in people with achalasia, so your doctor may recommend periodic endoscopy for surveillance. Staying connected with your care team is the best way to catch any issues early."
+        },
+        {
+          "type": "info-callout",
+          "variant": "success",
+          "title": "You are not alone",
+          "text": "Achalasia can feel isolating because it is rare and many people have not heard of it. Connecting with others through patient support groups or online communities can help. Your gastroenterology team is also always available to answer your questions and adjust your care plan."
+        }
+      ]
+    },
+    {
+      "id": "when-to-seek-help",
+      "title": "When to Seek Help",
+      "subtitle": "Signs that you should contact your doctor",
+      "icon": "🚨",
+      "color": "rose",
+      "summary": "Most achalasia symptoms are manageable with treatment, but some signs mean you should see your doctor sooner rather than later.",
+      "content": [
+        {
+          "type": "when-to-seek-help",
+          "items": [
+            "You cannot swallow food or liquids at all",
+            "You are losing weight without trying",
+            "You are coughing or choking frequently, especially at night",
+            "You have severe chest pain that does not go away",
+            "Food is getting stuck and you cannot get it to go down even with water",
+            "You have a fever after a recent procedure on your esophagus",
+            "Your symptoms are coming back after treatment that was working well",
+            "You are vomiting blood or notice blood in your stool"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to common questions about achalasia",
+      "icon": "❓",
+      "color": "amber",
+      "summary": "Got questions about achalasia? Here are clear answers to the things patients ask most often.",
+      "content": [
+        {
+          "type": "faq",
+          "questions": [
+            {
+              "q": "Is achalasia the same as GERD?",
+              "a": "No. In GERD, the valve at the bottom of the esophagus is too loose, letting stomach acid flow back up. In achalasia, the valve is too tight and does not open properly. The symptoms can sometimes overlap, and some people with achalasia are initially misdiagnosed with GERD. If reflux medication is not helping your symptoms, talk to your doctor about further testing."
+            },
+            {
+              "q": "Can achalasia be cured?",
+              "a": "There is currently no cure for achalasia because the damaged nerves cannot be restored. However, treatments like POEM, Heller myotomy, and pneumatic dilation are very effective at opening the tight valve and relieving symptoms. Most people experience a major improvement in their ability to eat and their quality of life."
+            },
+            {
+              "q": "Will I need treatment more than once?",
+              "a": "Some people may need additional treatment over time if symptoms return. This is more common with pneumatic dilation and Botox than with POEM or Heller myotomy. Your doctor will monitor you and recommend retreatment if needed."
+            },
+            {
+              "q": "Can achalasia lead to cancer?",
+              "a": "There is a small increased risk of esophageal cancer in people with long-standing achalasia. The risk is low, but this is one reason your doctor may recommend periodic endoscopy for surveillance. Early detection makes a big difference, so keeping up with your follow-up appointments is important."
+            },
+            {
+              "q": "Is POEM better than Heller myotomy?",
+              "a": "Both procedures are very effective. POEM has the advantage of being done through the mouth with no incisions, and it may be especially good for Type III achalasia. Heller myotomy has a longer track record and includes an anti-reflux procedure. Your doctor will help you decide which option is best for your situation."
+            },
+            {
+              "q": "What can I eat after treatment?",
+              "a": "Right after treatment, your doctor will start you on a liquid diet and gradually advance to soft foods over a few weeks. Most people can return to a normal diet within a few weeks to a couple of months. Eating slowly, chewing well, and drinking fluids with meals are habits that help long-term."
+            },
+            {
+              "q": "Can achalasia come back after treatment?",
+              "a": "The underlying nerve damage in achalasia does not go away, so there is always a chance that the valve can tighten again over time. Regular follow-up with your gastroenterologist helps catch this early. If symptoms return, retreatment is usually effective."
+            },
+            {
+              "q": "Is achalasia hereditary?",
+              "a": "Achalasia is not considered a hereditary condition. It does not typically run in families. Researchers believe it may involve an autoimmune process that damages the nerve cells in the esophagus, but the exact cause is still being studied."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "title": "References",
+      "subtitle": "Guidelines and resources used in this guide",
+      "icon": "📚",
+      "color": "indigo",
+      "summary": "This guide is based on current international gastroenterology guidelines for achalasia.",
+      "content": [
+        {
+          "type": "references",
+          "items": [
+            {
+              "text": "American College of Gastroenterology — Clinical Guideline: Diagnosis and Management of Achalasia (2020)"
+            },
+            {
+              "text": "American Gastroenterological Association — Clinical Practice Update on Achalasia (2020)"
+            },
+            {
+              "text": "International Society for Diseases of the Esophagus (ISDE) — Expert Consensus on the Management of Achalasia (2023)"
+            },
+            {
+              "text": "Canadian Digestive Health Foundation — Achalasia Patient Information"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
