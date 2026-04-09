@@ -1,5 +1,6 @@
 "use client";
 
+import dynamic from "next/dynamic";
 import type { ContentBlock } from "@/content/types";
 import InfoCallout from "@/components/shared/InfoCallout";
 import KeyPointsGrid from "@/components/shared/KeyPointsGrid";
@@ -11,11 +12,14 @@ import FrequencyTable from "@/components/shared/FrequencyTable";
 import PhasesDisplay from "@/components/shared/PhasesDisplay";
 import AllowedAvoid from "@/components/shared/AllowedAvoid";
 import MedicationTable from "@/components/shared/MedicationTable";
-import FaqAccordion from "@/components/interactive/FaqAccordion";
-import InteractiveChecklist from "@/components/interactive/InteractiveChecklist";
-import CountdownTimer from "@/components/interactive/CountdownTimer";
-import KnowledgeCheck from "@/components/interactive/KnowledgeCheck";
-import TabPanel from "@/components/interactive/TabPanel";
+
+const Skeleton = () => <div className="animate-pulse bg-neutral-100 rounded-xl h-24" />;
+
+const FaqAccordion = dynamic(() => import("@/components/interactive/FaqAccordion"), { loading: Skeleton });
+const InteractiveChecklist = dynamic(() => import("@/components/interactive/InteractiveChecklist"), { loading: Skeleton });
+const CountdownTimer = dynamic(() => import("@/components/interactive/CountdownTimer"), { loading: Skeleton });
+const KnowledgeCheck = dynamic(() => import("@/components/interactive/KnowledgeCheck"), { loading: Skeleton });
+const TabPanel = dynamic(() => import("@/components/interactive/TabPanel"), { loading: Skeleton });
 
 function renderBlock(block: ContentBlock, index: number): React.ReactNode {
   switch (block.type) {

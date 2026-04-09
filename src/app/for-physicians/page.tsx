@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { getConditionsByCategory, getCategoryLabel, getKeyTakeaways, getWhenToSeekHelp } from "@/lib/content";
+import { getConditionsByCategory, getCategoryLabel } from "@/lib/content";
 import ConditionGrid from "@/components/physician/ConditionGrid";
 
 export const metadata: Metadata = {
@@ -19,16 +19,6 @@ const categoryLabels: Record<string, string> = {
 
 export default function ForPhysicians() {
   const grouped = getConditionsByCategory();
-
-  // Pre-compute handout data for each condition
-  const groupedWithHandout: Record<string, { condition: typeof grouped[string][number]; keyTakeaways: string[]; whenToSeekHelp: string[] }[]> = {};
-  for (const [category, conditions] of Object.entries(grouped)) {
-    groupedWithHandout[category] = conditions.map((c) => ({
-      condition: c,
-      keyTakeaways: getKeyTakeaways(c.slug),
-      whenToSeekHelp: getWhenToSeekHelp(c.slug),
-    }));
-  }
 
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 py-12">
@@ -78,7 +68,7 @@ export default function ForPhysicians() {
 
       {/* Condition list with QR + Print */}
       <ConditionGrid
-        grouped={groupedWithHandout}
+        grouped={grouped}
         categoryLabels={categoryLabels}
         baseUrl={BASE_URL}
       />

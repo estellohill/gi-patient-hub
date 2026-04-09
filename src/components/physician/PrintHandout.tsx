@@ -1,34 +1,37 @@
 "use client";
 
-import { useEffect, useState } from "react";
-import QRCode from "qrcode";
+import { useState } from "react";
 import type { ConditionMeta } from "@/content/types";
 
 interface PrintHandoutProps {
   condition: ConditionMeta;
   baseUrl: string;
-  keyTakeaways: string[];
-  whenToSeekHelp: string[];
 }
 
-export default function PrintHandout({ condition, baseUrl, keyTakeaways, whenToSeekHelp }: PrintHandoutProps) {
-  const [qrDataUrl, setQrDataUrl] = useState("");
+export default function PrintHandout({ condition, baseUrl }: PrintHandoutProps) {
+  const [loading, setLoading] = useState(false);
   const url = `${baseUrl}/conditions/${condition.slug}`;
 
-  useEffect(() => {
-    QRCode.toDataURL(url, {
-      width: 200,
-      margin: 1,
-      color: { dark: "#1e3a5f", light: "#ffffff" },
-      errorCorrectionLevel: "M",
-    }).then(setQrDataUrl);
-  }, [url]);
+  const handlePrint = async () => {
+    setLoading(true);
+    try {
+      const [{ default: QRCode }, handoutRes] = await Promise.all([
+        import("qrcode"),
+        fetch(`/api/handout/${condition.slug}`),
+      ]);
 
-  const handlePrint = () => {
-    const printWindow = window.open("", "_blank");
-    if (!printWindow) return;
+      const { keyTakeaways, whenToSeekHelp } = await handoutRes.json();
+      const qrDataUrl = await QRCode.toDataURL(url, {
+        width: 200,
+        margin: 1,
+        color: { dark: "#1e3a5f", light: "#ffffff" },
+        errorCorrectionLevel: "M",
+      });
 
-    printWindow.document.write(`
+      const printWindow = window.open("", "_blank");
+      if (!printWindow) return;
+
+      printWindow.document.write(`
 <!DOCTYPE html>
 <html>
 <head>
@@ -73,7 +76,7 @@ export default function PrintHandout({ condition, baseUrl, keyTakeaways, whenToS
       </div>
     </div>
     <div class="qr-section">
-      ${qrDataUrl ? `<img src="${qrDataUrl}" alt="QR Code" />` : ""}
+      <img src="${qrDataUrl}" alt="QR Code" />
       <p>Scan to learn more</p>
     </div>
   </div>
@@ -81,14 +84,14 @@ export default function PrintHandout({ condition, baseUrl, keyTakeaways, whenToS
   <div class="section">
     <h2>Key Takeaways</h2>
     <ul class="takeaway-list">
-      ${keyTakeaways.map((t) => `<li>${t}</li>`).join("")}
+      ${keyTakeaways.map((t: string) => `<li>${t}</li>`).join("")}
     </ul>
   </div>
 
   <div class="section warning-box">
     <h2>When to Seek Help</h2>
     <ul class="warning-list">
-      ${whenToSeekHelp.map((w) => `<li>${w}</li>`).join("")}
+      ${whenToSeekHelp.map((w: string) => `<li>${w}</li>`).join("")}
     </ul>
   </div>
 
@@ -111,21 +114,25 @@ export default function PrintHandout({ condition, baseUrl, keyTakeaways, whenToS
   </p>
 </body>
 </html>
-    `);
-    printWindow.document.close();
-    printWindow.focus();
-    setTimeout(() => printWindow.print(), 500);
+      `);
+      printWindow.document.close();
+      printWindow.focus();
+      setTimeout(() => printWindow.print(), 500);
+    } finally {
+      setLoading(false);
+    }
   };
 
   return (
     <button
       onClick={handlePrint}
-      className="flex items-center gap-2 text-sm font-semibold text-neutral-600 bg-neutral-50 border border-neutral-200 px-4 py-2 rounded-lg hover:bg-neutral-100 hover:border-neutral-300 transition-colors"
+      disabled={loading}
+      className="flex items-center gap-2 text-sm font-semibold text-neutral-600 bg-neutral-50 border border-neutral-200 px-4 py-2 rounded-lg hover:bg-neutral-100 hover:border-neutral-300 transition-colors disabled:opacity-60"
     >
       <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
         <path strokeLinecap="round" strokeLinejoin="round" d="M17 17h2a2 2 0 002-2v-4a2 2 0 00-2-2H5a2 2 0 00-2 2v4a2 2 0 002 2h2m2 4h6a2 2 0 002-2v-4a2 2 0 00-2-2H9a2 2 0 00-2 2v4a2 2 0 002 2zm8-12V5a2 2 0 00-2-2H9a2 2 0 00-2 2v4h10z" />
       </svg>
-      Print Handout
+      {loading ? "Preparing..." : "Print Handout"}
     </button>
   );
 }

@@ -6,14 +6,8 @@ import QRCodeModal from "./QRCodeModal";
 import PrintHandout from "./PrintHandout";
 import type { ConditionMeta } from "@/content/types";
 
-interface ConditionWithHandout {
-  condition: ConditionMeta;
-  keyTakeaways: string[];
-  whenToSeekHelp: string[];
-}
-
 interface ConditionGridProps {
-  grouped: Record<string, ConditionWithHandout[]>;
+  grouped: Record<string, ConditionMeta[]>;
   categoryLabels: Record<string, string>;
   baseUrl: string;
 }
@@ -23,13 +17,13 @@ export default function ConditionGrid({ grouped, categoryLabels, baseUrl }: Cond
 
   return (
     <>
-      {Object.entries(grouped).map(([category, items]) => (
+      {Object.entries(grouped).map(([category, conditions]) => (
         <div key={category} className="mb-10">
           <h3 className="font-heading text-sm font-semibold text-neutral-400 uppercase tracking-wider mb-4">
             {categoryLabels[category] || category}
           </h3>
           <div className="space-y-3">
-            {items.map(({ condition: c, keyTakeaways, whenToSeekHelp }) => (
+            {conditions.map((c) => (
               <div key={c.slug} className="bg-white rounded-xl border border-neutral-200 p-5 shadow-sm">
                 <div className="flex items-center justify-between gap-4 flex-wrap">
                   <div className="flex items-center gap-4 min-w-0">
@@ -54,8 +48,6 @@ export default function ConditionGrid({ grouped, categoryLabels, baseUrl }: Cond
                     <PrintHandout
                       condition={c}
                       baseUrl={baseUrl}
-                      keyTakeaways={keyTakeaways}
-                      whenToSeekHelp={whenToSeekHelp}
                     />
                     <Link
                       href={`/conditions/${c.slug}`}
